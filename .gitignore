@@ -43,3 +43,6 @@ next-env.d.ts
 
 # scraper scratch space
 /.cache
+
+# screenshots and recordings (regenerate with scripts/media)
+/media
