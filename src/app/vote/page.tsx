@@ -49,7 +49,6 @@ export default function VotePage() {
     <>
       <PageIntro
         title="Your voice matters"
-        bodyId="vote-body"
         intro="Voting for the first time? Welcome! Here is how to get ready to vote in Arkansas, step by step."
       />
       <div id="vote-body" className="prose-civic">

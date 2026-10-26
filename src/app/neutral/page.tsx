@@ -40,7 +40,6 @@ export default function NeutralPage() {
     <>
       <PageIntro
         title="How we stay neutral"
-        bodyId="neutral-body"
         intro="This app is for every Arkansan, no matter what you believe. Here are the rules we follow to stay fair."
       />
       <div id="neutral-body" className="prose-civic">

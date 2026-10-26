@@ -9,7 +9,6 @@ export interface A11ySettings {
   spacing: "normal" | "relaxed" | "extra";
   simple: "off" | "on";
   motion: "system" | "reduce";
-  speechRate: number;
 }
 
 export const DEFAULTS: A11ySettings = {
@@ -19,7 +18,6 @@ export const DEFAULTS: A11ySettings = {
   spacing: "normal",
   simple: "off",
   motion: "system",
-  speechRate: 1,
 };
 
 export const STORAGE_KEY = "kyr-a11y";

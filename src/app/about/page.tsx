@@ -48,7 +48,6 @@ export default function AboutPage() {
     <>
       <PageIntro
         title="About Know Your Rep AR"
-        bodyId="about-body"
         intro="Know Your Rep AR helps every Arkansan find, understand, and contact the people who represent them."
       />
       <div id="about-body" className="prose-civic">

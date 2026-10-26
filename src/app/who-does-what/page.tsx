@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ListenButton } from "@/components/a11y/ListenButton";
 import { PageIntro } from "@/components/PageIntro";
 import { Term } from "@/components/Term";
 import { OFFICES } from "@/lib/offices";
@@ -26,8 +25,7 @@ export default function WhoDoesWhat() {
     <>
       <PageIntro
         title="Who does what"
-        bodyId="wdw-body"
-        intro="You have at least five people who represent you. Here is what each one does, and who to contact about what."
+                intro="You have at least five people who represent you. Here is what each one does, and who to contact about what."
       />
       <div id="wdw-body" className="prose-civic">
         <section aria-labelledby="who-to-call">
@@ -83,9 +81,6 @@ export default function WhoDoesWhat() {
                   <li key={c}>{c}</li>
                 ))}
               </ul>
-              <div data-no-read>
-                <ListenButton text={[o.name, ...o.long, "Contact them about:", ...o.contactFor].join(". ")} />
-              </div>
             </section>
           );
         })}

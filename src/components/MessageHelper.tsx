@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { buildMessage, buildSubject, type MessageInput } from "@/lib/message";
 import type { Official } from "@/lib/types";
-import { ListenButton } from "./a11y/ListenButton";
 import { CheckIcon, CopyIcon, ExternalIcon, MailIcon } from "./icons";
 
 const ISSUE_IDEAS = [
@@ -175,7 +174,6 @@ export function MessageHelper({ official }: { official: Props }) {
                 Copy and open their contact form<span className="sr-only"> (opens in a new tab)</span>
               </a>
             )}
-            <ListenButton text={draft} label="Read my message aloud" />
           </div>
           <p className="mt-2" aria-live="polite">
             {copied ? "Your message was copied. You can paste it into an email or contact form." : ""}

@@ -8,7 +8,6 @@ export default function PrivacyPage() {
     <>
       <PageIntro
         title="Our privacy promise"
-        bodyId="privacy-body"
         intro="Short version: we don't keep your address, we don't track you, and we don't sell anything."
       />
       <div id="privacy-body" className="prose-civic">

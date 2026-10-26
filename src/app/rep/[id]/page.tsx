@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ListenButton } from "@/components/a11y/ListenButton";
 import { ExternalIcon, GlobeIcon, MailIcon, PhoneIcon, PinIcon } from "@/components/icons";
 import { MessageHelper } from "@/components/MessageHelper";
 import { RepPhoto } from "@/components/RepCard";
@@ -29,7 +28,7 @@ export default async function RepPage({ params }: PageProps<"/rep/[id]">) {
       <p className="mb-4">
         <Link href="/">← Back to your representatives</Link>
       </p>
-      <div id="rep-summary" className="flex flex-wrap gap-5">
+      <div className="flex flex-wrap gap-5">
         <RepPhoto src={o.photoUrl} name={o.name} size={140} />
         <div>
           <p className="font-semibold text-ink-muted">{o.title}</p>
@@ -41,9 +40,6 @@ export default async function RepPage({ params }: PageProps<"/rep/[id]">) {
             {info.short}
           </p>
         </div>
-      </div>
-      <div className="mt-4">
-        <ListenButton targetId="rep-summary" />
       </div>
 
       <section aria-labelledby="contact-heading" className="mt-10">

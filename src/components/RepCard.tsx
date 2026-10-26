@@ -4,7 +4,6 @@ import Link from "next/link";
 import { useState } from "react";
 import { OFFICES } from "@/lib/offices";
 import type { Seat } from "@/lib/types";
-import { ListenButton } from "./a11y/ListenButton";
 import { AlertIcon, ExternalIcon, GlobeIcon, MailIcon, PencilIcon, PersonIcon, PhoneIcon, PinIcon } from "./icons";
 import { formatUpdated, telHref } from "@/lib/format";
 
@@ -88,7 +87,7 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
         <p className="mt-4">
           <strong>What this person does: </strong>
           {info.short}{" "}
-          <Link href={`/who-does-what#${seat.office}`} className="simple-hide" data-no-read>
+          <Link href={`/who-does-what#${seat.office}`} className="simple-hide">
             Learn more<span className="sr-only"> about what a {info.name} does</span>
           </Link>
         </p>
@@ -134,8 +133,7 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
         </Link>
       </div>
 
-      <div className="mt-4 flex flex-wrap items-center justify-between gap-3 border-t border-line-soft pt-3">
-        <ListenButton targetId={cardId} label="Listen to this card" />
+      <div className="mt-4 flex flex-wrap items-center justify-end gap-3 border-t border-line-soft pt-3">
         <Link href={`/rep/${o.id}`} className="font-semibold">
           All contact info<span className="sr-only"> for {o.name}</span>
         </Link>

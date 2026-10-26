@@ -57,7 +57,7 @@ function ChoiceGroup<K extends keyof A11ySettings>({
 
 export function A11yMenu() {
   const ref = useRef<HTMLDialogElement>(null);
-  const { settings, update, reset } = useA11y();
+  const { reset } = useA11y();
 
   return (
     <>
@@ -146,25 +146,6 @@ export function A11yMenu() {
               { value: "reduce", label: "Reduce motion" },
             ]}
           />
-          <fieldset className="mb-5">
-            <legend className="mb-1 text-lg font-bold">Read Aloud speed</legend>
-            <p className="mb-2 text-ink-muted">
-              Look for the Listen buttons on each page. This sets how fast they read.
-            </p>
-            <label htmlFor="a11y-rate" className="flex flex-wrap items-center gap-3 font-semibold">
-              <input
-                id="a11y-rate"
-                type="range"
-                min={0.6}
-                max={1.6}
-                step={0.1}
-                value={settings.speechRate}
-                onChange={(e) => update({ speechRate: Number(e.target.value) })}
-                className="h-12 w-56 accent-[var(--accent)]"
-              />
-              <span aria-live="polite">{settings.speechRate.toFixed(1)}× speed</span>
-            </label>
-          </fieldset>
           <button type="button" className="btn btn-secondary" onClick={reset}>
             Reset to default settings
           </button>

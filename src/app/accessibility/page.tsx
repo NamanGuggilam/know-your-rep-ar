@@ -8,7 +8,6 @@ export default function AccessibilityPage() {
     <>
       <PageIntro
         title="Accessibility statement"
-        bodyId="a11y-body"
         intro="Know Your Rep AR is built so that everyone can use it, including people with disabilities."
       />
       <div id="a11y-body" className="prose-civic">
@@ -25,13 +24,11 @@ export default function AccessibilityPage() {
           <li>Add more space between lines</li>
           <li>Turn on Simple mode, with fewer things on screen and bigger buttons</li>
           <li>Reduce motion</li>
-          <li>Change how fast Read Aloud speaks</li>
         </ul>
         <p>Your settings are saved on your device.</p>
 
         <h2>Built in everywhere</h2>
         <ul>
-          <li>Listen buttons read cards and pages out loud.</li>
           <li>The main font is Atkinson Hyperlegible, made for people with low vision. Body text is at least 18 pixels.</li>
           <li>Everything works with a keyboard. You can always see where you are.</li>
           <li>A &ldquo;Skip to main content&rdquo; link is the first thing on every page.</li>
@@ -55,10 +52,6 @@ export default function AccessibilityPage() {
         <h2>Known limits</h2>
         <ul>
           <li>The district map is a picture. The same facts are written out in words above it.</li>
-          <li>
-            Read Aloud uses your device&apos;s built-in voices. Some older browsers don&apos;t have them, so the Listen
-            buttons won&apos;t show there.
-          </li>
           <li>Official websites we link to are run by others and may be less accessible.</li>
         </ul>
 
