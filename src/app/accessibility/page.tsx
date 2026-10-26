@@ -19,8 +19,8 @@ export default function AccessibilityPage() {
         <p>Press the &ldquo;Accessibility&rdquo; button at the top of any page to:</p>
         <ul>
           <li>Make text bigger (4 sizes)</li>
-          <li>Switch to light, dark, or high contrast colors</li>
-          <li>Use the OpenDyslexic font</li>
+          <li>Switch between light, dark, and high contrast colors</li>
+          <li>Use the Atkinson Hyperlegible or OpenDyslexic font</li>
           <li>Add more space between lines</li>
           <li>Turn on Simple mode, with fewer things on screen and bigger buttons</li>
           <li>Reduce motion</li>
@@ -29,7 +29,7 @@ export default function AccessibilityPage() {
 
         <h2>Built in everywhere</h2>
         <ul>
-          <li>The main font is Atkinson Hyperlegible, made for people with low vision. Body text is at least 18 pixels.</li>
+          <li>Body text is at least 18 pixels, in Public Sans. You can switch to Atkinson Hyperlegible, made for people with low vision, or OpenDyslexic.</li>
           <li>Everything works with a keyboard. You can always see where you are.</li>
           <li>A &ldquo;Skip to main content&rdquo; link is the first thing on every page.</li>
           <li>Pages use real headings, labels, and landmarks, so screen readers like VoiceOver and NVDA can read them.</li>

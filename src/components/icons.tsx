@@ -151,3 +151,14 @@ export function InfinityMark({ size = 40 }: { size?: number }) {
     </svg>
   );
 }
+
+/** Site badge: a navy square with a white diamond (Arkansas is the Diamond State). Original; not a seal. */
+export function SiteMark({ size = 44 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 44 44" aria-hidden="true" focusable="false">
+      <rect width="44" height="44" rx="4" fill="var(--navy)" />
+      <path d="M22 8 33 22 22 36 11 22Z" fill="none" stroke="var(--navy-ink)" strokeWidth="2.5" />
+      <path d="M22 15 27.5 22 22 29 16.5 22Z" fill="var(--glow)" />
+    </svg>
+  );
+}

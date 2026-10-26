@@ -3,16 +3,16 @@
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
 
 export interface A11ySettings {
-  theme: "dark" | "light" | "contrast";
+  theme: "light" | "dark" | "contrast";
   text: "1" | "2" | "3" | "4";
-  font: "standard" | "dyslexic";
+  font: "standard" | "atkinson" | "dyslexic";
   spacing: "normal" | "relaxed" | "extra";
   simple: "off" | "on";
   motion: "system" | "reduce";
 }
 
 export const DEFAULTS: A11ySettings = {
-  theme: "dark",
+  theme: "light",
   text: "1",
   font: "standard",
   spacing: "normal",
@@ -20,16 +20,17 @@ export const DEFAULTS: A11ySettings = {
   motion: "system",
 };
 
-export const STORAGE_KEY = "kyr-a11y";
+// New key: the default theme changed from dark to light, so older saved settings start fresh.
+export const STORAGE_KEY = "kyr-a11y-v2";
 
 /**
  * Runs in <head> before the page paints, so saved settings apply with no flash.
  * Keep it tiny and dependency-free.
  */
 export const BOOT_SCRIPT = `try{var s=JSON.parse(localStorage.getItem("${STORAGE_KEY}")||"{}"),d=document.documentElement;
-if(s.theme==="light"||s.theme==="contrast")d.dataset.theme=s.theme;
+if(s.theme==="dark"||s.theme==="contrast")d.dataset.theme=s.theme;
 if(s.text&&s.text!=="1")d.dataset.text=s.text;
-if(s.font==="dyslexic")d.dataset.font="dyslexic";
+if(s.font==="dyslexic"||s.font==="atkinson")d.dataset.font=s.font;
 if(s.spacing&&s.spacing!=="normal")d.dataset.spacing=s.spacing;
 if(s.simple==="on")d.dataset.simple="on";
 if(s.motion==="reduce")d.dataset.motion="reduce";}catch(e){}`;
@@ -40,9 +41,9 @@ function apply(s: A11ySettings) {
     if (v === undefined) delete d[k];
     else d[k] = v;
   };
-  set("theme", s.theme === "dark" ? undefined : s.theme);
+  set("theme", s.theme === "light" ? undefined : s.theme);
   set("text", s.text === "1" ? undefined : s.text);
-  set("font", s.font === "dyslexic" ? "dyslexic" : undefined);
+  set("font", s.font === "standard" ? undefined : s.font);
   set("spacing", s.spacing === "normal" ? undefined : s.spacing);
   set("simple", s.simple === "on" ? "on" : undefined);
   set("motion", s.motion === "reduce" ? "reduce" : undefined);
@@ -53,8 +54,7 @@ function load(): A11ySettings {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return DEFAULTS;
     const saved = { ...DEFAULTS, ...JSON.parse(raw) };
-    // Older versions had a "system" theme and a "dark" theme with different colors.
-    if (!["dark", "light", "contrast"].includes(saved.theme)) saved.theme = "dark";
+    if (!["light", "dark", "contrast"].includes(saved.theme)) saved.theme = "light";
     return saved;
   } catch {
     return DEFAULTS;

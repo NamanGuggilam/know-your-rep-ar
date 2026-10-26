@@ -113,17 +113,18 @@ export function A11yDialog() {
           name="theme"
           legend="Colors"
           choices={[
-            { value: "dark", label: "Dark (default)" },
-            { value: "light", label: "Light" },
+            { value: "light", label: "Light (default)" },
+            { value: "dark", label: "Dark" },
             { value: "contrast", label: "High contrast" },
           ]}
         />
         <ChoiceGroup
           name="font"
           legend="Font"
-          hint="OpenDyslexic is a font some people with dyslexia find easier to read."
+          hint="Atkinson Hyperlegible was designed for people with low vision. OpenDyslexic is a font some people with dyslexia find easier to read."
           choices={[
-            { value: "standard", label: "Standard (Atkinson Hyperlegible Next)" },
+            { value: "standard", label: "Standard (Public Sans)" },
+            { value: "atkinson", label: "Atkinson Hyperlegible (for low vision)" },
             { value: "dyslexic", label: "OpenDyslexic" },
           ]}
         />

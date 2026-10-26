@@ -13,7 +13,7 @@ Type your address and see:
 ## Built for everyone
 
 - Written at a 6th-8th grade reading level, with tap-to-define civic words.
-- Accessibility menu on every page: 4 text sizes, light/dark/high-contrast themes, OpenDyslexic font, line spacing, Simple mode, reduce motion.
+- Accessibility menu on every page: 4 text sizes, light/dark/high-contrast themes, Atkinson Hyperlegible and OpenDyslexic fonts, line spacing, Simple mode, reduce motion.
 - Keyboard and screen-reader friendly. Every page is checked with axe-core at phone and desktop widths, in every theme, at the largest text size (`npm run audit:a11y`).
 - Installable on a phone home screen (PWA).
 

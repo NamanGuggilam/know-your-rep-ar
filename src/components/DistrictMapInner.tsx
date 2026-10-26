@@ -35,7 +35,7 @@ export default function DistrictMapInner({ shape }: { shape: DistrictShape }) {
       <GeoJSON
         key={shape.label}
         data={shape.geojson}
-        style={{ color: "#8a74e0", weight: 3, fillColor: "#a593ee", fillOpacity: 0.2 }}
+        style={{ color: "#005ea2", weight: 3, fillColor: "#73b3e7", fillOpacity: 0.25 }}
       />
       <FitBounds shape={shape} />
     </MapContainer>

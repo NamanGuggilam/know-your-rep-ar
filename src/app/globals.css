@@ -3,57 +3,62 @@
 @import "@fontsource/opendyslexic/700.css";
 
 /*
- * Design tokens, inspired by Gojo's techniques:
- *   void black + white ink, Hollow Purple for the brand,
- *   Reversal Red and Lapse Blue for party labels only.
- * Dark is the default. Every text pair is AA or better (body text AAA).
+ * Design tokens. A clean public-service look in the style of U.S. government websites:
+ * white pages, navy header, blue links and buttons, gray dividers.
+ * (Original styling: no seals, no government banners, no agency branding.)
+ * Party labels: red Republican, blue Democratic, violet everyone else, always with the name in words.
+ * Light is the default. Every text pair is AA or better (body text AAA).
  */
 :root {
-  --bg: #15161f; /* charcoal */
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f0f0f0;
+  --ink: #1b1b1b;
+  --ink-muted: #565c65;
+  --line: #71767a; /* form field borders: 3:1 or better */
+  --line-soft: #dfe1e2; /* dividers */
+  --accent: #005ea2; /* links and buttons */
+  --accent-ink: #ffffff;
+  --accent-soft: #e7f2f8;
+  --navy: #162e51; /* header, nav, footer */
+  --navy-ink: #ffffff;
+  --glow: #73b3e7;
+  --panel-shadow: transparent;
+  --focus: #2491ff;
+  --party-r: #b50909;
+  --party-r-ink: #ffffff;
+  --party-d: #1a4480;
+  --party-d-ink: #ffffff;
+  --party-o: #54278f;
+  --party-o-ink: #ffffff;
+  --page-glow: none;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #15161f;
   --surface: #1d1f2b;
   --surface-2: #262938;
   --ink: #ececf1;
   --ink-muted: #b6b8c8;
-  --line: #6c6f80;
+  --line: #8a8da0;
   --line-soft: #34384f;
-  --accent: #a593ee; /* lavender (Hollow Purple) */
+  --accent: #8cc1ee;
   --accent-ink: #14141a;
-  --accent-soft: #2f2a4c;
-  --glow: #7fc4dc; /* Six Eyes blue, decoration only */
-  --panel-shadow: #a593ee;
-  --focus: #7fc4dc;
-  --party-r: #ef7088; /* red */
+  --accent-soft: #23314a;
+  --navy: #0e1a2e;
+  --navy-ink: #ececf1;
+  --glow: #7fc4dc;
+  --panel-shadow: transparent;
+  --focus: #8cc1ee;
+  --party-r: #ef7088;
   --party-r-ink: #14141a;
-  --party-d: #6faae8; /* blue */
+  --party-d: #6faae8;
   --party-d-ink: #14141a;
-  --party-o: #a593ee; /* lavender: independent and other parties */
+  --party-o: #b9a5f0;
   --party-o-ink: #14141a;
   --page-glow: none;
   color-scheme: dark;
-}
-
-:root[data-theme="light"] {
-  --bg: #f6f5fb;
-  --surface: #ffffff;
-  --surface-2: #ecebf5;
-  --ink: #0b0b14;
-  --ink-muted: #454760;
-  --line: #7a7c95;
-  --line-soft: #d6d4e6;
-  --accent: #5a35e0;
-  --accent-ink: #ffffff;
-  --accent-soft: #ebe5ff;
-  --glow: #2bb3d9;
-  --panel-shadow: #0b0b14;
-  --focus: #5a35e0;
-  --party-r: #c2183a;
-  --party-r-ink: #ffffff;
-  --party-d: #1c5fd0;
-  --party-d-ink: #ffffff;
-  --party-o: #5a35e0;
-  --party-o-ink: #ffffff;
-  --page-glow: none;
-  color-scheme: light;
 }
 
 :root[data-theme="contrast"] {
@@ -76,6 +81,8 @@
   --party-d-ink: #000000;
   --party-o: #d2c2ff;
   --party-o-ink: #000000;
+  --navy: #000000;
+  --navy-ink: #ffffff;
   --page-glow: none;
   color-scheme: dark;
 }
@@ -92,6 +99,8 @@
   --color-accent-ink: var(--accent-ink);
   --color-accent-soft: var(--accent-soft);
   --color-glow: var(--glow);
+  --color-navy: var(--navy);
+  --color-navy-ink: var(--navy-ink);
   --font-sans: var(--font-reading), system-ui, sans-serif;
   --font-display: var(--font-heading), var(--font-reading), system-ui, sans-serif;
 }
@@ -110,6 +119,9 @@ html[data-text="4"] {
   font-size: 156.25%;
 }
 
+html[data-font="atkinson"] {
+  --font-reading: var(--font-atkinson);
+}
 html[data-font="dyslexic"] {
   --font-reading: "OpenDyslexic";
   --font-heading: "OpenDyslexic";
@@ -130,7 +142,6 @@ h2,
 h3,
 .font-display {
   font-family: var(--font-display);
-  letter-spacing: -0.01em;
   hyphens: auto;
   overflow-wrap: break-word;
   /* Lets long words wrap inside flex rows at the largest text sizes. */
@@ -169,17 +180,18 @@ a:hover {
 }
 
 @layer components {
-/* Manga-panel cards: hard ink border and an offset shadow, no soft blur. */
+/* Plain public-service cards: thin gray border, small corners, no shadows. */
 .card {
   background: var(--surface);
   border: 1px solid var(--line-soft);
-  border-radius: 6px;
+  border-radius: 4px;
 }
+/* The one main box on a page (like the address form): a blue top edge. */
 .panel {
-  background: var(--surface);
-  border: 2px solid var(--line);
-  border-radius: 6px;
-  box-shadow: 4px 4px 0 var(--panel-shadow);
+  background: var(--surface-2);
+  border: 1px solid var(--line-soft);
+  border-top: 6px solid var(--accent);
+  border-radius: 4px;
 }
 html[data-theme="contrast"] .card,
 html[data-theme="contrast"] .btn {
@@ -217,12 +229,12 @@ html[data-theme="contrast"] .btn {
   color: var(--accent-ink);
 }
 .btn-primary:hover {
-  filter: brightness(1.1);
+  filter: brightness(0.85);
 }
 .btn-secondary {
-  background: transparent;
-  color: var(--ink);
-  border-color: var(--line-soft);
+  background: var(--surface);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 .btn-secondary:hover {
   border-color: var(--accent);
@@ -249,14 +261,14 @@ html[data-theme="contrast"] .btn {
   border-color: var(--accent);
 }
 
-/* Small uppercase label used above headings, like a chapter marker. */
+/* Small uppercase label above headings. */
 .eyebrow {
-  font-family: var(--font-display);
-  font-size: 0.8rem;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
   font-weight: 700;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--ink-muted);
 }
 
 /* Party labels: always the party name in words, plus its color. Never color alone. */
@@ -346,7 +358,7 @@ html[data-theme="contrast"] .btn {
   .compare-head {
     padding: 1rem;
     background: var(--surface-2);
-    border: 2px solid var(--line-soft);
+    border: 1px solid var(--line-soft);
   }
   .compare-head.party-bar-r {
     border-top: 8px solid var(--party-r);
@@ -362,12 +374,12 @@ html[data-theme="contrast"] .btn {
     font-family: var(--font-display);
     font-size: 1.1rem;
     font-weight: 700;
-    border: 2px solid var(--line-soft);
+    border: 1px solid var(--line-soft);
     background: var(--bg);
   }
   .compare-cell {
     padding: 1rem;
-    border: 2px solid var(--line-soft);
+    border: 1px solid var(--line-soft);
   }
   .compare-cand-label {
     display: none;

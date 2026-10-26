@@ -14,7 +14,7 @@ let problems = 0;
 for (const vp of [{ width: 390, height: 844 }, { width: 1280, height: 900 }]) {
   for (const mode of MODES) {
     const ctx = await browser.newContext({ viewport: vp });
-    await ctx.addInitScript((s) => localStorage.setItem("kyr-a11y", JSON.stringify(s)), mode.settings);
+    await ctx.addInitScript((s) => localStorage.setItem("kyr-a11y-v2", JSON.stringify(s)), mode.settings);
     const page = await ctx.newPage();
     for (const path of PAGES) {
       await page.goto(base + path, { waitUntil: "networkidle" });

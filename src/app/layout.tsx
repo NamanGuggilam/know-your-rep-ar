@@ -1,24 +1,32 @@
 import type { Metadata, Viewport } from "next";
-import { Atkinson_Hyperlegible_Next, Chakra_Petch } from "next/font/google";
+import { Atkinson_Hyperlegible_Next, Merriweather, Public_Sans } from "next/font/google";
 import { A11yProvider, BOOT_SCRIPT } from "@/components/a11y/settings";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { ServiceWorker } from "@/components/ServiceWorker";
 import "./globals.css";
 
-// Body: designed for low-vision readers. Latin Extended also covers Marshallese letters.
-const atkinson = Atkinson_Hyperlegible_Next({
-  weight: ["400", "700", "800"],
+// Body: Public Sans, the typeface of U.S. government websites. Latin Extended covers Marshallese letters.
+const publicSans = Public_Sans({
+  weight: ["400", "600", "700", "800"],
   subsets: ["latin", "latin-ext"],
   variable: "--font-reading",
   display: "swap",
 });
 
-// Headings only: sharp and angular.
-const chakra = Chakra_Petch({
-  weight: ["600", "700"],
-  subsets: ["latin"],
+// Headings: a sturdy serif, common on public-service sites.
+const merriweather = Merriweather({
+  weight: ["700", "900"],
+  subsets: ["latin", "latin-ext"],
   variable: "--font-heading",
+  display: "swap",
+});
+
+// Optional reading font in the Accessibility menu: designed for low-vision readers.
+const atkinson = Atkinson_Hyperlegible_Next({
+  weight: ["400", "700"],
+  subsets: ["latin", "latin-ext"],
+  variable: "--font-atkinson",
   display: "swap",
 });
 
@@ -33,12 +41,12 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#15161f",
+  themeColor: "#162e51",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${atkinson.variable} ${chakra.variable}`} suppressHydrationWarning>
+    <html lang="en" className={`${publicSans.variable} ${merriweather.variable} ${atkinson.variable}`} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: BOOT_SCRIPT }} />
       </head>

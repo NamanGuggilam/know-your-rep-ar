@@ -1,49 +1,59 @@
 import Link from "next/link";
 import { ArrowIcon } from "@/components/icons";
 import { LookupForm } from "@/components/LookupForm";
+import { ELECTION } from "@/lib/ballot";
 
-/** Decorative "Infinity" emblem beside the hero. Original artwork, static, fully inside its column. */
-function InfinityEmblem() {
+const VOTERVIEW = "https://www.voterview.ar-nova.org/voterview";
+
+/** Key facts for the next election, from the Arkansas Secretary of State. */
+function ElectionBox() {
+  const day = new Date(`${ELECTION.date}T12:00:00`).toLocaleDateString("en-US", {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+  });
   return (
-    <svg
-      viewBox="0 0 400 400"
-      className="pointer-events-none hidden h-auto w-full max-w-[26rem] lg:block"
-      aria-hidden="true"
-      focusable="false"
-    >
-      <defs>
-        <radialGradient id="void" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="var(--accent)" stopOpacity="0.28" />
-          <stop offset="60%" stopColor="var(--accent)" stopOpacity="0.06" />
-          <stop offset="100%" stopColor="var(--accent)" stopOpacity="0" />
-        </radialGradient>
-      </defs>
-      <circle cx="200" cy="200" r="196" fill="url(#void)" />
-      <g fill="none">
-        <circle cx="200" cy="200" r="186" stroke="var(--line-soft)" strokeWidth="1" />
-        <circle cx="200" cy="200" r="150" stroke="var(--glow)" strokeWidth="1" strokeOpacity="0.45" strokeDasharray="2 10" strokeLinecap="round" />
-        <circle cx="200" cy="200" r="112" stroke="var(--accent)" strokeWidth="2.5" />
-        <circle cx="200" cy="200" r="76" stroke="var(--glow)" strokeWidth="1" strokeOpacity="0.6" />
-      </g>
-      {/* Four points on the middle ring, like a compass. */}
-      <g fill="var(--accent)">
-        <circle cx="200" cy="88" r="4" />
-        <circle cx="312" cy="200" r="4" />
-        <circle cx="200" cy="312" r="4" />
-        <circle cx="88" cy="200" r="4" />
-      </g>
-      {/* The diamond (Arkansas is the Diamond State). */}
-      <path d="M200 142 240 200 200 258 160 200Z" fill="var(--ink)" />
-      <path d="M200 142 214 200 200 258 186 200Z" fill="var(--accent)" />
-      <path d="M160 200H240" stroke="var(--bg)" strokeWidth="2" strokeOpacity="0.5" />
-    </svg>
+    <aside aria-labelledby="election-h" className="card overflow-hidden">
+      <h2 id="election-h" className="bg-navy px-5 py-3 font-display text-lg font-bold text-navy-ink">
+        {ELECTION.name}
+      </h2>
+      <dl className="divide-y divide-line-soft px-5">
+        <div className="py-3">
+          <dt className="text-sm font-semibold text-ink-muted">Election Day</dt>
+          <dd className="text-lg font-bold">{day}</dd>
+        </div>
+        <div className="py-3">
+          <dt className="text-sm font-semibold text-ink-muted">Polls open</dt>
+          <dd className="font-semibold">7:30 a.m. to 7:30 p.m.</dd>
+        </div>
+        <div className="py-3">
+          <dt className="text-sm font-semibold text-ink-muted">Early voting</dt>
+          <dd className="font-semibold">Ends 5 p.m. the Monday before Election Day</dd>
+        </div>
+      </dl>
+      <ul className="grid gap-2 border-t border-line-soft bg-surface-2 px-5 py-4">
+        <li>
+          <a href={VOTERVIEW} target="_blank" rel="noopener noreferrer" className="font-semibold">
+            Check your registration and find your polling place
+            <span className="sr-only"> (opens in a new tab)</span>
+          </a>
+        </li>
+        <li>
+          <Link href="/vote" className="font-semibold">
+            How to vote, step by step
+          </Link>
+        </li>
+      </ul>
+      <p className="px-5 pb-4 text-xs text-ink-muted bg-surface-2">Source: Arkansas Secretary of State</p>
+    </aside>
   );
 }
 
 const STEPS = [
-  { href: "/who-does-what", n: "01", title: "Who does what", body: "The powers and jobs of every office on your ballot." },
-  { href: "/vote", n: "02", title: "How to vote", body: "Register, check your registration, and find where to vote." },
-  { href: "/neutral", n: "03", title: "How we stay fair", body: "The rules we follow for every candidate and every party." },
+  { href: "/who-does-what", title: "Who does what", body: "The powers and jobs of every office on your ballot." },
+  { href: "/vote", title: "How to vote", body: "Register, check your registration, and find where to vote." },
+  { href: "/neutral", title: "How we stay fair", body: "The rules we follow for every candidate and every party." },
 ];
 
 export default function Home() {
@@ -51,44 +61,35 @@ export default function Home() {
     <>
       <section
         aria-labelledby="hero-heading"
-        className="mb-10 grid items-center gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,24rem)]"
+        className="mb-10 grid items-start gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,22rem)]"
       >
         <div>
-          <p className="eyebrow">Arkansas · Your ballot · Your voice</p>
-          <h1 id="hero-heading" className="mt-3 text-5xl leading-[1.05] font-bold sm:text-6xl">
-            Know who&apos;s on your ballot.
+          <h1 id="hero-heading" className="text-4xl leading-tight font-bold sm:text-5xl">
+            Know who&apos;s on your ballot
           </h1>
-          <p className="mt-5 max-w-[52ch] text-xl text-ink-muted">
-            Type your address. Compare every candidate on the same topics, in plain English, with sources. Then see who
-            already represents you and contact them.
+          <p className="mt-4 max-w-[56ch] text-xl text-ink-muted">
+            Enter your address to compare the candidates in each race on the same topics, in their own words, and to
+            find and contact the people who represent you now.
           </p>
           <div className="mt-8 max-w-2xl">
             <LookupForm />
           </div>
         </div>
-        <div className="flex justify-center">
-          <InfinityEmblem />
-        </div>
+        <ElectionBox />
       </section>
 
-      <section aria-labelledby="more-heading" className="mt-16 simple-hide">
-        <h2 id="more-heading" className="text-3xl font-bold">
-          New to this? Start here.
+      <section aria-labelledby="more-heading" className="mt-14 border-t border-line-soft pt-10 simple-hide">
+        <h2 id="more-heading" className="text-2xl font-bold">
+          New to voting? Start here
         </h2>
-        <ul className="mt-6 grid gap-5 md:grid-cols-3">
+        <ul className="mt-5 grid gap-5 md:grid-cols-3">
           {STEPS.map((c) => (
-            <li key={c.href}>
-              <Link
-                href={c.href}
-                className="card group flex h-full flex-col gap-2 p-5 text-ink no-underline transition-colors hover:border-accent"
-              >
-                <span className="font-display text-sm font-bold tracking-widest text-accent">{c.n}</span>
-                <span className="flex items-center gap-2 font-display text-2xl font-bold">
-                  {c.title}
-                  <ArrowIcon className="transition-transform group-hover:translate-x-1" />
-                </span>
-                <span className="text-ink-muted">{c.body}</span>
+            <li key={c.href} className="card border-t-4 border-t-accent p-5">
+              <Link href={c.href} className="inline-flex items-center gap-1 text-xl font-bold">
+                {c.title}
+                <ArrowIcon size={18} />
               </Link>
+              <p className="mt-2 text-ink-muted">{c.body}</p>
             </li>
           ))}
         </ul>
