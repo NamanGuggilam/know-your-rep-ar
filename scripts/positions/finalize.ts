@@ -43,7 +43,7 @@ async function main() {
   const crawl = existsSync(path.join(root, ".cache", "campaign", `${id}.json`))
     ? read(path.join(root, ".cache", "campaign", `${id}.json`))
     : { pages: [], note: draft.websiteNote ?? "We could not find a campaign website for this candidate." };
-  const pages: { url: string; text: string }[] = crawl.pages;
+  const pages: { url: string; text: string; source?: string }[] = crawl.pages;
 
   const kept: Partial<Record<(typeof COMPARE_TOPICS)[number], Position>> = {};
   const problems: string[] = [];
@@ -69,7 +69,12 @@ async function main() {
       problems.push(`${p.topic}: ${why}`);
       continue;
     }
-    kept[topic] = { summary: p.summary.trim(), quote: p.quote.trim(), url: page.url };
+    kept[topic] = {
+      summary: p.summary.trim(),
+      quote: p.quote.trim(),
+      url: page.url,
+      ...(page.source ? { source: page.source } : {}),
+    };
   }
 
   let photo: CandidatePositions["photo"];

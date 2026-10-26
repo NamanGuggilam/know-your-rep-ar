@@ -128,8 +128,9 @@ async function BallotBody({ searchParams }: { searchParams: PageProps<"/ballot">
             How to read this
           </h2>
           <p className="mt-2">
-            Each row is a topic. Each line is what that candidate&apos;s own campaign website says, sorted by AI. Tap
-            &ldquo;Their exact words&rdquo; to see the quote. <Link href="/neutral">How we stay fair</Link>
+            Each row is a topic. Each line is what that candidate has said in their own words, on their campaign website
+            or quoted in news, debates, and questionnaires, sorted by AI. Tap &ldquo;Their exact words&rdquo; to see the
+            quote and where it came from. <Link href="/neutral">How we stay fair</Link>
           </p>
         </section>
       </div>

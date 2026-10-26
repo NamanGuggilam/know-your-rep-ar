@@ -43,9 +43,11 @@ export interface Contest {
 export interface Position {
   /** AI restatement, always starting with "Says" */
   summary: string;
-  /** Exact words from the campaign website, checked by code */
+  /** The candidate's exact words, checked word-for-word by code */
   quote: string;
   url: string;
+  /** Where the words came from, when it is not their campaign website (e.g. "Arkansas Advocate, Sept 12, 2026") */
+  source?: string;
 }
 
 export interface CandidatePositions {

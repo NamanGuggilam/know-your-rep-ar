@@ -70,7 +70,7 @@ export default async function CandidatePage({ params }: PageProps<"/candidates/[
       <h2 className="mt-10 text-3xl font-bold">Where they stand</h2>
       <p className="mt-2 max-w-[65ch] text-ink-muted">
         {data
-          ? `${data.websiteNote} Each line was sorted by AI and every quote was checked word-for-word against their website.`
+          ? "From their campaign website first, then other public places where they are quoted in their own words (like news interviews, debates, and candidate questionnaires). Each line was sorted by AI, and every quote was checked word-for-word against its source."
           : "We have not gathered this candidate's positions yet."}
       </p>
       <dl className="mt-6 grid gap-4">
@@ -87,7 +87,7 @@ export default async function CandidatePage({ params }: PageProps<"/candidates/[
                       &ldquo;{p.quote}&rdquo;
                     </blockquote>
                     <p className="mt-1 text-sm">
-                      <ExtLink href={p.url}>Source</ExtLink>
+                      Source: <ExtLink href={p.url}>{p.source ?? "their campaign website"}</ExtLink>
                     </p>
                   </>
                 ) : (

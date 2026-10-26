@@ -1,4 +1,6 @@
 // AI web scraper for the ballot comparison page.
+// Stage 1 reads the candidate's campaign website; stage 2 searches the wider web for topics it doesn't cover,
+// keeping only the candidate's own words (news quotes, debates, questionnaires, official sites).
 // For each candidate on src/data/ballot-2026.json:
 //   1. Find their campaign website: src/data/campaign-sites.json (checked by a person) wins;
 //      otherwise Claude searches the web for it, and code confirms the page names the candidate.
@@ -20,7 +22,7 @@ import { z } from "zod";
 import ballot from "../../src/data/ballot-2026.json";
 import { COMPARE_TOPICS, type CandidatePositions, type Contest, type Position } from "../../src/lib/ballot";
 import { normalize } from "../stances/organize";
-import { closeBrowser, ownWords, type OwnWordsPage } from "../stances/ownwords";
+import { closeBrowser, ownWords, readPages, type OwnWordsPage } from "../stances/ownwords";
 
 try {
   Object.assign(process.env, parseEnv(readFileSync(".env.local", "utf8")));
@@ -39,7 +41,8 @@ let client: Anthropic | null = null;
 const anthropic = () => (client ??= new Anthropic());
 
 // Sites that are never a candidate's own campaign website.
-const NOT_CAMPAIGN = /(ballotpedia|wikipedia|facebook|x\.com|twitter|instagram|youtube|linkedin|tiktok|votesmart|opensecrets|fec\.gov|\.gov\/?|news|times|gazette|kark|thv11|ardemgazette|arktimes|talkbusiness)/i;
+const NOT_CAMPAIGN =
+  /(ballotpedia|wikipedia|facebook|x\.com|twitter|instagram|youtube|linkedin|tiktok|votesmart|opensecrets|fec\.gov|\.gov\/?|news|times|gazette|kark|thv11|ardemgazette|arktimes|talkbusiness)/i;
 
 async function findWebsite(name: string, office: string, party: string): Promise<string | null> {
   const messages: Anthropic.MessageParam[] = [
@@ -96,7 +99,8 @@ const Output = z.object({
     z.object({ topic: z.enum(COMPARE_TOPICS), summary: z.string(), quote: z.string(), page: z.number().int() }),
   ),
 });
-const BANNED = /\b(conservative|liberal|progressive|right-wing|left-wing|far-right|far-left|radical|extreme|maga|woke|republican|democrat(ic)?|libertarian)\b/i;
+const BANNED =
+  /\b(conservative|liberal|progressive|right-wing|left-wing|far-right|far-left|radical|extreme|maga|woke|republican|democrat(ic)?|libertarian)\b/i;
 
 async function organize(name: string, office: string, pages: OwnWordsPage[]) {
   const block = pages.map((p, i) => `<page number="${i + 1}" url="${p.url}">\n${p.text}\n</page>`).join("\n\n");
@@ -105,7 +109,12 @@ async function organize(name: string, office: string, pages: OwnWordsPage[]) {
     max_tokens: 8000,
     system: SYSTEM,
     output_config: { format: zodOutputFormat(Output), effort: "medium" },
-    messages: [{ role: "user", content: `Candidate: ${name}, running for ${office}\n\n<website_text>\n${block}\n</website_text>` }],
+    messages: [
+      {
+        role: "user",
+        content: `Candidate: ${name}, running for ${office}\n\n<website_text>\n${block}\n</website_text>`,
+      },
+    ],
   });
   if (res.stop_reason === "refusal" || !res.parsed_output) throw new Error("model declined");
   const kept: Partial<Record<(typeof COMPARE_TOPICS)[number], Position>> = {};
@@ -126,6 +135,76 @@ async function organize(name: string, office: string, pages: OwnWordsPage[]) {
     kept[p.topic] = { summary: p.summary.trim(), quote: p.quote.trim(), url: page.url };
   }
   return { positions: kept, removed };
+}
+
+// ---------- Stage 2: the wider web, for topics the campaign site doesn't cover ----------
+
+// Only places that quote the candidate in their own words. Never opinion pieces, opponents, parties, PACs, or ratings.
+const NOT_ALLOWED =
+  /(wikipedia|ballotpedia\.org\/(?!.*candidate_connection)|facebook|x\.com|twitter|instagram|tiktok|youtube|ivoterguide|nra|plannedparenthood|gop\.org|democrats\.org|lp\.org|arkansasgop|arkdems|opinion|editorial|column)/i;
+
+const FOUND = z.object({
+  found: z.array(
+    z.object({
+      topic: z.enum(COMPARE_TOPICS),
+      url: z.string(),
+      sourceLabel: z.string(),
+      quote: z.string(),
+      summary: z.string(),
+    }),
+  ),
+});
+
+async function searchWeb(name: string, office: string, missing: string[]) {
+  const messages: Anthropic.MessageParam[] = [
+    {
+      role: "user",
+      content: `${name} is a candidate for ${office} in Arkansas's November 3, 2026 general election.
+For these topics, find places on the web where ${name} is quoted in their OWN words: ${missing.join("; ")}.
+Allowed: their official government website, nonpartisan candidate questionnaires (Vote411, Ballotpedia Candidate Connection, news-outlet questionnaires), debate coverage, and mainstream news articles that quote them directly.
+Not allowed: opinion or editorial pieces, opponents, political party sites, PACs, advocacy ratings, Wikipedia, social media.
+Rules: "quote" must be words the candidate said or wrote, copied exactly (in news, only text inside quotation marks attributed to them; never a reporter's paraphrase). "summary" is one neutral sentence starting with "Says". "sourceLabel" is "Outlet, Month Day, Year". Prefer 2025-2026. At most one per topic. Skip topics where nothing qualifies.
+Use the same effort for this candidate as you would for any other: at most 8 searches.`,
+    },
+  ];
+  for (let i = 0; i < 4; i++) {
+    const res = await anthropic().messages.create({
+      model: MODEL,
+      max_tokens: 8000,
+      tools: [{ type: "web_search_20260209", name: "web_search", max_uses: 8 }],
+      messages,
+    });
+    if (res.stop_reason === "pause_turn") {
+      messages.push({ role: "assistant", content: res.content });
+      continue;
+    }
+    // Second, tool-free call turns the findings into checked JSON.
+    messages.push({ role: "assistant", content: res.content });
+    messages.push({
+      role: "user",
+      content: "Return your findings as JSON now. Include only items that follow every rule.",
+    });
+    const out = await anthropic().messages.parse({
+      model: MODEL,
+      max_tokens: 4000,
+      output_config: { format: zodOutputFormat(FOUND) },
+      messages,
+    });
+    return out.parsed_output?.found ?? [];
+  }
+  return [];
+}
+
+/** Fetch each page ourselves and keep a finding only if its quote is really on that page. */
+async function verifyWeb(found: Awaited<ReturnType<typeof searchWeb>>) {
+  const kept: Partial<Record<(typeof COMPARE_TOPICS)[number], Position>> = {};
+  for (const f of found) {
+    if (kept[f.topic] || NOT_ALLOWED.test(f.url) || !/^Says\b/.test(f.summary) || BANNED.test(f.summary)) continue;
+    const page = (await readPages([f.url], "campaign")).pages[0];
+    if (!page || f.quote.trim().length < 20 || !normalize(page.text).includes(normalize(f.quote))) continue;
+    kept[f.topic] = { summary: f.summary.trim(), quote: f.quote.trim(), url: f.url, source: f.sourceLabel.trim() };
+  }
+  return kept;
 }
 
 async function main() {
@@ -150,6 +229,9 @@ async function main() {
       const { positions, removed } = words.pages.length
         ? await organize(k.name, k.office, words.pages)
         : { positions: {}, removed: 0 };
+      // Fill gaps from the wider web, in their own words only.
+      const missing = COMPARE_TOPICS.filter((t) => !positions[t]);
+      if (missing.length) Object.assign(positions, await verifyWeb(await searchWeb(k.name, k.office, missing)));
       const file: CandidatePositions = {
         candidateId: k.id,
         website: website ?? undefined,

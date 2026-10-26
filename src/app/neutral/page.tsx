@@ -30,6 +30,10 @@ const RULES = [
     body: "When we use AI to explain a bill in plain English, we label it clearly and link to the full official text. The AI is told to describe only what a bill does, never whether it is good or bad.",
   },
   {
+    title: "Candidates are shown in their own words.",
+    body: "We start with each candidate's campaign website. If it doesn't cover a topic, we look for places they are quoted directly: news interviews, debates, and candidate questionnaires. We never use opinion columns, opponents' ads, or ratings from advocacy groups. Every quote shows its source and is checked word-for-word. Candidates who are already in office are often in the news more, so they may have more entries. That is not a judgment about anyone.",
+  },
+  {
     title: "The question helper never takes sides.",
     body: "The Ask feature answers only from this app's sources and shows which ones it used. It will not say who to vote for or whether anyone is good or bad. When you ask about a race, it covers every candidate the same way.",
   },

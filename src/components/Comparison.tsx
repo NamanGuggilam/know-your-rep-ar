@@ -41,7 +41,10 @@ export function Comparison({
         <h2 id={headingId} className="text-3xl font-bold">
           {contest.office}
         </h2>
-        <Link href={`/who-does-what#${contest.role === "statewide" ? "statewide" : contest.role}`} className="font-semibold">
+        <Link
+          href={`/who-does-what#${contest.role === "statewide" ? "statewide" : contest.role}`}
+          className="font-semibold"
+        >
           What does this office do?
         </Link>
       </div>
@@ -98,13 +101,13 @@ export function Comparison({
                             &ldquo;{p.quote}&rdquo;
                           </blockquote>
                           <p className="mt-1">
-                            <ExtLink href={p.url}>Source</ExtLink>
+                            Source: <ExtLink href={p.url}>{p.source ?? "their campaign website"}</ExtLink>
                           </p>
                         </details>
                       </>
                     ) : (
                       <p className="text-ink-muted">
-                        {!data ? "Not gathered yet." : data.website ? "Not on their website." : "No campaign website."}
+                        {!data ? "Not gathered yet." : "Nothing found in their own words."}
                       </p>
                     )}
                   </td>
@@ -129,7 +132,8 @@ export function Comparison({
       </table>
       {silent.length > 0 && (
         <p className="mt-4 text-sm text-ink-muted">
-          <strong className="text-ink">No candidate in this race talks about:</strong> {silent.join(", ").toLowerCase()}.
+          <strong className="text-ink">No candidate in this race talks about:</strong> {silent.join(", ").toLowerCase()}
+          .
         </p>
       )}
     </section>
@@ -158,8 +162,8 @@ export function UnopposedCard({ contest, data }: { contest: Contest; data: Candi
         {said.length
           ? `Talks about: ${said.join(", ").toLowerCase()}.`
           : data?.website
-            ? "Their website doesn't state positions on our topics."
-            : "No campaign website found."}
+            ? "We didn't find their own words on our topics."
+            : "No campaign website found, and nothing else in their own words."}
       </p>
       <p className="mt-2 text-sm font-semibold">{memberSentence(c.party)}</p>
     </li>
