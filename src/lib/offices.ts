@@ -10,6 +10,8 @@ export interface OfficeInfo {
   long: string[];
   term: string;
   howMany: string;
+  /** What the office can do. Facts from the U.S. and Arkansas constitutions. */
+  powers: string[];
   contactFor: string[];
 }
 
@@ -26,6 +28,13 @@ export const OFFICES: Record<OfficeKind, OfficeInfo> = {
     ],
     term: "6 years",
     howMany: "2 for all of Arkansas (100 in the whole country)",
+    powers: [
+      "Writes and votes on national laws. A bill needs to pass both the Senate and the House.",
+      "Approves or rejects the people the President picks for top jobs, like federal judges, Supreme Court justices, and Cabinet members.",
+      "Approves treaties with other countries. This takes a two-thirds vote.",
+      "Holds the trial when a federal official is impeached.",
+      "With the House: sets the federal budget and taxes, can declare war, and can override a President's veto with a two-thirds vote.",
+    ],
     contactFor: [
       "National laws and the federal budget",
       "Help with a federal agency, like Social Security, Medicare, the VA, or the IRS",
@@ -44,6 +53,13 @@ export const OFFICES: Record<OfficeKind, OfficeInfo> = {
     ],
     term: "2 years",
     howMany: "4 in Arkansas, 1 for your district (435 in the whole country)",
+    powers: [
+      "Writes and votes on national laws. A bill needs to pass both the House and the Senate.",
+      "Bills to raise taxes must start in the House.",
+      "Can impeach (formally charge) a federal official, like a President or a judge.",
+      "Picks the President if no candidate wins a majority in the Electoral College.",
+      "With the Senate: sets the federal budget and taxes, can declare war, and can override a President's veto with a two-thirds vote.",
+    ],
     contactFor: [
       "National laws and the federal budget",
       "Help with a federal agency, like Social Security, Medicare, the VA, or the IRS",
@@ -62,6 +78,13 @@ export const OFFICES: Record<OfficeKind, OfficeInfo> = {
     ],
     term: "4 years (some terms are 2 years right after district lines are redrawn)",
     howMany: "35 in Arkansas",
+    powers: [
+      "Writes and votes on Arkansas laws. A bill needs to pass both the State Senate and the State House.",
+      "Votes on the state budget: how Arkansas spends its money.",
+      "Approves or rejects many of the people the Governor appoints to state boards and jobs.",
+      "Holds the trial when a state official is impeached.",
+      "With the House: can override the Governor's veto with a majority vote, and can send up to three changes to the Arkansas Constitution to voters at a general election.",
+    ],
     contactFor: [
       "Public schools and colleges",
       "State highways and roads",
@@ -80,6 +103,12 @@ export const OFFICES: Record<OfficeKind, OfficeInfo> = {
     ],
     term: "2 years",
     howMany: "100 in Arkansas",
+    powers: [
+      "Writes and votes on Arkansas laws. A bill needs to pass both the State House and the State Senate.",
+      "Votes on the state budget: how Arkansas spends its money.",
+      "Can impeach (formally charge) a state official, like the Governor or a judge.",
+      "With the Senate: can override the Governor's veto with a majority vote, and can send up to three changes to the Arkansas Constitution to voters at a general election.",
+    ],
     contactFor: [
       "Public schools and colleges",
       "State highways and roads",

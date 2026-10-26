@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ExternalIcon, GlobeIcon, MailIcon, PhoneIcon, PinIcon } from "@/components/icons";
 import { MessageHelper } from "@/components/MessageHelper";
 import { Stances } from "@/components/Stances";
+import { PartyBadge } from "@/components/PartyBadge";
 import { RepPhoto } from "@/components/RepCard";
 import { formatUpdated, telHref } from "@/lib/format";
 import { OFFICES } from "@/lib/offices";
@@ -37,7 +38,9 @@ export default async function RepPage({ params }: PageProps<"/rep/[id]">) {
           <p className="font-semibold text-ink-muted">{o.title}</p>
           <h1 className="text-4xl leading-tight font-extrabold">{o.name}</h1>
           {o.district && <p className="mt-1 text-lg">{o.district}</p>}
-          <p className="mt-1 text-lg">Party: {o.party}</p>
+          <p className="mt-2">
+            <PartyBadge party={o.party} />
+          </p>
           <p className="mt-3 max-w-[60ch]">
             <strong>What this person does: </strong>
             {info.short}

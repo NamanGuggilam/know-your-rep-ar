@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { useState } from "react";
 import { OFFICES } from "@/lib/offices";
+import { partyKey } from "@/lib/party";
+import { PartyBadge } from "./PartyBadge";
 import type { Seat } from "@/lib/types";
 import { AlertIcon, ExternalIcon, GlobeIcon, InfoIcon, MailIcon, PencilIcon, PersonIcon, PhoneIcon, PinIcon } from "./icons";
 import { formatUpdated, telHref } from "@/lib/format";
@@ -12,7 +14,7 @@ export function RepPhoto({ src, name, size = 112 }: { src?: string; name: string
   if (!src || failed) {
     return (
       <div
-        className="flex flex-none items-center justify-center rounded-xl bg-surface-2 text-ink-muted"
+        className="flex flex-none items-center justify-center rounded bg-surface-2 text-ink-muted"
         style={{ width: size, height: size * 1.2 }}
         role="img"
         aria-label={`No photo available for ${name}`}
@@ -31,7 +33,7 @@ export function RepPhoto({ src, name, size = 112 }: { src?: string; name: string
       height={size * 1.2}
       loading="lazy"
       onError={() => setFailed(true)}
-      className="flex-none rounded-xl bg-surface-2 object-cover"
+      className="flex-none rounded bg-surface-2 object-cover"
       style={{ width: size, height: size * 1.2 }}
     />
   );
@@ -71,7 +73,7 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
   const mapQuery = firstAddress ? encodeURIComponent(firstAddress.lines.join(", ")) : "";
 
   return (
-    <article className="card flex flex-col p-5" aria-labelledby={`${cardId}-name`}>
+    <article className={`card flex flex-col p-5 party-bar-${partyKey(o.party)}`} aria-labelledby={`${cardId}-name`}>
       <div id={cardId}>
         <div className="flex gap-4">
           <RepPhoto src={o.photoUrl} name={o.name} size={96} />
@@ -81,7 +83,9 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
               {o.name}
             </H>
             {o.district && <p className="mt-1">{o.district}</p>}
-            <p className="mt-1">Party: {o.party}</p>
+            <p className="mt-2">
+              <PartyBadge party={o.party} />
+            </p>
           </div>
         </div>
         <p className="mt-4">
@@ -93,27 +97,31 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
         </p>
       </div>
 
-      <div className="mt-4 grid gap-2 sm:grid-cols-2">
+      <Link className="btn btn-primary mt-5 w-full" href={`/rep/${o.id}#stand`}>
+        <InfoIcon />
+        See where they stand
+      </Link>
+      <div className="mt-3 grid gap-2 sm:grid-cols-2">
         {o.phone && (
-          <a className="btn btn-primary" href={telHref(o.phone)}>
+          <a className="btn btn-secondary" href={telHref(o.phone)}>
             <PhoneIcon />
             Call {o.phone}
           </a>
         )}
         {o.email ? (
-          <a className="btn btn-primary" href={`mailto:${o.email}`}>
+          <a className="btn btn-secondary" href={`mailto:${o.email}`}>
             <MailIcon />
             Email
           </a>
         ) : o.contactFormUrl ? (
-          <a className="btn btn-primary" href={o.contactFormUrl} target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-secondary" href={o.contactFormUrl} target="_blank" rel="noopener noreferrer">
             <MailIcon />
             Contact form<span className="sr-only"> (opens in a new tab)</span>
           </a>
         ) : o.website ? (
-          <a className="btn btn-primary" href={o.website} target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-secondary" href={o.website} target="_blank" rel="noopener noreferrer">
             <GlobeIcon />
-            Website (to send a message)<span className="sr-only"> (opens in a new tab)</span>
+            Website<span className="sr-only"> (opens in a new tab)</span>
           </a>
         ) : null}
         {firstAddress && (
@@ -127,13 +135,9 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
             Office on a map<span className="sr-only"> (opens in a new tab)</span>
           </a>
         )}
-        <Link className="btn btn-primary sm:col-span-2" href={`/rep/${o.id}#stand`}>
-          <InfoIcon />
-          See where they stand
-        </Link>
         <Link className="btn btn-secondary" href={`/rep/${o.id}#write`}>
           <PencilIcon />
-          Help me write a message
+          Write a message
         </Link>
       </div>
 

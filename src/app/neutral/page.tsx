@@ -10,8 +10,8 @@ const RULES = [
     body: "Same layout, same buttons, same words. It does not matter who they are or which party they belong to.",
   },
   {
-    title: "No party colors.",
-    body: "We never use red or blue to show a party. Party is shown only as plain words, like “Party: Republican.”",
+    title: "Party colors follow one simple rule.",
+    body: "Republicans are shown in red, Democrats in blue, and every other party or independent in purple. The party name is always written out in words too, so no one has to rely on color.",
   },
   {
     title: "No scores, grades, or ratings.",

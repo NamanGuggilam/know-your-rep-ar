@@ -51,7 +51,7 @@ export default function AboutPage() {
         intro="Know Your Rep AR helps every Arkansan find, understand, and contact the people who represent them."
       />
       <div id="about-body" className="prose-civic">
-        <p className="rounded-xl border-l-4 border-accent bg-accent-soft p-4 font-semibold">{DISCLAIMER}</p>
+        <p className="rounded border-l-4 border-accent bg-accent-soft p-4 font-semibold">{DISCLAIMER}</p>
 
         <h2>Why we made this</h2>
         <p>

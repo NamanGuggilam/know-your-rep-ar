@@ -24,7 +24,7 @@ export default function DistrictMapInner({ shape }: { shape: DistrictShape }) {
       center={ARKANSAS}
       zoom={7}
       scrollWheelZoom={false}
-      className="h-80 w-full rounded-xl"
+      className="h-80 w-full rounded"
       attributionControl
     >
       <TileLayer
@@ -35,7 +35,7 @@ export default function DistrictMapInner({ shape }: { shape: DistrictShape }) {
       <GeoJSON
         key={shape.label}
         data={shape.geojson}
-        style={{ color: "#1f5e45", weight: 3, fillColor: "#1f5e45", fillOpacity: 0.12 }}
+        style={{ color: "#7c5cff", weight: 3, fillColor: "#a88bff", fillOpacity: 0.18 }}
       />
       <FitBounds shape={shape} />
     </MapContainer>

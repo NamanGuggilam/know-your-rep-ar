@@ -52,7 +52,7 @@ export default function VotePage() {
         intro="Voting for the first time? Welcome! Here is how to get ready to vote in Arkansas, step by step."
       />
       <div id="vote-body" className="prose-civic">
-        <p className="rounded-xl border-l-4 border-accent bg-accent-soft p-4">
+        <p className="rounded border-l-4 border-accent bg-accent-soft p-4">
           <strong>Dates and deadlines:</strong> These change for every election, so we don&apos;t list them here. Always
           check the{" "}
           <ExtLink href={SOS.elections}>Arkansas Secretary of State&apos;s election page</ExtLink> for the latest dates.

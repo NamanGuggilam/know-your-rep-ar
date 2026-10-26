@@ -3,64 +3,55 @@
 @import "@fontsource/opendyslexic/700.css";
 
 /*
- * Design tokens. Neutral on purpose: slate, warm paper, and one forest-green accent.
- * No red or blue anywhere, so nothing reads as partisan.
- * Every text pair was checked: body text is AAA (7:1+), accents are AA or better.
+ * Design tokens, inspired by Gojo's techniques:
+ *   void black + white ink, Hollow Purple for the brand,
+ *   Reversal Red and Lapse Blue for party labels only.
+ * Dark is the default. Every text pair is AA or better (body text AAA).
  */
 :root {
-  --bg: #f6f3ec;
-  --surface: #ffffff;
-  --surface-2: #ece6da;
-  --ink: #1c262b;
-  --ink-muted: #46535b;
-  --line: #8c8270;
-  --line-soft: #ddd5c7;
-  --accent: #1f5e45;
-  --accent-ink: #ffffff;
-  --accent-soft: #e2eee7;
-  --focus: #b4570a;
-  --ridge-1: #c9d8cd;
-  --ridge-2: #a9c2b1;
-  --ridge-3: #1f5e45;
-  color-scheme: light;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    --bg: #11171a;
-    --surface: #1a2226;
-    --surface-2: #232d32;
-    --ink: #eef0ec;
-    --ink-muted: #b7c0c3;
-    --line: #6b7b82;
-    --line-soft: #2f3a40;
-    --accent: #7fcba4;
-    --accent-ink: #0b1f16;
-    --accent-soft: #1e3a2e;
-    --focus: #ffb35c;
-    --ridge-1: #1d2a2b;
-    --ridge-2: #24372f;
-    --ridge-3: #7fcba4;
-    color-scheme: dark;
-  }
-}
-
-:root[data-theme="dark"] {
-  --bg: #11171a;
-  --surface: #1a2226;
-  --surface-2: #232d32;
-  --ink: #eef0ec;
-  --ink-muted: #b7c0c3;
-  --line: #6b7b82;
-  --line-soft: #2f3a40;
-  --accent: #7fcba4;
-  --accent-ink: #0b1f16;
-  --accent-soft: #1e3a2e;
-  --focus: #ffb35c;
-  --ridge-1: #1d2a2b;
-  --ridge-2: #24372f;
-  --ridge-3: #7fcba4;
+  --bg: #08080f;
+  --surface: #11121d;
+  --surface-2: #1a1b2b;
+  --ink: #f3f3fa;
+  --ink-muted: #b4b6cc;
+  --line: #6e7090;
+  --line-soft: #2a2c42;
+  --accent: #a88bff; /* Hollow Purple */
+  --accent-ink: #0b0b14;
+  --accent-soft: #221b40;
+  --glow: #6fe3ff; /* Six Eyes, decoration only */
+  --panel-shadow: #a88bff;
+  --focus: #6fe3ff;
+  --party-r: #ff5c7a; /* Reversal Red */
+  --party-r-ink: #0b0b14;
+  --party-d: #5aa9ff; /* Lapse Blue */
+  --party-d-ink: #0b0b14;
+  --party-o: #a88bff; /* Hollow Purple: independent and other parties */
+  --party-o-ink: #0b0b14;
   color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  --bg: #f6f5fb;
+  --surface: #ffffff;
+  --surface-2: #ecebf5;
+  --ink: #0b0b14;
+  --ink-muted: #454760;
+  --line: #7a7c95;
+  --line-soft: #d6d4e6;
+  --accent: #5a35e0;
+  --accent-ink: #ffffff;
+  --accent-soft: #ebe5ff;
+  --glow: #2bb3d9;
+  --panel-shadow: #0b0b14;
+  --focus: #5a35e0;
+  --party-r: #c2183a;
+  --party-r-ink: #ffffff;
+  --party-d: #1c5fd0;
+  --party-d-ink: #ffffff;
+  --party-o: #5a35e0;
+  --party-o-ink: #ffffff;
+  color-scheme: light;
 }
 
 :root[data-theme="contrast"] {
@@ -74,10 +65,15 @@
   --accent: #ffe14d;
   --accent-ink: #000000;
   --accent-soft: #000000;
+  --glow: #ffe14d;
+  --panel-shadow: #ffe14d;
   --focus: #ffe14d;
-  --ridge-1: #000000;
-  --ridge-2: #000000;
-  --ridge-3: #ffe14d;
+  --party-r: #ff8a9e;
+  --party-r-ink: #000000;
+  --party-d: #8cc4ff;
+  --party-d-ink: #000000;
+  --party-o: #d2c2ff;
+  --party-o-ink: #000000;
   color-scheme: dark;
 }
 
@@ -92,7 +88,9 @@
   --color-accent: var(--accent);
   --color-accent-ink: var(--accent-ink);
   --color-accent-soft: var(--accent-soft);
+  --color-glow: var(--glow);
   --font-sans: var(--font-reading), system-ui, sans-serif;
+  --font-display: var(--font-heading), var(--font-reading), system-ui, sans-serif;
 }
 
 /* Text size: 18px base, four steps. Everything is sized in rem so it all scales. */
@@ -111,8 +109,10 @@ html[data-text="4"] {
 
 html[data-font="dyslexic"] {
   --font-reading: "OpenDyslexic";
+  --font-heading: "OpenDyslexic";
 }
 
+@layer base {
 body {
   background: var(--bg);
   color: var(--ink);
@@ -123,11 +123,11 @@ body {
 }
 h1,
 h2,
-h3 {
+h3,
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
   hyphens: auto;
-}
-.btn {
-  text-align: center;
 }
 html[data-spacing="relaxed"] body {
   line-height: 1.85;
@@ -139,12 +139,10 @@ html[data-spacing="extra"] body {
   letter-spacing: 0.02em;
 }
 
-/* Visible focus everywhere. Two rings so it shows on any background. */
 :focus-visible {
   outline: 3px solid var(--focus);
   outline-offset: 3px;
-  box-shadow: 0 0 0 6px var(--bg);
-  border-radius: 4px;
+  border-radius: 2px;
 }
 
 a {
@@ -156,14 +154,24 @@ a {
 a:hover {
   text-decoration-thickness: 0.16em;
 }
+}
 
-/* Never rely on color alone: high contrast mode adds borders and underlines everywhere. */
+@layer components {
+/* Manga-panel cards: hard ink border and an offset shadow, no soft blur. */
+.card {
+  background: var(--surface);
+  border: 2px solid var(--line-soft);
+  border-radius: 4px;
+}
+.panel {
+  background: var(--surface);
+  border: 2px solid var(--ink);
+  border-radius: 4px;
+  box-shadow: 5px 5px 0 var(--panel-shadow);
+}
 html[data-theme="contrast"] .card,
 html[data-theme="contrast"] .btn {
   border: 2px solid var(--ink) !important;
-}
-html[data-theme="contrast"] img {
-  filter: grayscale(0.2) contrast(1.1);
 }
 
 /* Buttons: at least 48px tall, always with a text label. */
@@ -174,29 +182,39 @@ html[data-theme="contrast"] img {
   gap: 0.5rem;
   min-height: 48px;
   min-width: 48px;
-  padding: 0.6rem 1.1rem;
-  border-radius: 0.6rem;
+  padding: 0.6rem 1.15rem;
+  border-radius: 4px;
   border: 2px solid var(--accent);
   font-weight: 700;
   line-height: 1.25;
+  text-align: center;
   text-decoration: none;
   cursor: pointer;
   transition:
-    background-color 0.15s,
-    transform 0.15s;
+    transform 0.12s,
+    box-shadow 0.12s,
+    background-color 0.12s;
 }
 .btn-primary {
   background: var(--accent);
   color: var(--accent-ink);
+  box-shadow: 3px 3px 0 var(--ink);
 }
 .btn-primary:hover {
-  filter: brightness(1.08);
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+.btn-primary:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 var(--ink);
 }
 .btn-secondary {
-  background: var(--surface);
-  color: var(--accent);
+  background: transparent;
+  color: var(--ink);
+  border-color: var(--line);
 }
 .btn-secondary:hover {
+  border-color: var(--accent);
   background: var(--accent-soft);
 }
 .btn:disabled {
@@ -207,30 +225,66 @@ html[data-theme="contrast"] img {
   flex: none;
 }
 
-.card {
-  background: var(--surface);
-  border: 1px solid var(--line-soft);
-  border-radius: 1rem;
-}
-
 .field {
   width: 100%;
   min-height: 52px;
   padding: 0.7rem 0.9rem;
   border: 2px solid var(--line);
-  border-radius: 0.6rem;
-  background: var(--surface);
+  border-radius: 4px;
+  background: var(--bg);
   color: var(--ink);
 }
 .field:focus-visible {
   border-color: var(--accent);
 }
 
+/* Small uppercase label used above headings, like a chapter marker. */
+.eyebrow {
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* Party labels: always the party name in words, plus its color. Never color alone. */
+.party {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 3px;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+.party-r {
+  background: var(--party-r);
+  color: var(--party-r-ink);
+}
+.party-d {
+  background: var(--party-d);
+  color: var(--party-d-ink);
+}
+.party-o {
+  background: var(--party-o);
+  color: var(--party-o-ink);
+}
+.party-bar-r {
+  border-top: 6px solid var(--party-r);
+}
+.party-bar-d {
+  border-top: 6px solid var(--party-d);
+}
+.party-bar-o {
+  border-top: 6px solid var(--party-o);
+}
+
 .prose-civic h2 {
-  font-size: 1.45rem;
+  font-size: 1.5rem;
   font-weight: 800;
-  line-height: 1.25;
-  margin-top: 2rem;
+  line-height: 1.2;
+  margin-top: 2.2rem;
   margin-bottom: 0.6rem;
 }
 .prose-civic h3 {
@@ -246,7 +300,7 @@ html[data-theme="contrast"] img {
   max-width: 68ch;
 }
 .prose-civic ul {
-  list-style: disc;
+  list-style: square;
   padding-left: 1.4rem;
 }
 .prose-civic ol {
@@ -255,6 +309,10 @@ html[data-theme="contrast"] img {
 }
 .prose-civic li {
   margin-bottom: 0.4rem;
+}
+.prose-civic li::marker {
+  color: var(--accent);
+}
 }
 
 /* Simple mode: fewer things on screen, bigger targets. */
@@ -265,6 +323,17 @@ html[data-simple="on"] .btn {
   min-height: 60px;
   font-size: 1.1rem;
   padding: 0.8rem 1.4rem;
+}
+
+/* The "Infinity" rings behind the hero slowly turn. */
+@keyframes kyr-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.infinity-spin {
+  animation: kyr-spin 60s linear infinite;
+  transform-origin: center;
 }
 
 /* Reduce motion: honor the OS setting and the manual toggle. */
@@ -297,7 +366,14 @@ html[data-motion="reduce"] *::after {
 }
 
 dialog::backdrop {
-  background: rgb(0 0 0 / 0.55);
+  background: rgb(0 0 0 / 0.7);
+}
+
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
 }
 
 .leaflet-container {

@@ -70,7 +70,7 @@ export function Lineup() {
         <strong>State House District {lineup.districts.stateHouse}</strong>. A <Term k="district">district</Term> is
         the area each official represents.
       </p>
-      <p className="mt-3 rounded-xl border-l-4 border-accent bg-accent-soft p-4">
+      <p className="mt-3 rounded border-l-4 border-accent bg-accent-soft p-4">
         <strong>Tip:</strong> Tap <strong>See where they stand</strong> on any card to see their role, the bills they
         sponsored, and what they say on their own website.
       </p>

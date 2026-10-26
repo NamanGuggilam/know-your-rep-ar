@@ -137,13 +137,17 @@ export const PersonIcon = (p: P) => (
   </Icon>
 );
 
-/** Original diamond mark (Arkansas is the Diamond State). Not a seal or government logo. */
-export function DiamondMark({ size = 40 }: { size?: number }) {
+/**
+ * Original mark: a diamond (Arkansas is the Diamond State) inside "Infinity" rings.
+ * Not a seal, a government logo, or any character's likeness.
+ */
+export function InfinityMark({ size = 40 }: { size?: number }) {
   return (
     <svg width={size} height={size} viewBox="0 0 40 40" aria-hidden="true" focusable="false">
-      <path d="M20 2 37 20 20 38 3 20Z" fill="var(--accent)" />
-      <path d="M20 2 27 20 20 38 13 20Z" fill="var(--accent-ink)" opacity="0.18" />
-      <path d="M3 20h34" stroke="var(--accent-ink)" strokeOpacity="0.35" strokeWidth="1.5" />
+      <circle cx="20" cy="20" r="18.5" fill="none" stroke="var(--accent)" strokeWidth="2" />
+      <circle cx="20" cy="20" r="13" fill="none" stroke="var(--glow)" strokeWidth="1.25" strokeDasharray="2 3" />
+      <path d="M20 9 28 20 20 31 12 20Z" fill="var(--ink)" />
+      <path d="M20 9 23 20 20 31 17 20Z" fill="var(--accent)" />
     </svg>
   );
 }

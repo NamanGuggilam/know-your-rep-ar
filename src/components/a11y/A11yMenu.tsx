@@ -33,7 +33,7 @@ function ChoiceGroup<K extends keyof A11ySettings>({
             <label
               key={id}
               htmlFor={id}
-              className={`flex min-h-12 cursor-pointer items-center gap-2 rounded-lg border-2 px-3 py-2 font-semibold ${
+              className={`flex min-h-12 cursor-pointer items-center gap-2 rounded border-2 px-3 py-2 font-semibold ${
                 checked ? "border-accent bg-accent-soft" : "border-line-soft bg-surface"
               }`}
             >
@@ -73,7 +73,7 @@ export function A11yMenu() {
       <dialog
         ref={ref}
         aria-labelledby="a11y-title"
-        className="m-auto max-h-[90dvh] w-[min(40rem,calc(100vw-2rem))] overflow-y-auto rounded-2xl bg-surface p-0 text-ink"
+        className="panel m-auto max-h-[90dvh] w-[min(40rem,calc(100vw-2rem))] overflow-y-auto bg-surface p-0 text-ink"
         onClick={(e) => {
           if (e.target === ref.current) ref.current.close();
         }}
@@ -105,9 +105,8 @@ export function A11yMenu() {
             name="theme"
             legend="Colors"
             choices={[
-              { value: "system", label: "Match my device" },
+              { value: "dark", label: "Dark (default)" },
               { value: "light", label: "Light" },
-              { value: "dark", label: "Dark" },
               { value: "contrast", label: "High contrast" },
             ]}
           />
@@ -116,7 +115,7 @@ export function A11yMenu() {
             legend="Font"
             hint="OpenDyslexic is a font some people with dyslexia find easier to read."
             choices={[
-              { value: "standard", label: "Standard (Atkinson Hyperlegible)" },
+              { value: "standard", label: "Standard (Atkinson Hyperlegible Next)" },
               { value: "dyslexic", label: "OpenDyslexic" },
             ]}
           />

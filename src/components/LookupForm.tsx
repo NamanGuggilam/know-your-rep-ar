@@ -70,7 +70,7 @@ export function LookupForm() {
 
   return (
     <div>
-      <form onSubmit={onSubmit} noValidate className="card p-5 sm:p-6">
+      <form onSubmit={onSubmit} noValidate className="panel p-5 sm:p-6">
         <label htmlFor="address" className="block text-xl font-extrabold">
           Your home address
         </label>
@@ -92,7 +92,7 @@ export function LookupForm() {
         {status.kind === "error" && (
           <p
             id="address-error"
-            className="mt-3 flex items-start gap-2 rounded-lg border-2 border-line bg-surface-2 p-3 font-semibold"
+            className="mt-3 flex items-start gap-2 rounded border-2 border-line bg-surface-2 p-3 font-semibold"
             role="alert"
           >
             <AlertIcon className="mt-0.5" />
@@ -102,7 +102,7 @@ export function LookupForm() {
         <div className="mt-4 flex flex-wrap gap-3">
           <button type="submit" className="btn btn-primary" disabled={loading}>
             <SearchIcon />
-            Find my representatives
+            Show my ballot
           </button>
           <button type="button" className="btn btn-secondary" onClick={useLocation} disabled={loading}>
             <LocateIcon />

@@ -6,7 +6,7 @@ import type { DistrictShape } from "@/lib/types";
 
 const Inner = dynamic(() => import("./DistrictMapInner"), {
   ssr: false,
-  loading: () => <div className="h-80 w-full rounded-xl bg-surface-2" aria-hidden="true" />,
+  loading: () => <div className="h-80 w-full rounded bg-surface-2" aria-hidden="true" />,
 });
 
 export function DistrictMap({ shapes }: { shapes: DistrictShape[] }) {

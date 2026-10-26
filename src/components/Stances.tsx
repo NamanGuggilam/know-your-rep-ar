@@ -24,7 +24,7 @@ export function Stances({ data, office, name }: { data: StanceFile | null; offic
         show the facts and their own words. We never say if something is good or bad.
       </p>
       {usedAi && (
-        <p className="mt-3 max-w-[65ch] rounded-xl border-2 border-line bg-surface-2 p-4">
+        <p className="mt-3 max-w-[65ch] rounded border-2 border-line bg-surface-2 p-4">
           <strong>About this section:</strong> An AI sorted this information into topics and wrote the short plain-English
           lines. It was told to stay neutral and use only the sources below. Quotes are their exact words, and our code
           checked each one against the original page. Always check the original source before you share something.
@@ -69,7 +69,7 @@ export function Stances({ data, office, name }: { data: StanceFile | null; offic
       )}
 
       {!data ? (
-        <p className="mt-8 rounded-xl border-2 border-line bg-surface-2 p-4">
+        <p className="mt-8 rounded border-2 border-line bg-surface-2 p-4">
           We have not gathered this official&apos;s record yet. See their official page for their bills and positions.
         </p>
       ) : (

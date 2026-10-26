@@ -3,7 +3,7 @@
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
 
 export interface A11ySettings {
-  theme: "system" | "light" | "dark" | "contrast";
+  theme: "dark" | "light" | "contrast";
   text: "1" | "2" | "3" | "4";
   font: "standard" | "dyslexic";
   spacing: "normal" | "relaxed" | "extra";
@@ -12,7 +12,7 @@ export interface A11ySettings {
 }
 
 export const DEFAULTS: A11ySettings = {
-  theme: "system",
+  theme: "dark",
   text: "1",
   font: "standard",
   spacing: "normal",
@@ -27,7 +27,7 @@ export const STORAGE_KEY = "kyr-a11y";
  * Keep it tiny and dependency-free.
  */
 export const BOOT_SCRIPT = `try{var s=JSON.parse(localStorage.getItem("${STORAGE_KEY}")||"{}"),d=document.documentElement;
-if(s.theme&&s.theme!=="system")d.dataset.theme=s.theme;
+if(s.theme==="light"||s.theme==="contrast")d.dataset.theme=s.theme;
 if(s.text&&s.text!=="1")d.dataset.text=s.text;
 if(s.font==="dyslexic")d.dataset.font="dyslexic";
 if(s.spacing&&s.spacing!=="normal")d.dataset.spacing=s.spacing;
@@ -40,7 +40,7 @@ function apply(s: A11ySettings) {
     if (v === undefined) delete d[k];
     else d[k] = v;
   };
-  set("theme", s.theme === "system" ? undefined : s.theme);
+  set("theme", s.theme === "dark" ? undefined : s.theme);
   set("text", s.text === "1" ? undefined : s.text);
   set("font", s.font === "dyslexic" ? "dyslexic" : undefined);
   set("spacing", s.spacing === "normal" ? undefined : s.spacing);
@@ -51,7 +51,11 @@ function apply(s: A11ySettings) {
 function load(): A11ySettings {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? { ...DEFAULTS, ...JSON.parse(raw) } : DEFAULTS;
+    if (!raw) return DEFAULTS;
+    const saved = { ...DEFAULTS, ...JSON.parse(raw) };
+    // Older versions had a "system" theme and a "dark" theme with different colors.
+    if (!["dark", "light", "contrast"].includes(saved.theme)) saved.theme = "dark";
+    return saved;
   } catch {
     return DEFAULTS;
   }

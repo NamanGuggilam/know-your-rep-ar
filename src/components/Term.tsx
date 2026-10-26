@@ -22,7 +22,7 @@ export function Term({ k, children }: { k: GlossaryKey; children: React.ReactNod
       <span
         id={id}
         hidden={!open}
-        className="my-2 block rounded-lg border-l-4 border-accent bg-accent-soft px-3 py-2 text-base"
+        className="my-2 block rounded border-l-4 border-accent bg-accent-soft px-3 py-2 text-base"
       >
         <strong>Meaning: </strong>
         {GLOSSARY[k]}

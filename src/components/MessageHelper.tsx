@@ -61,7 +61,7 @@ export function MessageHelper({ official }: { official: Props }) {
 
   return (
     <div>
-      <p className="rounded-xl border-l-4 border-accent bg-accent-soft p-4">
+      <p className="rounded border-l-4 border-accent bg-accent-soft p-4">
         <strong>Tip:</strong> Short, personal messages work best. You don&apos;t need fancy words. Just say what matters to
         you and what you want them to do.
       </p>

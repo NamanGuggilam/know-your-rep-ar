@@ -5,8 +5,8 @@ export const DISCLAIMER =
 
 export function SiteFooter() {
   return (
-    <footer className="mt-16 border-t border-line-soft bg-surface-2">
-      <div className="mx-auto max-w-5xl px-4 py-8">
+    <footer className="mt-20 border-t-2 border-line-soft bg-surface">
+      <div className="mx-auto max-w-6xl px-4 py-10">
         <p className="mb-4 max-w-[68ch] font-semibold">{DISCLAIMER}</p>
         <nav aria-label="Footer">
           <ul className="flex flex-wrap gap-x-5 gap-y-2">
