@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { ListenButton } from "@/components/a11y/ListenButton";
 import { ArrowIcon } from "@/components/icons";
 import { Lookup } from "@/components/Lookup";
 
@@ -7,7 +6,7 @@ export default function Home() {
   return (
     <>
       <section aria-labelledby="hero-heading" className="mb-8">
-        <div id="hero">
+        <div>
           <h1 id="hero-heading" className="text-4xl leading-tight font-extrabold sm:text-5xl">
             Who represents you?
           </h1>
@@ -18,9 +17,6 @@ export default function Home() {
           <p className="mt-3 max-w-[60ch] text-xl font-bold text-accent">
             Your voice matters. Your representatives work for you.
           </p>
-        </div>
-        <div className="mt-4">
-          <ListenButton targetId="hero" label="Listen" />
         </div>
       </section>
 
