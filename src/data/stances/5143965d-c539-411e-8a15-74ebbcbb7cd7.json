@@ -1,0 +1,321 @@
+{
+  "id": "5143965d-c539-411e-8a15-74ebbcbb7cd7",
+  "name": "Andrew Collins",
+  "generatedAt": "2026-10-26T02:44:33.525Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Real Estate"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE STATE AGENCIES & REORGAN. SUBCOM"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE COURTS & CIVIL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1008",
+          "title": "TO REQUIRE MEDICAID COVERAGE FOR POSTPARTUM MOTHERS FOR ONE YEAR AFTER GIVING BIRTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1008&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1009",
+          "title": "TO ALLOW PREGNANCY TO BE A QUALIFYING EVENT FOR ENROLLMENT IN CERTAIN HEALTH BENEFIT PLANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1009&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1010",
+          "title": "TO SET THE REIMBURSEMENT RATE IN THE ARKANSAS MEDICAID PROGRAM FOR MATERNAL HEALTH SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1010&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1011",
+          "title": "TO CREATE THE RESTORE ROE ACT; AND TO RESTORE A WOMAN'S ACCESS TO ABORTION SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1011&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1012",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO EXTEND ELIGIBILITY TO CERTAIN INDIVIDUALS FOR FAMILY PLANNING SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1012&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1014",
+          "title": "TO REQUIRE COVERAGE OF IN VITRO FERTILIZATION UNDER THE STATE AND PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1014&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1017",
+          "title": "TO AMEND THE LAW REGARDING PAID MATERNITY LEAVE FOR PUBLIC SCHOOL EMPLOYEES; AND TO REQUIRE THE DIVISION OF ELEMENTARY AND SECONDARY EDUCATION TO PAY FOR INCURRED COSTS FOR APPROVED PAID MATERNITY LEAVE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1017&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 904)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1020",
+          "title": "TO REPEAL THE ARKANSAS CHILDREN'S EDUCATIONAL FREEDOM ACCOUNT PROGRAM; TO CREATE A NEW EDUCATION FUNDING CATEGORY FOR STUDENTS WHO RECEIVE SPECIAL EDUCATION AND RELATED SERVICES; AND TO CREATE THE COMMUNITY SCHOOLS ACT FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1020&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1022",
+          "title": "TO REPEAL PERFORMANCE-BASED INCENTIVE AWARDS FOR PUBLIC SCHOOLS AND OPEN-ENROLLMENT PUBLIC CHARTER SCHOOLS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1022&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1023",
+          "title": "TO AMEND THE STATE TEACHER EDUCATION PROGRAM; AND TO AMEND THE ELIGIBILITY REQUIREMENTS FOR LOAN FORGIVENESS AND THE LOAN REPAYMENT AMOUNTS UNDER THE STATE TEACHER EDUCATION PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1023&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1024",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC EMPLOYEES; AND TO REPEAL THE LAW PROHIBITING COLLECTIVE BARGAINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1024&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1026",
+          "title": "TO CREATE THE ARKANSAS PROMISE ACT; AND TO CREATE AN INCOME TAX CREDIT FOR TUITION PAID FOR AN ELIGIBLE STUDENT AT A PUBLIC INSTITUTION OF HIGHER EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1026&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1028",
+          "title": "TO AMEND PROVISIONS OF THE LAW CONCERNING OBSCENITY AND THE PROCESS FOR CHALLENGING MATERIALS INCLUDED IN A LIBRARY; AND TO REQUIRE A LIBRARY TO HAVE A POLICY PROHIBITING BOOK BANNING IN ORDER TO RECEIVE STATE FUNDING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1028&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1032",
+          "title": "TO BAN CONVERSION THERAPY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1032&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1034",
+          "title": "AN ACT FOR THE DEPARTMENT OF HUMAN SERVICES - DIVISION OF AGING, ADULT, AND BEHAVIORAL HEALTH SERVICES FISCAL YEAR 2025-2026 CAPITAL IMPROVEMENT APPROPRIATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1034&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1035",
+          "title": "TO CREATE THE ONLINE VOTER REGISTRATION ACT OF 2025; TO ALLOW ONLINE VOTER REGISTRATION; TO AMEND ARKANSAS CONSTITUTION, AMENDMENT 51; AND TO AMEND THE DUTIES OF THE SECRETARY OF STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1035&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1036",
+          "title": "TO AMEND THE LAW CONCERNING VOTER REGISTRATION; TO ALLOW VOTER REGISTRATION DURING EARLY VOTING AND ON ELECTION DAY; AND TO AMEND PROVISIONS OF ARKANSAS CONSTITUTION, AMENDMENT 51.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1036&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1037",
+          "title": "AN ACT TO CREATE THE PREREGISTRATION TO VOTE ACT; AND TO AMEND PROVISIONS OF ARKANSAS CONSTITUTION, AMENDMENT 51, UNDER THE AUTHORITY GRANTED BY ARKANSAS CONSTITUTION, AMENDMENT 51, § 19.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1037&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1038",
+          "title": "TO CREATE THE NO-EXCUSE ABSENTEE VOTING ACT OF 2025; TO AMEND THE LAW CONCERNING ABSENTEE VOTING; AND TO REPEAL VOTER QUALIFICATIONS FOR ABSENTEE VOTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1038&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1039",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING ABSENTEE BALLOTS; AND TO AMEND ARKANSAS LAW CONCERNING ELECTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1039&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1040",
+          "title": "TO CREATE THE WATER IN LINE ACT OF 2025; AND TO AMEND THE LAW CONCERNING PENALTIES FOR MISDEMEANOR OFFENSES RELATED TO VOTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1040&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1042",
+          "title": "TO CREATE THE DIRECT DEMOCRACY ACT OF 2025; TO REPEAL THE ENSURING ACCESS FOR ALL ARKANSANS AND VOTER PROTECTION ACT OF 2023; AND TO AMEND THE PROCEDURE FOR THE FILING OF A BALLOT INITIATIVE PETITION AND REFERENDUM PETITION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1042&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1043",
+          "title": "TO REQUIRE DISCLOSURE AND REPORTING OF NONCANDIDATE EXPENDITURES PERTAINING TO APPELLATE JUDICIAL ELECTIONS; AND TO ADOPT NEW LAWS CONCERNING APPELLATE JUDICIAL CAMPAIGNS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1043&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1239",
+          "title": "TO AMEND THE PUBLIC SCHOOL FUNDING ACT OF 2003; AND TO ADD AN ADDITIONAL CATEGORY OF FUNDING FOR SPECIAL EDUCATION FUNDING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1239&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1318",
+          "title": "TO AMEND THE EXCURSION TRAIN PERMIT TO INCLUDE EXCURSION BOATS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1318&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 113)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1449",
+          "title": "TO AMEND THE LAW CONCERNING REPORTS OF CONTRIBUTIONS FOR A CANDIDATE FOR STATE OR DISTRICT OFFICE; TO EXTEND THE DEADLINE FOR FINAL REPORTS; AND TO AMEND PORTIONS OF LAW RESULTING FROM INITIATED ACT 1 OF 1990.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1449&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 250)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1539",
+          "title": "TO AMEND THE PUBLIC SCHOOL FUNDING ACT OF 2003; AND TO ADD AN ADDITIONAL EDUCATION CATEGORY OF FUNDING FOR SPECIAL EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1808",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL FIRE DEPARTMENTS; AND TO CREATE THE BILL OF RIGHTS FOR FIREFIGHTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1808&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 686)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1951",
+          "title": "TO SET FORTH AUTHORIZED DOMAIN EXTENSIONS FOR HIGHER EDUCATION AND GOVERNMENT WEBSITES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1951&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 929)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1994",
+          "title": "TO AMEND THE LAW CONCERNING SELF-SERVICE STORAGE FACILITIES; AND TO REQUIRE NOTIFICATION BY A SELF-SERVICE STORAGE FACILITY TO AN OCCUPANT WHEN THE OCCUPANT'S LEASED SPACE IS COMPROMISED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1994&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1001",
+          "title": "A CONSTITUTIONAL AMENDMENT TO CREATE THE CITIZENS' REDISTRICTING COMMISSION AND TO REPEAL THE BOARD OF APPORTIONMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1001&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1003",
+          "title": "THE ARKANSAS GOVERNMENT DISCLOSURE AMENDMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1003&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=A.+Collins"
+    }
+  ],
+  "removedByChecks": 0
+}

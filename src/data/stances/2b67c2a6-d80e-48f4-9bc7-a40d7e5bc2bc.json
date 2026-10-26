@@ -1,0 +1,285 @@
+{
+  "id": "2b67c2a6-d80e-48f4-9bc7-a40d7e5bc2bc",
+  "name": "Matt Stone",
+  "generatedAt": "2026-10-26T02:44:41.041Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Calhoun, Dallas, Part Grant, Ouachita, Union"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "SENATE ETHICS COMMITTEE"
+    },
+    {
+      "name": "SENATE RULES, RESOLUTIONS & MEMORIALS"
+    },
+    {
+      "name": "TRANSPORTATION, TECHNOLOGY & LEGISLATIVE AFFAIRS - SENATE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB224",
+          "title": "TO REPEAL THE LAW CONCERNING NATURAL ORGANIC FERTILIZERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB224&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 290)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB249",
+          "title": "TO AMEND THE LAW CONCERNING VIOLATIONS AND PENALTIES RELATED TO FORESTRY; AND TO AMEND THE POWERS OF THE ARKANSAS FORESTRY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB249&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 291)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB250",
+          "title": "TO AMEND THE PEST CONTROL LAW; AND TO REASSIGN CERTAIN DUTIES OF THE STATE PLANT BOARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB250&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 292)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB251",
+          "title": "TO AMEND THE LAW CONCERNING THE EXECUTIVE SECRETARY OF THE ARKANSAS TRAILS COUNCIL; AND TO AMEND THE LAW CONCERNING THE PARTICIPATION OF THE DEPARTMENT OF PARKS, HERITAGE, AND TOURISM ON THE ARKANSAS TRAILS COUNCIL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB251&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 276)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB312",
+          "title": "TO REMOVE THE MORATORIUM ON THE CONSTRUCTION OR ADDITION OF ANY ADDITIONAL BEDS WITHIN PSYCHIATRIC RESIDENTIAL TREATMENT FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB312&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB352",
+          "title": "TO PROHIBIT ANTISEMITISM IN PUBLIC ELEMENTARY AND SECONDARY SCHOOLS; AND TO PROHIBIT ANTISEMITISM IN STATE-SUPPORTED INSTITUTIONS OF HIGHER EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB352&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 721)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB375",
+          "title": "TO CREATE THE OFFENSE OF CAPITAL RAPE; AND TO AMEND A PORTION OF ARKANSAS CODE WHICH RESULTED FROM INITIATED ACT 3 OF 1936.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB375&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 662)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB473",
+          "title": "TO AMEND THE DUTIES OF THE ARKANSAS FIRE PROTECTION SERVICES BOARD; AND TO PROVIDE FOR THE ARKANSAS FIRE PROTECTION SERVICES BOARD TO ADVISE THE ARKANSAS FIRE TRAINING ACADEMY ON CERTAIN MATTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB473&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR3",
+          "title": "TO RECOGNIZE AND CELEBRATE ARKANSAS FORESTRY DAY AT THE STATE CAPITOL ON JANUARY 21, 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR3&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1303",
+          "title": "TO CREATE THE SUSTAINABLE AVIATION FUEL INCENTIVE ACT; AND TO CREATE AN INCOME TAX CREDIT RELATED TO SUSTAINABLE AVIATION FUEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1303&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 546)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1411",
+          "title": "TO CLARIFY THE REGULATION OF CARBON CAPTURE AND SEQUESTRATION; AND TO ESTABLISH THE CARBON DIOXIDE STORAGE FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1411&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 149)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1412",
+          "title": "TO CLARIFY REGULATION OF PIPELINE SAFETY AUTHORIZATION FOR TRANSPORTATION OF HAZARDOUS LIQUIDS OR CARBON DIOXIDE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1412&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 150)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1413",
+          "title": "TO AMEND THE LAW CONCERNING BRINE PRODUCTION; AND TO AMEND THE LAW CONCERNING THE FORMATION OF BRINE PRODUCTION UNITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1413&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 254)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1441",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS COORDINATE SYSTEM OF 1983.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1441&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 214)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1487",
+          "title": "TO AMEND THE NUMBER OF COMMISSIONERS ON THE ARKANSAS FORESTRY COMMISSION'S COMMITTEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1487&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 212)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1688",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE USE OF A DEALER'S EXTRA LICENSE PLATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1688&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 710)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1834",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE LICENSING AND REGULATION OF MOTOR VEHICLES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1834&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 816)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1852",
+          "title": "TO ESTABLISH A RIGHT TO REPAIR FOR CERTAIN AGRICULTURAL EQUIPMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1852&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1913",
+          "title": "TO AMEND THE LAW CONCERNING DRIVER'S LICENSES; AND TO AMEND THE LAW CONCERNING THE QUALIFICATIONS FOR AN INTERMEDIATE DRIVER'S LICENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1913&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 928)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1937",
+          "title": "TO AMEND THE METHOD OF VALUATION FOR MINERAL RIGHTS UNDER ARKANSAS CONSTITUTION, ARTICLE 16, § 5; AND TO CLARIFY THE METHOD OF VALUATION FOR OIL AND GAS WELL PRODUCTION EQUIPMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1937&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 821)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1960",
+          "title": "TO PROVIDE THAT THE LESSEE OF A LEASED MOTOR VEHICLE IS THE OWNER FOR PURPOSES OF THE ASSESSMENT AND PAYMENT OF PROPERTY TAXES; AND TO AMEND THE LAW CONCERNING LOCAL SALES AND USE TAXES ON CERTAIN TANGIBLE PERSONAL PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1960&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1013)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Stone"
+    }
+  ],
+  "removedByChecks": 0
+}

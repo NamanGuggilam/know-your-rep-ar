@@ -1,0 +1,149 @@
+{
+  "id": "4dc31c5c-a5a5-417f-bbaa-d99442259b4f",
+  "name": "Alyssa Brown",
+  "generatedAt": "2026-10-26T02:44:33.167Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Cleburne, Part Stone"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 44 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1142",
+          "title": "TO CREATE THE REPRODUCTIVE EMPOWERMENT AND SUPPORT THROUGH OPTIMAL RESTORATION (RESTORE) ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1142&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 859)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1554",
+          "title": "TO CREATE THE ASSISTED REPRODUCTIVE TECHNOLOGY REPORTING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1554&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1795",
+          "title": "TO CREATE THE FERTILITY CLINIC LICENSURE ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1795&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1112",
+          "title": "TO RECOGNIZE THE WEST SIDE GREERS FERRY HIGH SCHOOL LADY EAGLES BASKETBALL TEAM AS THE 2025 CLASS 1A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1112&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB223",
+          "title": "TO CREATE THE RELIGIOUS RIGHTS AT PUBLIC SCHOOLS ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB223&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 400)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB293",
+          "title": "TO AMEND THE LAW CONCERNING THE REQUIRED POSTINGS AT A POLLING SITE; AND TO AMEND THE LIST CONCERNING REQUIRED POSTING OF NOTICES, INFORMATION, AND MATERIAL AT A POLLING SITE ON ELECTION DAY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB293&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 487)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB299",
+          "title": "TO REQUIRE A STAFF MEMBER TO WITNESS AN ADMINISTRATOR ASSISTING A RESIDENT OF A LONG-TERM RESIDENTIAL CARE FACILITY WITH ABSENTEE VOTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB299&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 403)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB433",
+          "title": "REGARDING THE DISPLAY OF THE NATIONAL MOTTO AND THE TEN COMMANDMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB433&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 573)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB520",
+          "title": "TO PROHIBIT DIVERSITY, EQUITY, AND INCLUSION OFFICES, OFFICERS, POLICIES, OR PRACTICES IN LOCAL GOVERNMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB520&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 747)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB561",
+          "title": "TO ALLOW FOR THE ISSUANCE OF AN ADDITIONAL TEMPORARY PREPRINTED PAPER BUYER'S TAG IN CERTAIN CIRCUMSTANCES; AND TO CREATE A PENALTY FOR THE USE OF AN EXPIRED TEMPORARY PREPRINTED PAPER BUYER'S TAG.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB561&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=A.+Brown"
+    }
+  ],
+  "removedByChecks": 0
+}

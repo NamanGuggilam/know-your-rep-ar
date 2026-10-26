@@ -1,0 +1,210 @@
+{
+  "id": "240d9f6e-15f1-41eb-acbb-733861936e5b",
+  "name": "John Maddox",
+  "generatedAt": "2026-10-26T02:44:38.559Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Howard, Montgomery, Polk"
+    },
+    {
+      "label": "Occupation",
+      "value": "Attorney"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE FINANCIAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE INSURANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE UTILITIES SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 44 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1196",
+          "title": "TO SEPARATE THE OFFICES OF SHERIFF AND TAX COLLECTOR IN MONTGOMERY COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1196&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 160)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1502",
+          "title": "TO AMEND THE LAW CONCERNING THE REGISTRATION AND LICENSING OF A HISTORIC OR SPECIAL INTEREST VEHICLE; AND TO AMEND THE LAW CONCERNING ANTIQUE MOTOR VEHICLE SPECIAL LICENSE PLATES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1502&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 325)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1752",
+          "title": "TO EXEMPT CERTAIN SAVINGS PLANS FROM THE EXECUTION OF A JUDGMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1752&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 681)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1922",
+          "title": "TO AMEND THE CONSOLIDATED INCENTIVE ACT OF 2003; TO CREATE AN INCOME TAX CREDIT FOR RELOCATING CORPORATE HEADQUARTERS TO THIS STATE; AND TO ENCOURAGE CORPORATIONS TO RELOCATE TO ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1922&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 881)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1923",
+          "title": "TO AMEND THE ARKANSAS TOURISM DEVELOPMENT ACT; AND TO AMEND THE LAW CONCERNING NATURAL STATE INITIATIVE OPPORTUNITY ZONES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1923&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 838)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1981",
+          "title": "TO AMEND THE DEFINITIONS OF \"OUTDOOR RECREATION OPERATOR\" AND \"TRAMWAY OPERATOR UNDER THE LAW CONCERNING RECREATIONAL TRAMWAYS\".",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1981&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB203",
+          "title": "TO AMEND THE LAW CONCERNING OUTDOOR RECREATION ACTIVITIES AND RECREATIONAL TRAMWAYS; AND TO CREATE A RECREATIONAL TRAMWAY SYSTEM FOR STATE PARKS AND FOR OTHER LOCATIONS IN THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB203&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 155)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB319",
+          "title": "TO AMEND THE UNIFORM LIMITED LIABILITY COMPANY ACT; AND TO CLARIFY CHARGING ORDERS UNDER THE UNIFORM LIMITED LIABILITY COMPANY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB319&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 461)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB358",
+          "title": "TO AMEND VARIOUS LAWS RELATED TO HIGHER EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB358&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB392",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE CLASSIFICATION AND COMPENSATION OF STATE EMPLOYEES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB392&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 499)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB405",
+          "title": "TO AMEND THE ONLINE MARKETPLACE CONSUMER INFORM ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB405&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 555)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB417",
+          "title": "TO AMEND VARIOUS LAWS RELATED TO HIGHER EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB417&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 402)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB483",
+          "title": "TO REPEAL CERTAIN REPORTING REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT AND THE STATE SECURITIES DEPARTMENT; AND TO REVISE CERTAIN REPORTING REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB483&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 957)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB565",
+          "title": "TO ALLOW PROCUREMENT CERTIFICATIONS TO BE COMBINED; TO AMEND THE LAW CONCERNING THE REPRESENTATION IN STATE CONTRACTS REGARDING CONTINGENT FEES; AND TO AMEND THE COOPERATIVE PURCHASING REPORTING DEADLINE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB565&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 936)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB98",
+          "title": "TO AMEND THE LAW REGARDING ALCOHOLIC BEVERAGES; TO AUTHORIZE THE THIRD-PARTY DELIVERY OF ALCOHOLIC BEVERAGES FROM CERTAIN RETAILERS; AND TO CREATE A THIRD-PARTY DELIVERY PERMIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB98&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 157)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Maddox"
+    }
+  ],
+  "removedByChecks": 0
+}

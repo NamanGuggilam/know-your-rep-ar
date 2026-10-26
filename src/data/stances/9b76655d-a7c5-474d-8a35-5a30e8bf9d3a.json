@@ -1,0 +1,115 @@
+{
+  "id": "9b76655d-a7c5-474d-8a35-5a30e8bf9d3a",
+  "name": "Rick McClure",
+  "generatedAt": "2026-10-26T02:44:42.391Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Hot Springs, Part Saline"
+    },
+    {
+      "label": "Occupation",
+      "value": "Pastor, Economic Developer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 42 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1566",
+          "title": "TO REQUIRE ADOPTION OF A STATEWIDE PRACTICAL NURSING PROGRAM CORE CURRICULUM TO INCREASE CONSISTENCY IN PRACTICAL NURSING EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1566&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1567",
+          "title": "TO AMEND THE DEFINITION OF \"MOTOR VEHICLE RACING FACILITY\" RELATING TO MOTOR VEHICLE RACING FACILITY PERMITS IN CERTAIN LOCATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1567&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1920",
+          "title": "TO TRANSFER GENERAL REVENUE TO THE AGING AND ADULT SERVICES FUND ACCOUNT TO BE USED FOR FOOD SERVICES BENEFITING THE ELDERLY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1920&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB412",
+          "title": "TO AUTHORIZE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO SET THE PER-MILE AMOUNT FOR THE INCOME TAX DEDUCTION FOR TRAVEL AND TRANSPORTATION EXPENSES BY PROCLAMATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB412&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 614)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McClure"
+    }
+  ],
+  "removedByChecks": 0
+}

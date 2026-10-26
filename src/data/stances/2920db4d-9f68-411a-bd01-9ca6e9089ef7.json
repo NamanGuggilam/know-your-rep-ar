@@ -1,0 +1,161 @@
+{
+  "id": "2920db4d-9f68-411a-bd01-9ca6e9089ef7",
+  "name": "Jon Milligan",
+  "generatedAt": "2026-10-26T02:44:38.933Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Craighead, Part Mississippi"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; Majority Party Whip 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE MOTOR VEHICLE & HIGHWAYS SUBCOM."
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE WATERWAYS & AERONAUTICS SUBCOM."
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 50 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1759",
+          "title": "TO INCREASE THE AMOUNT OF TIME A TAXPAYER HAS TO ASSESS TANGIBLE PERSONAL PROPERTY ACQUIRED DURING A CERTAIN TIME PERIOD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1759&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 551)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1760",
+          "title": "TO AMEND THE LAW CONCERNING THE JURISDICTION TO CONSIDER CERTAIN PETITIONS FOR THE ADJUSTMENT OF A PROPERTY ASSESSMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1760&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 486)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1901",
+          "title": "TO AMEND THE LAW CONCERNING PASSPORT FEES COLLECTED BY COUNTY PASSPORT ACCEPTANCE FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1901&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 844)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1902",
+          "title": "TO AMEND THE LAW CONCERNING A CERTIFICATE OF MARRIAGE AND BOND; AND TO AMEND THE LAW CONCERNING A LOST, BURNED, OR DESTROYED CERTIFICATE OF MARRIAGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1902&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 845)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB14",
+          "title": "TO ALLOW FOR THE DIRECT PAYMENT OR DELIVERY OF PROPERTY TO AN APPARENT OWNER UNDER THE UNCLAIMED PROPERTY ACT IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB14&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 114)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB400",
+          "title": "TO AMEND THE FAIR-FUNDING PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB400&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 933)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB553",
+          "title": "TO AMEND THE ARKANSAS MUNICIPAL ACCOUNTING LAW; TO AMEND THE DUTIES OF A MUNICIPAL TREASURER; AND TO REQUIRE TRAINING FOR AN INDIVIDUAL CHARGED WITH DUTIES UNDER THE ARKANSAS MUNICIPAL ACCOUNTING LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB553&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 671)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB594",
+          "title": "TO AMEND THE LAW CONCERNING EXEMPTIONS FOR CERTIFICATES OF PUBLIC CONVENIENCE AND NECESSITY FOR NEW CONSTRUCTION TO SUPPLY A PUBLIC SERVICE OR TO EXTEND A PUBLIC SERVICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB594&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 705)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Milligan"
+    }
+  ],
+  "removedByChecks": 0
+}

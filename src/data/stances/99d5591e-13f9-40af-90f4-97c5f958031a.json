@@ -1,0 +1,219 @@
+{
+  "id": "99d5591e-13f9-40af-90f4-97c5f958031a",
+  "name": "Joey Carr",
+  "generatedAt": "2026-10-26T02:44:38.539Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Mississippi"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "HOUSE MANAGEMENT"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE WATERWAYS & AERONAUTICS SUBCOM."
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 45 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1236",
+          "title": "TO ALLOW A PUBLIC SCHOOL EMPLOYEE TO BE RELEASED FROM HIS OR HER CONTRACT BY A CERTAIN DATE UPON HIS OR HER WRITTEN REQUEST; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1236&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 53)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1418",
+          "title": "TO PROHIBIT LOCAL GOVERNMENT REGULATION OF KNIVES OR KNIFE-MAKING COMPONENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1418&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 161)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1474",
+          "title": "CONCERNING THE PREVENTION OF HUMAN TRAFFICKING; AND TO REQUIRE THE DISPLAY OF INFORMATION ABOUT THE NATIONAL HUMAN TRAFFICKING HOTLINE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1474&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 484)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1475",
+          "title": "TO AUTHORIZE THE USE OF GREEN LIGHTS; TO AMEND THE RESTRICTIONS ON LAMP COLORS; TO AMEND THE COLORS OF LIGHTS THAT MAY BE USED BY EMERGENCY VEHICLES; AND TO DEFINE A ROADWAY CONSTRUCTION OR MAINTENANCE VEHICLE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1475&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 209)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1697",
+          "title": "TO AMEND PROVISIONS OF TITLE 6 AND TITLE 19 OF THE ARKANSAS CODE CONCERNING PROVISIONAL POSITIONS AND MOTOR VEHICLE RESTRICTIONS FOR STATE-SUPPORTED INSTITUTIONS OF HIGHER EDUCATION; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1697&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 477)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1712",
+          "title": "TO ESTABLISH THE SOCIAL WORK LICENSURE COMPACT IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1712&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 639)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1733",
+          "title": "TO AMEND VARIOUS PROVISIONS OF THE ARKANSAS CODE CONCERNING THE ARKANSAS BETTER CHANCE PROGRAM ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1733&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 504)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1757",
+          "title": "TO AMEND THE LAW CONCERNING RAILROADS; AND TO CREATE THE OFFENSE OF TAMPERING WITH RAIL INFRASTRUCTURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1757&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 528)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1803",
+          "title": "TO AMEND THE LAW CONCERNING THE PLACEMENT OF A MONUMENT ON THE STATE CAPITOL GROUNDS IN RECOGNITION AND HONOR OF MAURICE LEE “FOOTSIE” BRITT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1803&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 657)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1810",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE CONCERNING THE ARKANSAS SCHOOL FOR THE BLIND AND THE ARKANSAS SCHOOL FOR THE DEAF; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1810&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 796)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1938",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE CONCERNING THE CREATION OF DISTRICT STRATEGIC PLANS AND THE RESPONSIBILITY OF THE DIVISION OF ELEMENTARY AND SECONDARY EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1938&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 807)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1939",
+          "title": "TO AMEND ELIGIBILITY FOR TEACHER INCENTIVE AND MERIT PAY; TO AMEND REQUIREMENTS FOR SUMMATIVE EVALUATIONS; AND TO AMEND SCHOOL DISTRICT REQUIREMENTS UNDER THE MERIT TEACHER INCENTIVE FUND PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1939&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 808)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1941",
+          "title": "CONCERNING DEPARTMENT OF EDUCATION BOARDS AND COMMISSIONS; AND TO PROTECT ARKANSAS STUDENTS BY ENSURING THE EFFICIENT DISPOSITION OF ETHICS COMPLAINTS AGAINST TEACHERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1941&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 809)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1948",
+          "title": "TO AMEND THE CONDITIONS UNDER WHICH THE OFFENSE OF NEGLIGENT HOMICIDE IS COMMITTED; AND TO REPEAL THE ABILITY OF A PROSECUTING ATTORNEY OR DEFENDANT TO SUBPOENA CERTAIN INDIVIDUALS BEFORE A HEARING OR TRIAL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1948&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1037",
+          "title": "TO RECOGNIZE AND CELEBRATE NUCOR DAY AT THE STATE CAPITOL ON FEBRUARY 19, 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1037&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB274",
+          "title": "TO CREATE A SALES AND USE TAX EXEMPTION FOR CERTAIN ITEMS RELATED TO HUMAN BURIAL; AND TO EXEMPT A PORTION OF THE PURCHASE PRICE OF A CASKET, BURIAL VAULT, OR MONUMENT FROM SALES AND USE TAX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB274&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB429",
+          "title": "TO EXPAND THE SEALING OF CRIMINAL RECORDS FOR VICTIMS OF HUMAN TRAFFICKING; TO PROVIDE THAT VICTIMS OF HUMAN TRAFFICKING HAVE CERTAIN RIGHTS; AND TO PROVIDE A MANDATORY NO-CONTACT ORDER IN A HUMAN TRAFFICKING CASE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB429&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 665)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1019",
+          "title": "TO RECOGNIZE AND CELEBRATE NUCOR DAY AT THE STATE CAPITOL ON APRIL 15, 2026.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1019&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Joey+Carr"
+    }
+  ],
+  "removedByChecks": 0
+}

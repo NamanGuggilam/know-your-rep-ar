@@ -1,0 +1,157 @@
+{
+  "id": "dfa1d0ff-842e-49d2-baa7-41525816070e",
+  "name": "John Carr",
+  "generatedAt": "2026-10-26T02:44:38.568Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Occupation",
+      "value": "Project Manager"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 23 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1070",
+          "title": "TO CREATE THE BALLOT DRAW STANDARDIZATION ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1070&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1077",
+          "title": "TO RECOGNIZE THE ROGERS HERITAGE HIGH SCHOOL WAR EAGLES BOYS' WRESTLING TEAM AS THE CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1077&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB251",
+          "title": "TO AMEND THE LAW CONCERNING THE EXECUTIVE SECRETARY OF THE ARKANSAS TRAILS COUNCIL; AND TO AMEND THE LAW CONCERNING THE PARTICIPATION OF THE DEPARTMENT OF PARKS, HERITAGE, AND TOURISM ON THE ARKANSAS TRAILS COUNCIL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB251&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 276)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB404",
+          "title": "TO REQUIRE NOTIFICATION TO THE DEPARTMENT OF FINANCE AND ADMINISTRATION OF THE PROBATE OF AN ESTATE IF THE DEPARTMENT OF FINANCE AND ADMINISTRATION HAS FILED A CERTIFICATE OF INDEBTEDNESS AGAINST THE DECEDENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB404&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1027",
+          "title": "TO RECOGNIZE THE ROGERS HERITAGE HIGH SCHOOL WAR EAGLES AS THE 2025 6A BOYS SOCCER STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1027&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1028",
+          "title": "TO RECOGNIZE THE ROGERS HIGH SCHOOL LADY MOUNTIES GIRLS' CROSS COUNTRY TEAM AS THE 2024 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1028&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1029",
+          "title": "TO RECOGNIZE THE ROGERS HIGH SCHOOL MOUNTIES BASEBALL TEAM AS THE 2025 6A BASEBALL STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1029&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1030",
+          "title": "TO RECOGNIZE THE ROGERS HIGH SCHOOL MOUNTIES BOYS' TENNIS TEAM FOR WINNING THE 2024 CLASS 6A STATE TENNIS TOURNAMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1030&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1031",
+          "title": "TO RECOGNIZE THE ROGERS HIGH SCHOOL LADY MOUNTIES GIRLS' WRESTLING TEAM AS THE 2026 CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1031&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1032",
+          "title": "TO RECOGNIZE THE ROGERS HIGH SCHOOL MOUNTIES BOYS GOLF TEAM AS THE 2025 CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1032&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=John+Carr"
+    }
+  ],
+  "removedByChecks": 0
+}

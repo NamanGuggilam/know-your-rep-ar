@@ -1,0 +1,104 @@
+{
+  "id": "192e3368-5acb-4ace-9909-fdc02ff2c3d3",
+  "name": "Glenn Barnes",
+  "generatedAt": "2026-10-26T02:44:36.661Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Arkansas, Part Jefferson"
+    },
+    {
+      "label": "Occupation",
+      "value": "Pastor"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 27 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1331",
+          "title": "TO REQUIRE A COUNTY TO CONTINUE TO OPERATE UNDER THE ANNUAL APPROPRIATION ORDINANCE FOR THE PRIOR YEAR IF A NEW ANNUAL APPROPRIATION ORDINANCE IS NOT ADOPTED; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1331&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB182",
+          "title": "TO REQUIRE A LOCAL GOVERNMENT TO CONTINUE TO OPERATE UNDER THE ANNUAL APPROPRIATION ORDINANCE FOR THE PREVIOUS YEAR UNTIL A NEW APPROPRIATION ORDINANCE IS ADOPTED; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB182&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 24)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Barnes"
+    }
+  ],
+  "removedByChecks": 0
+}

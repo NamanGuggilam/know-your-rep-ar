@@ -1,0 +1,139 @@
+{
+  "id": "8f4c182b-d257-45b7-8c34-c4c1f12bb4f6",
+  "name": "Hope Duke",
+  "generatedAt": "2026-10-26T02:44:36.994Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 28 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1640",
+          "title": "TO AMEND THE DEFINITION OF \"ADMINISTRATOR\" AS IT RELATES TO ETHICAL GUIDELINES AND PROHIBITIONS; AND TO AMEND THE RESTRICTIONS ON EMPLOYMENT SPECIFIC TO PUBLIC SCHOOL ADMINISTRATORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1640&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 476)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1705",
+          "title": "TO REQUIRE INFORMATION CONCERNING HOW THE RELIGIOUS AND MORAL BELIEFS OF THE FOUNDING FATHERS INFLUENCED THE FOUNDING OF THE UNITED STATES TO BE EMBEDDED INTO EXISTING SOCIAL STUDIES STANDARDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1705&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 478)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1793",
+          "title": "TO AMEND THE LAW CONCERNING THE USE OF POSITIVE BEHAVIORAL SUPPORTS IN PUBLIC SCHOOL DISTRICTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1793&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 804)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1794",
+          "title": "TO AMEND THE LAW CONCERNING CONTINUING EDUCATION REQUIREMENTS FOR REAL ESTATE LICENSEES; AND TO CREATE CONTINUING EDUCATION EXEMPTIONS FOR CERTAIN REAL ESTATE BROKER LICENSEES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1794&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 559)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1097",
+          "title": "TO RECOGNIZE THE GRAVETTE HIGH SCHOOL LIONS WRESTLING TEAM AS THE 2025 CLASS 4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1097&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB164",
+          "title": "TO AUTHORIZE A PUBLIC SCHOOL TO EMPLOY OR ACCEPT AS A VOLUNTEER A CHAPLAIN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB164&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB314",
+          "title": "TO AMEND THE LAW CONCERNING SEXUAL SOLICITATION; AND TO AMEND THE PENALTIES FOR THE OFFENSE OF SEXUAL SOLICITATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB314&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 661)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Duke"
+    }
+  ],
+  "removedByChecks": 0
+}

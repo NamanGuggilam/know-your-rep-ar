@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { OFFICES } from "@/lib/offices";
 import type { Seat } from "@/lib/types";
-import { AlertIcon, ExternalIcon, GlobeIcon, MailIcon, PencilIcon, PersonIcon, PhoneIcon, PinIcon } from "./icons";
+import { AlertIcon, ExternalIcon, GlobeIcon, InfoIcon, MailIcon, PencilIcon, PersonIcon, PhoneIcon, PinIcon } from "./icons";
 import { formatUpdated, telHref } from "@/lib/format";
 
 export function RepPhoto({ src, name, size = 112 }: { src?: string; name: string; size?: number }) {
@@ -127,6 +127,10 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
             Office on a map<span className="sr-only"> (opens in a new tab)</span>
           </a>
         )}
+        <Link className="btn btn-primary sm:col-span-2" href={`/rep/${o.id}#stand`}>
+          <InfoIcon />
+          See where they stand
+        </Link>
         <Link className="btn btn-secondary" href={`/rep/${o.id}#write`}>
           <PencilIcon />
           Help me write a message

@@ -1,0 +1,145 @@
+{
+  "id": "65d8b209-ce03-403c-8437-7c4d7a2e7185",
+  "name": "Terry Rice",
+  "generatedAt": "2026-10-26T02:44:44.340Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Conway, Part Logan, Montgomery, Part Pike, Perry, Polk, Part Pope, Scott, Part Sebastian, Part Yell"
+    },
+    {
+      "label": "Occupation",
+      "value": "Business Owner, Rice Furniture & Appliance, Inc."
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "House 2009, 2011, 2013, Senate 2015, 2017, 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-EXECUTIVE SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE - SENATE"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE - SENATE"
+    },
+    {
+      "name": "SENATE EFFICIENCY"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 26 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB168",
+          "title": "TO ESTABLISH A STATE EXAMINATION FOR LICENSURE OF MASSAGE THERAPISTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB168&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB298",
+          "title": "TO REPEAL THE LAW CONCERNING THE SETTING ASIDE OF A DECREE TO QUIET TITLE TO LAND TO ALLOW FOR FINALITY IN QUIET TITLE ACTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB298&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 320)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1007",
+          "title": "TO REGULATE LIABILITY FOR SHOOTING SPORTS EVENTS; AND TO PROVIDE IMMUNITY TO CERTAIN INDIVIDUALS WITH RESPECT TO SHOOTING SPORTS EVENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1007&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 248)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1418",
+          "title": "TO PROHIBIT LOCAL GOVERNMENT REGULATION OF KNIVES OR KNIFE-MAKING COMPONENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1418&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 161)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1995",
+          "title": "TO SEPARATE THE OFFICES OF SHERIFF AND TAX COLLECTOR IN PERRY COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1995&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 985)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR1",
+          "title": "IN RESPECTFUL MEMORY OF SENATOR GARY DON STUBBLEFIELD AND IN RECOGNITION OF HIS MANY CONTRIBUTIONS TO THE STATE OF ARKANSAS AND HIS LOCAL COMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR1&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR36",
+          "title": "TO HONOR MISS ARKANSAS 2025 KENNEDY HOLLAND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR36&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Rice"
+    }
+  ],
+  "removedByChecks": 0
+}

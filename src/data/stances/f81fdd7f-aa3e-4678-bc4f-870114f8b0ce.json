@@ -1,0 +1,141 @@
+{
+  "id": "f81fdd7f-aa3e-4678-bc4f-870114f8b0ce",
+  "name": "Jessie McGruder",
+  "generatedAt": "2026-10-26T02:44:37.820Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Crittenden, Part Cross"
+    },
+    {
+      "label": "Occupation",
+      "value": "Educator, Coach"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 37 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1025",
+          "title": "TO CREATE THE TEACHER FAIR DISMISSAL ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1025&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1528",
+          "title": "TO REQUIRE A REPORT CARD TO INCLUDE A STUDENT'S CURRENT READING GRADE LEVEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1528&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1878",
+          "title": "TO ENSURE EARLY VOTING ACCESS FOR ARKANSANS RESIDING IN POPULATION CENTERS; AND TO REQUIRE A COUNTY BOARD OF ELECTION COMMISSIONERS TO CONDUCT EARLY VOTING IN A CITY IN CERTAIN INSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1878&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 978)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1072",
+          "title": "TO RECOGNIZE KAPPA ALPHA PSI FRATERNITY, INC., FOR ITS POSITIVE IMPACT UPON ITS COMMUNITIES, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1072&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1117",
+          "title": "TO RECOGNIZE FORMER REPRESENTATIVE BEN MCGEE FOR HIS SERVICE TO HIS COMMUNITY AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1117&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB239",
+          "title": "TO REQUIRE A REPORT CARD TO INCLUDE A STUDENT'S CURRENT READING GRADE LEVEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB239&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McGruder"
+    }
+  ],
+  "removedByChecks": 0
+}

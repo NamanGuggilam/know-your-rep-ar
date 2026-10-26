@@ -1,0 +1,505 @@
+{
+  "id": "5e063acb-6720-4bb0-8f6e-1df169c856e7",
+  "name": "Les Warren",
+  "generatedAt": "2026-10-26T02:44:40.271Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Garland"
+    },
+    {
+      "label": "Occupation",
+      "value": "President, Title Company"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Lakeside (Hot Springs) School Board; First Term House 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALZHEIMER'S DISEASE AND DEMENTIA ADVISORY COUNCIL"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ARKANSAS PANS/PANDAS ADVISORY COUNCIL"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE INSURANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 31 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1118",
+          "title": "TO AMEND THE LAWS CONCERNING THE MANAGEMENT OF PREMIUM TAXES UNDER THE ARKANSAS FIRE AND POLICE PENSION REVIEW BOARD; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1118&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 151)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1119",
+          "title": "TO AMEND THE PROVISIONS REGARDING DELINQUENT PAYMENTS BY A POLITICAL SUBDIVISION UNDER THE ARKANSAS LOCAL POLICE AND FIRE RETIREMENT SYSTEM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1119&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 152)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1154",
+          "title": "TO ENACT THE ARKANSAS TEACHER RETIREMENT SYSTEM'S GENERAL OMNIBUS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1154&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 222)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1155",
+          "title": "TO CREATE A REBUTTABLE PRESUMPTION OF QUALIFICATION FOR DISABILITY RETIREMENT BENEFITS UNDER THE ARKANSAS TEACHER RETIREMENT SYSTEM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1155&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 223)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1156",
+          "title": "TO AMEND THE LAW CONCERNING THE ELIGIBILITY OF A SURVIVING SPOUSE FOR SURVIVOR ANNUITY BENEFITS UNDER THE ARKANSAS TEACHER RETIREMENT SYSTEM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1156&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 224)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1207",
+          "title": "TO MAKE TECHNICAL CORRECTIONS AND CLARIFY LANGUAGE FOR THE PROPER ADMINISTRATION OF BENEFITS UNDER THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1207&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 127)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1208",
+          "title": "TO ALLOW THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM TO COLLECT AMOUNTS OF OVERPAYMENTS FOR DEBTS OWED TO A STATE SUPPORTED RETIREMENT SYSTEM ADMINISTERED BY THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1208&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 128)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1209",
+          "title": "FOR THE PROPER ADMINISTRATION OF BENEFITS BY THE ARKANSAS JUDICIAL RETIREMENT SYSTEM REGARDING THE SUBJECTION OF ANNUITY RIGHTS TO PROCESS OF LAW AND CORRECTION OF ERRORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1209&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 129)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1210",
+          "title": "TO AMEND THE LAWS CONCERNING TRANSFER OF FUNDS FOR THE COSTS OF ADMINISTERING THE ARKANSAS JUDICIAL RETIREMENT SYSTEM AND THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1210&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 130)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1211",
+          "title": "TO MAKE TECHNICAL CORRECTIONS AND CLARIFY LANGUAGE FOR THE PROPER ADMINISTRATION OF BENEFITS UNDER THE ARKANSAS PUBLIC EMPLOYEES’ RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1211&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 131)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1271",
+          "title": "TO AMEND THE LAW CONCERNING MECHANICS' AND MATERIALMEN'S LIENS; AND TO CLARIFY THE PRIORITY OF LIENS IN MORTGAGE CONSTRUCTION LOANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1271&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 479)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1272",
+          "title": "TO AMEND THE LAW CONCERNING PROPERTY VACATED BY A MUNICIPALITY; AND TO REQUIRE VESTED ABANDONED PROPERTY BE CONVEYED WITH THE ABUTTING REAL ESTATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1272&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 520)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1273",
+          "title": "TO PROVIDE THAT A LIEN CREATED BY THE ENTRY OF CERTIFICATE OF INDEBTEDNESS ISSUED BY THE SECRETARY OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION IS NOT SUPERIOR TO A PURCHASE MONEY MORTGAGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1273&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 29)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1274",
+          "title": "TO ALLOW A TITLE INSURANCE AGENT, TITLE INSURER, OR TITLE COMPANY TO PAY REAL PROPERTY TAXES IN CONJUNCTION WITH THE ISSUANCE OF A TITLE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1274&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 521)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1304",
+          "title": "TO SET A LIMITATION PERIOD FOR THE CORRECTION OF ERRORS UNDER THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM AND THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1304&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1326",
+          "title": "TO AMEND THE LAW CONCERNING SPECIAL ALLOWANCES TO ENCOURAGE EARLY RETIREMENT AND MANAGE EARLY RETIREMENT WINDOW INCENTIVES FOR EMPLOYEES OF INSTITUTIONS OF HIGHER EDUCATION; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1326&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 249)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1327",
+          "title": "TO AMEND THE LAW CONCERNING THE ELIGIBILITY OF CERTAIN RETIRED EMPLOYEES UNDER THE STATE AND PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1327&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 451)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1328",
+          "title": "TO INCREASE THE MAXIMUM NUMBER OF YEARS OF PARTICIPATION IN THE ARKANSAS STATE POLICE OFFICERS DEFERRED OPTION PLAN AND THE ARKANSAS STATE POLICE OFFICERS' TIER TWO DEFERRED RETIREMENT OPTION PLAN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1328&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1334",
+          "title": "TO AMEND THE LAW UNDER TITLE 24, CHAPTER 4, SUBCHAPTER 2 OF THE ARKANSAS CODE REGARDING DELINQUENT EMPLOYER AND EMPLOYEE CONTRIBUTIONS TO THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM BY A LOCAL GOVERNMENT PARTICIPATING EMPLOYER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1334&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1335",
+          "title": "TO ESTABLISH THE EVERY ARKANSAN RETIREMENT PLAN OPPORTUNITY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1335&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1336",
+          "title": "TO AMEND THE SURVIVORS' BENEFIT OPTIONS UNDER THE STATE POLICE RETIREMENT SYSTEM; AND TO AMEND THE PROVISIONS CONCERNING THE TIER TWO DEFERRED RETIREMENT OPTION PLAN UNDER THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1336&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 672)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1337",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER LOCAL POLICE AND FIRE PENSION AND RELIEF FUNDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1337&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1338",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE ARKANSAS STATE HIGHWAY EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1338&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1339",
+          "title": "TO AMEND THE LAW CONCERNING AGE AND YEARS OF SERVICE REQUIREMENTS UNDER THE VARIOUS STATE RETIREMENT SYSTEMS AND ARKANSAS PUBLIC EMPLOYEE RETIREMENT PLANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1339&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1340",
+          "title": "TO AMEND THE LAW CONCERNING ADMINISTRATION OF THE ARKANSAS JUDICIAL RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1340&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1341",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER THE ARKANSAS LOCAL POLICE AND FIRE RETIREMENT SYSTEM; AND TO AMEND THE DEFINITION OF \"PAY\" UNDER THE ARKANSAS LOCAL POLICE AND FIRE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1341&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 522)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1342",
+          "title": "TO AMEND THE LAW CONCERNING THE ADMINISTRATION OF THE ARKANSAS LOCAL POLICE AND FIRE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1342&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1343",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER THE ARKANSAS JUDICIAL RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1343&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1344",
+          "title": "CONCERNING ADMINISTRATION OF THE ARKANSAS TEACHER RETIREMENT SYSTEM; AND TO CORRECT THE NAME OF THE ARKANSAS SCHOOL FOR THE BLIND AND THE ARKANSAS SCHOOL FOR THE DEAF UNDER TITLE 24 OF THE ARKANSAS CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1344&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 598)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1345",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1345&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1346",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1346&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1347",
+          "title": "TO ALLOW THE ARKANSAS TEACHER RETIREMENT SYSTEM TO PAY AN ANNUITY OR BENEFIT OWED TO A PERSON TO A SPECIAL NEEDS TRUST ESTABLISHED FOR THE BENEFIT OF THE PERSON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1347&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 363)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1348",
+          "title": "TO AMEND THE LAW CONCERNING SURVIVOR BENEFITS FOR THE DEPENDENT CHILD OF A MEMBER OF THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM OR A MEMBER OF THE STATE POLICE RETIREMENT SYSTEM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1348&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 364)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1349",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER THE ARKANSAS TEACHER RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1349&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1350",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1350&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1367",
+          "title": "TO AMEND THE ARKANSAS TITLE INSURANCE ACT; AND TO REGULATE ACCESS TO PUBLIC RECORDS BY A TITLE AGENT AND A TITLE COMPANY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1367&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 346)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1479",
+          "title": "TO AMEND THE LAW CONCERNING SCRIVENER'S AFFIDAVITS; AND TO ALLOW A LICENSED ENGINEER, SURVEYOR, OR NOTARY PUBLIC TO EXECUTE AND RECORD A SCRIVENER'S AFFIDAVIT IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1479&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 418)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1787",
+          "title": "TO PROVIDE AN INCOME TAX EXEMPTION FOR CERTAIN RETIREMENT BENEFITS RECEIVED BY LAW ENFORCEMENT OFFICERS AND FIREFIGHTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1787&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1802",
+          "title": "TO CREATE THE TALENT RECRUITMENT GRANT PROGRAM; AND TO PROVIDE INCENTIVES FOR INDIVIDUALS TO RELOCATE TO THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1802&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 606)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1809",
+          "title": "TO ALLOW FOR PROPERTY OWNED BY A TRUST OR A LIMITED LIABILITY COMPANY TO QUALIFY AS A HOMESTEAD FOR PURPOSES OF THE PROPERTY TAX EXEMPTION FOR DISABLED VETERANS IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1809&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 880)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1011",
+          "title": "TO WELCOME LIEUTENANT GENERAL (RETIRED) JAY B. SILVERIA AS PRESIDENT OF THE UNIVERSITY OF ARKANSAS SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1011&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB152",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE ARKANSAS TEACHER RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB152&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB153",
+          "title": "TO AMEND THE LAW CONCERNING VARIOUS PROVISIONS OF TITLE 24 OF THE ARKANSAS CODE; AND TO AMEND THE LAW REGARDING THE PAYMENT OF RETIREMENT BENEFITS TO VARIOUS CITY OFFICIALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB153&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 588)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB154",
+          "title": "TO AMEND THE LAW CONCERNING THE CONTRIBUTIONS OF MEMBERS UNDER THE VARIOUS STATE RETIREMENT SYSTEMS AND ARKANSAS PUBLIC EMPLOYEE RETIREMENT PLANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB154&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB155",
+          "title": "TO AMEND THE LAW CONCERNING ADMINISTRATION OF THE ARKANSAS STATE HIGHWAY EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB155&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB156",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE ARKANSAS LOCAL POLICE AND FIRE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB156&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB158",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER THE ARKANSAS STATE HIGHWAY EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB158&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB159",
+          "title": "TO AMEND THE LAW CONCERNING ADMINISTRATION OF LOCAL POLICE AND FIRE PENSION AND RELIEF FUNDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB159&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB160",
+          "title": "TO AMEND THE LAW CONCERNING ADMINISTRATION OF THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB160&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 589)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB161",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER LOCAL POLICE AND FIRE PENSION AND RELIEF FUNDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB161&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB162",
+          "title": "TO AMEND THE LAW CONCERNING CREDITED SERVICE UNDER THE ARKANSAS JUDICIAL RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB162&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB163",
+          "title": "TO AMEND THE LAW CONCERNING ADMINISTRATION OF THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB163&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB406",
+          "title": "TO REQUIRE A COUNTY RECORDER TO VERIFY CERTAIN INFORMATION BEFORE RECORDING A DEED TO REAL ESTATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB406&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 752)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB432",
+          "title": "TO AMEND THE LAW CONCERNING ACCOUNTANTS; AND TO AMEND THE DEFINITION OF SUBSTANTIAL EQUIVALENCY FOR THE PRACTICE OF ACCOUNTANCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB432&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 428)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Warren"
+    }
+  ],
+  "removedByChecks": 0
+}

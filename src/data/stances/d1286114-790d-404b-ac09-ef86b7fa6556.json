@@ -1,0 +1,120 @@
+{
+  "id": "d1286114-790d-404b-ac09-ef86b7fa6556",
+  "name": "Brad Hall",
+  "generatedAt": "2026-10-26T02:44:34.002Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Crawford, Part Washington"
+    },
+    {
+      "label": "Occupation",
+      "value": "Rancher, Business Owner"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 39 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1762",
+          "title": "TO REQUIRE REVOCATION OF A PERMIT FOR THE DISPOSAL OF INDUSTRIAL WASTE IN AN AGRICULTURAL OR PASTORAL APPLICATION FOR A CERTAIN NUMBER OF VIOLATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1762&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1009)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB437",
+          "title": "TO CREATE THE ARKANSAS WIND ENERGY DEVELOPMENT ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB437&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 945)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB500",
+          "title": "TO AMEND THE LAW CONCERNING LEVEE DISTRICTS; AND TO ALLOW A LEVEE DISTRICT CREATED BY AN ACT OF THE GENERAL ASSEMBLY TO ADOPT PROCEDURE CONCERNING THE COLLECTION OF ASSESSMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB500&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 780)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB577",
+          "title": "TO AMEND THE LAW CONCERNING LOCAL SALES AND USE TAXES; AND TO REQUIRE THE DEPARTMENT OF FINANCE AND ADMINISTRATION TO NOTIFY LOCAL GOVERNMENTS CONCERNING SALES AND USE TAXES THAT ARE SET TO EXPIRE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB577&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 720)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB639",
+          "title": "TO CREATE THE ARKANSAS WIND ENERGY DEVELOPMENT ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB639&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1049",
+          "title": "TO RECOGNIZE KOPPER KETTLE CANDIES FOR ITS ACHIEVEMENTS IN THE ART OF CANDY MAKING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1049&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hall"
+    }
+  ],
+  "removedByChecks": 0
+}

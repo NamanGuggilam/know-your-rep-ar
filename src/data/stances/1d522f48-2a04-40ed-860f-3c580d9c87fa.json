@@ -1,0 +1,204 @@
+{
+  "id": "1d522f48-2a04-40ed-860f-3c580d9c87fa",
+  "name": "Steve Unger",
+  "generatedAt": "2026-10-26T02:44:44.070Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Washington"
+    },
+    {
+      "label": "Veteran",
+      "value": "Yes"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE AGRICULTURE, FORESTRY & NATURAL RESOURCES SUBCOM."
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 54 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1058",
+          "title": "TO AMEND THE LAW CONCERNING ETHICS AND CONFLICTS OF INTEREST FOR PUBLIC OFFICERS AND EMPLOYEES; AND TO PROHIBIT PUBLIC EMPLOYEES FROM GIVING ADVANCE NOTICE TO ENTITIES OF REQUIRED INSPECTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1058&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1059",
+          "title": "TO PROVIDE THE OPTION FOR A FREE LIFETIME HUNTING AND FISHING LICENSE TO A COMMERCIAL TRUCK DRIVER WHO IS A RESIDENT AND PROVIDES CERTAIN INFORMATION RELATED TO HUMAN TRAFFICKING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1059&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1133",
+          "title": "TO AUTHORIZE NORTHWEST TECHNICAL INSTITUTE TO APPOINT A PRESIDENT WITH AN INDUSTRY BACKGROUND; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1133&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 10)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1134",
+          "title": "TO ADOPT THE ADVANCED PRACTICE REGISTERED NURSE COMPACT IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1134&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1263",
+          "title": "TO CREATE THE OFFENSE OF UNLAWFUL REMOVAL OR FAILURE TO CHARGE AN ELECTRONIC MONITORING DEVICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1263&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 109)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1268",
+          "title": "TO ALLOW A PUBLIC TRANSIT AUTHORITY TO BECOME A PARTICIPATING PUBLIC EMPLOYER AND FOR ITS EMPLOYEES TO BECOME MEMBERS OF THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1268&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 450)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1284",
+          "title": "TO AMEND THE LAW CONCERNING THE SUSPENSION OR REVOCATION OF A PERSON'S DRIVER'S LICENSE FOR FAILURE TO PAY A COURT-ORDERED FINE; AND TO AMEND THE LAW CONCERNING A RESTRICTED DRIVER'S PERMIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1284&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1289",
+          "title": "TO AMEND THE DUTIES OF THE ARKANSAS WATERWAYS COMMISSION; AND TO CREATE AN ARKANSAS WATERWAYS COMMISSION POLICE FORCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1289&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1410",
+          "title": "TO AMEND THE LAW CONCERNING PROHIBITED ACTIVITIES BY PUBLIC SERVANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1410&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 323)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1421",
+          "title": "TO AMEND THE LAW CONCERNING LAW ENFORCEMENT OFFICER TRAINING REIMBURSEMENT; AND TO INCLUDE ANY LAW ENFORCEMENT AGENCY RECOGNIZED BY THE ARKANSAS COMMISSION ON LAW ENFORCEMENT STANDARDS AND TRAINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1421&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1711",
+          "title": "TO ALLOW A MUNICIPAL PORT AUTHORITY TO ESTABLISH A POLICE FORCE; AND TO ESTABLISH THE POWERS AND DUTIES OF A MUNICIPAL PORT AUTHORITY LAW ENFORCEMENT OFFICER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1711&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1926",
+          "title": "TO AMEND THE LAW CONCERNING THE SUSPENSION, REVOCATION, OR NONRENEWAL OF A PERSON'S DRIVER'S LICENSE FOR FAILURE TO PAY A COURT-ORDERED FINE; AND TO AMEND THE LAW CONCERNING A DEFENDANT'S INABILITY TO PAY A COURT-ORDERED FINE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1926&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 980)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1010",
+          "title": "A CONSTITUTIONAL AMENDMENT TO PROVIDE THAT BY A TWO-THIRDS VOTE, THE SENATE MAY REMOVE MEMBERS OF CERTAIN BOARDS AND COMMISSIONS FOR CAUSE ONLY, AFTER NOTICE AND HEARING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1010&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB244",
+          "title": "CONCERNING POSTPONEMENT OF JUDGMENT IN DISTRICT COURT; AND TO PERMIT A SUSPENDED IMPOSITION OF SENTENCE IN CERTAIN DISTRICT COURT CASES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB244&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 275)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB277",
+          "title": "TO AMEND THE COMPREHENSIVE CRIMINAL RECORD SEALING ACT OF 2013; AND TO PERMIT THE FILING OF A NEW UNIFORM PETITION TO SEAL A MISDEMEANOR VIOLATION OF THEFT OF PROPERTY AFTER TEN YEARS HAVE ELAPSED SINCE THE THEFT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB277&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB357",
+          "title": "TO AMEND THE UNIFORM ATTENDANCE AND LEAVE POLICY ACT; AND TO APPLY MILITARY SERVICE CREDIT TO A PUBLIC EMPLOYEE'S TOTAL SERVICE TIME FOR ANNUAL LEAVE ACCRUAL CALCULATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB357&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 572)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB521",
+          "title": "TO AMEND THE LAW CONCERNING LAW ENFORCEMENT TRAINING REIMBURSEMENT; AND TO EXTEND THE TIME PERIOD AFTER COMPLETION OF TRAINING FOR WHICH REIMBURSEMENT IS REQUIRED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB521&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 748)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1004",
+          "title": "AN ACT FOR THE DEPARTMENT OF CORRECTIONS - DIVISION OF COMMUNITY CORRECTION APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1004&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Unger"
+    }
+  ],
+  "removedByChecks": 0
+}

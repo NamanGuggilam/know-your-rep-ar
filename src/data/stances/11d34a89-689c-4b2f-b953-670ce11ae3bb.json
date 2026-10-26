@@ -1,0 +1,368 @@
+{
+  "id": "11d34a89-689c-4b2f-b953-670ce11ae3bb",
+  "name": "Tyler Dees",
+  "generatedAt": "2026-10-26T02:44:44.827Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton, Part Washington"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE - SENATE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    },
+    {
+      "name": "TRANSPORTATION, TECHNOLOGY & LEGISLATIVE AFFAIRS - SENATE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 32 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB142",
+          "title": "TO CREATE THE BELL TO BELL, NO CELL ACT; AND TO AMEND THE REQUIREMENTS FOR PUBLIC SCHOOL DISCIPLINE POLICIES WITH REGARD TO STUDENT USE OF PERSONAL ELECTRONIC DEVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB142&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 122)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB234",
+          "title": "CONCERNING THE NINETEENTH JUDICIAL DISTRICT-WEST; TO CREATE AN ADDITIONAL CIRCUIT JUDGESHIP; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB234&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 220)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB303",
+          "title": "TO ALLOW A RESIDENT SCHOOL DISTRICT TO PERMIT A PRIVATE SCHOOL STUDENT TO PARTICIPATE IN AN INTERSCHOLASTIC ACTIVITY AT THE RESIDENT SCHOOL DISTRICT UNDER CERTAIN CONDITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB303&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 644)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB361",
+          "title": "TO CREATE THE INDUSTRIAL DEVELOPMENT AUTHORITIES EXPANSION ACT; AND TO PROVIDE FOR THE CREATION OF INDUSTRIAL DEVELOPMENT AUTHORITIES TO SECURE AND DEVELOP INDUSTRY AND FOSTER ECONOMIC DEVELOPMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB361&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 576)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB449",
+          "title": "TO PROVIDE CIVIL IMMUNITY FOR CONFISCATION OF ALTERNATIVE NICOTINE PRODUCTS, VAPOR PRODUCTS, E-LIQUID PRODUCTS, TOBACCO PRODUCTS, AND CIGARETTE PAPERS FROM A MINOR AT A SCHOOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB449&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 669)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB533",
+          "title": "TO PROVIDE FOR THE REGULATION OF CONSUMABLE HEMP PRODUCTS BY THE ARKANSAS TOBACCO CONTROL BOARD; AND TO AMEND THE ARKANSAS LAW TO ALLOW REGULATION AND PURCHASE OF CONSUMABLE HEMP PRODUCTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB533&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 934)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB611",
+          "title": "TO AMEND THE SOCIAL MEDIA SAFETY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB611&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 900)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB612",
+          "title": "TO CREATE A PRIVATE RIGHT OF ACTION AGAINST A SOCIAL MEDIA PLATFORM THAT CAUSES HARM; AND TO IMPOSE A CIVIL PENALTY ON A SOCIAL MEDIA PLATFORM THAT KNOWINGLY AND WILLFULLY CONTRIBUTES TO A MINOR'S SUICIDE OR SUICIDE ATTEMPT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB612&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 901)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR37",
+          "title": "TO RECOGNIZE MARCH 2025 AS AMERICAN RED CROSS MONTH AND SUPPORT THE HUMANITARIAN MISSION OF THE AMERICAN RED CROSS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR37&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR60",
+          "title": "TO RECOGNIZE THE GRAVETTE HIGH SCHOOL LIONS WRESTLING TEAM AS THE 2025 CLASS 4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR60&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR7",
+          "title": "TO RECOGNIZE THE CITY OF SILOAM SPRINGS AS RECIPIENT IN 2024 OF A VOLUNTEER COMMUNITY OF THE YEAR AWARD, THE MOST INNOVATIVE CITY AWARD, THE FLOODPLAIN COMMUNITY OF THE YEAR AWARD, AND A TRENDSETTER CITY AWARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR7&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1062",
+          "title": "TO CREATE THE TEACHER AND STUDENT PROTECTION ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1062&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 565)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1315",
+          "title": "TO AUTHORIZE A BLOOD TYPE DESIGNATION TO BE PLACED ON A DRIVER'S LICENSE OR IDENTIFICATION CARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1315&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 147)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1382",
+          "title": "TO REQUIRE CERTAIN REPORTING BY THE DESIGNATED PROTECTION AND ADVOCACY AGENCY FOR THE STATE AND THE DESIGNATED CLIENT ASSISTANCE PROGRAM FOR THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1382&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 481)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1452",
+          "title": "CLARIFYING THE LAW ON THE USE OF MEDICAL MARIJUANA IN CERTAIN PLACES; AND TO PROHIBIT THE POSSESSION OF AN UNSEALED CONTAINER OF CERTAIN FORMS OF MEDICAL MARIJUANA IN A MOTOR VEHICLE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1452&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 271)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1486",
+          "title": "TO AMEND THE LAW CONCERNING THE MARKET VALUE OF CERTAIN SURPLUS PROPERTY ACQUIRED BY THE STATE HIGHWAY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1486&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 210)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1492",
+          "title": "TO REQUIRE EACH PUBLIC SCHOOL DISTRICT AND OPEN-ENROLLMENT PUBLIC CHARTER SCHOOL TO IMPLEMENT A MOBILE PANIC ALERT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1492&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1495",
+          "title": "CONCERNING THE TRANSFER OF A STUDENT'S PERMANENT SCHOOL RECORD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1495&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1535",
+          "title": "TO PROVIDE AN ENHANCED SENTENCE FOR PERSONS CONVICTED OF RAPE OF A CHILD TWELVE YEARS OF AGE OR YOUNGER; TO PERMIT THE DEPARTMENT OF CORRECTIONS TO ADMINISTER MEDROXYPROGESTERONE ACETATE TREATMENT FOR CHEMICAL CASTRATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1535&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1537",
+          "title": "TO REPEAL THE LOCATION ACT FOR COMMUNITY HOMES FOR INDIVIDUALS WITH INTELLECTUAL AND DEVELOPMENTAL DISABILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1537&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 850)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1594",
+          "title": "TO CREATE A FARMER SALES TAX IDENTIFICATION CARD; AND TO RELIEVE A SELLER OF SALES TAX REMITTANCE LIABILITY UPON GOOD FAITH ACCEPTANCE OF A FARMER SALES TAX IDENTIFICATION CARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1594&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 621)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1606",
+          "title": "TO ALLOW A LOCAL GOVERNMENT TO AUTHORIZE THE OPERATION OF A UTILITY TASK VEHICLE ON A DESIGNATED PUBLIC STREET OR HIGHWAY WITHIN THE LOCAL GOVERNMENT'S JURISDICTION SUBJECT TO CERTAIN REQUIREMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1606&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 922)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1736",
+          "title": "TO AMEND ARTICLE 9 OF THE UNIFORM COMMERCIAL CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1736&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 603)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1737",
+          "title": "TO AMEND THE TRANSMITTING UTILITY ACT; AND TO AMEND THE DEFINITION OF \"TRANSMITTING UTILITY\" TO INCLUDE FIBER OPTIC AND BROADBAND LINES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1737&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 584)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1739",
+          "title": "TO ADOPT THE UNIFORM ELECTRONIC LEGAL MATERIALS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1739&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 814)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1746",
+          "title": "TO AMEND THE UNIFORM COMMERCIAL CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1746&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 997)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1748",
+          "title": "TO ADOPT THE UNIFORM ELECTRONIC LEGAL MATERIALS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1748&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1749",
+          "title": "TO ADOPT THE UNIFORM TRUST DECANTING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1749&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 680)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1793",
+          "title": "TO AMEND THE LAW CONCERNING THE USE OF POSITIVE BEHAVIORAL SUPPORTS IN PUBLIC SCHOOL DISTRICTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1793&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 804)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1835",
+          "title": "CONCERNING SPECIALTY COURT PROGRAMS; AND TO UPDATE AND CLARIFY THE LAW CONCERNING DRUG COURT, MENTAL HEALTH COURT, VETERANS COURT, AND DWI/BWI SPECIALTY COURT PROGRAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1835&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 691)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1921",
+          "title": "TO AMEND THE CHILD WELFARE AGENCY LICENSING ACT; TO AMEND THE TRAINING AND CERTIFICATION PROCESS FOR FOSTER PARENTS; AND TO STREAMLINE THE PROCESS OF TRAINING AND CERTIFYING RELATIVES AS FOSTER PARENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1921&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 824)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1950",
+          "title": "TO PROTECT LICENSED FAMILY CHILDCARE HOMES FROM TERMINATION OF HOMEOWNERS INSURANCE COVERAGE; AND TO PROHIBIT DISCRIMINATION AGAINST LICENSED FAMILY CHILDCARE HOMES BY HOMEOWNERS INSURANCE PROVIDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1950&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1975",
+          "title": "TO CREATE THE CHILD CONTENT CREATION PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1975&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 982)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1997",
+          "title": "TO CREATE A ZONING EXEMPTION FOR CHILDCARE FAMILY HOMES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1997&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1998",
+          "title": "TO CREATE THE JAMES MCFERRON MENTAL HEALTH, WELLNESS, AND RESILIENCY ACT; AND TO IMPROVE ACCESS TO SERVICES AND TRAINING TO FIRST RESPONDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1998&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR20",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL CONCERNING THE INDUSTRIAL DEVELOPMENT AUTHORITIES EXPANSION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR20&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Dees"
+    }
+  ],
+  "removedByChecks": 0
+}

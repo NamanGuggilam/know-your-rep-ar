@@ -1,0 +1,180 @@
+{
+  "id": "8b544682-2d9b-4759-bdc1-e560cced87fa",
+  "name": "Cameron Cooper",
+  "generatedAt": "2026-10-26T02:44:34.925Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Faulkner, Part Lonoke, Part White"
+    },
+    {
+      "label": "Occupation",
+      "value": "Behavioral Health Consultant for Pathfinder, Inc; Farmer, Owner of small Lawn Care Business"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "White Count Justice of the Peace 2005-2018, First Term House 2019; 2021; 2023 (Deputy Whip); 2025 (Deputy Whip)"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGRICULTURE- HOUSE SMALL BUSINESS & ECONOMIC DEV. SUBCOM."
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE HEALTH SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 37 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1048",
+          "title": "TO AMEND THE LAW CONCERNING THE INCIDENTAL SALE OF GOAT MILK, SHEEP MILK, AND WHOLE MILK THAT HAS NOT BEEN PASTEURIZED; AND TO CLARIFY THAT THE INCIDENTAL SALE OF RAW MILK IS NOT LIMITED TO A SALE ON THE FARM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1048&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 125)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1072",
+          "title": "TO CLARIFY THE REQUIREMENTS FOR ESTABLISHING ELIGIBILITY FOR THE PROPERTY TAX EXEMPTION FOR DISABLED VETERANS, SURVIVING SPOUSES, AND MINOR DEPENDENT CHILDREN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1072&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 876)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1313",
+          "title": "TO EXPAND HEALTH BENEFIT COVERAGE FOR CERTAIN FIREFIGHTER RETIREES OF MUNICIPALITIES AND COUNTIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1313&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 415)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1325",
+          "title": "TO ALLOW A MEMBER OF THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM TO RECEIVE SERVICE CREDIT FROM SERVICE UNDER AN ALTERNATE RETIREMENT PLAN TO MEET ELIGIBILITY REQUIREMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1325&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 286)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1385",
+          "title": "TO AMEND THE LAW CONCERNING THE OIL AND GAS COMMISSION; AND TO REQUIRE THE OIL AND GAS COMMISSION TO NOTIFY MEMBERS OF THE GENERAL ASSEMBLY CONCERNING CERTAIN PERMITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1385&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 374)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1387",
+          "title": "TO REQUIRE MEMBERS OF THE BOARD OF DIRECTORS OF A PUBLIC WATER AUTHORITY TO PUBLISH THEIR CONTACT INFORMATION UNDER THE WATER AUTHORITY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1387&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 239)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1404",
+          "title": "TO CREATE A TAX CREDIT FOR CONTRIBUTIONS TO A PREGNANCY RESOURCE CENTER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1404&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1791",
+          "title": "TO CLARIFY THAT THE WORLD HEALTH ORGANIZATION AND THE UNITED NATIONS DO NOT HAVE JURISDICTION OR POWER IN THIS STATE AND DO NOT HAVE AUTHORITY TO ENFORCE OR IMPLEMENT ACTIONS IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1791&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1046",
+          "title": "TO RECOGNIZE THE CONTRIBUTIONS OF HOMESCHOOLING AND TO PROCLAIM FEBRUARY 26, 2025, AS HOMESCHOOL DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1046&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1047",
+          "title": "TO RECOGNIZE THE POSITIVE IMPACT OF THE ARKANSAS 4-H PROGRAM ON THE YOUTH OF THE STATE OF ARKANSAS AND TO PROCLAIM 4-H DAY AT THE STATE CAPITOL ON MARCH 4, 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1047&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB255",
+          "title": "TO AMEND THE DEFINITION OF \"DRUG\" WITHIN THE FOOD, DRUG, AND COSMETIC ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB255&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB464",
+          "title": "TO AMEND THE LAWS CONCERNING SALES OF RAW MILK; TO ALLOW SALES OF RAW MILK AND RAW MILK PRODUCTS AT LOCATIONS OTHER THAN THE FARM WHERE THE RAW MILK OR RAW MILK PRODUCT WAS PRODUCED; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB464&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 698)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=C.+Cooper"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,185 @@
+{
+  "id": "38a8f4c9-1138-461c-a8a1-ac853c79d3ca",
+  "name": "Dwight Tosh",
+  "generatedAt": "2026-10-26T02:44:36.274Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Craighead, Part Jackson, Part Poinsett"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE UTILITIES SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 31 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1049",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING CRIMINAL OFFENSES; AND TO CRIMINALIZE UNLAWFUL SQUATTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1049&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 238)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1050",
+          "title": "TO SEPARATE THE OFFICES OF SHERIFF AND TAX COLLECTOR IN POINSETT COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1050&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 12)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1600",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL LAW ENFORCEMENT; AND TO AMEND THE LAW CONCERNING HOLIDAY COMPENSATION, ANNUAL VACATION LEAVE, AND SICK LEAVE FOR LAW ENFORCEMENT OFFICERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1600&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 317)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1652",
+          "title": "T0 AMEND THE LAW CONCERNING SELF-SERVICE STORAGE FACILITIES; TO ENFORCE AN UNSIGNED SELF-SERVICE FACILITY STORAGE RENTAL AGREEMENT; AND TO CREATE A TERMINATION PROCEDURE FOR A SELF-SERVICE FACILITY STORAGE RENTAL AGREEMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1652&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 393)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1654",
+          "title": "TO AUTHORIZE THE ISSUANCE OF A SPECIAL LICENSE PLATE FOR THE MAKE-A-WISH FOUNDATION OF THE MID SOUTH; AND TO ADDRESS THE INVENTORY OF THE MID-SOUTH COMMUNITY COLLEGE EDUCATION SPECIAL LICENSE PLATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1654&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 490)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1842",
+          "title": "TO AMEND THE LAW REGARDING THE OFFICE OF CRIMINAL DETENTION FACILITIES REVIEW COORDINATOR; AND TO PLACE THE OFFICE WITHIN THE ARKANSAS COMMISSION ON LAW ENFORCEMENT STANDARDS AND TRAINING WITHIN THE DEPARTMENT OF PUBLIC SAFETY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1842&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 953)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1843",
+          "title": "CONCERNING RECORDS AND PHOTOGRAPHS KEPT BY THE STATE CRIME LABORATORY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1843&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 954)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1844",
+          "title": "TO AMEND THE LAW CONCERNING THE OFFENSE OF FLEEING BY MEANS OF A VEHICLE OR CONVEYANCE; AND TO INCREASE THE PENALTY FOR A PERSON WHO JUMPS FROM A MOVING VEHICLE OR CONVEYANCE WHILE FLEEING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1844&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 822)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1875",
+          "title": "TO AMEND THE LAW CONCERNING THE USE OF AN IGNITION INTERLOCK DEVICE; AND TO PROVIDE FOR THE EXTENSION OF THE MANDATORY PERIOD FOR THE USE OF AN IGNITION INTERLOCK DEVICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1875&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 841)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1988",
+          "title": "TO AMEND THE LAW CONCERNING THE DISTRIBUTION OF AUTO AUCTION FEES FOR SALVAGE-TITLED OR PARTS-ONLY TITLED VEHICLES; AND TO AMEND THE PURPOSE FOR WHICH AUTO AUCTION FEES MAY BE USED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1988&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 930)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB560",
+          "title": "TO DECREASE THE BASE CONTRIBUTION RATE; TO INCREASE THE ADMINISTRATIVE ASSESSMENT RATE; TO INCREASE FUNDING FOR THE SKILLED WORKFORCE IN THIS STATE; AND TO AMEND THE DIVISION OF WORKFORCE SERVICES TRAINING TRUST FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB560&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 740)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1079",
+          "title": "AN ACT FOR THE DEPARTMENT OF CORRECTIONS - DIVISION OF CORRECTION APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1079&ddBienniumSession=2025%2F2026F",
+          "status": "Became law (Act 64)",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Tosh"
+    }
+  ],
+  "removedByChecks": 0
+}

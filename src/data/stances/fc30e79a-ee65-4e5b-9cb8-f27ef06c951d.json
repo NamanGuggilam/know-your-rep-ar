@@ -1,0 +1,104 @@
+{
+  "id": "fc30e79a-ee65-4e5b-9cb8-f27ef06c951d",
+  "name": "Mark McElroy",
+  "generatedAt": "2026-10-26T02:44:40.632Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Arkansas, Part Desha, Lee, Part Monroe, Phillips, Part St. Francis"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired County Judge, Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2013; 2015; 2017; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE WATERWAYS & AERONAUTICS SUBCOM."
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 28 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1068",
+          "title": "TO INCLUDE EMPLOYEES OF A METROPOLITAN PORT AUTHORITY IN THE MEMBERSHIP OF THE ARKANSAS EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1068&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 311)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1122",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING REPORTS OF IMPROPER OR ILLEGAL PRACTICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1122&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1536",
+          "title": "TO WITHHOLD STATE TRANSPORTATION FUNDING FROM A SCHOOL DISTRICT THAT DOES NOT REQUIRE PASSENGER RESTRAINT SYSTEMS IN SCHOOL BUSES UNDER CERTAIN CONDITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1536&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1972",
+          "title": "TO CREATE A SALES AND USE TAX EXEMPTION FOR THE HELENA WEST HELENA FUTURE LEADERS YOUTH SPORTS ASSOCIATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1972&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1018",
+          "title": "TO RECOGNIZE THE BARTON HIGH SCHOOL BEARS BOYS' BASKETBALL TEAM AS THE 2026 CLASS 2A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1018&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+McElroy"
+    }
+  ],
+  "removedByChecks": 0
+}

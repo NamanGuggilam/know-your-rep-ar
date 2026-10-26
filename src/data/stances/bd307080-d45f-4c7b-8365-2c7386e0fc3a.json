@@ -1,0 +1,149 @@
+{
+  "id": "bd307080-d45f-4c7b-8365-2c7386e0fc3a",
+  "name": "Paul Childress",
+  "generatedAt": "2026-10-26T02:44:41.711Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Saline"
+    },
+    {
+      "label": "Occupation",
+      "value": "Senior VP of Sales"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE LEGISLATIVE AFFAIRS"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 33 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1568",
+          "title": "TO AMEND THE LAW CONCERNING EXAMINATIONS, INVESTIGATIONS, AND POSTMORTEM EXAMINATIONS; AND TO AMEND THE LAW REQUIRING A POSTMORTEM EXAMINATION WHEN A DEATH IS BY APPARENT DRUG, ALCOHOL, OR POISON TOXICITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1568&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 289)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1570",
+          "title": "TO AMEND THE LAW CONCERNING THE DISPOSITION OF NARCOTIC DRUGS OF A DECEDENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1570&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1686",
+          "title": "TO AMEND THE LAW CONCERNING LICENSES TO CARRY CONCEALED HANDGUNS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1686&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1734",
+          "title": "TO AMEND THE LAW CONCERNING DEATH CERTIFICATES; AND TO CLARIFY THE MEDICAL PROFESSIONALS WHO MAY SIGN A MEDICAL CERTIFICATE OF DEATH AND PRONOUNCE DEATH OF A PATIENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1734&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 862)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1805",
+          "title": "TO AMEND THE DEFINITION OF \"BULLYING\"; AND TO CREATE A PROCESS WHEREBY A PUBLIC SCHOOL MAY CONDUCT MULTIPLE, SIMULTANEOUS INVESTIGATIONS INTO THE SAME ALLEGATION OF BULLYING UNDER CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1805&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 805)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1991",
+          "title": "TO PROVIDE FOR CERTAIN EXCEPTIONS RELATED TO A RESIDENTIAL DEVELOPMENT UNDER THE ARKANSAS FIRE PREVENTION CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1991&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1020)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1089",
+          "title": "TO RECOGNIZE THE BENTON HIGH SCHOOL PANTHERS BOYS' BASKETBALL TEAM AS THE CLASS 5A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1089&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB415",
+          "title": "TO AUTHORIZE THE DIVISION OF ENVIRONMENTAL QUALITY TO MAINTAIN A DELINQUENT LIST OF BUSINESSES FAILING TO PAY A WHOLESALER OF PETROLEUM PRODUCTS FOR THE PETROLEUM PRODUCTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB415&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB454",
+          "title": "TO AMEND THE LAW CONCERNING UNCLAIMED PROPERTY FUNDS; TO AMEND THE LAW CONCERNING THE DEPOSIT AND INVESTMENT OF UNCLAIMED PROPERTY FUNDS; TO CREATE THE UNCLAIMED PROPERTY INTEREST TRUST FUND; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB454&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 430)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1101",
+          "title": "AN ACT FOR THE DEPARTMENT OF EDUCATION - PUBLIC SCHOOL FUND - R.I.S.E. ARKANSAS - MATH CURRICULUM GRANTS APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1101&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Childress"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,150 @@
+{
+  "id": "53cecb4b-96b5-4cbe-bc72-6eab07cbdeea",
+  "name": "Chad Puryear",
+  "generatedAt": "2026-10-26T02:44:35.122Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Crawford, Part Franklin, Part Washington"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGRICULTURE- HOUSE AGRICULTURE, FORESTRY & NATURAL RESOURCES SUBCOM."
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 44 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1007",
+          "title": "TO REGULATE LIABILITY FOR SHOOTING SPORTS EVENTS; AND TO PROVIDE IMMUNITY TO CERTAIN INDIVIDUALS WITH RESPECT TO SHOOTING SPORTS EVENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1007&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 248)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1448",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL PLANNING AREAS; AND TO REQUIRE NOTICE AND COMPENSATION TO PROPERTY OWNERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1448&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1682",
+          "title": "TO CREATE THE GOOD NEIGHBOR ACT; AND TO CLARIFY FOOD DONATION LIABILITY AND IMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1682&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 942)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1924",
+          "title": "TO REPEAL THE REQUIREMENT THAT THE STATE BOARD OF EDUCATION ESTABLISH RULES REGARDING THE IMPLEMENTATION OF FOUR-DAY SCHOOL WEEKS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1924&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB317",
+          "title": "TO PROHIBIT AN INSTITUTION OF HIGHER EDUCATION FROM PARTICIPATING IN CERTAIN ACTIVITIES WITH A PROHIBITED FOREIGN PARTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB317&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 351)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB571",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL BUILDING AND ZONING REGULATIONS; AND TO PROHIBIT A MUNICIPALITY FROM ENFORCING BUILDINGS AND ZONING REGULATIONS ON COUNTY PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB571&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1002)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB574",
+          "title": "TO REQUIRE A MUNICIPALITY THAT OPERATES A WATERWORKS SYSTEM OR SEWAGE SYSTEM TO PROVIDE SERVICE TO COUNTY PROPERTY IN CERTAIN INSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB574&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 742)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1023",
+          "title": "TO CONGRATULATE MR. JUSTIN TATE ON HIS ACCOMPLISHMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1023&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1024",
+          "title": "TO RECOGNIZE THE ELKINS HIGH SCHOOL ELKS AS THE 2025 CLASS 4A FOOTBALL STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1024&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Puryear"
+    }
+  ],
+  "removedByChecks": 0
+}

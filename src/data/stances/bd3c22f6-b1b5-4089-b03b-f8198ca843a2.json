@@ -1,0 +1,142 @@
+{
+  "id": "bd3c22f6-b1b5-4089-b03b-f8198ca843a2",
+  "name": "Sonia Barker",
+  "generatedAt": "2026-10-26T02:44:43.448Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Bradley, Calhoun, Part Cleveland, Dallas, Part Ouachita, Part Union"
+    },
+    {
+      "label": "Occupation",
+      "value": "High School Educator"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First TermHouse 2017; 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "CHILD MALTREATMENT INVESTIGATIONS OVERSIGHT COMMITTEE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "HOUSE MANAGEMENT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE LEGISLATIVE AFFAIRS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 41 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1199",
+          "title": "TO REPEAL THE STATUTE CONCERNING THE PROHIBITION AGAINST A SCHOOL DISTRICT BOARD OF DIRECTORS GRANTING A LEGAL TRANSFER UNDER CERTAIN CONDITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1199&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 118)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1477",
+          "title": "TO ALLOW THE GOVERNING BODY OF AN OPEN-ENROLLMENT PUBLIC CHARTER SCHOOL TO SUBMIT AN APPLICANT FOR CONSIDERATION FOR THE ARKANSAS TEACHER OF THE YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1477&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 303)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HMR1005",
+          "title": "TO REMEMBER LAWRENCE ERVIN BEARDEN AND TO RECOGNIZE HIS LIFETIME OF DEDICATION TO HIS FAMILY AND COMMUNITY, THE STATE OF ARKANSAS, AND THE NATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HMR1005&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1040",
+          "title": "TO RECOGNIZE THE SMACKOVER HIGH SCHOOL VARSITY CHEERLEADING TEAM AS THE 2024 CLASS 3A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1040&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1044",
+          "title": "TO RECOGNIZE THE STRONG HIGH SCHOOL BULLDOGS EIGHT-MAN FOOTBALL TEAM FOR ITS 2024-25 STATE CHAMPIONSHIP VICTORY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1044&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR5",
+          "title": "TO CONTINUE TO ENCOURAGE THE PURSUIT OF NATIONAL CANCER INSTITUTE DESIGNATION BY THE WINTHROP P. ROCKEFELLER CANCER INSTITUTE AT THE UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR5&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Barker"
+    }
+  ],
+  "removedByChecks": 0
+}

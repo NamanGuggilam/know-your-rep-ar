@@ -1,0 +1,353 @@
+{
+  "id": "4b6071ae-58c1-4400-a49f-416579c6371e",
+  "name": "David Ray",
+  "generatedAt": "2026-10-26T02:44:35.603Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Faulkner, Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Consultant/Communications Strategist"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House Majority Leader (or designee) 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE COMPLAINTS AND REMEDIATION SUBCOM."
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 38 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1005",
+          "title": "TO AMEND THE LAW REGARDING TUITION WAIVERS FOR ARKANSAS NATIONAL GUARD SOLDIERS AND AIRMEN TO INCLUDE PROGRAMS OF STUDY LEADING TO A POSTSECONDARY CERTIFICATE OR CREDENTIAL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1005&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 14)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1065",
+          "title": "TO CREATE THE INFLATION REDUCTION ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1065&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1066",
+          "title": "TO INCREASE THE STANDARD DEDUCTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1066&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1074",
+          "title": "TO AMEND THE PROPERTY TAX RELIEF TRUST FUND; AND TO REQUIRE A HIGHER VOTE THRESHOLD FOR USING MONEYS IN THE PROPERTY TAX RELIEF TRUST FUND FOR PURPOSES OTHER THAN PROPERTY TAX RELIEF.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1074&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 121)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1075",
+          "title": "TO PROHIBIT A LOCAL GOVERNMENT FROM REGULATING THE SALE OR USE OF A LAWN CARE DEVICE OR IMPOSING A TAX OR FEE ON THE USE OF A LAWN CARE DEVICE IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1075&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 146)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1116",
+          "title": "TO CREATE THE REMOTE AND MOBILE WORK MODERNIZATION AND COMPETITIVENESS ACT; AND TO PROVIDE INCOME TAX AND WITHHOLDING EXEMPTIONS RELATED TO CERTAIN REMOTE AND MOBILE EMPLOYEES AND NONRESIDENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1116&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1221",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING INITIATIVES, REFERENDA, AND CONSTITUTIONAL AMENDMENTS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1221&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 153)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1222",
+          "title": "TO REQUIRE THE ATTORNEY GENERAL TO REVIEW BALLOT TITLES FOR CONFLICTS WITH THE UNITED STATES CONSTITUTION AND FEDERAL STATUTES; AND TO PROHIBIT THE SUBMISSION OF CONFLICTING INITIATIVE PETITIONS AND REFERENDUM PETITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1222&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 154)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1223",
+          "title": "TO ALLOW A CANDIDATE FOR THE OFFICE OF JUSTICE OF THE SUPREME COURT OR JUDGE OF THE COURT OF APPEALS WHO IS SERVING IN THAT POSITION AS AN APPOINTEE TO USE THE TITLE OF THAT POSITION AS A PREFIX ON THE BALLOT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1223&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 126)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1369",
+          "title": "CONCERNING THE ESTABLISHMENT OF THE MAXIMUM CAMPAIGN CONTRIBUTION LIMIT BY THE ARKANSAS ETHICS COMMISSION; AMENDING PORTIONS OF LAW RESULTING FROM INITIATED ACTS; AND DECLARING AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1369&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 270)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1499",
+          "title": "TO AMEND THE SALE AND PURCHASE PROCEDURE FOR PUBLIC PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1499&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 288)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1517",
+          "title": "TO ESTABLISH THE EARNED WAGE ACCESS SERVICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1517&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 347)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1538",
+          "title": "TO AMEND THE LAW CONCERNING THE NET OPERATING LOSS INCOME TAX DEDUCTION; AND TO INCREASE THE CARRY-FORWARD PERIOD FOR THE NET OPERATING LOSS INCOME TAX DEDUCTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1538&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1553",
+          "title": "TO REPEAL THE PROHIBITION AGAINST THE SALE AND DISTRIBUTION OF NOVELTY LIGHTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1553&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1571",
+          "title": "TO AMEND THE ARKANSAS ADULT DIPLOMA PROGRAM ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1571&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 502)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1636",
+          "title": "TO AMEND THE ARKANSAS SOFT DRINK TAX ACT, AS AFFIRMED BY REFERRED ACT 1 OF 1994; AND TO PHASE OUT THE SOFT DRINK TAX BASED ON SALES TAX COLLECTIONS FROM SALES OF SOFT DRINKS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1636&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1637",
+          "title": "CONCERNING THE DEVELOPMENT AND PRESENTATION OF FISCAL IMPACT STATEMENTS CONCERNING THE FISCAL IMPACT OF STATEWIDE INITIATIVE AND REFERENDUM MEASURES AND LEGISLATIVELY REFERRED CONSTITUTIONAL AMENDMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1637&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 457)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1650",
+          "title": "AN ACT FOR THE DEPARTMENT OF EDUCATION - DIVISION OF CAREER AND TECHNICAL EDUCATION ADULT DIPLOMA PROGRAM APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1650&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1804",
+          "title": "TO AMEND THE LAW CONCERNING THE LEVY OF THE GROSS RECEIPTS TAX, AS AFFIRMED BY REFERRED ACT 19 OF 1958; TO PROVIDE A SALES TAX EXEMPTION FOR UTILITY VEGETATION LINE MANAGEMENT SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1804&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1891",
+          "title": "TO ALLOW A PERSON FILING AS A CANDIDATE FOR THE OFFICE OF JUSTICE OF THE SUPREME COURT OR JUDGE OF THE COURT OF APPEALS WHO IS AN APPOINTEE IN THAT POSITION TO USE THE TITLE OF THAT POSITION AS A PREFIX WHEN FILING AS A CANDIDATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1891&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 715)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1002",
+          "title": "TO URGE THE UNITED STATES CONGRESS TO PERMANENTLY EXTEND THE TAX CUTS AND JOBS ACT OF 2017.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1002&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1016",
+          "title": "A CONSTITUTIONAL AMENDMENT TO REPEAL THE PROVISION OF ARKANSAS CONSTITUTION, ARTICLE 5, § 1, ALLOWING THE SPONSOR OF AN INITIATIVE OR REFERENDUM PETITION TO CORRECT OR AMEND A PETITION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1016&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1017",
+          "title": "A CONSTITUTIONAL AMENDMENT PROVIDING THAT A PROPOSED STATE-WIDE INITIATED ACT OR CONSTITUTIONAL AMENDMENT SHALL BECOME A LAW WHEN APPROVED BY A MAJORITY OF THE VOTES CAST IN THE ELECTION AND A MAJORITY OF THE COUNTIES OF THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1017&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1018",
+          "title": "THE CITIZENS ONLY VOTING AMENDMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1018&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1006",
+          "title": "TO RECOGNIZE FEBRUARY 7-14, 2025, AS NATIONAL MARRIAGE WEEK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1006&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB188",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING INITIATIVE PETITIONS AND REFERENDUM PETITIONS; AND TO REQUIRE PUBLIC POSTING OF STATEWIDE INITIATIVE PETITIONS AND REFERENDUM PETITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB188&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 272)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB516",
+          "title": "TO ALLOW A PERSON FILING AS A CANDIDATE FOR THE OFFICE OF JUSTICE OF THE SUPREME COURT OR JUDGE OF THE COURT OF APPEALS WHO IS AN APPOINTEE IN THAT POSITION TO USE THE TITLE OF THAT POSITION AS A PREFIX WHEN FILING AS A CANDIDATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB516&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 761)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB569",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION CONCERNING BALLOT TITLES OF PROPOSED MEASURES; AND AMENDING THE ARKANSAS CONSTITUTION UNDER THE AUTHORITY OF ARKANSAS CONSTITUTION, ARTICLE 5, SECTION 1.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB569&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB91",
+          "title": "TO PROVIDE THAT LOCAL GOVERNMENTAL UNITS SHALL HAVE NO AUTHORITY TO REGULATE OR CONTROL THE AMOUNT CHARGED FOR A RENTAL APPLICATION FEE OR RENTAL DEPOSIT FOR PRIVATE RESIDENTIAL OR COMMERCIAL PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB91&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 459)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR18",
+          "title": "THE CITIZENS ONLY VOTING AMENDMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR18&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Ray"
+    }
+  ],
+  "removedByChecks": 0
+}

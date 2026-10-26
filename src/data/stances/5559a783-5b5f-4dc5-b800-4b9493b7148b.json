@@ -1,0 +1,145 @@
+{
+  "id": "5559a783-5b5f-4dc5-b800-4b9493b7148b",
+  "name": "Rick Beck",
+  "generatedAt": "2026-10-26T02:44:42.386Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Conway, Part Van Buren"
+    },
+    {
+      "label": "Occupation",
+      "value": "Electrical Engineer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE ELECTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE STATE AGENCIES & REORGAN. SUBCOM"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 31 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1656",
+          "title": "TO AMEND THE LAW REGARDING OIL AND GAS PRODUCTION AND CONSERVATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1656&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1024)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1657",
+          "title": "TO AMEND THE ARKANSAS WOOD ENERGY PRODUCTS AND FOREST MAINTENANCE INCOME TAX CREDIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1657&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 709)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1900",
+          "title": "TO AMEND THE LAW REGARDING INFORMATION PROVIDED TO ROYALTY OWNERS RELATED TO DEDUCTIONS; AND TO AMEND THE LAW CONCERNING SANCTIONS FOR NONCOMPLIANCE RELATED TO INFORMATION PROVIDED TO ROYALTY OWNERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1900&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1054",
+          "title": "TO WISH ELIZABETH \"BETTY\" KAUFMAN THINES A HAPPY 107TH BIRTHDAY AND TO RECOGNIZE AND HONOR HER SERVICE TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1054&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1098",
+          "title": "TO RECOGNIZE AND COMMEND THE ENERGY COUNCIL ON THE OCCASION OF ITS FIFTIETH ANNIVERSARY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1098&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB297",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPALITIES CHOOSING TO ELECT COUNCIL MEMBERS; AND TO REQUIRE FILING OF THE ORDINANCE DESCRIBING THE ELECTION OF CITY COUNCIL MEMBERS WITH THE COUNTY CLERK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB297&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 283)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB530",
+          "title": "TO AMEND THE ARKANSAS WOOD ENERGY PRODUCTS AND FOREST MAINTENANCE INCOME TAX CREDIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB530&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 701)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Beck"
+    }
+  ],
+  "removedByChecks": 0
+}

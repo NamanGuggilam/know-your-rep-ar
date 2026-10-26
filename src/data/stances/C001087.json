@@ -1,0 +1,263 @@
+{
+  "id": "C001087",
+  "name": "Eric A. \"Rick\" Crawford",
+  "generatedAt": "2026-10-26T02:42:26.452Z",
+  "model": "none",
+  "facts": [],
+  "committees": [
+    {
+      "name": "House Committee on Transportation and Infrastructure",
+      "role": "Vice Chair"
+    },
+    {
+      "name": "House Committee on Agriculture"
+    },
+    {
+      "name": "House Permanent Select Committee on Intelligence",
+      "role": "Chairman"
+    },
+    {
+      "name": "House Committee on Agriculture: General Farm Commodities, Risk Management, and Credit Subcommittee"
+    },
+    {
+      "name": "House Committee on Transportation and Infrastructure: Water Resources and Environment Subcommittee"
+    },
+    {
+      "name": "House Committee on Transportation and Infrastructure: Highways and Transit Subcommittee"
+    }
+  ],
+  "ownWords": {
+    "status": "ok",
+    "note": "From 13 issue pages on their official website.",
+    "pages": [
+      {
+        "url": "https://crawford.house.gov/issues/agriculture-and-trade",
+        "title": "Agriculture and Trade"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/cuba-trade",
+        "title": "Cuba Trade"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/economy-0",
+        "title": "Economy"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/education-and-job-training",
+        "title": "Education and Job Training"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/explosive-ordnance-disposal-caucus",
+        "title": "Explosive Ordnance Disposal Caucus"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/health-care",
+        "title": "Health Care"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/immigration",
+        "title": "Immigration"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/national-debt-and-spending",
+        "title": "National Debt and Spending"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/public-safety",
+        "title": "Public Safety"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/rural-america",
+        "title": "Rural America"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/the-farm-bill",
+        "title": "The Farm Bill"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/transportation",
+        "title": "Transportation"
+      },
+      {
+        "url": "https://crawford.house.gov/issues/veterans-affairs",
+        "title": "Veterans' Affairs"
+      }
+    ]
+  },
+  "billsNote": "Bills and resolutions they were the main sponsor of in the 119th Congress (2025-2026).",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "H.R. 8403",
+          "title": "To amend the Food and Nutrition Act of 2008 to modify the definition of food.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/8403",
+          "status": "Referred to the House Committee on Agriculture.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9776",
+          "title": "FLOWS Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9776",
+          "status": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9624",
+          "title": "Intelligence Authorization Act for Fiscal Year 2027",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9624",
+          "status": "Ordered to be Reported (Amended) by Voice Vote.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9238",
+          "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9238",
+          "status": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 198 - 218 (Roll no. 221).",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9209",
+          "title": "Intelligence Community Inspector General Parity Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9209",
+          "status": "Referred to the Permanent Select Committee on Intelligence, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 8035",
+          "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through October 20, 2027, and for other purposes.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/8035",
+          "status": "Rule H. Res. 1175 failed passage of House.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 7571",
+          "title": "GusNIP Expansion Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/7571",
+          "status": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HRES 987",
+          "title": "Denouncing Nicolás Maduro's authoritarian, despotic, and murderous regime and commending President Trump for taking decisive action long called for by Members of Congress.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/987",
+          "status": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5710",
+          "title": "Bridge the Gap for Rural Communities Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5710",
+          "status": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5620",
+          "title": "Prioritizing Offensive Agricultural Disputes and Enforcement Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5620",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5563",
+          "title": "DRIVE-SAFE Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5563",
+          "status": "Referred to the Subcommittee on Highways and Transit.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5167",
+          "title": "Intelligence Authorization Act for Fiscal Year 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5167",
+          "status": "Placed on the Union Calendar, Calendar No. 339.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 4361",
+          "title": "STOP China Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/4361",
+          "status": "Referred to the Subcommittee on Highways and Transit.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 4320",
+          "title": "Drug and Alcohol Clearinghouse Public Safety Improvement Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/4320",
+          "status": "Referred to the Subcommittee on Highways and Transit.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 3909",
+          "title": "FUELS Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/3909",
+          "status": "Referred to the Subcommittee on Water Resources and Environment.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 2920",
+          "title": "VARIANCE Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/2920",
+          "status": "Referred to the Subcommittee on Highways and Transit.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 2594",
+          "title": "To establish a Water Risk and Resilience Organization to develop risk and resilience requirements for the water sector.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/2594",
+          "status": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 1115",
+          "title": "Weather Radar Coverage Improvement Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1115",
+          "status": "Referred to the House Committee on Science, Space, and Technology.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HRES 92",
+          "title": "Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Nineteenth Congress.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/92",
+          "status": "Referred to the House Committee on House Administration.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Congress.gov (Library of Congress)",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "congress-legislators committee data",
+      "url": "https://github.com/unitedstates/congress-legislators"
+    },
+    {
+      "name": "Eric A. \"Rick\" Crawford's official website",
+      "url": "https://crawford.house.gov"
+    }
+  ],
+  "removedByChecks": 0
+}

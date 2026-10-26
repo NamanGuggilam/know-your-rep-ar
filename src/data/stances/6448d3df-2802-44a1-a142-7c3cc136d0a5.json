@@ -1,0 +1,409 @@
+{
+  "id": "6448d3df-2802-44a1-a142-7c3cc136d0a5",
+  "name": "Alan Clark",
+  "generatedAt": "2026-10-26T02:44:33.200Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Garland, Part Grant, Part Hot Spring, Part Saline"
+    },
+    {
+      "label": "Occupation",
+      "value": "Vice President/Chief Operating Officer, Clark's Building and Decorating Center"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Garland County Quorum Court; Garland County Planning Commission; Senate 2013, 2015, 2017, 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CHILD MALTREATMENT INVESTIGATIONS OVERSIGHT COMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE - SENATE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "CHILDREN AND YOUTH COMMITTEE - SENATE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS-SENATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 27 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB167",
+          "title": "TO AMEND THE DATES BY WHICH CERTAIN REQUESTS TO TRANSFER PUBLIC SCHOOLS OR PUBLIC SCHOOL DISTRICTS SHALL BE SUBMITTED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB167&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 563)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB189",
+          "title": "TO AUTHORIZE IVERMECTIN FOR HUMAN USE TO BE SOLD WITHOUT A PRESCRIPTION OR CONSULTATION WITH A HEALTHCARE PROFESSIONAL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB189&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 396)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB205",
+          "title": "TO AMEND THE ARKANSAS OPPORTUNITY PUBLIC SCHOOL CHOICE ACT; AND TO AMEND THE PUBLIC SCHOOL CHOICE ACT OF 2015.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB205&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB261",
+          "title": "TO AMEND THE LAW CONCERNING THE OPERATION OF AN ALL-TERRAIN VEHICLE ON CERTAIN ROADS; AND TO AMEND THE LAW CONCERNING THE ACCESS OF ALL-TERRAIN VEHICLES TO UNPAVED ROADS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB261&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB325",
+          "title": "TO AMEND THE ARKANSAS JUVENILE CODE OF 1989; TO AMEND THE CHILD MALTREATMENT ACT; TO AMEND THE LAW REGARDING REINSTATEMENT OF PARENTAL RIGHTS; AND TO AMEND THE LAW REGARDING THE CHILD MALTREATMENT CENTRAL REGISTRY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB325&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB326",
+          "title": "TO AMEND THE ARKANSAS JUVENILE CODE OF 1989 AND THE CHILD MALTREATMENT ACT; TO MODIFY GUIDELINES FOR A JUDGMENT MADE IN THE BEST INTEREST OF A CHILD; AND TO AMEND PROCEDURES AROUND REPORTING CHILD MALTREATMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB326&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB339",
+          "title": "CONCERNING THE MEMBERSHIP OF THE CHILD MALTREATMENT INVESTIGATIONS OVERSIGHT COMMITTEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB339&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 404)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB340",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING CERTAIN FEES, EXPENSES, AND COSTS IMPOSED ON A JUVENILE OR THE PARENT, GUARDIAN, OR CUSTODIAN OF A JUVENILE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB340&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB341",
+          "title": "AN ACT FOR THE ADMINISTRATIVE OFFICE FOR COURTS FEES, EXPENSES AND COSTS IMPOSED ON A JUVENILE OR PARENT, GUARDIAN, OR CUSTODIAN OF A JUVENILE APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB341&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB342",
+          "title": "TO AMEND THE LAW CONCERNING INJURIES TO CERTAIN ANIMALS BY DOGS TO AUTHORIZE TREBLE DAMAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB342&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 749)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB372",
+          "title": "TO AMEND THE LAW CONCERNING THE SIGNAL LEGEND OF TRAFFIC CONTROL DEVICES; AND TO ALLOW A VEHICLE DRIVER TO ENTER AN INTERSECTION WHILE A RED LIGHT IS INDICATED ON A TRAFFIC CONTROL DEVICE IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB372&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB376",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO AMEND THE LAW CONCERNING PUBLIC MEETINGS UNDER THE FREEDOM OF INFORMATION ACT OF 1967.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB376&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB396",
+          "title": "TO AMEND THE LAW CONCERNING HUNTING AND FISHING LICENSES; AND TO AUTHORIZE THE ARKANSAS STATE GAME AND FISH COMMISSION TO ISSUE TO CERTAIN NONRESIDENTS A HUNTING OR FISHING LICENSE FOR THE COST OF A RESIDENT LICENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB396&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB406",
+          "title": "TO REQUIRE A COUNTY RECORDER TO VERIFY CERTAIN INFORMATION BEFORE RECORDING A DEED TO REAL ESTATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB406&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 752)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB436",
+          "title": "TO AMEND THE ABILITY OF A STUDENT WHO TRANSFERS UNDER THE PUBLIC SCHOOL CHOICE ACT OF 2015 TO PARTICIPATE IN AN EXTRACURRICULAR ACTIVITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB436&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB438",
+          "title": "TO PERMANENTLY BAN FROM COACHING A COACH OR AN ATHLETICS PERSONNEL MEMBER WHO RECRUITS A STUDENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB438&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB464",
+          "title": "TO AMEND THE LAWS CONCERNING SALES OF RAW MILK; TO ALLOW SALES OF RAW MILK AND RAW MILK PRODUCTS AT LOCATIONS OTHER THAN THE FARM WHERE THE RAW MILK OR RAW MILK PRODUCT WAS PRODUCED; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB464&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 698)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB471",
+          "title": "TO AMEND THE LAW CONCERNING CANDIDATES FOR NONPARTISAN ELECTIONS; AND TO ALLOW CERTAIN CANDIDATES FOR NONPARTISAN ELECTIONS TO USE THE TITLE OF THE NONPARTISAN JUDICIAL OFFICE ON THE BALLOT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB471&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB69",
+          "title": "CONCERNING THE RECORDATION AND FILING OF A DEED OR OTHER INSTRUMENT THAT CONVEYS REAL PROPERTY OR AN INTEREST IN REAL PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB69&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR34",
+          "title": "TO SUPPORT THE NOMINATION OF FORMER GOVERNOR OF ARKANSAS MICHAEL DALE \"MIKE\" HUCKABEE AS UNITED STATES AMBASSADOR TO ISRAEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR34&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1048",
+          "title": "TO AMEND THE LAW CONCERNING THE INCIDENTAL SALE OF GOAT MILK, SHEEP MILK, AND WHOLE MILK THAT HAS NOT BEEN PASTEURIZED; AND TO CLARIFY THAT THE INCIDENTAL SALE OF RAW MILK IS NOT LIMITED TO A SALE ON THE FARM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1048&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 125)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1121",
+          "title": "TO REPEAL THE LAW CONCERNING THE TRANSFER OF TAX-FORFEITED LANDS TO STATE INSTITUTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1121&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 211)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1407",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE ADMINISTRATION OF JUSTICE FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1407&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 162)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1437",
+          "title": "TO PROHIBIT A PERSON REQUIRED TO REGISTER AS A SEX OFFENDER FROM ENTERING A WATER PARK, SWIMMING AREA, OR CHILDREN'S PLAYGROUND OF A PUBLIC PARK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1437&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 158)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1522",
+          "title": "TO AMEND THE LAW TO ALLOW FOR THE DISTRIBUTION OF FUNDS IN THE MUNICIPAL AID FUND, TURNBACK FUNDS, AND COUNTY SALES AND USE TAX REVENUES TO NEWLY INCORPORATED MUNICIPALITIES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1522&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 620)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1566",
+          "title": "TO REQUIRE ADOPTION OF A STATEWIDE PRACTICAL NURSING PROGRAM CORE CURRICULUM TO INCREASE CONSISTENCY IN PRACTICAL NURSING EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1566&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1597",
+          "title": "TO AMEND THE LAW CONCERNING THE ADMINISTRATION OF THE OATH OF OFFICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1597&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 456)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1614",
+          "title": "TO AMEND THE LAW CONCERNING DESIGNATIONS RELATED TO CERTAIN CRIMINAL JUSTICE GRANT PROGRAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1614&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1644",
+          "title": "CONCERNING THE COMPENSATION OF A RETIRED JUDGE APPOINTED AS A SPECIAL JUDGE; TO CLARIFY THAT A RETIRED JUDGE MAY SERVE AS A SPECIAL JUDGE IMMEDIATELY UPON RETIREMENT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1644&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 370)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1661",
+          "title": "TO AMEND THE LAWS CONCERNING STATE DISTRICT COURTS; TO ELIMINATE THE OBLIGATION OF CITIES AND COUNTIES TO PAY THE SALARIES OF STATE DISTRICT COURT JUDGES; AND TO AMEND THE LAWS CONCERNING DISTRICT COURT CLERKS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1661&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 371)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1667",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO AMEND THE LAW CONCERNING PUBLIC MEETINGS UNDER THE FREEDOM OF INFORMATION ACT OF 1967.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1667&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1668",
+          "title": "TO CREATE THE VULNERABLE YOUTH PROTECTION ACT; AND TO AUTHORIZE A CIVIL ACTION FOR SOCIAL TRANSITIONING AND CASTRATION, STERILIZATION, OR MUTILATION OF A MINOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1668&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1669",
+          "title": "TO CREATE THE KEEP KIDS FIRST ACT; AND TO PROVIDE FOR PROTECTIONS FROM DISCRIMINATION FOR ADOPTION AND FOSTER CARE PROVIDERS ACTING IN ACCORDANCE WITH SINCERELY HELD RELIGIOUS BELIEFS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1669&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 509)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1704",
+          "title": "TO AMEND THE LAW REGARDING CHILD CUSTODY IN MATTERS WHERE A PARENT IS A FIRST RESPONDER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1704&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 388)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1824",
+          "title": "TO CREATE THE DOG AND CAT RESCUE ACT: DAISY'S LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1824&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 688)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1829",
+          "title": "TO AMEND THE DOMESTIC ABUSE ACT OF 1991; TO PROVIDE FOR REMOTE TESTIMONY IN CERTAIN INSTANCES IN A HEARING UNDER THE DOMESTIC ABUSE ACT OF 1991; AND TO PROVIDE OVERSIGHT FOR A DOMESTIC VIOLENCE INTERVENTION PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1829&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1838",
+          "title": "TO AMEND THE LAW CONCERNING PROBATE ACTIONS; AND TO AMEND THE LAW CONCERNING ADOPTION AND GUARDIANSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1838&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 713)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1839",
+          "title": "TO AMEND THE PROCEDURES FOR THE DECLARATION OF LEGAL DEATH OF A MISSING PERSON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1839&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 692)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1916",
+          "title": "TO AMEND THE PROTECTING MINORS FROM MEDICAL MALPRACTICE ACT OF 2023; AND TO INCLUDE GENDER-AFFIRMING INTERVENTIONS AS A RIGHT OF ACTION FOR MEDICAL MALPRACTICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1916&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 979)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1964",
+          "title": "TO MOVE THE CHILD WELFARE OMBUDSMAN DIVISION AND THE JUVENILE OMBUDSMAN DIVISION TO THE DEPARTMENT OF INSPECTOR GENERAL; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1964&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 825)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1977",
+          "title": "TO CREATE THE PROTECTING CHILDHOOD INNOCENCE IN LIBRARIES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1977&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=A.+Clark"
+    }
+  ],
+  "removedByChecks": 0
+}

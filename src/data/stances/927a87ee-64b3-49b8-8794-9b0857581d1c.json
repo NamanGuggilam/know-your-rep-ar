@@ -1,0 +1,379 @@
+{
+  "id": "927a87ee-64b3-49b8-8794-9b0857581d1c",
+  "name": "Mark Johnson",
+  "generatedAt": "2026-10-26T02:44:40.636Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Faulkner, Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Business Consultant, Mark D. Johnson & Associates, Inc."
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "CHILDREN AND YOUTH COMMITTEE - SENATE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE - SENATE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "TRANSPORTATION, TECHNOLOGY & LEGISLATIVE AFFAIRS - SENATE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB151",
+          "title": "TO AMEND LAW CONCERNING RETIREMENT BENEFITS; AND TO PROHIBIT COLLECTION OF BENEFITS BY MEMBERS, RETIRANTS, OR BENEFICIARIES OF RETIREMENT SYSTEMS WHO HAVE BEEN CONVICTED OF CERTAIN OFFENSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB151&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB223",
+          "title": "TO CREATE THE RELIGIOUS RIGHTS AT PUBLIC SCHOOLS ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB223&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 400)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB324",
+          "title": "TO AMEND THE LAW CONCERNING THE MEMBERSHIP OF A COUNTY PLANNING BOARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB324&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 519)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB506",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO REPEAL THE EXEMPTION CONCERNING ELECTRONIC DATA INFORMATION MAINTAINED BY A DISASTER RECOVERY SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB506&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB525",
+          "title": "TO AMEND THE LAW CONCERNING INCORPORATION AND ORGANIZATION OF MUNICIPALITIES; AND TO TRANSFER INCORPORATION DUTIES TO THE SECRETARY OF STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB525&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB540",
+          "title": "TO LIMIT THE SUSPENSION OR REVOCATION OF A DRIVER'S LICENSE OR IMPOSITION OF RESTRICTIONS ON A DRIVER'S LICENSE OF A PERSON WHO HAS SUFFERED A SEIZURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB540&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 702)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB544",
+          "title": "TO AMEND THE ARKANSAS PHARMACY BENEFITS MANAGER LICENSURE ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB544&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 775)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB545",
+          "title": "TO AMEND THE LAW RELATED TO THE PROPERTY AND FINANCES OF STATE INSTITUTIONS OF HIGHER EDUCATION; TO AMEND THE LAW RELATED TO BONDS; AND TO AMEND THE LAW REGARDING RENTS, TOLLS, FEES, AND OTHER CHARGES RELATED TO ATHLETIC CONTESTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB545&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 564)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB556",
+          "title": "TO PROTECT PUBLIC DRINKING WATER SOURCES; AND TO PROHIBIT SURFACE DISCHARGE OF WASTEWATER INTO A WATERSHED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB556&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB557",
+          "title": "TO AMENDS LAW CONCERNING WATER PERMITS AND DISCHARGE OF WASTEWATER; TO AUTHORIZE DENIALS OF APPLICANTS THAT HAVE A HISTORY OF NONCOMPLIANCE; AND TO PROHIBIT CERTAIN DISCHARGE OF WASTEWATER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB557&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB561",
+          "title": "TO ALLOW FOR THE ISSUANCE OF AN ADDITIONAL TEMPORARY PREPRINTED PAPER BUYER'S TAG IN CERTAIN CIRCUMSTANCES; AND TO CREATE A PENALTY FOR THE USE OF AN EXPIRED TEMPORARY PREPRINTED PAPER BUYER'S TAG.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB561&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB569",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION CONCERNING BALLOT TITLES OF PROPOSED MEASURES; AND AMENDING THE ARKANSAS CONSTITUTION UNDER THE AUTHORITY OF ARKANSAS CONSTITUTION, ARTICLE 5, SECTION 1.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB569&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB608",
+          "title": "TO AMEND THE LAW CONCERNING RUNOFF ELECTIONS FOR COUNTY AND MUNICIPAL OFFICERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB608&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 991)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB617",
+          "title": "TO AMEND THE LAW CONCERNING THE CAPITOL ZONING DISTRICT; AND TO AMEND THE ZONING AUTHORITY OF THE CAPITOL ZONING DISTRICT COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB617&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB634",
+          "title": "TO CREATE THE DIVISION OF INTERSCHOLASTIC ACTIVITIES WITHIN THE DIVISION OF ELEMENTARY AND SECONDARY EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB634&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB77",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO REIMBURSE FOR PHYSICAL THERAPY PROVIDED IN A CLINIC-BASED SETTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB77&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 103)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB78",
+          "title": "TO REQUIRE THAT THE DRIVER’S INSTRUCTION MANUAL AND THE DRIVER’S LICENSE EXAMINATION INCLUDE INFORMATION ABOUT THE SAFE OPERATION OF A MOTOR VEHICLE IN A HIGHWAY WORK ZONE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB78&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 117)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB87",
+          "title": "TO AMEND THE LAW CONCERNING COUNTY PLANNING; TO CREATE A PENALTY FOR VIOLATING A SUBDIVISION ORDINANCE; AND TO AMEND THE LAW CONCERNING THE MEMBERSHIP OF A COUNTY PLANNING BOARD IN CERTAIN INSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB87&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR19",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO EXEMPT FOOD AND FOOD INGREDIENTS FROM THE EXCISE TAX LEVIED UNDER ARKANSAS CONSTITUTION, AMENDMENT 75.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR19&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR23",
+          "title": "A CONSTITUTIONAL AMENDMENT TO PROVIDE THAT PROCEEDS GENERATED UNDER ARKANSAS CONSTITUTION, AMENDMENT 91, MAY BE APPLIED TO MULTILANE HIGHWAY IMPROVEMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR23&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR24",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION CONCERNING INITIATIVES, REFERENDA, AND CONSTITUTIONAL AMENDMENTS REFERRED TO VOTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR24&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR3",
+          "title": "TO REMEMBER PUBLIC SERVANT, PUBLIC POLICY EXPERT, AND EMMY AWARD-WINNING JOURNALIST ALICE STEWART.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR3&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR35",
+          "title": "TO RECOGNIZE UNIVERSITY OF CENTRAL ARKANSAS AND NATIONAL BASKETBALL ASSOCIATION STAR SCOTTIE PIPPEN FOR HIS ACHIEVEMENTS AND FOR HIS CONTRIBUTIONS TO HIS COMMUNITY, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR35&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR53",
+          "title": "TO HONOR TERRY KIMBROW, PRESIDENT OF CENTRAL BAPTIST COLLEGE, UPON THE OCCASION OF HIS UPCOMING MAY 2025 RETIREMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR53&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1072",
+          "title": "TO CLARIFY THE REQUIREMENTS FOR ESTABLISHING ELIGIBILITY FOR THE PROPERTY TAX EXEMPTION FOR DISABLED VETERANS, SURVIVING SPOUSES, AND MINOR DEPENDENT CHILDREN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1072&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 876)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1313",
+          "title": "TO EXPAND HEALTH BENEFIT COVERAGE FOR CERTAIN FIREFIGHTER RETIREES OF MUNICIPALITIES AND COUNTIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1313&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 415)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1422",
+          "title": "TO CREATE THE ONLY CITIZENS VOTE ACT; TO AMEND THE LAW CONCERNING THE DRIVER'S LICENSES AND IDENTIFICATION CARDS OF CERTAIN NONCITIZENS; AND TO AMEND ARKANSAS CONSTITUTION, AMENDMENT 51, SECTION 13.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1422&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1504",
+          "title": "TO CREATE THE OFFENSE OF MANUFACTURING, MODIFYING, SELLING, TRANSFERRING, OR OPERATING A ROBOTIC DEVICE OR AN UNCREWED AIRCRAFT THAT IS EQUIPPED OR MOUNTED WITH A WEAPON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1504&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1550",
+          "title": "CONCERNING EXPEDITED SECURITY SCREENINGS AT AN AIRPORT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1550&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1637",
+          "title": "CONCERNING THE DEVELOPMENT AND PRESENTATION OF FISCAL IMPACT STATEMENTS CONCERNING THE FISCAL IMPACT OF STATEWIDE INITIATIVE AND REFERENDUM MEASURES AND LEGISLATIVELY REFERRED CONSTITUTIONAL AMENDMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1637&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 457)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1645",
+          "title": "TO AMEND THE LAW REGARDING ADVERTISING BY A MICROBREWERY-RESTAURANT PRIVATE CLUB.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1645&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 601)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1713",
+          "title": "TO REQUIRE BALLOT TITLES FOR INITIATED MEASURES TO BE AT OR UNDER A CERTAIN READING LEVEL; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1713&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 602)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1813",
+          "title": "TO ADOPT THE FAIR AND EFFICIENT TRANSMISSION COMPACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1813&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1968",
+          "title": "TO REQUIRE THE COLLECTION OF SALES TAX AT THE POINT OF SALE FOR THE SALE OF A NEW OR USED MOTOR VEHICLE, TRAILER, OR SEMITRAILER BY A DEALER; AND TO AMEND LAW AFFIRMED BY REFERRED ACT 19 OF 1958.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1968&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR2",
+          "title": "IN RESPECTFUL MEMORY OF SENATOR LUTHER BOYD \"LU\" HARDIN AND IN RECOGNITION OF HIS MANY CONTRIBUTIONS TO THE STATE OF ARKANSAS AND TO HIS LOCAL COMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR2&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR5",
+          "title": "TO REMEMBER ATTORNEY JOHN GILL FOR HIS CONTRIBUTIONS TO THE CITY OF LITTLE ROCK, TO THE STATE OF ARKANSAS, AND TO THE PRACTICE OF LAW IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR5&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR31",
+          "title": "TO RECOGNIZE COACH VAN COMPTON ON HER ACCOMPLISHMENTS AND IMPACT THROUGHOUT HER FIFTY-ONE-YEAR COACHING CAREER; AND TO CONGRATULATE HER ON HER RETIREMENT AND INDUCTION INTO THE ARKANSAS SPORTS HALL OF FAME.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR31&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+Johnson"
+    }
+  ],
+  "removedByChecks": 0
+}

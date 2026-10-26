@@ -1,0 +1,82 @@
+{
+  "id": "4afdc38b-6ea9-4aa9-a8a1-0975c1147cfc",
+  "name": "Diana Gonzales Worthen",
+  "generatedAt": "2026-10-26T02:44:36.089Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Washington"
+    },
+    {
+      "label": "Occupation",
+      "value": "Educator, Principal Investigator and Director of Project ELEVATE"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 36 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB585",
+          "title": "TO REQUIRE CERTAIN RECORDS BE PROVIDED TO AN EMPLOYEE WHO IS A MINOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB585&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR22",
+          "title": "A CONSTITUTIONAL AMENDMENT CONCERNING THE QUALIFICATIONS TO VOTE IN AN ELECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR22&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Gonzales+Worthen"
+    }
+  ],
+  "removedByChecks": 0
+}

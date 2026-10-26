@@ -1,0 +1,98 @@
+{
+  "id": "50cdb325-0c04-483e-87cb-d6a9037d9bc9",
+  "name": "Dolly Henley",
+  "generatedAt": "2026-10-26T02:44:36.099Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Hempstead, Part Howard, Part Miller"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired Public Administration"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC HEALTH- HOUSE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE LEGISLATIVE AFFAIRS"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 30 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1581",
+          "title": "TO ADD TRAFFICKING OF PERSONS TO THE LIST OF OFFENSES INCLUDED IN THE DEFINITION OF SEX OFFENSE FOR RIGHTS OF VICTIMS OF A CRIME.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1581&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 316)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1100",
+          "title": "TO CELEBRATE THE SESQUICENTENNIAL OF HOPE, ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1100&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Henley"
+    }
+  ],
+  "removedByChecks": 0
+}

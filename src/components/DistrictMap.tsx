@@ -9,13 +9,7 @@ const Inner = dynamic(() => import("./DistrictMapInner"), {
   loading: () => <div className="h-80 w-full rounded-xl bg-surface-2" aria-hidden="true" />,
 });
 
-export function DistrictMap({
-  shapes,
-  point,
-}: {
-  shapes: DistrictShape[];
-  point: { lat: number; lon: number };
-}) {
+export function DistrictMap({ shapes }: { shapes: DistrictShape[] }) {
   const [active, setActive] = useState(0);
   if (!shapes.length) return null;
   const shape = shapes[Math.min(active, shapes.length - 1)];
@@ -26,7 +20,7 @@ export function DistrictMap({
         Your districts on a map
       </h2>
       <p className="mt-1 text-ink-muted">
-        The shaded area is the district. The white dot is the address you typed (shown on this map only).
+        The shaded area is the district. Pick a district to see its outline.
       </p>
       <div role="group" aria-label="Choose a district to show" className="my-3 flex flex-wrap gap-2">
         {shapes.map((s, i) => (
@@ -47,9 +41,9 @@ export function DistrictMap({
       </p>
       <figure>
         <figcaption className="sr-only">
-          Map of {shape.label}, with a dot at your address. The district names above give the same information.
+          Map of {shape.label}. The district names above give the same information.
         </figcaption>
-        <Inner shape={shape} point={point} />
+        <Inner shape={shape} />
       </figure>
       <p className="mt-2 text-sm text-ink-muted">
         District lines from the{" "}

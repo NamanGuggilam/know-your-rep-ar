@@ -1,0 +1,1039 @@
+{
+  "id": "d7dbf486-9ad6-411a-a2ad-a599d0606f2b",
+  "name": "Missy Irvin",
+  "generatedAt": "2026-10-26T02:44:41.445Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Cleburne, Part Faulkner, and Part Newton, Searcy, Stone, Van Buren"
+    },
+    {
+      "label": "Occupation",
+      "value": "Marketing Director"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2011, 2013, 2015, 2017, 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+    },
+    {
+      "name": "SENATE ETHICS COMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ARKANSAS PANS/PANDAS ADVISORY COUNCIL"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE - SENATE"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "SENATE RULES, RESOLUTIONS & MEMORIALS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE HEALTH SERVICES"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE HUMAN SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 40 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB134",
+          "title": "TO AMEND THE LAW CONCERNING THE PUBLIC SCHOOL EMPLOYEE HEALTH BENEFIT ADVISORY COMMISSION; AND TO AMEND THE LAW CONCERNING THE STATE EMPLOYEE HEALTH BENEFIT ADVISORY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB134&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 143)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB187",
+          "title": "TO AMEND THE COMPOSITION OF THE ARKANSAS MEDICAID DRUG UTILIZATION REVIEW BOARD TO INCLUDE PHYSICIAN ASSISTANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB187&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB213",
+          "title": "TO CREATE THE HEALTHY MOMS, HEALTHY BABIES ACT; AND TO AMEND ARKANSAS LAW TO IMPROVE MATERNAL HEALTH IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB213&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 140)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB218",
+          "title": "TO AMEND THE ARKANSAS SMALL BUSINESS INNOVATION RESEARCH MATCHING GRANT PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB218&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 440)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB254",
+          "title": "TO AMEND THE LAW CONCERNING RURAL COMMUNITY PROJECTS; TO AMEND THE DEFINITION OF \"PROPERTY IN KIND\"; AND FOR OTHER PURPOSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB254&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 359)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB264",
+          "title": "TO ESTABLISH THE ARKANSAS PRIMARY CARE PAYMENT IMPROVEMENT WORKING GROUP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB264&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 483)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB265",
+          "title": "TO REDUCE AND MODIFY THE MEMBERSHIP OF THE LICENSING COMMITTEE RELATING TO WASTEWATER AND THE LICENSING COMMITTEE RELATING TO SOLID WASTE; AND TO AMEND THE APPRENTICESHIP LICENSES IN SOLID WASTE LICENSING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB265&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 294)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB267",
+          "title": "TO REPEAL THE ARKANSAS ALTERNATIVE MOTOR FUEL DEVELOPMENT ACT; AND TO REPEAL THE ALTERNATIVE MOTOR FUEL DEVELOPMENT FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB267&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 295)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB275",
+          "title": "TO AMEND THE LAW CONCERNING THE REGULATION OF LIQUEFIED PETROLEUM GASES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB275&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 441)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB279",
+          "title": "TO ASSIST THE DIVISION OF LABOR WITH ENFORCING THE FAIR AND PROMPT PAYMENT OF WAGES TO ARKANSAS CITIZENS; AND TO CLARIFY THE MANNER IN WHICH WAGE AND HOUR COMPLAINTS ARE INVESTIGATED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB279&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 397)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB280",
+          "title": "TO DESIGNATE THE OIL AND GAS COMMISSION AS THE CUSTODIAN OF ALL PROPERTY AND THE DISBURSING AGENT OF ALL FUNDS OF THE OFFICE OF THE STATE GEOLOGIST.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB280&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 442)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB313",
+          "title": "CONCERNING FORENSIC MENTAL HEALTH EVALUATIONS AND TREATMENT; AND TO PROMOTE AND IMPROVE EFFICIENCIES AND QUALITY IN THE DEPARTMENT OF HUMAN SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB313&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 733)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB314",
+          "title": "TO AMEND THE LAW CONCERNING SEXUAL SOLICITATION; AND TO AMEND THE PENALTIES FOR THE OFFENSE OF SEXUAL SOLICITATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB314&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 661)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB320",
+          "title": "TO AMEND THE ARKANSAS JUVENILE CODE OF 1989.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB320&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 518)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB328",
+          "title": "TO AMEND THE LAW CONCERNING COMPUTER CRIMES AGAINST MINORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB328&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 361)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB343",
+          "title": "TO AMEND THE LAW CONCERNING STATE-OWNED MOTOR VEHICLES; TO AMEND THE LAW CONCERNING PUBLIC PROPERTY; AND TO AMEND THE AUTOMOBILE AND PICKUP TRUCK ACQUISITION ACT FOR THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB343&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 734)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB344",
+          "title": "TO TRANSFER THE HEALTHY EMPLOYEE LIFESTYLE PROGRAM FROM THE DEPARTMENT OF HEALTH TO THE DEPARTMENT OF TRANSFORMATION AND SHARED SERVICES; AND TO AMEND THE LAW CONCERNING THE HEALTHY LIFESTYLE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB344&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 444)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB345",
+          "title": "TO PROMOTE TOURISM AND ECONOMIC DEVELOPMENT BY IMPROVING EFFICIENCY OF THE PRIVATE CLUB PERMITTING PROCESS OF HOTELS, RESTAURANTS, AND LARGE-EVENT FACILITIES; AND TO REMOVE AN OVERLY BURDENSOME TAX REQUIREMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB345&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 421)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB367",
+          "title": "TO REPEAL THE SMALL BUSINESS REVOLVING LOAN FUND FOR POLLUTION CONTROL AND PREVENTION TECHNOLOGIES ACT; AND TO REPEAL THE SMALL BUSINESS REVOLVING LOAN FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB367&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 735)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB368",
+          "title": "TO AMEND THE LAW CONCERNING MINERAL, TIMBER, AND OTHER RESOURCES ON STATE LANDS; TO REDUCE MEMBERSHIP OF THE NATURAL RESOURCES COMMITTEE; AND TO AMEND THE NOTIFICATION RELATED TO LEASES AND PERMITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB368&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 445)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB369",
+          "title": "TO REPEAL THE COMPUTER AND ELECTRONIC EQUIPMENT RECYCLING GRANTS; AND TO REPEAL THE COMPUTER AND ELECTRONIC RECYCLING FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB369&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 778)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB370",
+          "title": "TO TRANSFER THE ARKANSAS WINE PRODUCERS COUNCIL FROM THE DEPARTMENT OF COMMERCE TO THE DEPARTMENT OF PARKS, HERITAGE, AND TOURISM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB370&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 462)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB373",
+          "title": "TO AMEND THE ARKANSAS FINANCIAL EDUCATION COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB373&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB400",
+          "title": "TO AMEND THE FAIR-FUNDING PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB400&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 933)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB416",
+          "title": "TO REPEAL THE ELECTRIC VEHICLE INFRASTRUCTURE GRANT PROGRAM; AND TO REPEAL THE ELECTRIC VEHICLE INFRASTRUCTURE FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB416&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 493)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB435",
+          "title": "TO CREATE THE CRIMINAL OFFENSE OF AGGRAVATED ASSAULT UPON A HEALTHCARE WORKER; AND TO DEFINE \"HEALTHCARE WORKER\" REGARDING ASSAULT AND BATTERY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB435&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 753)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB439",
+          "title": "TO AMEND THE DUTIES OF THE SECRETARY OF THE DEPARTMENT OF LABOR AND LICENSING; AND TO AMEND PORTIONS OF ARKANSAS CODE WHICH RESULTED FROM INITIATED ACT 1 OF 1914.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB439&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 737)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB460",
+          "title": "TO MODIFY THE COMPLIANCE ADVISORY PANEL; TO REPEAL THE MARKETING RECYCLABLES PROGRAM OF THE COMPLIANCE ADVISORY PANEL; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB460&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 697)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB483",
+          "title": "TO REPEAL CERTAIN REPORTING REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT AND THE STATE SECURITIES DEPARTMENT; AND TO REVISE CERTAIN REPORTING REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB483&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 957)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB484",
+          "title": "TO ESTABLISH A PROCESS WHEREBY A VACANCY IS FILLED ON A SCHOOL DISTRICT BOARD OF DIRECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB484&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 726)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB487",
+          "title": "TO AMEND THE LAW ON THE DESTRUCTION OR EXPUNGEMENT OF JUVENILE DELINQUENCY RECORDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB487&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 754)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB488",
+          "title": "TO AMEND THE LAW CONCERNING WHEN A JUVENILE IS CONSIDERED TO BE ADJUDICATED DELINQUENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB488&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 755)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB490",
+          "title": "TO ALLOW A COURT TO WAIVE CERTAIN FEES WHEN A JUVENILE IS ORDERED TO REGISTER AS A SEX OFFENDER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB490&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 972)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB499",
+          "title": "TO REPEAL CERTAIN REPORTING REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT AND THE STATE SECURITIES DEPARTMENT; AND TO REVISE CERTAIN REPORTING REQUIREMENTS FOR THE STATE INSURANCE DEPARTMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB499&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB504",
+          "title": "TO ESTABLISH THE ARKANSAS RURAL PRECEPTORSHIP PROGRAM ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB504&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 727)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB508",
+          "title": "TO AMEND THE FREQUENCY OF PAYMENT OF A STIPEND FOR CERTAIN MEMBERS OF THE PUBLIC SCHOOL EMPLOYEE HEALTH BENEFIT ADVISORY COMMISSION AND THE STATE EMPLOYEE HEALTH BENEFIT ADVISORY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB508&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 756)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB523",
+          "title": "TO AMEND THE LAW REGARDING ALCOHOLIC BEVERAGES; AND TO REMOVE THE REQUIREMENT THAT A PRIVATE CLUB BE A NONPROFIT ORGANIZATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB523&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 762)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB526",
+          "title": "TO PROHIBIT THE SALE OF DISPOSABLE VAPOR PRODUCTS FROM A PROHIBITED FOREIGN PARTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB526&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB527",
+          "title": "TO AMEND THE ARKANSAS HEALTH AND OPPORTUNITY FOR ME ACT OF 2021; AND TO INCREASE THE MEDICAL-LOSS RATIO IN THE ARKANSAS HEALTH AND OPPORTUNITY FOR ME PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB527&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 774)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB563",
+          "title": "TO AUTHORIZE THE ARKANSAS LIVESTOCK AND POULTRY COMMISSION TO IMPOSE A CIVIL PENALTY FOR CERTAIN ACTIONS AGAINST AN EQUINE; AND TO ALLOW A BODY CONDITION SCORE TO BE USED FOR AN EQUINE UNDER THE OFFENSE OF CRUELTY TO ANIMALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB563&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 741)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB618",
+          "title": "TO AMEND THE ARKANSAS STUDENT DUE PROCESS AND PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB618&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 731)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB619",
+          "title": "CONCERNING THE FORMATION OF AN ISOLATED SCHOOL DISTRICT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB619&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 919)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB620",
+          "title": "TO PROVIDE A SAFETY VALVE AND APPEAL RIGHT FOR A MINOR DEFENDANT WHO IS ALSO A VICTIM OF HUMAN TRAFFICKING; AND TO AMEND THE HUMAN TRAFFICKING ACT OF 2013.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB620&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1003)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB621",
+          "title": "TO CLARIFY ENFORCEMENT PROVISIONS AGAINST A HEALTHCARE INSURER; TO RETROACTIVELY APPLY TO A HEALTHCARE CONTRACT FOR THE BENEFIT OF A TEMPORARY HOSPITAL FACILITY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB621&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB626",
+          "title": "TO REQUIRE FAIR AND TRANSPARENT REIMBURSEMENT RATES; TO ENSURE PARITY OF HEALTHCARE SERVICES; TO AMEND THE BILLING IN THE BEST INTEREST OF PATIENTS ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB626&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB627",
+          "title": "TO ASSIST THE ADMINISTRATION OF THE CODE ENFORCEMENT SECTION OF THE DEPARTMENT OF LABOR AND LICENSING AND THE STATE'S ELECTRICIAN, HVACR, ELEVATOR, AND BOILER SAFETY LAWS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB627&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 746)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR5",
+          "title": "TO CONTINUE TO ENCOURAGE THE PURSUIT OF NATIONAL CANCER INSTITUTE DESIGNATION BY THE WINTHROP P. ROCKEFELLER CANCER INSTITUTE AT THE UNIVERSITY OF ARKANSAS FOR MEDICAL SCIENCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR5&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR16",
+          "title": "TO DESIGNATE THE MONTH OF FEBRUARY AS NATIONAL CHILDREN'S DENTAL HEALTH MONTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR16&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR19",
+          "title": "TO RECOGNIZE THE UNIVERSITY OF ARKANSAS AT FAYETTEVILLE RAZORBACKS WOMEN'S SOCCER TEAM FOR THEIR ACHIEVEMENTS IN 2024.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR19&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR2",
+          "title": "TO CONGRATULATE THE ARKANSAS MEDICAL SOCIETY; AND TO CELEBRATE 2025 AS \"THE YEAR OF THE ARKANSAS PHYSICIAN\".",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR2&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR30",
+          "title": "TO CELEBRATE THIRTY-FIVE YEARS OF FAMILY-OWNED AND ARKANSAS-BASED CG ROXANE LLC AND ITS CRYSTAL GEYSER ALPINE SPRING WATER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR30&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR43",
+          "title": "TO DESIGNATE MARCH 12, 2025, AS STARS OF LIFE DAY AND TO RECOGNIZE THE ACCOMPLISHMENTS OF CERTAIN EMERGENCY MEDICAL SERVICES PROFESSIONALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR43&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR6",
+          "title": "TO RECOGNIZE AND CELEBRATE JANUARY 29, 2025, AS MENTAL HEALTH DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR6&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR74",
+          "title": "TO RECOGNIZE THE COLLEGE OF THE OZARKS WOMEN'S BASKETBALL TEAM, FEATURING FOUR (4) PLAYERS FROM ARKANSAS, AS THE 2025 NATIONAL CHRISTIAN COLLEGE ATHLETIC ASSOCIATION DIVISION I NATIONAL CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR74&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1053",
+          "title": "TO REQUIRE REIMBURSEMENT FOR REMOTE ULTRASOUND PROCEDURES AND REMOTE FETAL NONSTRESS TESTS IN THE ARKANSAS MEDICAID PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1053&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1057",
+          "title": "TO AMEND THE LAW CONCERNING POSSESSION OF A FIREARM BY CERTAIN PERSONS; AND TO PERMIT THE RESTORATION OF THE RIGHT TO POSSESS A FIREARM TO A NONVIOLENT FELON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1057&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1137",
+          "title": "AN ACT TO SEPARATE THE OFFICES OF SHERIFF AND TAX COLLECTOR IN SEARCY COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1137&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 11)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1167",
+          "title": "TO MODIFY THE SIGNATURE AUTHORITY FOR ADVANCED PRACTICE REGISTERED NURSES AND PHYSICIAN ASSISTANTS; AND TO CLARIFY THAT DURABLE MEDICAL EQUIPMENT INCLUDES DIABETIC SHOES AND SHOE INSERTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1167&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 431)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1171",
+          "title": "TO MODIFY THE MEDICAID PROVIDER-LED ORGANIZED CARE ACT; AND TO AUTHORIZE AN ABBREVIATED INDEPENDENT ASSESSMENT FOR CERTAIN BENEFICIARIES ENROLLED IN A RISK-BASED PROVIDER ORGANIZATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1171&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 625)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1182",
+          "title": "TO REPLACE THE DEFINED TERM \"MEDICATION ASSISTIVE PERSON\" WITH THE DEFINED TERM \"CERTIFIED MEDICATION ASSISTANT\" THROUGHOUT § 17-87-701 ET SEQ.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1182&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 265)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1204",
+          "title": "TO ESTABLISH RECOVERY OF DAMAGES FOR NECESSARY MEDICAL CARE, TREATMENT, OR SERVICES RENDERED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1204&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 28)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1214",
+          "title": "TO AMEND THE DEFINITION OF PRIMARY INSTRUCTOR WITHIN THE LONG-TERM CARE AIDE TRAINING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1214&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 105)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1241",
+          "title": "TO ENSURE THAT THE ARKANSAS MEDICAID PROGRAM REIMBURSES FOR DENTAL AND ANESTHESIA COSTS FOR HIGH COMPLEXITY ORAL HEALTH CARE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1241&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 568)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1245",
+          "title": "TO CREATE THE ARKANSAS BEHAVIOR ANALYST REGISTRATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1245&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 432)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1252",
+          "title": "TO ESTABLISH THE CERTIFIED COMMUNITY-BASED DOULA CERTIFICATION ACT; AND TO CERTIFY BIRTH AND POSTPARTUM DOULAS IN THIS STATE TO IMPROVE MATERNAL AND INFANT OUTCOMES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1252&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 965)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1254",
+          "title": "TO AUTHORIZE A LICENSED PSYCHOLOGICAL PRACTITIONER TO PRACTICE INDEPENDENTLY IN THIS STATE; AND TO REMOVE THE INDEPENDENT PRACTICE PRIVILEGES FROM PSYCHOLOGICAL EXAMINERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1254&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 433)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1256",
+          "title": "TO REQUIRE THE ARKANSAS BOARD OF EXAMINERS IN COUNSELING TO ISSUE A PROVISIONAL LICENSE FOR A LICENSED ASSOCIATE COUNSELOR AND A LICENSED ASSOCIATE MARRIAGE AND FAMILY THERAPIST.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1256&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 231)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1257",
+          "title": "TO REMOVE THE LIMITATION OF THE PRACTICE OF NEUROPSYCHOLOGY FROM TECHNICIANS EMPLOYED BY PSYCHOLOGISTS; AND TO ALLOW PSYCHOLOGY TECHNICIANS TO BE EMPLOYED BY PSYCHOLOGISTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1257&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 434)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1258",
+          "title": "TO CREATE THE COMMUNITY HEALTH WORKER ACT; AND TO ESTABLISH A STATEWIDE CERTIFICATION FOR COMMUNITY HEALTH WORKERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1258&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 435)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1287",
+          "title": "TO AMEND THE HEALTHCARE CONTRACTING SIMPLIFICATION ACT; TO DEFINE \"DOWNCODE\" UNDER THE HEALTHCARE CONTRACTING SIMPLIFICATION ACT; AND TO REQUIRE NOTIFICATION BY CONTRACTING ENTITIES OF DOWNCODING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1287&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 136)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1288",
+          "title": "TO AMEND THE ARKANSAS HEALTH CARE CONSUMER ACT; AND TO REQUIRE A HEALTHCARE INSURER TO MAKE CERTAIN RETROACTIVE PAYMENTS TO A PROVIDER UPON CREDENTIALING OF A PROVIDER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1288&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 423)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1295",
+          "title": "TO CREATE THE HEALTHCARE COST-SHARING COLLECTIONS TRANSPARENCY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1295&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1296",
+          "title": "TO MANDATE COVERAGE FOR HEALTHCARE SERVICES PROVIDED IN MOBILE UNITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1296&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 556)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1297",
+          "title": "CONCERNING ARTIFICIAL INTELLIGENCE, ALGORITHMS, AND OTHER AUTOMATED TECHNOLOGIES; AND TO REGULATE CERTAIN PRACTICES OF HEALTHCARE INSURERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1297&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1298",
+          "title": "TO MODIFY PAYMENT OF BENEFITS FOR CERTAIN HEALTHCARE PROVIDERS UNDER A HEALTH BENEFIT PLAN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1298&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 307)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1299",
+          "title": "TO PROHIBIT HEALTHCARE INSURERS FROM EXERCISING RECOUPMENT FOR PAYMENT OF HEALTHCARE SERVICES MORE THAN ONE YEAR AFTER THE PAYMENT FOR HEALTHCARE SERVICES WAS MADE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1299&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1300",
+          "title": "TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1300&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 510)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1301",
+          "title": "TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1301&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 511)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1309",
+          "title": "TO AMEND THE LAW CONCERNING COVERAGE OF EXAMINATIONS FOR BREAST CANCER; AND TO CLARIFY THE COST-SHARING REQUIREMENTS FOR EXAMINATIONS FOR BREAST CANCER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1309&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 268)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1314",
+          "title": "TO AMEND THE LAW CONCERNING CERTAIN AUDITS OF HEALTHCARE PROVIDERS; AND TO CREATE THE ARKANSAS MEDICAL AUDIT BILL OF RIGHTS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1314&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 512)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1426",
+          "title": "TO AMEND THE HEALTHCARE CONTRACTING SIMPLIFICATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1426&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 569)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1427",
+          "title": "TO CREATE THE HEALTHY MOMS, HEALTHY BABIES ACT; AND TO AMEND ARKANSAS LAW TO IMPROVE MATERNAL HEALTH IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1427&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 124)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1428",
+          "title": "TO AMEND THE LAW REGARDING PUBLIC LODGING; AND TO PROVIDE A BED HEIGHT REQUIREMENT FOR MOBILITY ACCESSIBLE ROOMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1428&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 855)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1429",
+          "title": "TO INCREASE ACCESSIBILITY WHILE ENSURING QUALITY FOR CERTAIN FACILITIES PERFORMING MAMMOGRAPHY SERVICES; AND TO AMEND THE LAW CONCERNING THE QUALITY STANDARDS FOR ACCREDITATION OF FACILITIES FOR MAMMOGRAPHY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1429&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 854)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1430",
+          "title": "TO AMEND THE DEFINITIONS UNDER THE DOMESTIC ABUSE ACT OF 1991.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1430&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1431",
+          "title": "TO AMEND THE DEFINITIONS UNDER THE DOMESTIC ABUSE ACT OF 1991; AND TO PROHIBIT THE ISSUANCE OF AN ORDER OF PROTECTION ENJOINING A PARTY FROM ENGAGING IN COURSE OF CONTROL OR DISTURBING THE PEACE EX PARTE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1431&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1432",
+          "title": "TO AMEND THE DOMESTIC ABUSE ACT OF 1991; AND TO CLARIFY THE REQUIREMENTS FOR DISMISSAL FOR A LACK OF JURISDICTION OVER A PETITION FOR AN ORDER OF PROTECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1432&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1433",
+          "title": "TO REQUIRE A LAW ENFORCEMENT OFFICER WHO IS EXECUTING OR SERVING AN ORDER OF PROTECTION TO SERVE ANY OUTSTANDING CRIMINAL WARRANTS RELATED TO DOMESTIC VIOLENCE OR OFFENSES INVOLVING THE PETITIONER AS THE VICTIM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1433&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 828)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1434",
+          "title": "TO AMEND THE LAW REGARDING THE PRESUMPTION THAT AN AWARD OF JOINT CUSTODY BETWEEN PARENTS IS IN A CHILD'S BEST INTEREST WHEN THERE IS DOMESTIC ABUSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1434&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1454",
+          "title": "TO AMEND THE LAWS CONCERNING CRIMINAL HISTORY RECORDS CHECKS FOR EMPLOYEES OF SERVICE PROVIDERS; TO ALLOW THIRD-PARTY EMPLOYEE EVALUATION SERVICES TO PERFORM CRIMINAL HISTORY RECORDS CHECKS; AND TO INCLUDE INDEPENDENT CONTRACTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1454&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 674)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1458",
+          "title": "TO AMEND THE DEFINITION OF \"CREDENTIALING INFORMATION\" WHEN THE ARKANSAS STATE MEDICAL BOARD IS PROVIDING INFORMATION TO CREDENTIALING ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1458&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 851)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1518",
+          "title": "TO CREATE THE OFFENSE OF CREATING, DISTRIBUTING, POSSESSING, OR VIEWING ARTIFICIAL INTELLIGENCE-GENERATED MATTER DEPICTING SEXUALLY EXPLICIT CONDUCT INVOLVING A CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1518&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1525",
+          "title": "TO AMEND THE LAW CONCERNING REAL PROPERTY; AND TO ADDRESS AGRICULTURAL IMPACT REMEDIATION AGREEMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1525&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 923)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1543",
+          "title": "TO ESTABLISH THE WORKFORCE EXPERIENCE OPPORTUNITIES ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1543&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 631)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1619",
+          "title": "TO SET ADMINISTRATION FEES UNDER THE ARKANSAS MEDICAID PROGRAM FOR IMMUNIZATIONS AND MONOCLONAL ANTIBODIES FOR RESPIRATORY SYNCYTIAL VIRUS DISEASE; AND TO PROVIDE CIVIL IMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1619&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 634)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1626",
+          "title": "TO PROHIBIT THE SALE OF DISPOSAL VAPOR PRODUCTS FROM A PROHIBITED FOREIGN PARTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1626&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1643",
+          "title": "TO ALLOW A CURRENT OR FORMER EMPLOYER TO DISCLOSE SUBSTANTIATED ALLEGATIONS OF SEXUAL ABUSE OR HARASSMENT BY THE CURRENT FOR FORMER EMPLOYEE TO A PROSPECTIVE EMPLOYER UPON WRITTEN CONSENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1643&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 369)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1653",
+          "title": "TO SET STANDARDS FOR LICENSING AND REGULATION OF PSYCHIATRIC RESIDENTIAL TREATMENT FACILITIES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1653&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 636)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1673",
+          "title": "TO AMEND THE LAW CONCERNING BARBERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1673&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 436)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1679",
+          "title": "TO AMEND THE REVISED ARKANSAS ANATOMICAL GIFT ACT; TO ALLOW CERTAIN CLASSES OF PERSONS TO REVOKE OR AMEND AN ANATOMICAL GIFT UPON THE DEATH OF THE DONOR; AND TO REQUIRE CERTAIN REPORTING OF PROCUREMENT ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1679&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 861)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1703",
+          "title": "TO PROVIDE A DRUG REIMBURSEMENT PROCESS FOR CERTAIN HEALTHCARE PROVIDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1703&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 570)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1735",
+          "title": "TO AMEND THE ARKANSAS UNDERGROUND FACILITIES DAMAGE PREVENTION ACT; AND TO REVISE MEMBERSHIP IN THE ONE CALL CENTER UNDER THE ARKANSAS UNDERGROUND FACILITIES DAMAGE PREVENTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1735&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 813)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1767",
+          "title": "TO ABOLISH THE EMERGENCY MEDICAL SERVICES ADVISORY COUNCIL; AND TO CREATE THE EMERGENCY MEDICAL SERVICES ADVISORY COMMITTEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1767&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 863)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1768",
+          "title": "TO REQUIRE A SOLID WASTE LANDFILL CONTRACT RELATING TO A HOST FEE TO BE VOTED ON AT A REGULARLY SCHEDULED MEETING OF A HOST COMMUNITY IN WHICH THE LANDFILL IS LOCATED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1768&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 815)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1770",
+          "title": "TO ESTABLISH THE PREGNANCY PARKING ACT; TO AMEND THE LAW CONCERNING PARKING FOR A PERSON WITH A DISABILITY; AND TO AUTHORIZE THE ISSUANCE OF A TEMPORARY SPECIAL CERTIFICATE TO PREGNANT WOMEN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1770&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1784",
+          "title": "TO MODIFY THE INFORMAL DISPUTE RESOLUTION PROCESS FOR LONG-TERM CARE FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1784&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 864)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1788",
+          "title": "TO AMEND THE ARKANSAS HEALTH CARE CONSUMER ACT; AND TO REDUCE THE TIME ALLOWED FOR PROCESSING AN APPLICATION OF A PROVIDER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1788&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 571)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1827",
+          "title": "TO AMEND THE ARKANSAS HUNTING HERITAGE PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1827&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 817)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1840",
+          "title": "TO AMEND THE MEDICAID PROVIDER-LED ORGANIZED CARE ACT TO ENSURE THAT SEDATION DENTISTRY IS COVERED BY RISK-BASED PROVIDER ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1840&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 967)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1841",
+          "title": "TO CREATE THE ARKANSAS REVENUE INVESTMENT IN VITAL EMS SYSTEMS (ARRIVES) ACT; AND TO CREATE THE ARKANSAS REVENUE INVESTMENT IN VITAL EMS SYSTEMS (ARRIVES) FUND FOR EMERGENCY MEDICAL SERVICES AGENCIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1841&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1021)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1846",
+          "title": "TO CREATE THE ARKANSAS 2036 COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1846&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 946)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1848",
+          "title": "TO AMEND THE LAW REGARDING THE PRESUMPTION THAT AN AWARD OF JOINT CUSTODY BETWEEN PARENTS IS IN A CHILD'S BEST INTEREST WHEN THERE IS DOMESTIC ABUSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1848&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1850",
+          "title": "TO AMEND THE LAW CONCERNING GROUND AMBULANCE SERVICES; TO CLARIFY THE MINIMUM ALLOWABLE REIMBURSEMENT FOR GROUND AMBULANCE SERVICES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1850&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 867)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1863",
+          "title": "TO AMEND THE TRANSPORTATION BENEFIT MANAGER ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1863&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 836)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1869",
+          "title": "TO CREATE THE MATERNAL OUTCOMES MANAGEMENT SYSTEM WITHIN THE DEPARTMENT OF HEALTH; AND TO ORGANIZE MATERNAL HEALTH RESOURCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1869&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 868)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1933",
+          "title": "TO AMEND THE LAW CONCERNING A SCHOOL DISTRICT BOARD OF DIRECTORS; AND TO CREATE A RECALL ELECTION AND PETITION FOR REMOVAL FOR A MEMBER OF A SCHOOL DISTRICT BOARD OF DIRECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1933&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 912)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1954",
+          "title": "TO CREATE THE ARKANSAS BEHAVIOR ANALYST REGISTRATION ACT; AND TO INCLUDE QUALIFIED BEHAVIOR ANALYSTS UNDER THE ARKANSAS BEHAVIOR ANALYST REGISTRATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1954&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 869)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1955",
+          "title": "TO REPEAL THE SHIELDED OUTDOOR LIGHTING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1955&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1956",
+          "title": "TO CREATE THE ARKANSAS NIGHTTIME ENVIRONMENT PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1956&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Irvin"
+    }
+  ],
+  "removedByChecks": 0
+}

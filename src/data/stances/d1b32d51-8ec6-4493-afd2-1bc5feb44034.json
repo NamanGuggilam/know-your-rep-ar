@@ -1,0 +1,270 @@
+{
+  "id": "d1b32d51-8ec6-4493-afd2-1bc5feb44034",
+  "name": "Matt Brown",
+  "generatedAt": "2026-10-26T02:44:40.980Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Faulkner"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE PARKS & TOURISM SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 53 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1173",
+          "title": "TO AMEND THE DEFINITION OF \"BEER\" TO CHANGE THE ALLOWABLE ALCOHOLIC CONTENT AND TO INCLUDE MALT BEVERAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1173&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1177",
+          "title": "TO AMEND THE ARKANSAS FRANCHISE PRACTICES ACT; AND TO CLARIFY THE APPLICABILITY OF THE ARKANSAS FRANCHISE PRACTICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1177&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1645",
+          "title": "TO AMEND THE LAW REGARDING ADVERTISING BY A MICROBREWERY-RESTAURANT PRIVATE CLUB.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1645&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 601)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1679",
+          "title": "TO AMEND THE REVISED ARKANSAS ANATOMICAL GIFT ACT; TO ALLOW CERTAIN CLASSES OF PERSONS TO REVOKE OR AMEND AN ANATOMICAL GIFT UPON THE DEATH OF THE DONOR; AND TO REQUIRE CERTAIN REPORTING OF PROCUREMENT ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1679&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 861)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1692",
+          "title": "TO AMEND THE LAW CONCERNING POLYGRAPH EXAMINERS AND VOICE STRESS ANALYSIS EXAMINERS; AND TO AMEND THE LAW CONCERNING PRIVATE INVESTIGATORS AND PRIVATE SECURITY AGENCIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1692&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 678)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1721",
+          "title": "TO AMEND SECTIONS OF THE ARKANSAS CODE TO PROHIBIT GREYHOUND RACING AND SIMULCASTING OF GREYHOUND RACING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1721&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 394)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1730",
+          "title": "TO AMEND THE LAW CONCERNING THE ISSUANCE AND TRANSFER OF WHOLESALE PERMITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1730&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 830)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1736",
+          "title": "TO AMEND ARTICLE 9 OF THE UNIFORM COMMERCIAL CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1736&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 603)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1737",
+          "title": "TO AMEND THE TRANSMITTING UTILITY ACT; AND TO AMEND THE DEFINITION OF \"TRANSMITTING UTILITY\" TO INCLUDE FIBER OPTIC AND BROADBAND LINES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1737&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 584)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1739",
+          "title": "TO ADOPT THE UNIFORM ELECTRONIC LEGAL MATERIALS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1739&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 814)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1746",
+          "title": "TO AMEND THE UNIFORM COMMERCIAL CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1746&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 997)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1748",
+          "title": "TO ADOPT THE UNIFORM ELECTRONIC LEGAL MATERIALS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1748&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1749",
+          "title": "TO ADOPT THE UNIFORM TRUST DECANTING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1749&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 680)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1820",
+          "title": "TO REGULATE AUTOMATIC RENEWAL AND CONTINUOUS SERVICE OFFERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1820&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 652)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1893",
+          "title": "TO AUTHORIZE A PRIVATE PROPERTY OWNER OR BUSINESS OWNER TO BAN AN EMOTIONAL SUPPORT ANIMAL FROM THE PRIVATE PROPERTY OR THE BUSINESS PREMISES; AND TO REGULATE LIABILITY ON PRIVATE PROPERTY RELATED TO EMOTIONAL SUPPORT ANIMALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1893&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 819)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1928",
+          "title": "TO AMEND THE ARKANSAS SOIL NUTRIENT APPLICATION AND POULTRY LITTER UTILIZATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1928&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 820)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1959",
+          "title": "TO ABOLISH THE USE OF A WRIT OF SCIRE FACIAS AS THE MEANS OF REVIVING AN OUTSTANDING JUDGMENT; TO ALLOW A JUDGMENT TO BE REVIVED BY NOTICE; AND TO AMEND THE LAW CONCERNING THE FEES TO BE CHARGED BY CLERKS OF THE CIRCUIT COURTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1959&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 986)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB463",
+          "title": "TO REQUIRE THE ARKANSAS PUBLIC SERVICE COMMISSION TO APPROVE OR DENY SETTLEMENT AGREEMENTS CONCERNING CLOSING OR ELIMINATING ELECTRIC GENERATION UNITS OR TRANSMISSION ASSETS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB463&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 580)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB522",
+          "title": "TO AMEND THE LAW REGARDING THE ARKANSAS SCHOOL FOR MATHEMATICS, SCIENCES, AND THE ARTS; AND TO AMEND THE LAW RELATED TO THE TUITION AND FEES PAID BY STUDENTS ENROLLED IN THE ONLINE PROGRAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB522&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 648)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB537",
+          "title": "TO CREATE THE EARNING SAFE REENTRY THROUGH WORK ACT; AND TO CREATE A SENTENCE CREDIT PROGRAM FOR A PERSON ON PROBATION, PAROLE, OR POST-RELEASE SUPERVISION TO EARN TIME CREDITS THROUGH EMPLOYMENT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB537&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 763)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB564",
+          "title": "TO AMEND THE DEFINITION OF \"BEER\" TO CHANGE THE ALLOWABLE ALCOHOLIC CONTENT AND TO INCLUDE MALT BEVERAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB564&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 596)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB579",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC OFFICERS AND EMPLOYEES; AND TO PROHIBIT A PUBLIC EMPLOYER FROM DEDUCTING LABOR ORGANIZATION MEMBERSHIP DUES FROM THE COMPENSATION OF A PUBLIC EMPLOYEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB579&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB644",
+          "title": "TO AMEND THE LAW CONCERNING THE EXECUTION OF A WRIT OF POSSESSION; AND TO ALLOW FOR THE REMOVAL OF A MANUFACTURED HOME OR MOBILE HOME FROM PROPERTY THAT IS SUBJECT TO A WRIT OF POSSESSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB644&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+Brown"
+    }
+  ],
+  "removedByChecks": 0
+}

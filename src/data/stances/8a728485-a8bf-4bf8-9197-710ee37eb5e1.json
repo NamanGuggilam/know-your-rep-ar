@@ -1,0 +1,175 @@
+{
+  "id": "8a728485-a8bf-4bf8-9197-710ee37eb5e1",
+  "name": "Jason Nazarenko",
+  "generatedAt": "2026-10-26T02:44:37.485Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Baxter, Marion"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired Military, Small Business Owner"
+    },
+    {
+      "label": "Veteran",
+      "value": "Yes"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 36 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1217",
+          "title": "TO ESTABLISH THE INTERSTATE MASSAGE COMPACT IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1217&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 267)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1224",
+          "title": "TO AMEND THE AUTOMATIC OCCUPATIONAL LICENSURE FOR OUT-OF-STATE LICENSURE ACT; AND TO APPLY THE AUTOMATIC OCCUPATIONAL LICENSURE FOR OUT-OF-STATE LICENSURE ACT TO MASSAGE THERAPISTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1224&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1658",
+          "title": "TO AMEND THE LAW CONCERNING THE PAYMENT OF PROPERTY TAXES; AND TO DEFINE \"DEPLOYMENT\" FOR PURPOSES OF THE EXCEPTION TO THE ASSESSMENT OF PENALTIES RELATED TO PROPERTY TAXES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1658&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 550)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1798",
+          "title": "TO ESTABLISH A GREEN ENVELOPE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1798&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 531)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1899",
+          "title": "TO AMEND THE LAW CONCERNING THE APPOINTMENT OF THE DIRECTOR OF THE ARKANSAS VETERANS' CHILD WELFARE SERVICE AND THE REPORTING OF THE DIRECTOR OF THE ARKANSAS VETERANS' CHILD WELFARE SERVICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1899&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1976",
+          "title": "CONCERNING VERTIPORTS; AND TO CREATE THE OPEN ACCESS TO PUBLIC-USE VERTIPORTS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1976&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 883)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1986",
+          "title": "CONCERNING EXCUSED ABSENCES FOR CHILDREN OF FALLEN SERVICE MEMBERS AND CHILDREN OF FALLEN FIRST RESPONDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1986&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 794)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1993",
+          "title": "TO PREVENT MOTOR VEHICLE INSURANCE FRAUD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1993&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HMR1013",
+          "title": "TO REMEMBER YELLVILLE MAYOR SHAWN LANE FOR HIS MANY CONTRIBUTIONS TO HIS COMMUNITY AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HMR1013&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1021",
+          "title": "TO RECOGNIZE THE YELLVILLE-SUMMIT PANTHERS GIRL'S TRACK AND FIELD TEAM AS THE 2024 CLASS 2A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1021&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1062",
+          "title": "TO RECOGNIZE WEDNESDAY, MARCH 12, 2025, AS SCOUTING DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1062&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB497",
+          "title": "TO REQUIRE THE CREATION OF A POSTER REGARDING VETERANS' BENEFITS AND SERVICES; AND TO REQUIRE CERTAIN EMPLOYERS TO DISPLAY THE POSTER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB497&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 655)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB515",
+          "title": "TO REQUIRE THAT A UNIT DEDICATED TO ARKANSAS VETERANS AND THEIR FAMILIES BE INCLUDED WITHIN EXISTING ARKANSAS HISTORY COURSE CONTENT GUIDELINES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB515&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 647)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Nazarenko"
+    }
+  ],
+  "removedByChecks": 0
+}

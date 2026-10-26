@@ -1,0 +1,208 @@
+{
+  "id": "302953f6-213a-4bca-94a6-08a36b801d6c",
+  "name": "Scott Richardson",
+  "generatedAt": "2026-10-26T02:44:43.273Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Veteran",
+      "value": "Yes"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 50 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1041",
+          "title": "TO PROHIBIT DECEPTIVE AND FRAUDULENT DEEPFAKES IN ELECTION COMMUNICATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1041&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1057",
+          "title": "TO AMEND THE LAW CONCERNING POSSESSION OF A FIREARM BY CERTAIN PERSONS; AND TO PERMIT THE RESTORATION OF THE RIGHT TO POSSESS A FIREARM TO A NONVIOLENT FELON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1057&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1060",
+          "title": "TO REVISE THE INSTRUCTION PROVIDED ON THE FAILURE OF COMMUNIST AND AUTOCRATIC SYSTEMS AND TO REINFORCE IN REQUIRED INSTRUCTION THE RESILIENCY OF THE CONSTITUTIONAL REPUBLIC SYSTEM ADOPTED BY THE UNITED STATES OF AMERICA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1060&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 134)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1062",
+          "title": "TO CREATE THE TEACHER AND STUDENT PROTECTION ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1062&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 565)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1071",
+          "title": "TO AMEND THE FRANK BROYLES PUBLICITY RIGHTS PROTECTION ACT OF 2016; AND TO PROVIDE PROTECTIONS FOR AN INDIVIDUAL WHOSE PHOTOGRAPH, VOICE, OR LIKENESS IS REPRODUCED THROUGH MEANS OF ARTIFICIAL INTELLIGENCE AND USED COMMERCIALLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1071&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 159)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1117",
+          "title": "CONCERNING THE ADMINISTRATION OF INSTRUCTION ON FIREARM SAFETY IN PUBLIC SCHOOL DISTRICTS AND OPEN-ENROLLMENT PUBLIC CHARTER SCHOOLS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1117&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 229)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1141",
+          "title": "TO CREATE CRIMINAL OFFENSES RELATED TO DECEPTIVE AND INJURIOUS MEDIA IN THE COURSE OF ELECTION CAMPAIGNS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1141&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1178",
+          "title": "TO AMEND THE LAW CONCERNING THE CONTRACTING OF A MUNICIPAL ATTORNEY; TO AMEND THE LAW CONCERNING SUMS COLLECTED BY DISTRICT COURTS; AND TO AMEND THE LAW CONCERNING COST SHARING FOR DISTRICT COURT EXPENSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1178&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 993)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1219",
+          "title": "TO REQUIRE LAW ENFORCEMENT AGENCIES AND PUBLIC ENTITIES THAT EMPLOY LAW ENFORCEMENT OFFICERS TO PROVIDE BODY-WORN CAMERAS; AND TO REQUIRE THE RECORDING OF LAW ENFORCEMENT INTERACTION WITH THE PUBLIC.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1219&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1549",
+          "title": "TO CREATE THE ARKANSAS CYBERSECURITY ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1549&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 489)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1557",
+          "title": "TO AMEND THE DUTIES AND POWERS OF THE DIVISION OF INFORMATION SYSTEMS CONCERNING INFORMATION TECHNOLOGY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1557&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 480)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1876",
+          "title": "REGARDING THE OWNERSHIP OF MODEL TRAINING AND CONTENT GENERATED BY A GENERATIVE ARTIFICIAL INTELLIGENCE TOOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1876&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 927)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1012",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO REPEAL PROVISIONS CONCERNING THE REAPPRAISAL AND REASSESSMENT OF REAL PROPERTY; AND TO AMEND ARKANSAS CONSTITUTION, AMENDMENT 79, CONCERNING REAL PROPERTY TAXES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1012&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1050",
+          "title": "TO RECOGNIZE OPEN AVENUES ON ITS 50TH ANNIVERSARY FOR ITS SERVICE AND DEDICATION TO PEOPLE WITH DISABILITIES IN NORTHWEST ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1050&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1055",
+          "title": "TO RECOGNIZE MISS AMERICA'S TEEN 2025 PEYTON BOLLING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1055&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1099",
+          "title": "TO RECOGNIZE THE ARKANSAS TECH UNIVERSITY ROBOTICS CLUB FOR WINNING THE TOURNAMENT CHAMPION AND INNOVATE AWARDS AT THE 2025 TEXAS STATE VEX U TOURNAMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1099&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB431",
+          "title": "TO AMEND THE HUMAN TRAFFICKING ACT OF 2013; TO ELIMINATE THE STATUTE OF LIMITATIONS FOR CERTAIN OFFENSES; TO CREATE SAFE HARBORS FOR VICTIMS; AND TO PROHIBIT CERTAIN SEXUALLY EXPLICIT PRODUCTS THAT RESEMBLE A CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB431&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 987)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB451",
+          "title": "TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES AND THE DEPARTMENT OF EDUCATION TO ESTABLISH REGIONAL BEHAVIORAL HEALTH PROGRAMS; TO AMEND THE LAW CONCERNING THE EDUCATION OF CERTAIN STUDENTS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB451&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=R.+Scott+Richardson"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,263 @@
+{
+  "id": "dfe71972-1012-4330-af2a-98482d9aa3bc",
+  "name": "Matt McKee",
+  "generatedAt": "2026-10-26T02:44:41.046Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Garland, Part Saline"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "INSURANCE & COMMERCE - SENATE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE - SENATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 37 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB304",
+          "title": "TO ALLOW A CLASS OF REGISTERED VOTERS THAT HAVE CHANGED THEIR COUNTY OF RESIDENCE TO CAST A VALID BALLOT; AND TO AMEND PROVISIONS OF ARKANSAS CONSTITUTION, AMENDMENT 51.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB304&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 372)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB463",
+          "title": "TO REQUIRE THE ARKANSAS PUBLIC SERVICE COMMISSION TO APPROVE OR DENY SETTLEMENT AGREEMENTS CONCERNING CLOSING OR ELIMINATING ELECTRIC GENERATION UNITS OR TRANSMISSION ASSETS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB463&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 580)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB522",
+          "title": "TO AMEND THE LAW REGARDING THE ARKANSAS SCHOOL FOR MATHEMATICS, SCIENCES, AND THE ARTS; AND TO AMEND THE LAW RELATED TO THE TUITION AND FEES PAID BY STUDENTS ENROLLED IN THE ONLINE PROGRAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB522&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 648)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB579",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC OFFICERS AND EMPLOYEES; AND TO PROHIBIT A PUBLIC EMPLOYER FROM DEDUCTING LABOR ORGANIZATION MEMBERSHIP DUES FROM THE COMPENSATION OF A PUBLIC EMPLOYEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB579&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB594",
+          "title": "TO AMEND THE LAW CONCERNING EXEMPTIONS FOR CERTIFICATES OF PUBLIC CONVENIENCE AND NECESSITY FOR NEW CONSTRUCTION TO SUPPLY A PUBLIC SERVICE OR TO EXTEND A PUBLIC SERVICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB594&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 705)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB596",
+          "title": "TO AMEND THE LAW REGARDING ENERGY; TO ESTABLISH A STATE ENERGY POLICY; TO REGULATE RETIREMENT OF DISPATCHABLE ELECTRIC GENERATION FACILITIES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB596&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 940)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB644",
+          "title": "TO AMEND THE LAW CONCERNING THE EXECUTION OF A WRIT OF POSSESSION; AND TO ALLOW FOR THE REMOVAL OF A MANUFACTURED HOME OR MOBILE HOME FROM PROPERTY THAT IS SUBJECT TO A WRIT OF POSSESSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB644&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR36",
+          "title": "TO RECOGNIZE HOT SPRINGS WORLD CLASS HIGH SCHOOL PREVENTION STAFF AND STUDENT CLUB MEMBERS AND THE HOT SPRINGS JUNIOR ACADEMY EAST TEACHERS AND STUDENTS IN HONOR OF PROBLEM GAMBLING AWARENESS MONTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR36&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR68",
+          "title": "TO RECOGNIZE THE DIVISION OF ARKANSAS STATE POLICE'S INTERSTATE CRIMINAL PATROL FOR WINNING TOP HONORS AT THE GULF COAST HIGH INTENSITY DRUG TRAFFICKING AREA AWARDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR68&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1263",
+          "title": "TO CREATE THE OFFENSE OF UNLAWFUL REMOVAL OR FAILURE TO CHARGE AN ELECTRONIC MONITORING DEVICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1263&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 109)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1465",
+          "title": "CONCERNING DIRTBIKE USE ON PRIVATE PROPERTY; AND TO ESTABLISH THE LIABILITY OF AN OWNER OF PRIVATE PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1465&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 312)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1506",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC OFFICERS AND EMPLOYEES; AND TO PROHIBIT A PUBLIC EMPLOYER FROM DEDUCTING LABOR ORGANIZATION MEMBERSHIP DUES FROM THE COMPENSATION OF A PUBLIC EMPLOYEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1506&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1572",
+          "title": "TO CREATE A TECHNICAL FEASIBILITY STUDY ON NEW NUCLEAR ENERGY GENERATION; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1572&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 707)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1646",
+          "title": "TO REQUIRE CERTAIN MATERIALS TO BE STORED IN LOCKED COMPARTMENTS WITHIN A DESIGNATED AREA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1646&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 917)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1800",
+          "title": "TO AMEND THE LAW CONCERNING DISCLOSURE FOR CAMPAIGN FINANCE; TO REQUIRE DISCLOSURE BY A REPRESENTATIVE OF A HOSTILE FOREIGN PRINCIPAL; AND TO AMEND PORTIONS OF THE ARKANSAS CODE THAT RESULTED FROM INITIATED ACT 1 OF 1990.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1800&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 998)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1809",
+          "title": "TO ALLOW FOR PROPERTY OWNED BY A TRUST OR A LIMITED LIABILITY COMPANY TO QUALIFY AS A HOMESTEAD FOR PURPOSES OF THE PROPERTY TAX EXEMPTION FOR DISABLED VETERANS IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1809&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 880)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1820",
+          "title": "TO REGULATE AUTOMATIC RENEWAL AND CONTINUOUS SERVICE OFFERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1820&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 652)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1870",
+          "title": "CONCERNING VOTER REGISTRATION LISTS; AND TO ALLOW THE SECRETARY OF STATE TO PROVIDE A VOTER REGISTRATION LIST TO FEDERAL COURTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1870&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 840)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1959",
+          "title": "TO ABOLISH THE USE OF A WRIT OF SCIRE FACIAS AS THE MEANS OF REVIVING AN OUTSTANDING JUDGMENT; TO ALLOW A JUDGMENT TO BE REVIVED BY NOTICE; AND TO AMEND THE LAW CONCERNING THE FEES TO BE CHARGED BY CLERKS OF THE CIRCUIT COURTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1959&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 986)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1974",
+          "title": "TO PROHIBIT STATE ENTITIES FROM EMPLOYING UNAUTHORIZED ALIENS; TO ESTABLISH THE E-VERIFY REQUIREMENT ACT; AND TO REQUIRE STATE ENTITIES TO USE E-VERIFY TO CONFIRM EMPLOYMENT ELIGIBILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1974&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 948)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1994",
+          "title": "TO AMEND THE LAW CONCERNING SELF-SERVICE STORAGE FACILITIES; AND TO REQUIRE NOTIFICATION BY A SELF-SERVICE STORAGE FACILITY TO AN OCCUPANT WHEN THE OCCUPANT'S LEASED SPACE IS COMPROMISED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1994&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR29",
+          "title": "TO CONGRATULATE ARKANSAS SCHOOL FOR MATHEMATICS, SCIENCES, AND THE ARTS STUDENTS ON SCIENCE FAIR COMPETITION ACCOMPLISHMENTS AND TO OBSERVE ARKANSAS SCHOOL FOR MATHEMATICS, SCIENCES, AND THE ARTS DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR29&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+McKee"
+    }
+  ],
+  "removedByChecks": 0
+}

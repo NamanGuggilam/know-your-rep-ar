@@ -1,0 +1,142 @@
+{
+  "id": "3016494b-fa9f-4f79-8530-7bd26120a31e",
+  "name": "Jim Wooten",
+  "generatedAt": "2026-10-26T02:44:38.196Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Lonoke, Part White"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE UTILITIES SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 45 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1143",
+          "title": "TO AMEND THE CHARITABLE BINGO AND RAFFLES ENABLING ACT; AND TO PROHIBIT RAFFLES TO PROVIDE FUNDING FOR A STUDENT-ATHLETE UNDER THE ARKANSAS STUDENT-ATHLETE PUBLICITY RIGHTS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1143&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1144",
+          "title": "TO REQUIRE A PARTICIPATING SCHOOL UNDER THE ARKANSAS CHILDREN'S EDUCATIONAL FREEDOM ACCOUNT PROGRAM TO COMPLY WITH THE SAME STATUTORY AND DEPARTMENT OF EDUCATION REPORTING REQUIREMENTS TO WHICH PUBLIC SCHOOLS ARE SUBJECT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1144&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1145",
+          "title": "TO INCREASE THE PURCHASE AMOUNT AUTHORIZED FOR ADDITIONAL AFTER-MARKET EQUIPMENT FOR A NEW MOTOR VEHICLE PURCHASED BY A COUNTY OR MUNICIPALITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1145&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 107)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1195",
+          "title": "TO AMEND THE LAWS CONCERNING EMPLOYEES OF A MUNICIPALITY THAT PARTICIPATES IN THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM AND THE ELECTION TO INSTEAD PARTICIPATE IN A LOCAL RETIREMENT PLAN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1195&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1541",
+          "title": "TO REQUIRE A PRIVATE SCHOOL THAT ACCEPTS STATE FUNDING OF ANY TYPE TO PROVIDE TRANSPORTATION TO CERTAIN STUDENTS ENROLLED IN THE SCHOOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1541&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1542",
+          "title": "TO REQUIRE PRIVATE SCHOOLS TO ADMINISTER AN ANNUAL STATEWIDE STUDENT ASSESSMENT; AND TO REQUIRE PRIVATE SCHOOLS TO ADMIT EACH STUDENT WHO APPLIES FOR ADMISSION AND INTENDS TO COVER PRIVATE SCHOOL COSTS WITH STATE FUNDING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1542&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1008",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL CONCERNING THE ARKANSAS CHILDREN'S EDUCATIONAL FREEDOM ACCOUNT PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1008&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Wooten"
+    }
+  ],
+  "removedByChecks": 0
+}

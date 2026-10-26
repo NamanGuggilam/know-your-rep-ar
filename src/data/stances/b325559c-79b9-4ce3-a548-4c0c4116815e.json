@@ -1,0 +1,119 @@
+{
+  "id": "b325559c-79b9-4ce3-a548-4c0c4116815e",
+  "name": "Fred Allen",
+  "generatedAt": "2026-10-26T02:44:36.446Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Contractor/Photographer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2007; 2009, 2011, 2017, Assistant Speaker Pro Tempore 2019; 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE FINANCIAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "HOUSE MANAGEMENT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 27 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1079",
+          "title": "TO MANDATE COVERAGE FOR GENETIC TESTING FOR AN INHERITED GENE MUTATION FOR CERTAIN INDIVIDUALS; AND TO MANDATE COVERAGE FOR EVIDENCE-BASED CANCER IMAGING FOR CERTAIN INDIVIDUALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1079&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 860)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1316",
+          "title": "TO MANDATE COVERAGE FOR LUNG CANCER SCREENINGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1316&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 390)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1095",
+          "title": "TO RECOGNIZE APRIL AS NATIONAL CANCER CONTROL MONTH IN ARKANSAS AND ENCOURAGE ALL ARKANSANS TO TAKE PROACTIVE STEPS IN CANCER PREVENTION, SCREENING, AND TREATMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1095&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1033",
+          "title": "TO RECOGNIZE THE PARKVIEW ARTS AND SCIENCES MAGNET HIGH SCHOOL PATRIOTS BOYS' BASKETBALL TEAM AS THE 2026 CLASS 5A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1033&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=F.+Allen"
+    }
+  ],
+  "removedByChecks": 0
+}

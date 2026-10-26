@@ -1,0 +1,229 @@
+{
+  "id": "a1614a7c-f5f0-4fe1-a2b1-c8390e4bf106",
+  "name": "Brian Evans",
+  "generatedAt": "2026-10-26T02:44:34.359Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Lonoke"
+    },
+    {
+      "label": "Occupation",
+      "value": "Logistics"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; Speaker of the House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-EXECUTIVE SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "HOUSE MANAGEMENT"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE ELECTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 38 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1056",
+          "title": "TO CREATE THE JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1056&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 34)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1080",
+          "title": "TO REPEAL THE REQUIREMENT FOR A FISCAL IMPACT STATEMENT FOR BILLS RELATED TO HEALTH BENEFIT PLANS; AND TO REPEAL THE BILL FILING DEADLINE FOR BILLS AFFECTING HEALTH BENEFIT PLANS OF ENTITIES OF THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1080&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 2)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1001",
+          "title": "FOR A JOINT SESSION OF THE HOUSE OF REPRESENTATIVES AND THE SENATE AT 10:30 A.M., TUESDAY, JANUARY 14, 2025, TO DECLARE ELECTION RESULTS, TO ADMINISTER THE OATH OF OFFICE, AND TO HEAR AN ADDRESS BY THE GOVERNOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1001&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1003",
+          "title": "PROVIDING THAT THE HOUSE OF REPRESENTATIVES AND THE SENATE OF THE NINETY-FIFTH GENERAL ASSEMBLY MAY RECESS ON THURSDAY, JANUARY 16, 2025, AND RECONVENE ON TUESDAY, JANUARY 21, 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1003&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1006",
+          "title": "TO PROVIDE FOR AN EXTENSION OF THE REGULAR SESSION OF THE NINETY-FIFTH GENERAL ASSEMBLY; AND TO PROVIDE FOR A RECESS OF THE GENERAL ASSEMBLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1006&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1001",
+          "title": "TO ADOPT THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH GENERAL ASSEMBLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1001&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1002",
+          "title": "TO CONFIRM THE LEGISLATIVE JOINT AUDITING COMMITTEE'S SELECTION OF KEVIN WHITE AS THE LEGISLATIVE AUDITOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1002&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1034",
+          "title": "TO AMEND THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH GENERAL ASSEMBLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1034&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1049",
+          "title": "TO AUTHORIZE RECESSES OF EITHER OR BOTH CHAMBERS FOR PERIODS OF FOUR CONSECUTIVE DAYS OR LONGER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1049&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1073",
+          "title": "TO RECOGNIZE THE ARKANSAS 250 COMMISSION AS IT BEGINS ITS WORK TO CELEBRATE ARKANSAS'S RICH TWO-HUNDRED-FIFTY-YEAR HISTORY FROM THE SIGNING OF THE DECLARATION OF INDEPENDENCE ON JULY 4, 1776, THROUGH JULY 4, 2026.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1073&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1080",
+          "title": "TO RECOGNIZE THE CITY OF CABOT AS RECIPIENT IN 2024 OF A TRENDSETTER CITY AWARD FROM ARKANSAS BUSINESS AND AN HONORABLE MENTION IN THE ARKANSAS BUSINESS TOURISM DEVELOPMENT AND CREATIVE CULTURE CATEGORY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1080&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB44",
+          "title": "TO CLARIFY THE LAW CONCERNING WHEN INTERIM COMMITTEES MAY MEET DURING A LEGISLATIVE RECESS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB44&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB535",
+          "title": "TO CREATE A SALES AND USE TAX EXEMPTION FOR THE ARKANSAS MUSEUM OF FINE ARTS AND THE ARKANSAS MUSEUM OF FINE ARTS FOUNDATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB535&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 781)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB60",
+          "title": "TO PROHIBIT A DIGITAL ASSET MINING BUSINESS FROM BEING LOCATED WITHIN A THIRTY-MILE RADIUS OF A MILITARY FACILITY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB60&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR1",
+          "title": "TO ADOPT THE JOINT RULES OF THE HOUSE OF REPRESENTATIVES AND THE SENATE OF THE NINETY-FIFTH GENERAL ASSEMBLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR1&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1001",
+          "title": "AN ACT FOR THE ARKANSAS HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH GENERAL ASSEMBLY APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1001&ddBienniumSession=2025%2F2026F",
+          "status": "Became law (Act 2)",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Evans"
+    }
+  ],
+  "removedByChecks": 0
+}

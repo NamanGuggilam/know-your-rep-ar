@@ -1,0 +1,187 @@
+{
+  "id": "1621cc3a-d18c-486f-96fb-57c6a2890da1",
+  "name": "Julie Mayberry",
+  "generatedAt": "2026-10-26T02:44:39.216Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Grant, Part Saline"
+    },
+    {
+      "label": "Occupation",
+      "value": "Media/Advertising"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE STATE AGENCIES & REORGAN. SUBCOM"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1055",
+          "title": "TO ESTABLISH COVERAGE DIAGNOSIS AND TREATMENT TO SLOW THE PROGRESSION OF ALZHEIMER'S DISEASE OR OTHER DEMENTIA-RELATED DISEASE UNDER THE STATE AND PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1055&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1063",
+          "title": "TO AMEND THE ACHIEVING A BETTER LIFE EXPERIENCE PROGRAM ACT; AND TO AMEND THE DEFINITIONS OF \"DISABILITY CERTIFICATION\" AND \"ELIGIBLE INDIVIDUAL\" TO CHANGE DISABILITY ONSET AGE FROM TWENTY-SIX TO FORTY-SIX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1063&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 875)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1164",
+          "title": "TO ALLOW A PHYSICIAN OR HEALTHCARE PROVIDER TO OFFER COGNITIVE ASSESSMENTS FOR CERTAIN PATIENTS; AND TO MANDATE THAT INSURANCE POLICIES COVER ASSESSMENTS FOR COGNITIVE FUNCTION FOR CERTAIN PATIENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1164&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1218",
+          "title": "TO CREATE LICENSURE FOR THERAPEUTIC RECREATION SPECIALISTS; AND TO CREATE THE THERAPEUTIC RECREATION PRACTICE ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1218&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1241",
+          "title": "TO ENSURE THAT THE ARKANSAS MEDICAID PROGRAM REIMBURSES FOR DENTAL AND ANESTHESIA COSTS FOR HIGH COMPLEXITY ORAL HEALTH CARE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1241&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 568)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1242",
+          "title": "TO AMEND THE MECHANISM BY WHICH SCHOOL NURSES ARE COMPENSATED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1242&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1283",
+          "title": "TO REQUIRE THE DIVISION OF ELEMENTARY AND SECONDARY EDUCATION TO INCLUDE DIGITAL MEDIA STANDARDS IN KINDERGARTEN THROUGH GRADE TWELVE LIBRARY MEDIA STANDARDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1283&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1370",
+          "title": "CONCERNING MAKING UP MISSED SCHOOL DAYS; AND TO REQUIRE A PUBLIC SCHOOL DISTRICT TO INCLUDE ADDITIONAL DAYS OR HOURS, AS APPLICABLE, IN ITS SCHOOL CALENDAR FOR THE PURPOSE OF MAKING UP MISSED SCHOOL DAYS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1370&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1540",
+          "title": "TO AMEND THE INCOME TAX CREDIT AND THE INCOME TAX DEDUCTION RELATED TO MAINTAINING, SUPPORTING, AND CARING FOR AN INDIVIDUAL WITH A DISABILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1540&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1592",
+          "title": "TO CREATE THE ARKANSAS ALZHEIMER'S AND DEMENTIA PUBLIC HEALTH ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1592&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1862",
+          "title": "TO AMEND THE INCOME TAX CREDIT AND THE INCOME TAX DEDUCTION RELATED TO MAINTAINING, SUPPORTING, AND CARING FOR AN INDIVIDUAL WITH A DISABILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1862&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1890",
+          "title": "TO ALLOW SCHOOL DISTRICTS TO BILL FOR HEALTHCARE SERVICES; AND TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO REIMBURSE SCHOOL DISTRICTS FOR CERTAIN HEALTHCARE SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1890&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1004",
+          "title": "TO RECOGNIZE LORIE TUDOR FOR HER 41-YEAR CAREER WITH THE ARKANSAS DEPARTMENT OF TRANSPORTATION AND POSITIVE IMPACT ON THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1004&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB120",
+          "title": "TO REQUIRE LICENSURE FOR ALL PRIVATE CARE AGENCIES IN THIS STATE; AND TO ENSURE CONSUMER PROTECTION FOR VULNERABLE AGING ADULTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB120&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB347",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO INCREASE REIMBURSEMENT RATES FOR CERTAIN DENTAL SERVICES AND TO SET AN ANNUAL REIMBURSEMENT CAP FOR ADULT DENTAL SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB347&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1025)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB77",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO REIMBURSE FOR PHYSICAL THERAPY PROVIDED IN A CLINIC-BASED SETTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB77&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 103)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Mayberry"
+    }
+  ],
+  "removedByChecks": 0
+}

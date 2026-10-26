@@ -1,0 +1,276 @@
+{
+  "id": "80a1486d-1661-4409-adf4-63aacf4df148",
+  "name": "Jeff Wardlaw",
+  "generatedAt": "2026-10-26T02:44:37.627Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Bradley, Part Desha, Part Drew"
+    },
+    {
+      "label": "Occupation",
+      "value": "Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "School Board; First Term House 2011; 2013; 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-EXECUTIVE SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE ELECTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE HEALTH SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE HUMAN SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 16 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1371",
+          "title": "TO REPEAL THE REQUIREMENT FOR THE COMPLETION OF A HUMAN TRAFFICKING PREVENTION COURSE FOR THE ISSUANCE OF A COMMERCIAL DRIVER LICENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1371&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1488",
+          "title": "TO AMEND THE STANDARD NONFORFEITURE LAW FOR LIFE INSURANCE; AND TO REQUIRE AN INSURER TO PAY INTEREST ON DEFERRED PAYMENT OF ANY CASH SURRENDER VALUE UNDER CERTAIN POLICIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1488&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 391)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1489",
+          "title": "TO AMEND THE METHOD OF EXECUTION TO INCLUDE NITROGEN GAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1489&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 302)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1490",
+          "title": "TO REPEAL THE REQUIREMENT THAT A PUBLIC SCHOOL STUDENT RETURN TEMPORARILY ISSUED ITEMS, RESOURCES, MATERIALS, AND PROPERTY BELONGING TO A PUBLIC SCHOOL IN ORDER TO BE ELIGIBLE TO ENROLL IN A HOME SCHOOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1490&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1491",
+          "title": "CONCERNING THE EXCISE TAX ON CERTAIN BEER AND SAKE; TO CREATE AN EXCISE TAX CREDIT FOR CERTAIN BEER AND SAKE PRODUCED USING ARKANSAS RICE; AND FOR OTHER PURPOSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1491&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 874)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1621",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO EXEMPT PERSONAL INFORMATION OF ELECTED CONSTITUTIONAL OFFICERS, JUDICIAL OFFICIALS, ELECTED COUNTY OFFICIALS, ELECTED MUNICIPAL OFFICIALS, AND THEIR IMMEDIATE FAMILY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1621&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1631",
+          "title": "TO ADDRESS THE ISSUANCE OF HUNTING AND FISHING LICENSES TO FOREIGN EXCHANGE STUDENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1631&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1632",
+          "title": "TO REQUIRE REIMBURSEMENT TO THE ARKANSAS STATE GAME AND FISH COMMISSION FOR FREE OR DISCOUNTED HUNTING AND FISHING LICENSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1632&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1665",
+          "title": "TO REPEAL THE CREDIT ALLOWED AGAINST THE INSURANCE PREMIUM TAX FOR ACCIDENT AND HEALTH COMPREHENSIVE HOSPITAL AND MEDICAL COVERAGE BASED ON THE SALARY AND WAGES OF THE EMPLOYEES OF THE INSURER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1665&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1784",
+          "title": "TO MODIFY THE INFORMAL DISPUTE RESOLUTION PROCESS FOR LONG-TERM CARE FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1784&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 864)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1821",
+          "title": "TO CREATE A MORE SUSTAINABLE SYSTEM OF PROPERTY INSURANCE FOR PUBLIC SCHOOLS, INSTITUTIONS OF HIGHER EDUCATION, AND STATE-OWNED PROPERTY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1821&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 560)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1827",
+          "title": "TO AMEND THE ARKANSAS HUNTING HERITAGE PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1827&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 817)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1930",
+          "title": "TO MANDATE MINIMUM REIMBURSEMENT LEVELS FOR HEALTHCARE SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1930&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1960",
+          "title": "TO PROVIDE THAT THE LESSEE OF A LEASED MOTOR VEHICLE IS THE OWNER FOR PURPOSES OF THE ASSESSMENT AND PAYMENT OF PROPERTY TAXES; AND TO AMEND THE LAW CONCERNING LOCAL SALES AND USE TAXES ON CERTAIN TANGIBLE PERSONAL PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1960&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1013)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB2000",
+          "title": "TO AMEND THE LAW CONCERNING EDUCATION SERVICE COOPERATIVES, PUBLIC SCHOOL DISTRICTS, AND OPEN-ENROLLMENT PUBLIC CHARTER SCHOOLS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB2000&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB2002",
+          "title": "TO AMEND THE EDUCATION SERVICE COOPERATIVE ACT OF 1985.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB2002&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1004",
+          "title": "TO CONGRATULATE GAME WARDEN AUSTIN POWELL ON RECEIVING THE MONTY CARMIKLE OFFICER OF THE YEAR AWARD AND THE 2024 ROBERT M. BRANTLY LAW ENFORCEMENT OFFICER OF THE YEAR AWARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1004&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1018",
+          "title": "TO RECOGNIZE MCGEHEE ELEMENTARY SCHOOL AS A 2024 EXEMPLARY ACHIEVEMENT GAP CLOSING SCHOOLS NATIONAL BLUE RIBBON SCHOOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1018&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1045",
+          "title": "TO COMMEMORATE THE SEVENTY-FIFTH ANNIVERSARY OF THE SPORT FISH RESTORATION PROGRAM AS PART OF THE AMERICAN SYSTEM OF CONSERVATION FUNDING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1045&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB252",
+          "title": "TO INFORM THE PUBLIC OF HEALTH RISKS CAUSED BY VAPOR PRODUCTS AND E-LIQUID PRODUCTS; AND TO ENSURE THE SAFETY OF ARKANSAS YOUTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB252&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 590)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB481",
+          "title": "TO CREATE A MORE SUSTAINABLE SYSTEM OF PROPERTY INSURANCE FOR PUBLIC SCHOOLS, STATE-SUPPORTED INSTITUTIONS OF HIGHER EDUCATION, AND STATE-OWNED PROPERTY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB481&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 779)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB538",
+          "title": "TO AMEND THE ARKANSAS PROCUREMENT LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB538&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 782)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB63",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING REPORTS BY THE SECRETARIES OF CABINET-LEVEL DEPARTMENTS ON THE STATE OF THEIR DEPARTMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB63&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 219)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Wardlaw"
+    }
+  ],
+  "removedByChecks": 0
+}

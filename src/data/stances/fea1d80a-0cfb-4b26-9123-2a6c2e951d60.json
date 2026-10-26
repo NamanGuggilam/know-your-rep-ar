@@ -1,0 +1,201 @@
+{
+  "id": "fea1d80a-0cfb-4b26-9123-2a6c2e951d60",
+  "name": "Dan Sullivan",
+  "generatedAt": "2026-10-26T02:44:35.539Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Craighead"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "House 2015, 2017, 2019, Senate 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE - SENATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "CHILDREN AND YOUTH COMMITTEE - SENATE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS-SENATE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 17 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB180",
+          "title": "TO EXEMPT PROVIDERS IN THE PROGRAM OF ALL-INCLUSIVE CARE FOR THE ELDERLY FROM THE LICENSING REQUIREMENTS FOR HOME HEALTHCARE SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB180&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 144)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB181",
+          "title": "TO AMEND THE LIBRARY LAW; TO AMEND THE REQUIREMENTS FOR THE STATE LIBRARIAN; AND TO AMEND THE REQUIREMENTS FOR REGIONAL LIBRARY SYSTEM DIRECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB181&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 242)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB184",
+          "title": "TO TRANSFER THE POWERS AND DUTIES OF THE ARKANSAS EDUCATIONAL TELEVISION COMMISSION AND THE STATE LIBRARY BOARD TO THE DEPARTMENT OF EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB184&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB3",
+          "title": "TO PROHIBIT DISCRIMINATION OR PREFERENTIAL TREATMENT BY THE STATE OF ARKANSAS AND OTHER PUBLIC ENTITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB3&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 116)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB309",
+          "title": "TO AMEND THE ARKANSAS HEALTH CARE CONSUMER ACT; TO REVISE THE DEFINITION OF \"PSYCHIATRIC COLLABORATIVE CARE MODEL\"; AND TO INCLUDE CERTAIN CLINICAL PSYCHIATRIC PHARMACIST SERVICES IN THE PSYCHIATRIC COLLABORATIVE CARE MODEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB309&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB520",
+          "title": "TO PROHIBIT DIVERSITY, EQUITY, AND INCLUSION OFFICES, OFFICERS, POLICIES, OR PRACTICES IN LOCAL GOVERNMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB520&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 747)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB536",
+          "title": "TO ABOLISH AND TRANSFER THE ARKANSAS STATE LIBRARY AND THE STATE LIBRARY BOARD; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB536&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB547",
+          "title": "TO REPEAL THE REQUIREMENT THAT A HOMESCHOOLED STUDENT LIVE WITHIN A CERTAIN RADIUS OF A PRIVATE SCHOOL FOR PURPOSES OF PARTICIPATING IN AN EXTRACURRICULAR ACTIVITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB547&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 728)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB643",
+          "title": "TO PROVIDE TRANSPARENCY AND ACCOUNTABILITY FOR PUBLIC UTILITIES; AND TO REQUIRE CERTAIN PUBLIC UTILITIES TO REPORT TO THE LEGISLATIVE COUNCIL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB643&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR1",
+          "title": "TO HONOR ST. BERNARDS MEDICAL CENTER IN JONESBORO FOR BEING THE FIRST MEDICAL FACILITY IN THE STATE TO OPEN A MATERNAL LIFE360 HOME.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR1&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1238",
+          "title": "TO AUTHORIZE A MORTGAGOR TO RECOVER FEES IN CERTAIN CIRCUMSTANCES UNDER THE STATUTORY FORECLOSURE LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1238&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 306)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1507",
+          "title": "TO AMEND THE LAW CONCERNING ENVIRONMENTAL, SOCIAL JUSTICE, OR GOVERNANCE SCORES; AND TO CLARIFY THE EXEMPTIONS FROM DIVESTMENT FOR CERTAIN INVESTMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1507&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 252)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1640",
+          "title": "TO AMEND THE DEFINITION OF \"ADMINISTRATOR\" AS IT RELATES TO ETHICAL GUIDELINES AND PROHIBITIONS; AND TO AMEND THE RESTRICTIONS ON EMPLOYMENT SPECIFIC TO PUBLIC SCHOOL ADMINISTRATORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1640&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 476)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1684",
+          "title": "TO CREATE THE PARENTS AND TEACHERS HELPING STUDENTS SUCCEED (PATHS) ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1684&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1080",
+          "title": "AN ACT FOR THE DEPARTMENT OF HUMAN SERVICES - DIVISION OF DEVELOPMENTAL DISABILITIES SERVICES - JONESBORO HUMAN DEVELOPMENT CENTER APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1080&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=D.+Sullivan"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,311 @@
+{
+  "id": "H001072",
+  "name": "J. French Hill",
+  "generatedAt": "2026-10-26T02:42:05.523Z",
+  "model": "none",
+  "facts": [],
+  "committees": [
+    {
+      "name": "House Permanent Select Committee on Intelligence"
+    },
+    {
+      "name": "House Committee on Financial Services",
+      "role": "Chair"
+    },
+    {
+      "name": "House Permanent Select Committee on Intelligence: National Intelligence Enterprise Subcommittee"
+    },
+    {
+      "name": "House Permanent Select Committee on Intelligence: National Security Agency and Cyber Subcommittee"
+    }
+  ],
+  "ownWords": {
+    "status": "not-found",
+    "note": "We could not find an issues or priorities page on their official website.",
+    "pages": []
+  },
+  "billsNote": "Bills and resolutions they were the main sponsor of in the 119th Congress (2025-2026).",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HRES 1299",
+          "title": "Providing for the concurrence by the House in the Senate amendment to H.R. 6644, with amendment.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1299",
+          "status": "Motion to reconsider laid on the table Agreed to without objection.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 8791",
+          "title": "IGNITE HBCU Excellence Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/8791",
+          "status": "Referred to the House Committee on Education and Workforce.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 8513",
+          "title": "PROTECT Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/8513",
+          "status": "Referred to the House Committee on Oversight and Government Reform.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 6955",
+          "title": "Main Street Capital Access Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/6955",
+          "status": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 8264",
+          "title": "HBCU Research Capacity Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/8264",
+          "status": "Referred to the House Committee on Education and Workforce.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 10496",
+          "title": "Revising SSDI Disability Classifications Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/10496",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 10477",
+          "title": "Small Business Audit Correction Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/10477",
+          "status": "Referred to the House Committee on Financial Services.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 10442",
+          "title": "To require the Ronald A. Robinson Post Office in Little Rock, Arkansas, to replace certain exterior signage, and for other purposes.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/10442",
+          "status": "Referred to the House Committee on Oversight and Government Reform.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HRES 1501",
+          "title": "Recognizing the 80th anniversary of the Fulbright Program.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1501",
+          "status": "Referred to the House Committee on Foreign Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9148",
+          "title": "Scipio Jones House Assessment Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9148",
+          "status": "Referred to the Subcommittee on Federal Lands.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 7253",
+          "title": "Ticket to Work Advertisement Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/7253",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 7180",
+          "title": "Countering Captagon and Narcotics Post-Assad Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/7180",
+          "status": "Referred to the House Committee on Foreign Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 6644",
+          "title": "21st Century ROAD to Housing Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+          "status": "Became Public Law No: 119-101.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 6524",
+          "title": "HIRE Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/6524",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5626",
+          "title": "Taiwan and American Space Assistance Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5626",
+          "status": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HRES 776",
+          "title": "Expressing concerns regarding the urgent and escalating threats facing Coptic Christians.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/776",
+          "status": "Referred to the House Committee on Foreign Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HRES 738",
+          "title": "Expressing concern regarding severe restrictions on religious freedom abroad.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/738",
+          "status": "Referred to the House Committee on Foreign Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5396",
+          "title": "Price Stability Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5396",
+          "status": "Placed on the Union Calendar, Calendar No. 616.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 5317",
+          "title": "Community Bank Deposit Access Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/5317",
+          "status": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 4801",
+          "title": "Unleashing AI Innovation in Financial Services Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
+          "status": "Placed on the Union Calendar, Calendar No. 619.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 4179",
+          "title": "Countering Wrongful Detention Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/4179",
+          "status": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 4102",
+          "title": "RISE Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/4102",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 3633",
+          "title": "Digital Asset Market Clarity Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633",
+          "status": "Motion by Senator Tillis to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 234) entered in Senate.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 3394",
+          "title": "Fair Investment Opportunities for Professional Experts Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/3394",
+          "status": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 3187",
+          "title": "To require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas, and for other purposes.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/3187",
+          "status": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 2777",
+          "title": "S-CAP Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/2777",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 1868",
+          "title": "Stop Tax Penalties on American Hostages Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1868",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 1612",
+          "title": "Flatside Wilderness Additions Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1612",
+          "status": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 1474",
+          "title": "International Nuclear Energy Financing Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1474",
+          "status": "Placed on the Union Calendar, Calendar No. 13.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HJRES 59",
+          "title": "Disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+          "url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/59",
+          "status": "Placed on the Union Calendar, Calendar No. 16.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 940",
+          "title": "FAIR Exams Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/940",
+          "status": "Placed on the Union Calendar, Calendar No. 176.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HRES 103",
+          "title": "Providing amounts for the expenses of the Committee on Financial Services in the One Hundred Nineteenth Congress.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-resolution/103",
+          "status": "Referred to the House Committee on House Administration.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 941",
+          "title": "Small LENDER Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/941",
+          "status": "Placed on the Union Calendar, Calendar No. 610.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Congress.gov (Library of Congress)",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "congress-legislators committee data",
+      "url": "https://github.com/unitedstates/congress-legislators"
+    }
+  ],
+  "removedByChecks": 0
+}

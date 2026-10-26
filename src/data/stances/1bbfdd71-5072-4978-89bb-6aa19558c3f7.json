@@ -1,0 +1,260 @@
+{
+  "id": "1bbfdd71-5072-4978-89bb-6aa19558c3f7",
+  "name": "R.J. Hawk",
+  "generatedAt": "2026-10-26T02:44:41.859Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Saline"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE MOTOR VEHICLE & HIGHWAYS SUBCOM."
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE ELECTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 49 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1044",
+          "title": "TO ESTABLISH THE ARKANSAS SPORTS RAFFLE ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1044&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1494",
+          "title": "TO CREATE THE ARKANSAS GUIDANCE OUT OF THE DARKNESS ACT; AND TO REQUIRE STATE AGENCIES TO PUBLISH FEDERAL GUIDANCE DOCUMENTS ONLINE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1494&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1495",
+          "title": "CONCERNING THE TRANSFER OF A STUDENT'S PERMANENT SCHOOL RECORD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1495&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1618",
+          "title": "TO AMEND THE LAW CONCERNING THE ELECTION, APPOINTMENT, AND CONTRACTING OF A MUNICIPAL ATTORNEY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1618&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 523)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1634",
+          "title": "TO ESTABLISH THE ARKANSAS SPORTS RAFFLE ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1634&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 305)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1693",
+          "title": "TO AMEND THE LAW CONCERNING DAMAGED OR DEFECTIVE BALLOTS; AND TO ALLOW THE STATE BOARD OF ELECTION COMMISSIONERS TO PROMULGATE RULES REGARDING THE DUPLICATION OF DAMAGED OR DEFECTIVE BALLOTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1693&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 458)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1694",
+          "title": "TO AMEND THE LAW CONCERNING ALTERNATIVES TO ELECTRONIC FILING FOR CAMPAIGN FINANCE REPORTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1694&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 996)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1707",
+          "title": "TO REQUIRE CERTAIN CANDIDATES TO FILE REPORTS WITH THE SECRETARY OF STATE; TO AMEND PORTIONS OF INITIATED ACT 1 OF 1996; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1707&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 524)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1745",
+          "title": "TO REQUIRE CERTAIN COMMERCIAL DRIVER LICENSE HOLDERS TO POSSESS A UNITED STATES WORK AUTHORIZATION; TO REQUIRE THE OPERATOR OF A COMMERCIAL MOTOR VEHICLE TO HAVE ENGLISH PROFICIENCY; AND TO CREATE RELATED OFFENSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1745&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 604)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1952",
+          "title": "TO ASSIST THE ADMINISTRATION OF THE STATE ATHLETIC COMMISSION; TO PROVIDE FUNDING TO THE STATE ATHLETIC COMMISSION TO CONTINUE ITS MISSION TO PROMOTE A ROBUST, HEALTHY, AND SAFE COMBATIVE SPORTS INDUSTRY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1952&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 947)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1026",
+          "title": "TO RECOGNIZE THE BRYANT HORNETS FOOTBALL TEAM AS THE CLASS 7A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1026&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1064",
+          "title": "TO RECOGNIZE UNIVERSITY OF CENTRAL ARKANSAS AND NATIONAL BASKETBALL ASSOCIATION STAR SCOTTIE PIPPEN FOR HIS ACHIEVEMENTS AND FOR HIS CONTRIBUTIONS TO HIS COMMUNITY, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1064&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1092",
+          "title": "TO RECOGNIZE THE BRYANT HIGH SCHOOL HORNETS BOYS' BASKETBALL TEAM AS THE CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1092&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB200",
+          "title": "TO INCLUDE TEXTBOOKS AND OTHER INSTRUCTIONAL MATERIALS THAT ARE LEASED IN THE EXEMPTION FROM THE GROSS RECEIPTS TAX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB200&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 329)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB228",
+          "title": "CONCERNING A WAIVER FOR A RENEWED BACKGROUND CHECK GRANTED BY A BOARD OF DIRECTORS OF AN EDUCATIONAL ENTITY TO AN APPLICANT FOR A NONLICENSED STAFF POSITION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB228&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 197)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB253",
+          "title": "TO AMEND THE DEFINITION OF A MANUFACTURED HOME UNIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB253&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 256)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB413",
+          "title": "TO AMEND THE LAW CONCERNING A SCHOOL DISTRICT BOARD OF DIRECTORS; AND TO AMEND THE LAW CONCERNING THE CERTIFICATION OF AN OATH FOR A SCHOOL BOARD DIRECTOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB413&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 401)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB414",
+          "title": "TO AMEND THE ELECTION LAWS OF THE STATE OF ARKANSAS; AND TO AMEND ARKANSAS LAW CONCERNING NOTICES RELATED TO THE ELECTION PROCESS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB414&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 463)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB445",
+          "title": "TO AMEND THE LAW CONCERNING THE LICENSURE OF ELECTRICAL INSPECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB445&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB447",
+          "title": "TO REQUIRE PERMITTED COMMON CARRIERS TO SUBMIT REPORTS DETAILING SHIPMENTS OF ALCOHOLIC BEVERAGES INTO THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB447&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB479",
+          "title": "TO AMEND THE LAW CONCERNING VOTER ASSISTANCE; AND TO REQUIRE A PERSON ASSISTING A VOTER WITH A DISABILITY TO PRESENT IDENTIFICATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB479&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 593)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB482",
+          "title": "TO REPEAL THE ARKANSAS OPPORTUNITY PUBLIC SCHOOL CHOICE ACT; TO AMEND THE LAW RELATING TO TRANSFERS OF STUDENTS BETWEEN PUBLIC SCHOOLS AND SCHOOL DISTRICTS; AND TO AMEND THE PUBLIC SCHOOL CHOICE ACT OF 2015.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB482&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB584",
+          "title": "TO AMEND THE LAW CONCERNING LOCAL INITIATIVE AND REFERENDUM PETITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB584&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 768)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hawk"
+    }
+  ],
+  "removedByChecks": 0
+}

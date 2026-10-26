@@ -1,0 +1,165 @@
+{
+  "id": "f2b10588-1d21-4f8f-b313-d668bf58d967",
+  "name": "Richard Womack",
+  "generatedAt": "2026-10-26T02:44:42.348Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Clark, Part Garland, Part Hot Springs"
+    },
+    {
+      "label": "Occupation",
+      "value": "Contractor"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2013; 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE MOTOR VEHICLE & HIGHWAYS SUBCOM."
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 14 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1522",
+          "title": "TO AMEND THE LAW TO ALLOW FOR THE DISTRIBUTION OF FUNDS IN THE MUNICIPAL AID FUND, TURNBACK FUNDS, AND COUNTY SALES AND USE TAX REVENUES TO NEWLY INCORPORATED MUNICIPALITIES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1522&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 620)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1675",
+          "title": "TO AMEND THE INSPECTION FEES UNDER THE ARKANSAS GRADE \"A\" MILK PROGRAM ACT OF 1981.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1675&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1676",
+          "title": "TO AMEND THE LAW CONCERNING GARNISHMENT AGAINST THE STATE OR A SUBDIVISION OF THE STATE; AND TO ALLOW FOR INCOME TAX REFUNDS TO BE SUBJECT TO GARNISHMENT BY JUDGMENT CREDITORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1676&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB186",
+          "title": "TO AMEND THE LAW CONCERNING FINANCIAL STATEMENTS REQUIRED TO BE SUBMITTED BY A LICENSEE OF THE CONTRACTORS LICENSING BOARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB186&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 235)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB261",
+          "title": "TO AMEND THE LAW CONCERNING THE OPERATION OF AN ALL-TERRAIN VEHICLE ON CERTAIN ROADS; AND TO AMEND THE LAW CONCERNING THE ACCESS OF ALL-TERRAIN VEHICLES TO UNPAVED ROADS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB261&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB364",
+          "title": "TO AMEND THE LAW CONCERNING VIOLATIONS AND PENALTIES RELATED TO CONTRACTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB364&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 750)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB541",
+          "title": "TO AMEND THE LAW CONCERNING THE TOWING OR STORAGE OF A VEHICLE, IMPLEMENT, OR PIECE OF MACHINERY; AND TO AMEND THE LAW CONCERNING THE RELEASE OF A VEHICLE THAT HAS BEEN TOWED OR STORED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB541&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB548",
+          "title": "TO AMEND THE LAW CONCERNING WARRANTS OF ARREST; AND TO REQUIRE THAT NOTICE OF A WARRANT BE SENT TO THE PERSON NAMED IN THE ARREST WARRANT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB548&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB549",
+          "title": "TO ENSURE THAT MANDATED COSTS AND FEES PAID BY A DEFENDANT IN A CRIMINAL CASE SHALL BE REFUNDED UPON AN ACQUITTAL, A DISMISSAL, OR AN ORDER OF NOLLE PROSEQUI.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB549&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1020",
+          "title": "TO HONOR FREDERICK HENRY MIDDLETON, ASSISTANT SUPERINTENDENT OF THE STREET DEPARTMENT, UPON HIS RETIREMENT FROM THE CITY OF ARKADELPHIA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1020&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Womack"
+    }
+  ],
+  "removedByChecks": 0
+}

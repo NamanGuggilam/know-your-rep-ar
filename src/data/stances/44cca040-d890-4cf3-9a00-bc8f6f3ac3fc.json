@@ -1,0 +1,210 @@
+{
+  "id": "44cca040-d890-4cf3-9a00-bc8f6f3ac3fc",
+  "name": "Denise Ennett",
+  "generatedAt": "2026-10-26T02:44:35.913Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Community Advocate"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "TASK FORCE ON AUTISM"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1016",
+          "title": "TO CREATE A SALES AND USE TAX EXEMPTION FOR MENSTRUAL DISCHARGE COLLECTION DEVICES; TO CREATE A SALES AND USE TAX EXEMPTION FOR DIAPERS; AND TO CREATE A SALES AND USE TAX EXEMPTION FOR CERTAIN ITEMS RELATED TO BREASTFEEDING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1016&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1073",
+          "title": "TO CREATE THE ADVANCED ENERGY JOBS TASK FORCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1073&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1366",
+          "title": "TO CREATE AN INCOME TAX CREDIT FOR QUALIFIED STORM SHELTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1366&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1728",
+          "title": "TO REQUIRE REPORTING ON THE NUMBER OF STUDENTS RECEIVING ACCOMMODATIONS FOR A DISABILITY AT INSTITUTIONS OF HIGHER EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1728&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 906)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1766",
+          "title": "TO CREATE THE ARKANSAS RESPOND, INNOVATE, SUCCEED, AND EMPOWER (RISE) ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1766&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 907)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1855",
+          "title": "TO AMEND THE LAWS CONCERNING THE POWERS AND DUTIES OF THE DEPARTMENT OF AGRICULTURE AND THE ARKANSAS FORESTRY COMMISSION; AND TO AMEND THE LAWS RELATING TO FIRE PROTECTION DISTRICT BOUNDARIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1855&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 818)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1856",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE BOARD OF EMBALMERS, FUNERAL DIRECTORS, CEMETERIES, AND BURIAL SERVICES; AND TO INCREASE THE CIVIL PENALTY FOR VIOLATIONS BY A LICENSEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1856&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1881",
+          "title": "TO ADD MENSTRUAL DISCHARGE COLLECTION DEVICES TO THE LIST OF ITEMS EXEMPT FROM SALES AND USE TAX DURING THE SALES TAX HOLIDAY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1881&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1987",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE BOARD OF EMBALMERS, FUNERAL DIRECTORS, CEMETERIES, AND BURIAL SERVICES; AND TO INCREASE THE CIVIL PENALTY FOR VIOLATIONS BY A LICENSEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1987&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1066",
+          "title": "TO RECOGNIZE MARCH 9-15, 2025, AS AMERICORPS WEEK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1066&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB423",
+          "title": "TO EXEMPT FROM THE INDIVIDUAL INCOME TAX EDUCATION SCHOLARSHIPS, AWARDS, AND GRANTS FROM NONPROFIT VOLUNTEER SERVICE ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB423&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB501",
+          "title": "TO CREATE THE TENANT POSSESSIONS RECOVERY ACT; AND TO REQUIRE A LANDLORD TO PROVIDE CERTAIN NOTICE TO A TENANT WHEN A COURT HAS ISSUED A WRIT OF POSSESSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB501&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB540",
+          "title": "TO LIMIT THE SUSPENSION OR REVOCATION OF A DRIVER'S LICENSE OR IMPOSITION OF RESTRICTIONS ON A DRIVER'S LICENSE OF A PERSON WHO HAS SUFFERED A SEIZURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB540&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 702)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR7",
+          "title": "TO RECOGNIZE THE MILLS UNIVERSITY STUDIES HIGH SCHOOL COMETS BOYS' BASKETBALL TEAM AS THE CLASS 4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR7&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR8",
+          "title": "TO RECOGNIZE THE MILLS UNIVERSITY STUDIES HIGH SCHOOL LADY COMETS BASKETBALL TEAM AS THE CLASS 4A CONFERENCE CHAMPIONS AND TO REMEMBER HEAD COACH JOE GREGORY'S WIFE, CYNTHIA GREGORY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR8&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Ennett"
+    }
+  ],
+  "removedByChecks": 0
+}

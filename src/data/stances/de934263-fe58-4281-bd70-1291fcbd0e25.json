@@ -1,0 +1,110 @@
+{
+  "id": "de934263-fe58-4281-bd70-1291fcbd0e25",
+  "name": "Roger Lynch",
+  "generatedAt": "2026-10-26T02:44:42.845Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Lonoke, Part Prairie, Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Self-employed - Heating, Air Conditioning"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Lonoke County Quorum Court (10 years); First Term House 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE AGRICULTURE, FORESTRY & NATURAL RESOURCES SUBCOM."
+    },
+    {
+      "name": "AGRICULTURE- HOUSE PARKS & TOURISM SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE SMALL BUSINESS & ECONOMIC DEV. SUBCOM."
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 27 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1279",
+          "title": "TO AMEND THE ARKANSAS EGG MARKETING ACT OF 1969; AND TO AUTHORIZE REPACKAGING OF EGGS BY A RETAILER IF CERTAIN CRITERIA IS MET.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1279&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 285)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1052",
+          "title": "COMMENDING ARKANSAS FARMERS, RANCHERS, AND FORESTERS FOR THEIR VITAL CONTRIBUTIONS TO THE SECURITY AND ECONOMIC WELL-BEING OF THE STATE OF ARKANSAS AND THE NATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1052&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Lynch"
+    }
+  ],
+  "removedByChecks": 0
+}

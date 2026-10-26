@@ -1,0 +1,232 @@
+{
+  "id": "0fc23ae8-f37f-4684-b8f5-083c8e36e19d",
+  "name": "Brit McKenzie",
+  "generatedAt": "2026-10-26T02:44:34.379Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 36 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1081",
+          "title": "TO REPEAL ADDITIONAL FUNDING FOR THE DEVELOPMENT AND ADMINISTRATION OF PROFESSIONAL LEARNING COMMUNITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1081&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1139",
+          "title": "TO CREATE THE RELEASED TIME EDUCATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1139&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1445",
+          "title": "TO PROHIBIT CERTAIN RESTRICTIONS ON THE REGULATION OF SHORT-TERM RENTALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1445&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1476",
+          "title": "TO AMEND THE DIRECT SHIPMENT OF VINOUS LIQUOR ACT; AND TO ESTABLISH A WINE DIRECT SHIPPER LICENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1476&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 675)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1662",
+          "title": "TO PROHIBIT LOBBYING FOR A COVERED FOREIGN ENTITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1662&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1724",
+          "title": "TO AMEND THE LAW CONCERNING LOCAL SCHOOL BOARDS OF DIRECTORS AND SCHOOL BOARD ELECTIONS; AND TO AMEND THE DATE ON WHICH AN ELECTION OF A SCHOOL DISTRICT BOARD OF DIRECTORS IS HELD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1724&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 503)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1790",
+          "title": "TO AMEND THE LAW CONCERNING THE REGULATION OF SHORT-TERM RENTALS BY A LOCAL GOVERNMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1790&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1867",
+          "title": "TO ESTABLISH THE NO GOVERNMENT TRESPASSING ACT; AND TO PROHIBIT GAME WARDEN TRESPASS ONTO PRIVATE LAND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1867&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1873",
+          "title": "CONCERNING NOTIFICATION TO PERSONS ELECTED TO SERVE AS A MEMBER OF THE GENERAL ASSEMBLY OF THE YEARS OF SERVICE REMAINING BEFORE REACHING THE LIMITATION ON SERVICE UNDER THE ARKANSAS CONSTITUTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1873&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1874",
+          "title": "AN ACT TO AMEND THE USE OF PROFESSIONAL DEVELOPMENT FUNDING THAT EXCEEDS THE MAXIMUM AMOUNT AWARDED TO PUBLIC SCHOOLS FOR PUBLIC SCHOOL TEACHERS UNDER THE PUBLIC SCHOOL FUNDING ACT OF 2003.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1874&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 795)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1896",
+          "title": "TO CREATE THE JUNK FEE ELIMINATING ACT OF 2025; TO ABOLISH THE INFORMATION NETWORK OF ARKANSAS; AND TO TRANSFER ANY REMAINING DUTIES OF THE INFORMATION NETWORK OF ARKANSAS TO THE DIVISION OF INFORMATION SYSTEMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1896&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 716)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1973",
+          "title": "TO PROVIDE THAT A GOVERNMENTAL BODY SHALL NOT USE STATE OR LOCAL FUNDS TO ENTER INTO A CONTRACT WITH A LOBBYIST FOR THE PURPOSE OF LOBBYING ON BEHALF OF THE GOVERNMENTAL BODY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1973&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1006",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION PROVIDING THAT A GOVERNMENTAL BODY SHALL NOT USE STATE OR LOCAL FUNDS TO ENTER INTO A CONTRACT WITH A LOBBYIST FOR LOBBYING PURPOSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1006&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1017",
+          "title": "TO COMMEMORATE AND RECOGNIZE NATIONAL SCHOOL CHOICE WEEK DURING THE WEEK OF JANUARY 26-FEBRUARY 1.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1017&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB215",
+          "title": "TO AMEND THE PERMISSIBLE USES FOR REAL ESTATE DONATED BY A PUBLIC SCHOOL DISTRICT; AND TO AMEND THE ARKANSAS PUBLIC SCHOOL ACADEMIC FACILITIES PROGRAM ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB215&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB226",
+          "title": "TO AMEND THE SUDDEN CARDIAC ARREST PREVENTION ACT; AND TO MODIFY THE REQUIREMENTS FOR PROFESSIONAL DEVELOPMENT IN SCHOOL DISTRICTS RELATED TO SUDDEN CARDIAC ARREST.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB226&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 247)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB365",
+          "title": "TO AMEND THE ARKANSAS SMALL BREWERY ACT TO AUTHORIZE THE OPERATION OF THREE SMALL BREWERY TAPROOMS BY A HOLDER OF A SMALL BREWERY LICENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB365&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 488)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB505",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL PLANNING; AND TO REQUIRE AN ADMINISTRATIVE PROCEDURE FOR CHANGES TO THE ZONING OR DISTRICT DESIGNATION OF PROPERTY IN CERTAIN INSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB505&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 595)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB618",
+          "title": "TO AMEND THE ARKANSAS STUDENT DUE PROCESS AND PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB618&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 731)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+McKenzie"
+    }
+  ],
+  "removedByChecks": 0
+}

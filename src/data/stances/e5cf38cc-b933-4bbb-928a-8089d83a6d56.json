@@ -1,0 +1,126 @@
+{
+  "id": "e5cf38cc-b933-4bbb-928a-8089d83a6d56",
+  "name": "Joy Springer",
+  "generatedAt": "2026-10-26T02:44:39.223Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Office manager and paralegal"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House (Special Election) 2020; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 68 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1792",
+          "title": "TO REQUIRE EMPLOYERS TO PROVIDE UNPAID LEAVE ON VETERANS DAY TO VETERAN EMPLOYEES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1792&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HMR1003",
+          "title": "TO REMEMBER LEGENDARY CIVIL RIGHTS ATTORNEY AND LONGTIME STATE REPRESENTATIVE JOHN W. WALKER, SR. FOR HIS LIFELONG FIGHT AGAINST DISCRIMINATION AND HIS SERVICE TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HMR1003&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1039",
+          "title": "TO COMMEND ALPHA KAPPA ALPHA SORORITY, INCORPORATED®, FOR ITS CONTRIBUTIONS TO THE COMMUNITY AND TO DESIGNATE FEBRUARY 25, 2025, AS ALPHA KAPPA ALPHA DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1039&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1042",
+          "title": "TO HONOR ANNIE MABLE MCDANIEL ABRAMS FOR HER SERVICE TO HER COMMUNITY AND THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1042&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1084",
+          "title": "TO HONOR MARTHA JARROW FOR HER MANY YEARS OF SERVICE TO THE HOUSE OF REPRESENTATIVES AND THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1084&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1101",
+          "title": "TO DESIGNATE THE MONTH OF APRIL AS PARLIAMENTARY LAW MONTH IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1101&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1116",
+          "title": "TO RECOGNIZE RONALD MCDONALD HOUSE CHARITIES® FOR FIFTY YEARS OF SERVICE IN IMPROVING THE HEALTH AND WELL-BEING OF CHILDREN AND THEIR FAMILIES AND DIRECTLY IMPACTING THE LOCAL COMMUNITIES OF THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1116&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Springer"
+    }
+  ],
+  "removedByChecks": 0
+}

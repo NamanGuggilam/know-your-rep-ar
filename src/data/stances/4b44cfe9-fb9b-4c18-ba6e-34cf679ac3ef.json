@@ -1,0 +1,137 @@
+{
+  "id": "4b44cfe9-fb9b-4c18-ba6e-34cf679ac3ef",
+  "name": "Mark Perry",
+  "generatedAt": "2026-10-26T02:44:40.664Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Financial Representative"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2009; 2011; 2013; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE INSURANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 33 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1157",
+          "title": "TO AMEND THE LAW CONCERNING SURVIVOR ANNUITY BENEFITS FOR DEPENDENT CHILDREN UNDER THE ARKANSAS TEACHER RETIREMENT SYSTEM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1157&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 225)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1158",
+          "title": "TO AMEND THE LAW CONCERNING THE ELECTION OF A DISTRIBUTION OPTION UNDER THE TEACHER DEFERRED RETIREMENT OPTION PLAN; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1158&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 226)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1771",
+          "title": "TO AMEND THE LAW CONCERNING DISCLOSURES TO POLICYHOLDERS; AND TO REQUIRE MONTHLY REPORTING BY INSURERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1771&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 651)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1815",
+          "title": "TO AMEND THE STATE'S JURISDICTION OVER FEDERAL LANDS; AND TO RETAIN JUVENILE JUSTICE JURISDICTION BY THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1815&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 687)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1968",
+          "title": "TO REQUIRE THE COLLECTION OF SALES TAX AT THE POINT OF SALE FOR THE SALE OF A NEW OR USED MOTOR VEHICLE, TRAILER, OR SEMITRAILER BY A DEALER; AND TO AMEND LAW AFFIRMED BY REFERRED ACT 19 OF 1958.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1968&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB157",
+          "title": "TO AMEND THE LAW CONCERNING BENEFITS UNDER THE STATE PUBLIC EMPLOYEE RETIREMENT SYSTEMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB157&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB546",
+          "title": "TO AMEND THE LAW CONCERNING THE TRUST FUND CONTRIBUTION FEE FOR WATER PERMITS RELATED TO NONMUNICIPAL DOMESTIC SEWAGE TREATMENT WORKS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB546&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 935)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Perry"
+    }
+  ],
+  "removedByChecks": 0
+}

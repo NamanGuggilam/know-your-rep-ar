@@ -1,0 +1,204 @@
+{
+  "id": "b61d9a4f-d5d1-43b4-84b2-91cb5741b153",
+  "name": "Scott Flippo",
+  "generatedAt": "2026-10-26T02:44:43.277Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Baxter, Part Boone, Part Fulton, Part Izard, Marion"
+    },
+    {
+      "label": "Occupation",
+      "value": "Assisted Living Owner"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2015, 2017, 2019 Majority Whip, Senate 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS-SENATE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE HUMAN SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+    },
+    {
+      "name": "SENATE EFFICIENCY"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 31 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB564",
+          "title": "TO AMEND THE DEFINITION OF \"BEER\" TO CHANGE THE ALLOWABLE ALCOHOLIC CONTENT AND TO INCLUDE MALT BEVERAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB564&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 596)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB565",
+          "title": "TO ALLOW PROCUREMENT CERTIFICATIONS TO BE COMBINED; TO AMEND THE LAW CONCERNING THE REPRESENTATION IN STATE CONTRACTS REGARDING CONTINGENT FEES; AND TO AMEND THE COOPERATIVE PURCHASING REPORTING DEADLINE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB565&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 936)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1006",
+          "title": "\"TO REDESIGNATE THE FOURTEENTH JUDICIAL DISTRICT AS A DIVISION A JUDICIAL DISTRICT AS IT RELATES TO PROSECUTING ATTORNEYS; AND TO DECLARE AN EMERGENCY.\"",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1006&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 15)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1173",
+          "title": "TO AMEND THE DEFINITION OF \"BEER\" TO CHANGE THE ALLOWABLE ALCOHOLIC CONTENT AND TO INCLUDE MALT BEVERAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1173&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1212",
+          "title": "TO AMEND THE LAW CONCERNING CIVIL OFFICE HOLDINGS; AND TO ALLOW A JUSTICE OF THE PEACE TO ALSO SERVE AS A POLICE OFFICER IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1212&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1276",
+          "title": "CONCERNING SPOUSAL RETIREMENT BENEFITS FOR SPOUSES OF CERTAIN MUNICIPAL EMPLOYEES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1276&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 413)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1310",
+          "title": "TO AMEND THE NEWBORN UMBILICAL CORD BLOOD INITIATIVE ACT; TO ABOLISH THE ARKANSAS COMMISSION FOR THE NEWBORN UMBILICAL CORD BLOOD INITIATIVE; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1310&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 104)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1439",
+          "title": "TO REMOVE THE CERTIFICATION PROCESS OF THE DEPARTMENT OF HUMAN SERVICES FROM LICENSURE AS A PRIVATE CARE AGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1439&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 853)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1462",
+          "title": "TO AUTHORIZE AN OWNER OF A PUBLIC WATERWORKS SYSTEM TO EXPEND PUBLIC FUNDS AND TO ISSUE BONDS TO PAY FOR THE REPLACEMENT OF LEAD AND CERTAIN GALVANIZED CUSTOMER SERVICE LINES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1462&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1471",
+          "title": "TO AMEND THE EXPIRATION DATE OF ALL LICENSES OF THE BOARD OF EXAMINERS IN SPEECH-LANGUAGE PATHOLOGY AND AUDIOLOGY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1471&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 966)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1511",
+          "title": "TO AMEND THE LAW CONCERNING THE ATTORNEY GENERAL; AND TO AMEND THE LAW CONCERNING THE ATTORNEY GENERAL'S SUBPOENA POWER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1511&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1593",
+          "title": "CONCERNING THE REPORTS MADE TO THE GOVERNOR AND THE GENERAL ASSEMBLY BY THE BOARD OF CORRECTIONS, DIVISION OF CORRECTION, AND DIVISION OF COMMUNITY CORRECTION; AND TO COMBINE REPORTING REQUIREMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1593&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 358)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1854",
+          "title": "TO EXEMPT A HOME CAREGIVER FROM HOME CAREGIVER TRAINING IF HE OR SHE PREVIOUSLY COMPLETED TRAINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1854&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 643)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Flippo"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,132 @@
+{
+  "id": "c45493e9-afbd-4f5e-bb69-e6caed58936a",
+  "name": "Ron McNair",
+  "generatedAt": "2026-10-26T02:44:42.911Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Boone"
+    },
+    {
+      "label": "Occupation",
+      "value": "Self-employed - Automotive Repair"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE AGRICULTURE, FORESTRY & NATURAL RESOURCES SUBCOM."
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 31 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SJR16",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO EXEMPT CERTAIN REAL PROPERTY FROM PROPERTY TAX; AND TO CREATE PROPERTY TAX EXEMPTIONS FOR CERTAIN INDIVIDUALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR16&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1009",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO REQUIRE A DIGITAL ASSET MINING BUSINESS TO PAY A FEE FOR EXTRAORDINARY ELECTRICAL ENERGY USAGE AND TO IMPLEMENT OVERSIGHT PROCEDURES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1009&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1010",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO PROHIBIT THE USE OF A COMPUTER MANUFACTURED BY A COVERED FOREIGN ENTITY IN DIGITAL ASSET MINING AND PROHIBIT THE USE OF CERTAIN SOFTWARE IN DIGITAL ASSET MINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1010&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1011",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023 AND TO AMEND THE UNIFORM MONEY SERVICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1011&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1012",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO REGULATE THE IMPACT ON WATER USAGE AND THE ELECTRICAL GRID BY BLOCKCHAIN NETWORKS AND DIGITAL ASSET MINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1012&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1013",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE REQUIREMENTS FOR A DIGITAL ASSET MINING BUSINESS AND AMEND THE AUTHORITY OF A LOCAL GOVERNMENT WITH RESPECT TO A DIGITAL ASSET MINING BUSINESS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1013&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1014",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO REQUIRE A DIGITAL ASSET MINING BUSINESS TO PROVIDE NOTIFICATION BEFORE PURCHASING OR LEASING LAND OR A BUILDING OR BEGINNING CONSTRUCTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1014&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McNair"
+    }
+  ],
+  "removedByChecks": 0
+}

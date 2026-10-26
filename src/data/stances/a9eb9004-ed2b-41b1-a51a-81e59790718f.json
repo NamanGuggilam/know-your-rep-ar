@@ -1,0 +1,42 @@
+{
+  "id": "a9eb9004-ed2b-41b1-a51a-81e59790718f",
+  "name": "Bill Teeter",
+  "generatedAt": "2026-10-26T02:44:33.883Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Occupation",
+      "value": "Retired Emergency Management"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2026"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 0 other bills, not listed here.",
+  "topics": [],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Teeter"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -85,3 +85,27 @@ describe("buildLineup", () => {
     expect(seats.find((s) => s.office === "state-senate")!.official).toBeNull();
   });
 });
+
+describe("Arkansas Legislature links", () => {
+  it("picks the row whose name matches when a district has two rows", async () => {
+    const { withArklegLinks } = await import("@/lib/state");
+    const [pat] = parseOpenStatesCsv(csv).map((r) => mapStateRow(r, src));
+    const links = new Map([
+      [
+        "lower-13",
+        [
+          { url: "https://arkleg.state.ar.us/Legislators/Detail?member=Old", name: "Former Member" },
+          { url: "https://arkleg.state.ar.us/Legislators/Detail?member=P.+Rep", name: "Pat Rep" },
+        ],
+      ],
+    ]);
+    expect(withArklegLinks([pat], links)[0].officialPageUrl).toBe("https://arkleg.state.ar.us/Legislators/Detail?member=P.+Rep");
+  });
+
+  it("keeps the original link when no name matches", async () => {
+    const { withArklegLinks } = await import("@/lib/state");
+    const [pat] = parseOpenStatesCsv(csv).map((r) => mapStateRow(r, src));
+    const links = new Map([["lower-13", [{ url: "https://x/other", name: "Someone Else" }]]]);
+    expect(withArklegLinks([pat], links)[0].officialPageUrl).toBe(pat.officialPageUrl);
+  });
+});

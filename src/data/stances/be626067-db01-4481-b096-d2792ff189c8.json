@@ -1,0 +1,170 @@
+{
+  "id": "be626067-db01-4481-b096-d2792ff189c8",
+  "name": "Tracy Steele",
+  "generatedAt": "2026-10-26T02:44:44.597Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Consultant, Trainer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 1999; 2001; Senate 2003; 2005; Senate Majority Leader 2007; Asst. Senate Pro Tempore 2009; Senate Majority Leader 2010; House 2011; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE AGRICULTURE, FORESTRY & NATURAL RESOURCES SUBCOM."
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE MOTOR VEHICLE & HIGHWAYS SUBCOM."
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 17 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1220",
+          "title": "TO AMEND THE MEMBERSHIP OF THE ARKANSAS NATURAL AND CULTURAL RESOURCES COUNCIL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1220&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 102)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1436",
+          "title": "TO PLACE LOCATION RESTRICTIONS ON CERTAIN FOOD PROCESSING PLANTS OPERATING A SLAUGHTERHOUSE ON THE SAME GROUNDS AS THE FOOD PROCESSING PLANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1436&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1709",
+          "title": "TO AMEND THE HUMAN SERVICES WORKERS IN THE SCHOOLS PROGRAM; AND TO INCLUDE MENTAL HEALTH COUNSELORS IN THE HUMAN SERVICES WORKERS IN THE SCHOOLS PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1709&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1888",
+          "title": "TO AMEND THE DIVISION OF WORKFORCE SERVICES LAW; AND TO PROVIDE ACCESS TO EMPLOYMENT RECORDS FOR INDIVIDUALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1888&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HMR1004",
+          "title": "IN RESPECTFUL MEMORY OF FORMER ARKANSAS ATTORNEY GENERAL, UNITED STATES CONGRESSMAN, AND FORTY-THIRD GOVERNOR OF ARKANSAS JAMES \"JIM\" GUY TUCKER FOR HIS SERVICE TO THE NATION AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HMR1004&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1024",
+          "title": "TO CELEBRATE BLACK HISTORY MONTH DURING FEBRUARY 2025, AND TO RECOGNIZE AND APPLAUD THE SACRIFICES AND MYRIAD CONTRIBUTIONS MADE BY AFRICAN AMERICAN INDIVIDUALS THROUGHOUT THE HISTORY OF ARKANSAS AND THE UNITED STATES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1024&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1025",
+          "title": "TO RECOGNIZE MONDAY, FEBRUARY 17, 2025, AS DAISY GATSON BATES DAY, AND TO HONOR DAISY GATSON BATES FOR HER CONTRIBUTIONS TO ARKANSAS, THE NATION, AND THE WORLD, NOW MEMORIALIZED IN THE DISPLAY OF HER STATUE IN THE UNITED STATES CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1025&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1091",
+          "title": "TO HONOR HERBERT M. SCOTT FOR HIS SERVICE TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1091&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1102",
+          "title": "TO HONOR REGINA RENEE HENSON FOR HER CONTRIBUTIONS TO THE CHILDREN AND ADULTS OF NORTH LITTLE ROCK THROUGH HER ROLE AS DIRECTOR OF SHERMAN PARK COMMUNITY CENTER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1102&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1103",
+          "title": "TO RECOGNIZE CHARLOTTE THOMAS ON THE OCCASION OF HER UPCOMING RETIREMENT FOR HER FIFTY-ONE YEARS OF EXCEPTIONAL SERVICE TO THE CITY OF NORTH LITTLE ROCK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1103&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCMR1001",
+          "title": "IN RESPECTFUL MEMORY OF BISHOP KENNETH LYDELL ROBINSON SR. AND IN RECOGNITION OF HIS MANY CONTRIBUTIONS TO THE STATE OF ARKANSAS AND TO HIS LOCAL COMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCMR1001&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Steele"
+    }
+  ],
+  "removedByChecks": 0
+}

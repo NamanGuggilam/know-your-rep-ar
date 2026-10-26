@@ -1,0 +1,208 @@
+{
+  "id": "0e0e799b-70de-4472-b289-4a0c2aba3a26",
+  "name": "Ashley Hudson",
+  "generatedAt": "2026-10-26T02:44:33.475Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Attorney"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JUDICIARY- HOUSE COURTS & CIVIL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 38 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1013",
+          "title": "TO PROTECT FERTILITY TREATMENT RIGHTS IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1013&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1018",
+          "title": "TO CREATE THE STRONG FAMILIES ACT; AND TO CREATE AN INCOME TAX CREDIT FOR EMPLOYERS THAT PROVIDE PAID FAMILY AND MEDICAL LEAVE FOR CERTAIN EMPLOYEES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1018&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1076",
+          "title": "TO CREATE THE CARING FOR CAREGIVERS ACT; AND TO PROVIDE AN INCOME TAX CREDIT FOR EXPENSES INCURRED IN CARING FOR CERTAIN FAMILY MEMBERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1076&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1077",
+          "title": "CONCERNING THE INCARCERATION OF A VETERAN OF THE UNITED STATES ARMED FORCES; AND TO PROVIDE FOR NOTIFICATION TO THE ARKANSAS DEPARTMENT OF VETERANS AFFAIRS OF THE INCARCERATION OF A VETERAN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1077&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 506)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1333",
+          "title": "TO MANDATE COVERAGE FOR BREASTFEEDING AND LACTATION CONSULTANT SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1333&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 627)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1434",
+          "title": "TO AMEND THE LAW REGARDING THE PRESUMPTION THAT AN AWARD OF JOINT CUSTODY BETWEEN PARENTS IS IN A CHILD'S BEST INTEREST WHEN THERE IS DOMESTIC ABUSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1434&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1463",
+          "title": "TO PROHIBIT DISCLOSURE OF NEUROPSYCHOLOGICAL OR PSYCHOLOGICAL TEST MATERIALS OR TEST DATA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1463&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1527",
+          "title": "TO AMEND THE PERMISSIBLE INVESTMENTS A GUARDIAN OF THE ESTATE MAY MAKE ON BEHALF OF A WARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1527&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 315)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1782",
+          "title": "TO PROHIBIT OVER-THE-COUNTER DIET PILLS FROM BEING SOLD, TRANSFERRED, OR OTHERWISE FURNISHED TO A PERSON WHO IS UNDER EIGHTEEN YEARS OF AGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1782&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 642)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1848",
+          "title": "TO AMEND THE LAW REGARDING THE PRESUMPTION THAT AN AWARD OF JOINT CUSTODY BETWEEN PARENTS IS IN A CHILD'S BEST INTEREST WHEN THERE IS DOMESTIC ABUSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1848&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1880",
+          "title": "TO AMEND THE ARKANSAS HUMAN LIFE PROTECTION ACT AND THE ARKANSAS UNBORN CHILD PROTECTION ACT TO ADD CERTAIN EXCEPTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1880&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1984",
+          "title": "TO CREATE A DESIGNATION FOR A REGISTERED SEX OFFENDER ON A DRIVER'S LICENSE OR IDENTIFICATION CARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1984&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 984)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB2005",
+          "title": "TO AMEND THE LAW CONCERNING RAILROADS; TO CREATE A LIMITATION ON THE LENGTH OF A TRAIN OPERATING IN THIS STATE; TO CREATE A RELATED PENALTY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB2005&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB424",
+          "title": "TO AMEND THE LAW CONCERNING THE ACCOUNTABILITY AND TRANSPARENCY OF A MUNICIPAL IMPROVEMENT DISTRICT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB424&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 422)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB457",
+          "title": "TO AMEND THE LAW CONCERNING THE RELEASE FROM PAROLE OR POST-RELEASE SUPERVISION OF CERTAIN PERSONS WHO COMMITTED CRIMES WHEN THEY WERE UNDER THE AGE OF EIGHTEEN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB457&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1001)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB459",
+          "title": "TO AMEND THE MINIMUM AGE NECESSARY TO ADJUDICATE A JUVENILE DELINQUENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB459&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB599",
+          "title": "TO ELIMINATE INTERLOCUTORY DECREES OF ADOPTION; AND TO AMEND THE REVISED UNIFORM ADOPTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB599&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 744)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB623",
+          "title": "CONCERNING THE TREATMENT OF FEMALE INMATES AND DETAINEES IN CORRECTIONAL OR DETENTION FACILITIES; AND TO AMEND THE LAW REGARDING THE TREATMENT OF AN INMATE OR DETAINEE WHO IS PREGNANT OR HAS RECENTLY DELIVERED A CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB623&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hudson"
+    }
+  ],
+  "removedByChecks": 0
+}

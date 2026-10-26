@@ -1,0 +1,177 @@
+{
+  "id": "4f5cafe6-850c-42b3-8a75-cd13c8871baf",
+  "name": "Bart Schulz",
+  "generatedAt": "2026-10-26T02:44:33.693Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Independence, Part Lawrence, Part Sharp, Part Stone"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC HEALTH- HOUSE HEALTH SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 28 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1478",
+          "title": "TO REPEAL THE REGISTRATION OF DISEASE INTERVENTION SPECIALISTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1478&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 230)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1534",
+          "title": "TO INCREASE THE HOMESTEAD PROPERTY TAX CREDIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1534&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1589",
+          "title": "TO AMEND THE LAW CONCERNING THE FINANCIAL OPERATIONS OF A COUNTY; AND TO AMEND THE LAW CONCERNING THE ANNUAL COUNTY FINANCIAL REPORT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1589&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 676)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1725",
+          "title": "TO AMEND THE LAW CONCERNING THE OFFICE OF SHERIFF; AND TO AMEND THE LAW CONCERNING COMPENSATION FOR THE OFFICE OF SHERIFF.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1725&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1949",
+          "title": "TO ADD MEDICAL, EMERGENCY MEDICAL, AND AMBULANCE SERVICES TO THE LIST OF PROFESSIONAL SERVICES FOR PURPOSES OF PROCUREMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1949&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1075",
+          "title": "TO DESIGNATE MARCH 12, 2025, AS STARS OF LIFE DAY AND TO RECOGNIZE THE ACCOMPLISHMENTS OF CERTAIN EMERGENCY MEDICAL SERVICES PROFESSIONALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1075&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1108",
+          "title": "TO HONOR UNIVERSITY OF ARKANSAS AT FAYETTEVILLE BASKETBALL SCORING STAR IZZY HIGGINBOTTOM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1108&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB263",
+          "title": "TO INCREASE THE HOMESTEAD PROPERTY TAX CREDIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB263&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 330)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB338",
+          "title": "TO PROVIDE SALES AND USE TAX EXEMPTIONS FOR STUDENT FARMERS; AND TO PROVIDE SALES AND USE TAX EXEMPTIONS FOR CERTAIN PRODUCTS AND SERVICES TO BE USED IN RELATION TO A PROJECT FOR A YOUTH FARMING PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB338&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB580",
+          "title": "TO EXTEND FINANCING FOR PURCHASES OF VEHICLES AND EQUIPMENT FOR A RURAL FIRE PROTECTION DISTRICT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB580&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 767)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1103",
+          "title": "TO INCREASE THE HOMESTEAD PROPERTY TAX CREDIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1103&ddBienniumSession=2025%2F2026F",
+          "status": "Became law (Act 174)",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1006",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO INCREASE THE HOMESTEAD PROPERTY TAX CREDIT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1006&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Schulz"
+    }
+  ],
+  "removedByChecks": 0
+}

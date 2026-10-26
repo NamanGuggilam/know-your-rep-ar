@@ -1,0 +1,149 @@
+{
+  "id": "c083823a-b0f6-43dd-87b9-f1f398b84a00",
+  "name": "Jimmy Hickey",
+  "generatedAt": "2026-10-26T02:44:38.293Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Hempstead, Howard, Little River, Miller, Sevier"
+    },
+    {
+      "label": "Occupation",
+      "value": "Construction and Rental; Oak Creek Investment Properties, Inc. and GBU Operations, Inc."
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Texarkana School Board, Senate 2013, 2015, 2017, 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAX - SENATE"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "SENATE RULES, RESOLUTIONS & MEMORIALS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 10 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB202",
+          "title": "TO AMEND THE LAW CONCERNING STATUTORY BONDING REQUIREMENTS FOR CONSTRUCTION PROJECTS OF THE STATE HIGHWAY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB202&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 217)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB232",
+          "title": "TO AMEND VARIOUS PROVISIONS OF THE ARKANSAS SCHOLARSHIP LOTTERY ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB232&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 429)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB243",
+          "title": "TO AMEND THE LAW REGARDING LOTTERY-FUNDED SCHOLARSHIP PROGRAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB243&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB395",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING STATEMENTS OF FINANCIAL INTEREST; AND AMENDING A PORTION OF ARKANSAS LAW RESULTING FROM INITIATED ACT 1 OF 1988.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB395&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB63",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING REPORTS BY THE SECRETARIES OF CABINET-LEVEL DEPARTMENTS ON THE STATE OF THEIR DEPARTMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB63&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 219)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB70",
+          "title": "TO AMEND THE LAW CONCERNING STANDARDS FOR INSURANCE POLICIES; AND TO REVISE THE NOTICE REQUIREMENTS OF AN INSURER FOR A PREMIUM INCREASE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB70&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 22)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1610",
+          "title": "TO AMEND THE ARKANSAS HUMAN LIFE PROTECTION ACT AND THE ARKANSAS UNBORN CHILD PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1610&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 387)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hickey"
+    }
+  ],
+  "removedByChecks": 0
+}

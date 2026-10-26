@@ -1,0 +1,254 @@
+{
+  "id": "247b430e-d46a-474a-87bc-24d03c636fd8",
+  "name": "Carol Dalby",
+  "generatedAt": "2026-10-26T02:44:34.916Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Miller"
+    },
+    {
+      "label": "Occupation",
+      "value": "Attorney"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Board of Trustees, Texarkana, Arkansas School District #7; First Term House 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE FINANCIAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE COURTS & CIVIL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 28 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1407",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE ADMINISTRATION OF JUSTICE FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1407&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 162)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1597",
+          "title": "TO AMEND THE LAW CONCERNING THE ADMINISTRATION OF THE OATH OF OFFICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1597&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 456)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1643",
+          "title": "TO ALLOW A CURRENT OR FORMER EMPLOYER TO DISCLOSE SUBSTANTIATED ALLEGATIONS OF SEXUAL ABUSE OR HARASSMENT BY THE CURRENT FOR FORMER EMPLOYEE TO A PROSPECTIVE EMPLOYER UPON WRITTEN CONSENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1643&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 369)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1644",
+          "title": "CONCERNING THE COMPENSATION OF A RETIRED JUDGE APPOINTED AS A SPECIAL JUDGE; TO CLARIFY THAT A RETIRED JUDGE MAY SERVE AS A SPECIAL JUDGE IMMEDIATELY UPON RETIREMENT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1644&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 370)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1661",
+          "title": "TO AMEND THE LAWS CONCERNING STATE DISTRICT COURTS; TO ELIMINATE THE OBLIGATION OF CITIES AND COUNTIES TO PAY THE SALARIES OF STATE DISTRICT COURT JUDGES; AND TO AMEND THE LAWS CONCERNING DISTRICT COURT CLERKS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1661&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 371)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1829",
+          "title": "TO AMEND THE DOMESTIC ABUSE ACT OF 1991; TO PROVIDE FOR REMOTE TESTIMONY IN CERTAIN INSTANCES IN A HEARING UNDER THE DOMESTIC ABUSE ACT OF 1991; AND TO PROVIDE OVERSIGHT FOR A DOMESTIC VIOLENCE INTERVENTION PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1829&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1835",
+          "title": "CONCERNING SPECIALTY COURT PROGRAMS; AND TO UPDATE AND CLARIFY THE LAW CONCERNING DRUG COURT, MENTAL HEALTH COURT, VETERANS COURT, AND DWI/BWI SPECIALTY COURT PROGRAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1835&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 691)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1838",
+          "title": "TO AMEND THE LAW CONCERNING PROBATE ACTIONS; AND TO AMEND THE LAW CONCERNING ADOPTION AND GUARDIANSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1838&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 713)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1839",
+          "title": "TO AMEND THE PROCEDURES FOR THE DECLARATION OF LEGAL DEATH OF A MISSING PERSON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1839&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 692)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1895",
+          "title": "TO ALLOW A CORPORATION OR VOLUNTARY ASSOCIATION TO EMPLOY IN-HOUSE ATTORNEYS TO REPRESENT AFFILIATES OF THE CORPORATION OR VOLUNTARY ASSOCIATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1895&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 843)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1067",
+          "title": "TO RECOGNIZE MARCH 11, 2025, AS TEXARKANA USA REGIONAL CHAMBER OF COMMERCE DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1067&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB234",
+          "title": "CONCERNING THE NINETEENTH JUDICIAL DISTRICT-WEST; TO CREATE AN ADDITIONAL CIRCUIT JUDGESHIP; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB234&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 220)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB320",
+          "title": "TO AMEND THE ARKANSAS JUVENILE CODE OF 1989.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB320&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 518)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB328",
+          "title": "TO AMEND THE LAW CONCERNING COMPUTER CRIMES AGAINST MINORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB328&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 361)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB345",
+          "title": "TO PROMOTE TOURISM AND ECONOMIC DEVELOPMENT BY IMPROVING EFFICIENCY OF THE PRIVATE CLUB PERMITTING PROCESS OF HOTELS, RESTAURANTS, AND LARGE-EVENT FACILITIES; AND TO REMOVE AN OVERLY BURDENSOME TAX REQUIREMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB345&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 421)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB465",
+          "title": "TO PROVIDE FOR A SALES AND USE TAX REFUND FOR A SPECULATIVE DEVELOPMENT PROJECT; AND TO REQUIRE CONCURRENT FINANCIAL INCENTIVE AGREEMENTS UNDER THE CONSOLIDATED INCENTIVE ACT OF 2003.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB465&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB488",
+          "title": "TO AMEND THE LAW CONCERNING WHEN A JUVENILE IS CONSIDERED TO BE ADJUDICATED DELINQUENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB488&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 755)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB523",
+          "title": "TO AMEND THE LAW REGARDING ALCOHOLIC BEVERAGES; AND TO REMOVE THE REQUIREMENT THAT A PRIVATE CLUB BE A NONPROFIT ORGANIZATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB523&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 762)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB545",
+          "title": "TO AMEND THE LAW RELATED TO THE PROPERTY AND FINANCES OF STATE INSTITUTIONS OF HIGHER EDUCATION; TO AMEND THE LAW RELATED TO BONDS; AND TO AMEND THE LAW REGARDING RENTS, TOLLS, FEES, AND OTHER CHARGES RELATED TO ATHLETIC CONTESTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB545&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 564)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB575",
+          "title": "TO AMEND THE LAW CONCERNING INSTALLMENT FEES COLLECTED IN CIRCUIT AND DISTRICT COURTS; TO AMEND THE LAW CONCERNING DRIVER'S LICENSE REINSTATEMENT FEES; AND TO CREATE THE JUSTICE SYSTEM TASK FORCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB575&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 989)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB629",
+          "title": "TO ALLOW AN OFFICER OF A CLOSELY HELD CORPORATION TO REPRESENT THE CORPORATION IN COURT FOR THE PURPOSE OF EVICTION PROCEEDINGS AND UNLAWFUL DETAINER PROCEEDINGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB629&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1036",
+          "title": "TO COMMEMORATE THE CENTENNIAL OF THE JUNIOR LEAGUE OF TEXARKANA, INC. ON MAY 19, 2026.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1036&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Dalby"
+    }
+  ],
+  "removedByChecks": 0
+}

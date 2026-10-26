@@ -1,0 +1,267 @@
+{
+  "id": "afd73d93-f65e-480d-ba40-3bc65f4fe95b",
+  "name": "Greg Leding",
+  "generatedAt": "2026-10-26T02:44:36.734Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Washington"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "House 2011, 2013, 2015, 2017, Senate 2019, 2021, 2023, 2025 Minority Leader"
+    }
+  ],
+  "committees": [
+    {
+      "name": "SENATE RULES, RESOLUTIONS & MEMORIALS"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE HEALTH SERVICES"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE LABOR & ENVIRONMENT SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "SENATE ETHICS COMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 28 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB123",
+          "title": "TO AMEND THE LAW CONCERNING COVERAGE FOR MAMMOGRAMS AND BREAST ULTRASOUNDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB123&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 553)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB226",
+          "title": "TO AMEND THE SUDDEN CARDIAC ARREST PREVENTION ACT; AND TO MODIFY THE REQUIREMENTS FOR PROFESSIONAL DEVELOPMENT IN SCHOOL DISTRICTS RELATED TO SUDDEN CARDIAC ARREST.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB226&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 247)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB331",
+          "title": "CONCERNING COVERAGE FOR GENETIC TESTING FOR INHERITED CANCER MUTATIONS; AND TO CREATE THE GENETIC TESTING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB331&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB419",
+          "title": "TO CREATE A SALES AND USE TAX EXEMPTION FOR CERTAIN SALES TO A CULTIVATION FACILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB419&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB457",
+          "title": "TO AMEND THE LAW CONCERNING THE RELEASE FROM PAROLE OR POST-RELEASE SUPERVISION OF CERTAIN PERSONS WHO COMMITTED CRIMES WHEN THEY WERE UNDER THE AGE OF EIGHTEEN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB457&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1001)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB458",
+          "title": "TO REQUIRE A COURT TO CONSIDER THE IMPACT OF FACTORS SUCH AS TRAUMA AND INVOLVEMENT WITH THE CHILD WELFARE SYSTEM ON A PERSON WHO COMMITTED A CRIME AS A MINOR DURING A TRANSFER OR SENTENCING HEARING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB458&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 988)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB459",
+          "title": "TO AMEND THE MINIMUM AGE NECESSARY TO ADJUDICATE A JUVENILE DELINQUENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB459&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB489",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE PLACEMENT OF A MONUMENT ON THE STATE CAPITOL GROUNDS IN RECOGNITION OF THE DESEGREGATION OF THE CHARLESTON AND FAYETTEVILLE SCHOOL DISTRICTS IN 1954.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB489&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 950)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB507",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO COVER APPLIED BEHAVIOR ANALYSIS SERVICES FOR CERTAIN BENEFICIARIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB507&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB534",
+          "title": "TO ESTABLISH THE ARKANSAS KRATOM CONSUMER PROTECTION ACT; AND TO REMOVE MITRAGYNINE AND 7-HYDROXYMITRAGYNINE, ALSO KNOWN AS KRATOM, FROM THE CONTROLLED SUBSTANCES LIST IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB534&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB541",
+          "title": "TO AMEND THE LAW CONCERNING THE TOWING OR STORAGE OF A VEHICLE, IMPLEMENT, OR PIECE OF MACHINERY; AND TO AMEND THE LAW CONCERNING THE RELEASE OF A VEHICLE THAT HAS BEEN TOWED OR STORED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB541&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB548",
+          "title": "TO AMEND THE LAW CONCERNING WARRANTS OF ARREST; AND TO REQUIRE THAT NOTICE OF A WARRANT BE SENT TO THE PERSON NAMED IN THE ARREST WARRANT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB548&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB549",
+          "title": "TO ENSURE THAT MANDATED COSTS AND FEES PAID BY A DEFENDANT IN A CRIMINAL CASE SHALL BE REFUNDED UPON AN ACQUITTAL, A DISMISSAL, OR AN ORDER OF NOLLE PROSEQUI.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB549&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB585",
+          "title": "TO REQUIRE CERTAIN RECORDS BE PROVIDED TO AN EMPLOYEE WHO IS A MINOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB585&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB587",
+          "title": "TO CREATE THE PARENTS' PEACE OF MIND ACT; TO ESTABLISH AUTHORIZATION FOR AND USE OF A MONITORING DEVICE IN A LONG-TERM CARE FACILITY; TO PROVIDE FOR WAIVERS; AND TO PROVIDE FOR ENFORCEMENT AND PENALTIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB587&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB595",
+          "title": "TO PROVIDE FOR A MINOR'S RIGHT TO CONSULT WITH HIS OR HER PARENT OR GUARDIAN BEFORE A CUSTODIAL INTERROGATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB595&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR22",
+          "title": "A CONSTITUTIONAL AMENDMENT CONCERNING THE QUALIFICATIONS TO VOTE IN AN ELECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR22&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR63",
+          "title": "TO PROCLAIM APRIL AS AARP MONTH AT THE STATE CAPITOL AND TO PROCLAIM APRIL 8, 2025, AS AARP RED SHIRT DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR63&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1189",
+          "title": "AN ACT TO AMEND NOVICE TEACHER MENTORING REQUIREMENTS UNDER THE TEACHER EXCELLENCE AND SUPPORT SYSTEM; AND FOR OTHER PURPOSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1189&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 135)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1220",
+          "title": "TO AMEND THE MEMBERSHIP OF THE ARKANSAS NATURAL AND CULTURAL RESOURCES COUNCIL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1220&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 102)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1463",
+          "title": "TO PROHIBIT DISCLOSURE OF NEUROPSYCHOLOGICAL OR PSYCHOLOGICAL TEST MATERIALS OR TEST DATA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1463&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1732",
+          "title": "TO INCREASE THE AMOUNT OF THE INCOME TAX DEDUCTION ALLOWED FOR A TEACHER'S CLASSROOM INVESTMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1732&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 878)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1947",
+          "title": "TO AMEND THE LAW CONCERNING THE OFFENSE OF POSSESSION OF DRUG PARAPHERNALIA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1947&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR3",
+          "title": "IN RESPECTFUL MEMORY OF SENATOR UVALDE REX LINDSEY AND IN RECOGNITION OF HIS CONTRIBUTIONS TO THE STATE OF ARKANSAS AND TO HIS LOCAL COMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR3&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=G.+Leding"
+    }
+  ],
+  "removedByChecks": 0
+}

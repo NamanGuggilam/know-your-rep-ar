@@ -1,0 +1,404 @@
+{
+  "id": "71affd8a-77ef-45b1-96ab-c5724f34dfa5",
+  "name": "Jamie Scott",
+  "generatedAt": "2026-10-26T02:44:37.314Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Director of Youth Services"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019, 2021, 2023, Senate 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "SENATE ETHICS COMMITTEE"
+    },
+    {
+      "name": "TRANSPORTATION, TECHNOLOGY & LEGISLATIVE AFFAIRS - SENATE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 33 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB225",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO PROVIDE A CATEGORY FOR BENEFICIARIES WITH SICKLE CELL DISEASE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB225&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB239",
+          "title": "TO REQUIRE A REPORT CARD TO INCLUDE A STUDENT'S CURRENT READING GRADE LEVEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB239&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB241",
+          "title": "TO AMEND THE UNIFORM ATTENDANCE AND LEAVE POLICY ACT; AND TO GRANT PAID LEAVE TO PUBLIC EMPLOYEES IN THE EVENT OF THE DEATH OF A PUBLIC EMPLOYEE'S FAMILY MEMBER OR CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB241&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 885)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB330",
+          "title": "TO AMEND THE CONTENTS OF THE WRITTEN DRIVER'S LICENSE TEST AND THE DRIVER'S INSTRUCTION MANUAL; AND TO ADD HAND SIGNALS USED BY BICYCLE OPERATORS TO THE WRITTEN DRIVER'S LICENSE TEST AND THE DRIVER'S INSTRUCTION MANUAL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB330&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB371",
+          "title": "TO ESTABLISH A STANDARDIZED SYSTEM TO AID IN THE SEARCH OF MISSING CHILDREN WHO DO NOT MEET THE CRITERIA FOR ACTIVATION OF THE ARKANSAS AMBER ALERT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB371&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 653)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB423",
+          "title": "TO EXEMPT FROM THE INDIVIDUAL INCOME TAX EDUCATION SCHOLARSHIPS, AWARDS, AND GRANTS FROM NONPROFIT VOLUNTEER SERVICE ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB423&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB461",
+          "title": "TO COLLECT DATA REGARDING THE USE OF SOLITARY CONFINEMENT IN ARKANSAS PRISONS AND JAILS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB461&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB462",
+          "title": "TO CREATE A CERTIFICATE OF EMPLOYABILITY FOR A PERSON WITH A FELONY CONVICTION; AND TO ALLOW THE DIVISION OF CORRECTION AND CIRCUIT COURTS TO ISSUE CERTIFICATES OF EMPLOYABILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB462&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB476",
+          "title": "TO ALLOW LEAVE FOR ORGAN DONATION FOR CERTAIN STATE EMPLOYEES; AND TO PROHIBIT DISCRIMINATION AGAINST INDIVIDUALS APPLYING FOR LIFE INSURANCE WHO ARE ORGAN DONORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB476&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB501",
+          "title": "TO CREATE THE TENANT POSSESSIONS RECOVERY ACT; AND TO REQUIRE A LANDLORD TO PROVIDE CERTAIN NOTICE TO A TENANT WHEN A COURT HAS ISSUED A WRIT OF POSSESSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB501&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB517",
+          "title": "TO AMEND THE LAW CONCERNING CONDUCT OF ELECTIONS; AND TO ALLOW A COUNTY BOARD OF ELECTION COMMISSIONERS TO DESIGNATE A RESTROOM FOR CAMPAIGN WORKERS AND VOLUNTEERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB517&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB555",
+          "title": "TO AMEND THE LAW CONCERNING THE OFFENSE OF VIDEO VOYEURISM; TO EXTEND THE STATUTE OF LIMITATIONS FOR THE OFFENSE OF VIDEO VOYEURISM; AND TO MAKE AN ORDER OF PROTECTION AVAILABLE TO A VICTIM OF VIDEO VOYEURISM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB555&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 765)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB609",
+          "title": "TO PROVIDE FOR A MINOR'S RIGHT TO CONSULT WITH HIS OR HER PARENT OR GUARDIAN BEFORE A CUSTODIAL INTERROGATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB609&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB623",
+          "title": "CONCERNING THE TREATMENT OF FEMALE INMATES AND DETAINEES IN CORRECTIONAL OR DETENTION FACILITIES; AND TO AMEND THE LAW REGARDING THE TREATMENT OF AN INMATE OR DETAINEE WHO IS PREGNANT OR HAS RECENTLY DELIVERED A CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB623&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR2",
+          "title": "TO AFFIRM THAT THE AMERICAN DREAM BELONGS TO ALL OF US.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR2&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR3",
+          "title": "TO URGE THE ARKANSAS CONGRESSIONAL DELEGATION TO PROPOSE AN AMENDMENT TO THE FEDERAL UNEMPLOYMENT TAX ACT TO WAIVE THE \"REASONABLE ASSURANCE\" CLAUSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR3&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR4",
+          "title": "TO RECOGNIZE FORMER REPRESENTATIVE AND SENATOR JOYCE ELLIOTT DURING BLACK HISTORY MONTH FOR HER SERVICE TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR4&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR6",
+          "title": "TO RECOGNIZE THE NORTH LITTLE ROCK HIGH SCHOOL CHARGING WILDCATS VARSITY CHEER TEAM FOR WINNING THE CLASS 6A STATE CHAMPIONSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR6&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR7",
+          "title": "TO RECOGNIZE THE MILLS UNIVERSITY STUDIES HIGH SCHOOL COMETS BOYS' BASKETBALL TEAM AS THE CLASS 4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR7&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR8",
+          "title": "TO RECOGNIZE THE MILLS UNIVERSITY STUDIES HIGH SCHOOL LADY COMETS BASKETBALL TEAM AS THE CLASS 4A CONFERENCE CHAMPIONS AND TO REMEMBER HEAD COACH JOE GREGORY'S WIFE, CYNTHIA GREGORY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR8&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR5",
+          "title": "TO REMEMBER PASTOR ROBERT J. JENKINS FOR HIS GOOD WORKS AND DEVOTED SERVICE IN HIS COMMUNITY AND THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR5&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR22",
+          "title": "TO COMMEND ALPHA KAPPA ALPHA SORORITY, INCORPORATED®, FOR ITS CONTRIBUTIONS TO THE COMMUNITY AND TO DESIGNATE FEBRUARY 25, 2025, AS ALPHA KAPPA ALPHA DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR22&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR32",
+          "title": "TO RECOGNIZE KAPPA ALPHA PSI FRATERNITY, INC., FOR ITS POSITIVE IMPACT UPON ITS COMMUNITIES, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR32&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR39",
+          "title": "TO CELEBRATE WOMEN’S HISTORY MONTH DURING MARCH 2025 AND INTERNATIONAL WOMEN’S DAY ON MARCH 8, 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR39&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR70",
+          "title": "TO RECOGNIZE RONALD MCDONALD HOUSE CHARITIES® FOR FIFTY YEARS OF SERVICE IN IMPROVING THE HEALTH AND WELL-BEING OF CHILDREN AND THEIR FAMILIES AND DIRECTLY IMPACTING THE LOCAL COMMUNITIES OF THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR70&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1268",
+          "title": "TO ALLOW A PUBLIC TRANSIT AUTHORITY TO BECOME A PARTICIPATING PUBLIC EMPLOYER AND FOR ITS EMPLOYEES TO BECOME MEMBERS OF THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1268&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 450)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1332",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO EVALUATE CLAIMS FOR DIAGNOSES FREQUENCY OF OBESITY-RELATED CONDITIONS AND PRESENT THE COSTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1332&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1333",
+          "title": "TO MANDATE COVERAGE FOR BREASTFEEDING AND LACTATION CONSULTANT SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1333&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 627)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1402",
+          "title": "TO AMEND INITIATED ACT 1 OF 2000, ALSO KNOWN AS THE TOBACCO SETTLEMENT PROCEEDS ACT; AND TO DIRECT THE ARKANSAS MINORITY HEALTH COMMISSION TO ESTABLISH AND ADMINISTER A GRANT PROGRAM FOR SCHOOL-BASED HEALTH CENTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1402&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1436",
+          "title": "TO PLACE LOCATION RESTRICTIONS ON CERTAIN FOOD PROCESSING PLANTS OPERATING A SLAUGHTERHOUSE ON THE SAME GROUNDS AS THE FOOD PROCESSING PLANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1436&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1528",
+          "title": "TO REQUIRE A REPORT CARD TO INCLUDE A STUDENT'S CURRENT READING GRADE LEVEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1528&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1709",
+          "title": "TO AMEND THE HUMAN SERVICES WORKERS IN THE SCHOOLS PROGRAM; AND TO INCLUDE MENTAL HEALTH COUNSELORS IN THE HUMAN SERVICES WORKERS IN THE SCHOOLS PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1709&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1712",
+          "title": "TO ESTABLISH THE SOCIAL WORK LICENSURE COMPACT IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1712&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 639)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1721",
+          "title": "TO AMEND SECTIONS OF THE ARKANSAS CODE TO PROHIBIT GREYHOUND RACING AND SIMULCASTING OF GREYHOUND RACING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1721&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 394)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1723",
+          "title": "TO AMEND INITIATED ACT 1 OF 2000, ALSO KNOWN AS THE TOBACCO SETTLEMENT PROCEEDS ACT; AND TO DIRECT THE ARKANSAS MINORITY HEALTH COMMISSION TO ESTABLISH AND ADMINISTER A GRANT PROGRAM FOR SCHOOL-BASED HEALTH CENTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1723&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1755",
+          "title": "TO REQUIRE EACH PUBLIC SCHOOL TO PARTICIPATE IN THE ARKANSAS PREVENTION NEEDS ASSESSMENT SURVEY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1755&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1782",
+          "title": "TO PROHIBIT OVER-THE-COUNTER DIET PILLS FROM BEING SOLD, TRANSFERRED, OR OTHERWISE FURNISHED TO A PERSON WHO IS UNDER EIGHTEEN YEARS OF AGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1782&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 642)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1861",
+          "title": "TO MAKE OPERATION OF AN ILLEGAL ONLINE CASINO OR SPORTS BETTING A FELONY; TO CREATE THE INTERACTIVE GAMING ACT; TO REGULATE INTERNET GAMING AND INCLUDE NAME, IMAGE, OR LIKENESS GAMES AND GAMING; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1861&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1005",
+          "title": "TO HONOR THE ARKANSAS MINORITY HEALTH COMMISSION DURING AMERICAN HEART MONTH IN FEBRUARY FOR ITS EFFORTS TO ADDRESS HEART DISEASE AMONG THE MINORITY POPULATIONS OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1005&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1010",
+          "title": "REQUESTING A STUDY OF WAYS TO IMPROVE THE STATE'S JUVENILE JUSTICE SYSTEM FOR YOUTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1010&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Scott"
+    }
+  ],
+  "removedByChecks": 0
+}

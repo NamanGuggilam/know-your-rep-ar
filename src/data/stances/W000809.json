@@ -1,0 +1,200 @@
+{
+  "id": "W000809",
+  "name": "Steve Womack",
+  "generatedAt": "2026-10-26T02:38:28.992Z",
+  "model": "none",
+  "facts": [],
+  "committees": [
+    {
+      "name": "House Committee on Appropriations"
+    },
+    {
+      "name": "House Committee on Appropriations: Defense Subcommittee"
+    },
+    {
+      "name": "House Committee on Appropriations: Transportation, Housing and Urban Development, and Related Agencies Subcommittee",
+      "role": "Chair"
+    },
+    {
+      "name": "House Committee on Appropriations: Financial Services and General Government Subcommittee"
+    }
+  ],
+  "ownWords": {
+    "status": "ok",
+    "note": "From 15 issue pages on their official website.",
+    "pages": [
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=35369",
+        "title": "Abortion"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=27220",
+        "title": "Agriculture"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=57335",
+        "title": "Jobs and the Economy"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=57332",
+        "title": "Budget"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=26654",
+        "title": "Defense"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=27219",
+        "title": "Education"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=27020",
+        "title": "Energy"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=57334",
+        "title": "Foreign Affairs"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=27218",
+        "title": "Health Care"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=35375",
+        "title": "Immigration"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=35370",
+        "title": "Small Business"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=35376",
+        "title": "Social Security"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=26655",
+        "title": "Tax Reform"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=57333",
+        "title": "Transportation"
+      },
+      {
+        "url": "https://womack.house.gov/Issues/Issue/?IssueID=26653",
+        "title": "Veterans"
+      }
+    ]
+  },
+  "billsNote": "Bills and resolutions they were the main sponsor of in the 119th Congress (2025-2026).",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "H.R. 4552",
+          "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/4552",
+          "status": "Placed on the Union Calendar, Calendar No. 172.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9452",
+          "title": "Budgeting for a Better America Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9452",
+          "status": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 9170",
+          "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2027",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/9170",
+          "status": "Placed on the Union Calendar, Calendar No. 598.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 1107",
+          "title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1107",
+          "status": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HJRES 101",
+          "title": "Proposing an amendment to the Constitution of the United States giving Congress power to prohibit the physical desecration of the flag of the United States.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/101",
+          "status": "Referred to the House Committee on the Judiciary.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 3028",
+          "title": "Duty Drawback Clarification Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/3028",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 2615",
+          "title": "Stephen Hacala Poppy Seed Safety Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/2615",
+          "status": "Referred to the House Committee on Energy and Commerce.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 2312",
+          "title": "Tipped Employee Protection Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/2312",
+          "status": "POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced that further proceedings on H.R. 2312 is postponed.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "HCONRES 12",
+          "title": "Supporting the Local Radio Freedom Act.",
+          "url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/12",
+          "status": "Referred to the House Committee on the Judiciary.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 715",
+          "title": "BNA Fairness Act",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/715",
+          "status": "Referred to the House Committee on Ways and Means.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "H.R. 597",
+          "title": "PURR Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/house-bill/597",
+          "status": "Referred to the House Committee on Energy and Commerce.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Congress.gov (Library of Congress)",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "congress-legislators committee data",
+      "url": "https://github.com/unitedstates/congress-legislators"
+    },
+    {
+      "name": "Steve Womack's official website",
+      "url": "https://womack.house.gov"
+    }
+  ],
+  "removedByChecks": 0
+}

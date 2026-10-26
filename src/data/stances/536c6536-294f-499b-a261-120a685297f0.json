@@ -1,0 +1,98 @@
+{
+  "id": "536c6536-294f-499b-a261-120a685297f0",
+  "name": "Stephanie Flowers",
+  "generatedAt": "2026-10-26T02:44:43.638Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Jefferson, Part Lincoln, Part Desha, Part Lonoke, Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Attorney"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "House 2005, 2007, 2009; Senate 2011, 2013, 2015, 2017 Asst. President Pro Tempore, Senate 2019, 2021, 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "EDUCATION COMMITTEE - SENATE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE - SENATE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "SENATE EFFICIENCY"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 19 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB333",
+          "title": "AN ACT FOR THE UNIVERSITY OF ARKANSAS AT PINE BLUFF - POLICE STATION FACILITY CONSTRUCTION APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB333&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 381)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SMR4",
+          "title": "TO REMEMBER AND HONOR THE LIFE, LEGACY, AND IMPACT OF THE HONORABLE L. CLIFFORD DAVIS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SMR4&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=S.+Flowers"
+    }
+  ],
+  "removedByChecks": 0
+}

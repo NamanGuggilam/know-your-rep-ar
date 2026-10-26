@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { ArrowIcon } from "@/components/icons";
-import { Lookup } from "@/components/Lookup";
+import { LookupForm } from "@/components/LookupForm";
 
 export default function Home() {
   return (
@@ -20,7 +20,7 @@ export default function Home() {
         </div>
       </section>
 
-      <Lookup />
+      <LookupForm />
 
       <section aria-labelledby="more-heading" className="mt-14 simple-hide">
         <h2 id="more-heading" className="text-2xl font-extrabold">

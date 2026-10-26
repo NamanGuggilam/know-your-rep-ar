@@ -1,0 +1,58 @@
+{
+  "id": "24a8e487-fca2-4d84-999c-4877ab721136",
+  "name": "Brad Simon",
+  "generatedAt": "2026-10-26T02:44:34.062Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Franklin, Part Johnson, Part Logan, Part Sebastian"
+    },
+    {
+      "label": "Occupation",
+      "value": "Small Business Owner"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2026"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE - SENATE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE - SENATE"
+    },
+    {
+      "name": "SENATE EFFICIENCY"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 7 other bills, not listed here.",
+  "topics": [],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Simon"
+    }
+  ],
+  "removedByChecks": 0
+}

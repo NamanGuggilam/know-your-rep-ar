@@ -1,0 +1,277 @@
+{
+  "id": "9bce7e7f-cd90-4b10-a557-c37d82923be2",
+  "name": "Brandon Achor",
+  "generatedAt": "2026-10-26T02:44:34.351Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE INSURANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 57 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1135",
+          "title": "TO ALLOW THE ISSUANCE OF A DIGITIZED IDENTIFICATION CARD; TO AMEND THE LAW CONCERNING THE FEE FOR ISSUANCE OF A DIGITIZED DRIVER'S LICENSE OR DIGITIZED IDENTIFICATION CARD; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1135&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 17)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1136",
+          "title": "TO AMEND THE COMPREHENSIVE CRIMINAL RECORD SEALING ACT OF 2013; AND TO PROHIBIT A COURT FROM GRANTING A UNIFORM PETITION WHEN A PERSON IS SUBJECT TO AN ACTIVE WARRANT OF ARREST.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1136&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1213",
+          "title": "TO AMEND THE ARKANSAS ATHLETIC TRAINERS ACT; TO CLARIFY THE DEFINITION OF \"ATHLETE\"; AND TO DEFINE \"HEALTHCARE PROVIDER\" REGARDING STUDENT ATHLETE CONCUSSION EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1213&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 266)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1435",
+          "title": "TO AMEND THE LAW CONCERNING INCOME TAX CREDITS FOR CHILD CARE; TO AMEND THE INCOME TAX CREDIT FOR EMPLOYER-PROVIDED CHILD CARE; TO PROVIDE AN INCOME TAX CREDIT FOR LICENSED CHILDCARE PROVIDERS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1435&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1442",
+          "title": "TO SET RESTRICTIONS ON PHARMACY CONTRACTING AND CONFLICTS OF INTEREST; AND TO ESTABLISH PHARMACEUTICAL PATIENT FREEDOM OF CHOICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1442&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1466",
+          "title": "TO AMEND THE FAIR MORTGAGE LENDING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1466&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 262)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1467",
+          "title": "TO AMEND THE UNIFORM MONEY SERVICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1467&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 557)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1530",
+          "title": "TO AMEND THE DEFINITION OF \"SPECIALTY HOSPITAL\" RELATING TO THE ASSESSMENT FEE ON HOSPITALS UNDER THE ARKANSAS MEDICAID PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1530&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1531",
+          "title": "TO PROHIBIT PHARMACEUTICAL MANUFACTURERS FROM RESTRICTING OR LIMITING PRESCRIPTION MEDICATIONS TO A LIMITED DISTRIBUTION NETWORK OF OUT-OF-STATE PHARMACIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1531&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 630)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1700",
+          "title": "TO AMEND THE PRIOR AUTHORIZATION TRANSPARENCY ACT; AND TO CLARIFY THE PROCESS OF AN ADVERSE DETERMINATION NOTICE UNDER THE PRIOR AUTHORIZATION TRANSPARENCY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1700&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 638)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1961",
+          "title": "TO ALLOW MEDICAL PROVIDERS TEMPORARY EXEMPTIONS FROM FEDERAL INFORMATION-BLOCKING REGULATIONS TO SAFEGUARD PATIENTS DURING INFORMATION DISCLOSURE; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1961&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1059",
+          "title": "TO COMMEND THE MAUMELLE CHARTER HIGH SCHOOL FALCONS BOYS' CROSS COUNTRY TEAM FOR WINNING THE 2024 CLASS 3A STATE CHAMPIONSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1059&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1060",
+          "title": "TO COMMEND THE MAUMELLE CHARTER HIGH SCHOOL FALCONS BOYS' GOLF TEAM FOR WINNING THE 2024 CLASS 3A STATE CHAMPIONSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1060&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB137",
+          "title": "TO PERMIT HEALTHCARE PROVIDERS TO MAINTAIN MEDICAL RECORDS IN AN ELECTRONIC FORMAT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB137&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 141)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB140",
+          "title": "TO MANDATE THE USE OF BIOSIMILAR MEDICINES UNDER HEALTH BENEFIT PLANS; TO REQUIRE A HEALTHCARE PROVIDER TO PRESCRIBE BIOSIMILAR MEDICINES; AND TO IMPROVE ACCESS TO BIOSIMILAR MEDICINES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB140&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB148",
+          "title": "TO ESTABLISH THE CREATING AN INVESTMENT OPPORTUNITY FOR EARLY CHILDHOOD WORKERS ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB148&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 587)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB220",
+          "title": "TO AMEND THE ARKANSAS SECURITIES ACT; AND TO CLARIFY EXEMPT TRANSACTIONS UNDER THE ARKANSAS SECURITIES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB220&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 236)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB229",
+          "title": "TO CREATE THE DEPARTMENT OF FINANCIAL SERVICES WITHIN THE DEPARTMENT OF COMMERCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB229&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB230",
+          "title": "TO REPEAL THE ARKANSAS TRUST INSTITUTIONS ACT; AND TO CREATE THE ARKANSAS TRUST INSTITUTIONS ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB230&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 237)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB401",
+          "title": "TO AMEND THE ARKANSAS UNDERGROUND FACILITIES DAMAGE PREVENTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB401&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 448)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB491",
+          "title": "TO REQUIRE A VENDOR THAT CONTRACTS WITH THE EMPLOYEE BENEFITS DIVISION TO SUBMIT DATA FOR VERIFICATION BY AN INDEPENDENT AUDIT; TO IMPOSE A CIVIL PENALTY ON A VENDOR THAT PROVIDES INACCURATE DATA; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB491&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 956)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB532",
+          "title": "TO AMEND THE DEFINITION OF \"SPECIALTY HOSPITAL\" RELATING TO THE ASSESSMENT FEE ON HOSPITALS UNDER THE ARKANSAS MEDICAID PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB532&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB593",
+          "title": "TO AMEND THE ARKANSAS PHARMACY BENEFITS MANAGER LICENSURE ACT; AND TO CREATE THE PHARMACY SERVICES ADMINISTRATIVE ORGANIZATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB593&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB605",
+          "title": "TO CREATE THE DELTA TETRAHYDROCANNABINOL EXCISE TAX ACT; AND TO TAX DELTA TETRAHYDROCANNABINOL PRODUCTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB605&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB94",
+          "title": "TO AMEND THE REQUIREMENT FOR NEW ALL-TERRAIN VEHICLE DEALERS AND NEW LOW SPEED VEHICLE DEALERS TO MAINTAIN SERVICE AND PARTS STORAGE AREAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB94&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 233)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB95",
+          "title": "TO AMEND THE ARKANSAS ATHLETIC TRAINERS ACT; AND TO CLARIFY THE DEFINITION OF \"ATHLETE\" WITHIN THE ARKANSAS ATHLETIC TRAINERS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB95&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Achor"
+    }
+  ],
+  "removedByChecks": 0
+}

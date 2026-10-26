@@ -1,0 +1,192 @@
+{
+  "id": "9762816a-27bf-4209-864b-d15e2e39212a",
+  "name": "Wade Andrews",
+  "generatedAt": "2026-10-26T02:44:44.857Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Columbia, Part Lafayette, Part Nevada, Part Ouachita"
+    },
+    {
+      "label": "Occupation",
+      "value": "Businessman, Farmer, First Responder"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 36 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1051",
+          "title": "TO AMEND THE PUBLIC SCHOOL START DATE REQUIREMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1051&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1240",
+          "title": "TO EXPAND ELIGIBILITY FOR COVERAGE UNDER THE STATE AND PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM TO CERTAIN VOLUNTEER FIREFIGHTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1240&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1293",
+          "title": "TO INCREASE THE PAYMENT OF A CLAIM TO DESIGNATED BENEFICIARIES OR SURVIVORS OF CERTAIN PUBLIC EMPLOYEES KILLED IN THE LINE OF DUTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1293&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 414)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1305",
+          "title": "TO REQUIRE THE STATE BOARD OF EDUCATION TO ISSUE A TEACHING LICENSE TO AN INDIVIDUAL WHO DOES NOT MEET TRADITIONAL OR ALTERNATIVE LICENSURE REQUIREMENTS UNDER CERTAIN CONDITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1305&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1414",
+          "title": "TO AMEND THE LAW CONCERNING CLAIMS FOR FIRE SERVICES; AND TO UPDATE THE SCHEDULE OF EQUIPMENT RATES USED IN CLAIMS FOR FIRE SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1414&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 417)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1480",
+          "title": "TO AMEND THE ARKANSAS ACADEMIC CHALLENGE SCHOLARSHIP PROGRAM; AND TO AMEND THE DEFINITION OF \"APPROVED INSTITUTION OF HIGHER EDUCATION\".",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1480&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1496",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE TO ENSURE ARKANSAS STUDENTS ARE TAUGHT BY QUALIFIED TEACHERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1496&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 304)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1506",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC OFFICERS AND EMPLOYEES; AND TO PROHIBIT A PUBLIC EMPLOYER FROM DEDUCTING LABOR ORGANIZATION MEMBERSHIP DUES FROM THE COMPENSATION OF A PUBLIC EMPLOYEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1506&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1550",
+          "title": "CONCERNING EXPEDITED SECURITY SCREENINGS AT AN AIRPORT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1550&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1704",
+          "title": "TO AMEND THE LAW REGARDING CHILD CUSTODY IN MATTERS WHERE A PARENT IS A FIRST RESPONDER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1704&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 388)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1864",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE TO IMPROVE EFFICIENCY IN STUDENT INSTRUCTION; AND TO CREATE A STANDARDIZED FLEXIBLE SCHOOL CALENDAR SYSTEM FOR PUBLIC SCHOOLS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1864&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1954",
+          "title": "TO CREATE THE ARKANSAS BEHAVIOR ANALYST REGISTRATION ACT; AND TO INCLUDE QUALIFIED BEHAVIOR ANALYSTS UNDER THE ARKANSAS BEHAVIOR ANALYST REGISTRATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1954&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 869)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB151",
+          "title": "TO AMEND LAW CONCERNING RETIREMENT BENEFITS; AND TO PROHIBIT COLLECTION OF BENEFITS BY MEMBERS, RETIRANTS, OR BENEFICIARIES OF RETIREMENT SYSTEMS WHO HAVE BEEN CONVICTED OF CERTAIN OFFENSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB151&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB473",
+          "title": "TO AMEND THE DUTIES OF THE ARKANSAS FIRE PROTECTION SERVICES BOARD; AND TO PROVIDE FOR THE ARKANSAS FIRE PROTECTION SERVICES BOARD TO ADVISE THE ARKANSAS FIRE TRAINING ACADEMY ON CERTAIN MATTERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB473&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Andrews"
+    }
+  ],
+  "removedByChecks": 0
+}

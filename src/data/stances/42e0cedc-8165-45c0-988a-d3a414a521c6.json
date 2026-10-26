@@ -1,0 +1,264 @@
+{
+  "id": "42e0cedc-8165-45c0-988a-d3a414a521c6",
+  "name": "Kendon Underwood",
+  "generatedAt": "2026-10-26T02:44:39.607Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Occupation",
+      "value": "Attorney"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE COURTS & CIVIL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 46 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1203",
+          "title": "TO PROTECT ARKANSAS TAXPAYERS FROM A TAX TO COLLECT TAXES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1203&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1243",
+          "title": "TO INCREASE TRANSPARENCY REGARDING CAMPAIGN CONTRIBUTIONS AND EXPENDITURES; TO AMEND CAMPAIGN FINANCE REPORTING AND PROTECT ELECTION INTEGRITY; AND TO AMEND PORTIONS OF INITIATED ACT 1 OF 1996.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1243&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 994)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1543",
+          "title": "TO ESTABLISH THE WORKFORCE EXPERIENCE OPPORTUNITIES ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1543&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 631)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1685",
+          "title": "TO CREATE THE GROCERY TAX RELIEF ACT; TO AMEND THE LAW CONCERNING THE SALES AND USE TAXES LEVIED ON FOOD AND FOOD INGREDIENTS, AS AFFIRMED BY REFERRED ACT 19 OF 1958; AND TO EXEMPT GROCERIES FROM STATE SALES AND USE TAXES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1685&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1008)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1708",
+          "title": "THE KEEP THE BONUS, AXE THE TAX: THE NO-TAX BONUS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1708&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1751",
+          "title": "TO REQUIRE AN APPLICANT FOR TEMPORARY ASSISTANCE FOR NEEDY FAMILIES PROGRAM BENEFITS TO ENGAGE IN JOB SEARCH ACTIVITIES WHILE THE APPLICATION IS BEING PROCESSED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1751&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 640)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1763",
+          "title": "TO AMEND THE HUMAN TRAFFICKING ACT OF 2013; AND TO CREATE THE OFFENSE OF UNLAWFUL USE OF A COMMUNICATION DEVICE DURING THE COMMISSION OF A HUMAN TRAFFICKING OFFENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1763&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 682)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1764",
+          "title": "AN ACT TO AMEND THE LAW CONCERNING A VIOLATION OF AN ORDER OF PROTECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1764&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 831)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1765",
+          "title": "TO AMEND THE LAW CONCERNING DOMESTIC BATTERING IN THE THIRD DEGREE; AND TO AMEND THE OFFENSE CLASSIFICATION ENHANCEMENT BASED ON PRIOR ACTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1765&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1822",
+          "title": "THE OVERTIME BUT NOT OVERTAXED ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1822&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB207",
+          "title": "TO AMEND THE LAW CONCERNING INITIATIVE AND REFERENDUM PETITIONS; TO REQUIRE A CANVASSER TO DISCLOSE THAT PETITION FRAUD IS A CRIMINAL OFFENSE; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB207&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 218)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB208",
+          "title": "TO AMEND THE LAW CONCERNING INITIATIVE AND REFERENDUM PETITIONS; TO VIEW A CANVASSER TO REQUEST PHOTO IDENTIFICATION BEFORE OBTAINING A SIGNATURE; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB208&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 240)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB209",
+          "title": "TO DISQUALIFY SIGNATURES OBTAINED BY A CANVASSER UNDER CERTAIN CIRCUMSTANCES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB209&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 273)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB210",
+          "title": "TO REQUIRE THE SIGNER TO READ THE BALLOT TITLE OF THE PETITION IN THE PRESENCE OF A CANVASSER; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB210&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 274)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB211",
+          "title": "TO AMEND THE LAW CONCERNING INITIATIVE PETITIONS AND REFERENDUM PETITIONS; TO REQUIRE A CANVASSER TO SUBMIT AN AFFIDAVIT BEFORE SIGNATURES CAN BE COUNTED; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB211&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 241)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB212",
+          "title": "TO CREATE THE DOCUMENT VALIDITY DIVISION; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB212&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB214",
+          "title": "TO ADD SECOND DEGREE MURDER TO THE LIST OF OFFENSES THAT ARE INELIGIBLE FOR MERITORIOUS FURLOUGH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB214&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 137)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB294",
+          "title": "TO AMEND THE LAW CONCERNING ELECTION AUDITS; AND TO ALLOW THE STATE BOARD OF ELECTION COMMISSIONERS TO AUDIT A COUNTY IN THE PRECEDING ELECTION IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB294&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 280)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB321",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE ADMINISTRATION OF JUSTICE FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB321&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB355",
+          "title": "TO AMEND THE CRIMINAL OFFENSE OF OBSTRUCTING GOVERNMENTAL OPERATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB355&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1000)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB356",
+          "title": "TO ALLOW DISCLOSURE TO A JUDGE OF INFORMATION OBTAINED FROM THE ARKANSAS CRIME INFORMATION CENTER BY THE OFFICE OF CHILD SUPPORT ENFORCEMENT OR CRIME VICTIMS REPARATIONS BOARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB356&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB377",
+          "title": "TO CREATE THE GROCERY TAX RELIEF ACT; TO AMEND THE LAW CONCERNING THE SALES AND USE TAXES LEVIED ON FOOD AND FOOD INGREDIENTS, AS AFFIRMED BY REFERRED ACT 19 OF 1958; AND TO EXEMPT GROCERIES FROM STATE SALES AND USE TAXES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB377&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB472",
+          "title": "TO CREATE THE VIOLATION OF PURCHASE OR POSSESSION OF AN E-LIQUID PRODUCT OR VAPOR PRODUCT BY A MINOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB472&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Underwood"
+    }
+  ],
+  "removedByChecks": 0
+}

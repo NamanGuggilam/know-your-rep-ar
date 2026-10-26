@@ -1,0 +1,130 @@
+{
+  "id": "7f9f1a8b-47a7-456d-bc5d-1e6ec32e8572",
+  "name": "Richard McGrew",
+  "generatedAt": "2026-10-26T02:44:42.206Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Garland"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House (Special Election) 2020; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE UTILITIES SUBCOMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 40 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1558",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS REAL ESTATE COMMISSION; TO CREATE A PROPERTY MANAGEMENT BROKER AND PROPERTY MANAGEMENT ASSOCIATE LICENSE; AND TO AMEND THE REAL ESTATE LICENSE LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1558&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 392)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1559",
+          "title": "TO REQUIRE THE DEPARTMENT OF HUMAN SERVICES TO SEEK A WAIVER TO THE ARKANSAS MEDICAID PROGRAM FOR COVERAGE FOR INPATIENT TREATMENT SERVICES FOR SUBSTANCE USE DISORDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1559&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 632)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1560",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC WORKS CONTRACTS; AND TO REQUIRE PRICING INFORMATION FOR LIGHTING COMPONENTS FOR PUBLIC WORKS PROJECTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1560&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1646",
+          "title": "TO REQUIRE CERTAIN MATERIALS TO BE STORED IN LOCKED COMPARTMENTS WITHIN A DESIGNATED AREA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1646&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 917)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1043",
+          "title": "TO SUPPORT THE NOMINATION OF FORMER GOVERNOR OF ARKANSAS MICHAEL DALE \"MIKE\" HUCKABEE AS UNITED STATES AMBASSADOR TO ISRAEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1043&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1113",
+          "title": "TO RECOGNIZE THE DIVISION OF ARKANSAS STATE POLICE'S INTERSTATE CRIMINAL PATROL FOR WINNING TOP HONORS AT THE GULF COAST HIGH INTENSITY DRUG TRAFFICKING AREA AWARDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1113&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McGrew"
+    }
+  ],
+  "removedByChecks": 0
+}

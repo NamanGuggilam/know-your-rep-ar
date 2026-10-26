@@ -1,0 +1,216 @@
+{
+  "id": "a7626d1d-fcc7-4c01-ad87-48a28faf7245",
+  "name": "Ron Caldwell",
+  "generatedAt": "2026-10-26T02:44:42.879Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Arkansas, Cross, Jackson, Part Lee, Part Lonoke, Monroe, Part Poinsett, Prairie, Part St. Francis, Woodruff"
+    },
+    {
+      "label": "Occupation",
+      "value": "Real Estate Developer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2013, 2015, 2017, 2019, 2021"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT - SENATE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "REVENUE & TAX - SENATE"
+    },
+    {
+      "name": "SENATE RULES, RESOLUTIONS & MEMORIALS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 25 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB46",
+          "title": "TO REFLECT A MERGER BETWEEN THE UNIVERSITY OF ARKANSAS AND EAST ARKANSAS COMMUNITY COLLEGE BY CHANGING THE NAME OF EAST ARKANSAS COMMUNITY COLLEGE TO THE UNIVERSITY OF ARKANSAS EAST ARKANSAS COMMUNITY COLLEGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB46&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 25)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB496",
+          "title": "TO AMEND THE LAW CONCERNING PERMITS FOR SPECIAL CARGOES; AND TO AMEND THE LAW CONCERNING THE ISSUANCE OF A PERMIT FOR SPECIAL CARGO TRANSPORTED BY A FARM MACHINERY EQUIPMENT HAULER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB496&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 700)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB629",
+          "title": "TO ALLOW AN OFFICER OF A CLOSELY HELD CORPORATION TO REPRESENT THE CORPORATION IN COURT FOR THE PURPOSE OF EVICTION PROCEEDINGS AND UNLAWFUL DETAINER PROCEEDINGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB629&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB639",
+          "title": "TO CREATE THE ARKANSAS WIND ENERGY DEVELOPMENT ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB639&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB85",
+          "title": "TO PRESERVE PUBLIC PROPERTY; AND TO PRESERVE TIMBER AT THE PINE TREE RESEARCH STATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB85&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR18",
+          "title": "TO HONOR MISS ARKANSAS 2024 CAMILLE CATHEY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR18&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR27",
+          "title": "COMMENDING ARKANSAS FARMERS, RANCHERS, AND FORESTERS FOR THEIR VITAL CONTRIBUTIONS TO THE SECURITY AND ECONOMIC WELL-BEING OF THE STATE OF ARKANSAS AND THE NATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR27&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1049",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING CRIMINAL OFFENSES; AND TO CRIMINALIZE UNLAWFUL SQUATTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1049&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 238)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1279",
+          "title": "TO AMEND THE ARKANSAS EGG MARKETING ACT OF 1969; AND TO AUTHORIZE REPACKAGING OF EGGS BY A RETAILER IF CERTAIN CRITERIA IS MET.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1279&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 285)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1558",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS REAL ESTATE COMMISSION; TO CREATE A PROPERTY MANAGEMENT BROKER AND PROPERTY MANAGEMENT ASSOCIATE LICENSE; AND TO AMEND THE REAL ESTATE LICENSE LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1558&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 392)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1560",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC WORKS CONTRACTS; AND TO REQUIRE PRICING INFORMATION FOR LIGHTING COMPONENTS FOR PUBLIC WORKS PROJECTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1560&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1564",
+          "title": "TO MODIFY MOTOR VEHICLE RACING FACILITY PERMITS AND TO SET CERTAIN RESTRICTIONS ON A MOTOR VEHICLE RACING FACILITY IN CERTAIN RURAL LOCATIONS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1564&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1590",
+          "title": "TO COMBINE THE OFFICES OF TREASURER AND TAX COLLECTOR IN WOODRUFF COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1590&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 454)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1591",
+          "title": "TO COMBINE THE OFFICES OF TREASURER AND TAX COLLECTOR IN ARKANSAS COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1591&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 455)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1716",
+          "title": "TO AMEND THE LAW CONCERNING THE ASSESSMENT AND COLLECTION OF TAXES BY THE SECRETARY OF THE DEPARTMENT OF FINANCE AND ADMINISTRATION; AND TO PROHIBIT THE ASSESSMENT OF SALES AND USE TAX IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1716&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 498)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1733",
+          "title": "TO AMEND VARIOUS PROVISIONS OF THE ARKANSAS CODE CONCERNING THE ARKANSAS BETTER CHANCE PROGRAM ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1733&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 504)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Caldwell"
+    }
+  ],
+  "removedByChecks": 0
+}

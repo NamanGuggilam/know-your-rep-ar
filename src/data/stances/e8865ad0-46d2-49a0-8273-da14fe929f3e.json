@@ -1,0 +1,266 @@
+{
+  "id": "e8865ad0-46d2-49a0-8273-da14fe929f3e",
+  "name": "Wayne Long",
+  "generatedAt": "2026-10-26T02:44:44.991Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Independence, Part Jackson, Part White"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE HEALTH SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE CONSTITUTIONAL ISSUES SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 43 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1078",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING RUNOFF ELECTIONS; AND TO PROVIDE FOR A RUNOFF ELECTION FOR CANDIDATES FOR THE SENATE AND THE HOUSE OF REPRESENTATIVES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1078&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1121",
+          "title": "TO REPEAL THE LAW CONCERNING THE TRANSFER OF TAX-FORFEITED LANDS TO STATE INSTITUTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1121&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 211)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1216",
+          "title": "TO CREATE THE FREE MARKET ZONES ACT; AND TO EXEMPT A BUSINESS LOCATED IN AN OPPORTUNITY ZONE FROM THE INCOME TAX, THE CORPORATE FRANCHISE TAX, AND THE ELECTIVE PASS-THROUGH ENTITY TAX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1216&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1409",
+          "title": "TO AMEND THE LAW REGARDING ENERGY; AND TO CREATE THE ELECTRIC RELIABILITY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1409&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1422",
+          "title": "TO CREATE THE ONLY CITIZENS VOTE ACT; TO AMEND THE LAW CONCERNING THE DRIVER'S LICENSES AND IDENTIFICATION CARDS OF CERTAIN NONCITIZENS; AND TO AMEND ARKANSAS CONSTITUTION, AMENDMENT 51, SECTION 13.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1422&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1447",
+          "title": "TO EXEMPT A SEPTIC SYSTEM INSTALLER LICENSED UNDER THE ARKANSAS SEWAGE DISPOSAL SYSTEMS ACT FROM LICENSURE AS A PLUMBER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1447&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 255)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1481",
+          "title": "TO CREATE THE ANTI-ATF COMMANDEERING ACT; AND TO PROHIBIT THE PROVISION OF MATERIAL AID AND SUPPORT FOR ENFORCEMENT OF FEDERAL FIREARMS LAWS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1481&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1564",
+          "title": "TO MODIFY MOTOR VEHICLE RACING FACILITY PERMITS AND TO SET CERTAIN RESTRICTIONS ON A MOTOR VEHICLE RACING FACILITY IN CERTAIN RURAL LOCATIONS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1564&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1569",
+          "title": "TO CREATE THE SECURE ROADS AND SAFE TRUCKING ACT OF 2025; TO AMEND THE LAW CONCERNING COMMERCIAL DRIVERS; TO CREATE PENALTIES FOR OFFENSES COMMITTED WHILE OPERATING A COMMERCIAL MOTOR VEHICLE; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1569&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1655",
+          "title": "TO CREATE THE OFFENSE OF HUMAN SMUGGLING; AND TO CREATE THE OFFENSE OF HARBORING ILLEGAL IMMIGRANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1655&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1678",
+          "title": "TO AMEND THE ABORTION-INDUCING DRUGS SAFETY ACT TO INCREASE THE CRIMINAL PENALTIES AND CLARIFY THE CIVIL PENALTIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1678&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1753",
+          "title": "TO AMEND THE LAW CONCERNING VOTER REGISTRATION; TO OPT-OUT OF THE NATIONAL VOTER REGISTRATION ACT OF 1993; AND TO AMEND PROVISIONS OF ARKANSAS CONSTITUTION, AMENDMENT 51, § 5.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1753&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1773",
+          "title": "TO AMEND THE LAW CONCERNING CONTRIBUTION LIMITS FOR BALLOT QUESTION COMMITTEES AND LEGISLATIVE QUESTION COMMITTEES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1773&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1883",
+          "title": "TO CREATE THE ARKANSAS FOURTH AMENDMENT PROTECTION ACT; AND TO AMEND THE LAW CONCERNING THE COLLECTION OF ELECTRONIC DATA AND METADATA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1883&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1884",
+          "title": "TO AMEND THE LAW CONCERNING THE MARKING AND COUNTING OF PAPER BALLOTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1884&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1908",
+          "title": "TO CREATE THE PROOF OF RESIDENCY FOR PUBLIC ASSISTANCE ACT; TO AMEND THE LAW REGARDING PUBLIC ASSISTANCE; AND TO REQUIRE PROOF OF RESIDENCY FOR ADULT APPLICANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1908&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1909",
+          "title": "TO CREATE THE PUBLIC SERVICES ONLY FOR CITIZENS ACT; AND TO REQUIRE VERIFICATION OF CITIZENSHIP AND RESIDENCY IN ORDER TO RECEIVE PUBLIC ASSISTANCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1909&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1914",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS MOTOR CARRIER ACT, 1955; AND TO REQUIRE AN OPERATOR OF A COMMERCIAL MOTOR VEHICLE TO HAVE ENGLISH LANGUAGE PROFICIENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1914&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1974",
+          "title": "TO PROHIBIT STATE ENTITIES FROM EMPLOYING UNAUTHORIZED ALIENS; TO ESTABLISH THE E-VERIFY REQUIREMENT ACT; AND TO REQUIRE STATE ENTITIES TO USE E-VERIFY TO CONFIRM EMPLOYMENT ELIGIBILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1974&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 948)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1005",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO CREATE THE ARKANSAS TAXPAYER BILL OF RIGHTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1005&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB117",
+          "title": "TO CREATE THE NATUROPATHIC PHYSICIAN PRACTICE ACT; TO PROVIDE FOR LICENSURE OF NATUROPATHIC PHYSICIANS IN ARKANSAS; AND TO CREATE THE ARKANSAS STATE BOARD OF NATURAL MEDICINE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB117&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB121",
+          "title": "TO AMEND THE AUTOMATIC OCCUPATIONAL LICENSURE FOR OUT-OF-STATE LICENSURE ACT; TO APPLY THE AUTOMATIC OCCUPATIONAL LICENSURE FOR OUT-OF-STATE LICENSURE ACT TO PHYSICIAN ASSISTANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB121&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 968)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB122",
+          "title": "TO AMEND THE AUTOMATIC OCCUPATIONAL LICENSURE FOR OUT-OF-STATE LICENSURE ACT; TO APPLY THE AUTOMATIC OCCUPATIONAL LICENSURE FOR OUT-OF-STATE LICENSURE ACT TO PHYSICIANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB122&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB184",
+          "title": "TO TRANSFER THE POWERS AND DUTIES OF THE ARKANSAS EDUCATIONAL TELEVISION COMMISSION AND THE STATE LIBRARY BOARD TO THE DEPARTMENT OF EDUCATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB184&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB399",
+          "title": "TO CREATE THE ANTI-ATF COMMANDEERING ACT; AND TO PROHIBIT THE PROVISION OF MATERIAL AID AND SUPPORT FOR ENFORCEMENT OF FEDERAL FIREARMS LAWS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB399&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB536",
+          "title": "TO ABOLISH AND TRANSFER THE ARKANSAS STATE LIBRARY AND THE STATE LIBRARY BOARD; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB536&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR17",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO CREATE THE ARKANSAS TAXPAYER BILL OF RIGHTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR17&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Long"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,128 @@
+{
+  "id": "c0936ba9-d863-4262-8fd1-3e08fb1013c8",
+  "name": "Cindy Crawford",
+  "generatedAt": "2026-10-26T02:44:35.228Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Sebastian"
+    },
+    {
+      "label": "Occupation",
+      "value": "CEO"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE STATE AGENCIES & REORGAN. SUBCOM"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 56 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1319",
+          "title": "TO PROVIDE AN EXEMPTION FROM STATE SALES TAX FOR DISABLED VETERANS, SPOUSES OF DISABLED VETERANS, AND SURVIVING SPOUSES OF DISABLED VETERANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1319&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1577",
+          "title": "AN ACT FOR THE DEPARTMENT OF COMMERCE - STATE INSURANCE DEPARTMENT - GRANTS FOR PERPETUAL CARE CEMETERIES APPROPRIATION FOR THE 2024-2025 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1577&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1738",
+          "title": "TO PROVIDE A SALES AND USE TAX EXEMPTION FOR DISABLED VETERANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1738&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1781",
+          "title": "TO AUTHORIZE THE LICENSURE OF CLINICS, HEALTH CENTERS, OR OTHER FACILITIES IN WHICH A PREGNANCY IS TERMINATED OR ABORTED IF CERTAIN CIRCUMSTANCES ARE MET.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1781&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1090",
+          "title": "TO RECOGNIZE MARCH 29, 2025, AS VIETNAM WAR VETERANS DAY AND MARCH 2025 AS VIETNAM ERA VETERANS MONTH IN ARKANSAS IN APPRECIATION OF THE SACRIFICES AND CONTRIBUTIONS MADE BY VIETNAM WAR VETERANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1090&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR4",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO PROVIDE THAT THE ANNUAL SCHOOL ELECTION SHALL NOT BE HELD IF THE PROPOSED RATE OF TAX LEVY IS THE SAME AS LAST APPROVED AND NO OTHER MATTERS ARE TO BE DECIDED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR4&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Crawford"
+    }
+  ],
+  "removedByChecks": 0
+}

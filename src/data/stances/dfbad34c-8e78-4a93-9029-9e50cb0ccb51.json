@@ -1,0 +1,195 @@
+{
+  "id": "dfbad34c-8e78-4a93-9029-9e50cb0ccb51",
+  "name": "Karilyn Brown",
+  "generatedAt": "2026-10-26T02:44:39.584Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Technical/Expository Writer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 62 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1085",
+          "title": "TO ADOPT FEDERAL LAW CONCERNING TAX-DEFERRED TUITION SAVINGS PROGRAMS; AND TO AMEND THE INCOME TAX LIABILITY FOR ROLLOVER CONTRIBUTIONS FROM AN ARKANSAS BRIGHTER FUTURE FUND PLAN TO A ROTH INDIVIDUAL RETIREMENT ACCOUNT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1085&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 802)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1244",
+          "title": "TO AMEND THE REQUIREMENTS TO OBTAIN A CERTIFICATE OF FULL INDEPENDENT PRACTICE AUTHORITY BY A CERTIFIED NURSE PRACTITIONER OR CLINICAL NURSE SPECIALIST.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1244&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1365",
+          "title": "TO REMOVE RACIAL AND GENDER QUOTAS AND QUALIFICATIONS OF MEMBERSHIP FOR CERTAIN BOARDS, COMMITTEES, COUNCILS, AND COMMISSIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1365&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 938)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1485",
+          "title": "TO CREATE A SALES AND USE TAX EXEMPTION FOR SALES TO CERTAIN ORGANIZATIONS THAT SUPPORT VETERANS' FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1485&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1545",
+          "title": "TO AMEND THE ARKANSAS MILITARY CHILD SCHOOL TRANSITIONS ACT OF 2021.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1545&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 501)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1663",
+          "title": "TO PROHIBIT AN AWARD OF ALIMONY OR TERMINATE ALIMONY FOR A PERSON WHO HAS BEEN FOUND TO HAVE COMMITTED AN ACT OF CIVIL OR CRIMINAL DOMESTIC ABUSE WHEN THE VICTIM WOULD BE THE PAYOR OF ALIMONY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1663&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1664",
+          "title": "TO AMEND \"QUINCY'S LAW\" CONCERNING PHYSICAL EXAMS AND OTHER TESTING IN AN INVESTIGATION INVOLVING ALLEGED ABUSE UNDER THE CHILD MALTREATMENT ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1664&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1967",
+          "title": "TO AMEND THE LAW CONCERNING THE UNLAWFUL DISTRIBUTION OF SEXUAL IMAGES OR RECORDINGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1967&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 981)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1009",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO BE KNOWN AS THE ARKANSAS VICTIMS' BILL OF RIGHTS; AND TO PROVIDE RIGHTS FOR VICTIMS OF MISDEMEANOR AND FELONY OFFENSES, INCLUDING VICTIMS IN THE ADULT AND JUVENILE JUSTICE SYSTEMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1009&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1020",
+          "title": "A CONSTITUTIONAL AMENDMENT TO BE KNOWN AS THE VICTIM’S BILL OF RIGHTS; AND TO PROVIDE RIGHTS FOR VICTIMS OF VIOLENT AND SEXUAL CRIMINAL OFFENSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1020&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB168",
+          "title": "TO ESTABLISH A STATE EXAMINATION FOR LICENSURE OF MASSAGE THERAPISTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB168&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB422",
+          "title": "TO ALLOW NONPROFIT ORGANIZATIONS TO CONTRIBUTE TO A NEW OR EXISTING ARKANSAS BRIGHTER FUTURE FUND PLAN ACCOUNT; AND TO REQUIRE THE TREASURER OF STATE TO FACILITATE CONTRIBUTIONS BY A NONPROFIT ORGANIZATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB422&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 615)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB559",
+          "title": "TO AMEND THE ARKANSAS MILITARY CHILD SCHOOL TRANSITIONS ACT OF 2021.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB559&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 729)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB591",
+          "title": "TO PROHIBIT RACE-SELECTION ABORTION IN THIS STATE; AND TO CREATE THE RACE DISCRIMINATION BY ABORTION PROHIBITION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB591&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 973)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1045",
+          "title": "TO CONGRATULATE THE CENTRAL ARKANSAS CHRISTIAN HIGH SCHOOL CHOIR FOR ITS ACHIEVEMENTS AT THE 2026 STATE CHORAL FESTIVAL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1045&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=K.+Brown"
+    }
+  ],
+  "removedByChecks": 0
+}

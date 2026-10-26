@@ -1,0 +1,281 @@
+{
+  "id": "d4c881c3-3d11-4cc4-a40d-64d3d0e11c60",
+  "name": "Keith Brooks",
+  "generatedAt": "2026-10-26T02:44:39.588Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski, Part Saline"
+    },
+    {
+      "label": "Occupation",
+      "value": "Insurance"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 43 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1312",
+          "title": "TO AMEND PUBLIC SCHOOL FUNDING AMOUNTS UNDER THE PUBLIC SCHOOL FUNDING ACT OF 2003.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1312&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 909)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1598",
+          "title": "TO REQUIRE THE DEPARTMENT OF EDUCATION TO ESTABLISH A NEW ACCOUNTABILITY SYSTEM FOR PUBLIC SCHOOLS; AND TO REMOVE PUBLIC SCHOOLS FROM SCHOOL RATINGS FOR CERTAIN SCHOOL YEARS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1598&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 474)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1633",
+          "title": "TO AMEND ELIGIBILITY REQUIREMENTS FOR PARTICIPATING IN EXTRACURRICULAR ACTIVITIES FOR CERTAIN STUDENTS WHO TRANSFER SCHOOLS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1633&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 475)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1786",
+          "title": "TO PROVIDE ELIGIBILITY FOR A TUITION BENEFIT TO SOLDIERS AND AIRMEN OF THE ARKANSAS NATIONAL GUARD ATTENDING CERTAIN PRIVATE TWO-YEAR AND FOUR-YEAR COLLEGES AND UNIVERSITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1786&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 826)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1866",
+          "title": "TO CREATE ELI'S LAW; AND TO REQUIRE EACH PUBLIC SCHOOL TO INSTALL AN AUDIO RECORDING DEVICE IN EACH LOCKER ROOM AND DRESSING ROOM ON THE PUBLIC SCHOOL CAMPUS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1866&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 908)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1964",
+          "title": "TO MOVE THE CHILD WELFARE OMBUDSMAN DIVISION AND THE JUVENILE OMBUDSMAN DIVISION TO THE DEPARTMENT OF INSPECTOR GENERAL; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1964&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 825)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1022",
+          "title": "TO WELCOME DR. BRENDAN KELLY AS PRESIDENT OF THE ARKANSAS STATE UNIVERSITY SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1022&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1065",
+          "title": "TO RECOGNIZE THE JOE T. ROBINSON HIGH SCHOOL SENATORS BOYS' SWIM TEAM AS THE 2025 CLASS 1A-4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1065&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1079",
+          "title": "TO HONOR D.J. DANIEL FOR HIS FIGHT AGAINST BRAIN CANCER AND SUPPORT NAMING HIM AN HONORARY STATE CAPITOL POLICE OFFICER, AND TO PROCLAIM MARCH 17, 2025, AS D.J. DANIEL DAY IN THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1079&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1120",
+          "title": "TO HONOR CRAIG JONES, LONGTIME CHOIR TEACHER AT HARDING ACADEMY IN SEARCY, UPON THE OCCASION OF HIS UPCOMING RETIREMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1120&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB167",
+          "title": "TO AMEND THE DATES BY WHICH CERTAIN REQUESTS TO TRANSFER PUBLIC SCHOOLS OR PUBLIC SCHOOL DISTRICTS SHALL BE SUBMITTED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB167&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 563)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB183",
+          "title": "TO AMEND THE UNIVERSAL ACT ASSESSMENT PROGRAM ACT; AND TO AMEND THE TYPES OF ASSESSMENTS PUBLIC SCHOOLS MAY PROVIDE TO STUDENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB183&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 724)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB324",
+          "title": "TO AMEND THE LAW CONCERNING THE MEMBERSHIP OF A COUNTY PLANNING BOARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB324&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 519)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB371",
+          "title": "TO ESTABLISH A STANDARDIZED SYSTEM TO AID IN THE SEARCH OF MISSING CHILDREN WHO DO NOT MEET THE CRITERIA FOR ACTIVATION OF THE ARKANSAS AMBER ALERT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB371&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 653)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB402",
+          "title": "TO PROHIBIT A PUBLIC SCHOOL DISTRICT AND AN EDUCATIONAL SERVICE COOPERATIVE FROM REQUIRING OR TAKING CERTAIN ACTIONS RELATED TO EMPLOYEE ORGANIZATIONS AND PROFESSIONAL ASSOCIATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB402&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 725)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB425",
+          "title": "TO AMEND VARIOUS PROVISIONS OF THE ARKANSAS CODE CONCERNING ENHANCED TRANSPORTATION; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB425&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 722)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB470",
+          "title": "TO REQUIRE AN ADULT APPROVED TO OVERSEE THE ADMINISTRATION OF A STATEWIDE STUDENT ASSESSMENT TO CERTAIN STUDENTS IN A VIRTUAL SETTING TO MEET CERTAIN REQUIREMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB470&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 646)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB507",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO COVER APPLIED BEHAVIOR ANALYSIS SERVICES FOR CERTAIN BENEFICIARIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB507&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB525",
+          "title": "TO AMEND THE LAW CONCERNING INCORPORATION AND ORGANIZATION OF MUNICIPALITIES; AND TO TRANSFER INCORPORATION DUTIES TO THE SECRETARY OF STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB525&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB604",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE REGARDING THE COURSE CHOICE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB604&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 730)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB625",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE CONCERNING THE ARKANSAS CHILDREN'S EDUCATIONAL FREEDOM ACCOUNT PROGRAM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB625&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 920)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB89",
+          "title": "TO AMEND THE INFORMATION THAT A SCHOOL DISTRICT SHALL PROVIDE ELECTRONICALLY WITH RESPECT TO ITS SCHOOL DISTRICT BOARD OF DIRECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB89&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 120)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB90",
+          "title": "TO REQUIRE MEMBERS OF THE PUBLIC TO BE AFFORDED THE OPPORTUNITY TO PRESENT PUBLIC COMMENT AT EACH MEETING OF A SCHOOL DISTRICT BOARD OF DIRECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB90&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 902)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1050",
+          "title": "TO RECOGNIZE THE JOE T. ROBINSON HIGH SCHOOL SENATORS AS THE 2025 CLASS 5A FOOTBALL STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1050&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1051",
+          "title": "TO RECOGNIZE THE JOE T. ROBINSON HIGH SCHOOL SENATORS BOYS' SWIM AND DIVE TEAM AS THE 2026 CLASS 1A-4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1051&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Brooks"
+    }
+  ],
+  "removedByChecks": 0
+}

@@ -1,0 +1,156 @@
+{
+  "id": "41f3a186-d3b7-4b46-b3dc-2da6f89c902e",
+  "name": "Marcus Richmond",
+  "generatedAt": "2026-10-26T02:44:40.357Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Scott, Part Sebastian, Part Yell"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired/Cattle Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "Yes"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 4th District Asst. Speaker Pro Tempore 2017; House Majority Leader 2018; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE PARKS & TOURISM SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 50 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1399",
+          "title": "TO AMEND THE LAW CONCERNING THE ISSUANCE OF DONATION DEEDS AND HOMESTEAD DONATION DEEDS BY THE COMMISSIONER OF STATE LANDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1399&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 216)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1400",
+          "title": "TO AMEND THE LAW CONCERNING THE REDEMPTION OF A TAX-DELINQUENT PARCEL; AND TO EXEMPT DISABLED VETERANS FROM CERTAIN PENALTIES WHEN REDEEMING A TAX-DELINQUENT PARCEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1400&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 259)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1516",
+          "title": "TO AMEND VARIOUS LAWS CONCERNING THE DEPARTMENT OF AGRICULTURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1516&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 326)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1036",
+          "title": "TO RECOGNIZE ARKANSAS ACTOR JACOB LOFLAND FOR HIS ACHIEVEMENTS IN THE FIELD OF ACTING, WHICH HAVE BROUGHT RENOWN TO HIM AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1036&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB298",
+          "title": "TO REPEAL THE LAW CONCERNING THE SETTING ASIDE OF A DECREE TO QUIET TITLE TO LAND TO ALLOW FOR FINALITY IN QUIET TITLE ACTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB298&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 320)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1016",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO CREATE THE ARKANSAS PROPERTY RIGHTS PROTECTION FROM SHARIA LAW ACT AND TO REGULATE CERTAIN RESIDENTIAL PROPERTY INTERESTS CONTROLLED BY CERTAIN ENTITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1016&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1025",
+          "title": "TO RECOGNIZE THE MANSFIELD HIGH SCHOOL LADY TIGERS VOLLEYBALL TEAM AS THE 2025 CLASS 3A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1025&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1026",
+          "title": "TO RECOGNIZE THE MANSFIELD HIGH SCHOOL TIGERS AS THE 2025 CLASS 3A FOOTBALL STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1026&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1042",
+          "title": "TO RECOGNIZE THE MANSFIELD HIGH SCHOOL LADY TIGERS VOLLEYBALL TEAM AS THE 2025 CLASS 3A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1042&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Richmond"
+    }
+  ],
+  "removedByChecks": 0
+}

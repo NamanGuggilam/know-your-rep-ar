@@ -1,0 +1,289 @@
+{
+  "id": "8b64758a-b71a-4bb4-ad5d-d4ea812ebf58",
+  "name": "Stephen Meeks",
+  "generatedAt": "2026-10-26T02:44:43.776Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Cleburne, Part Faulkner, Part Van Buren"
+    },
+    {
+      "label": "Occupation",
+      "value": "Computer Technician"
+    },
+    {
+      "label": "Veteran",
+      "value": "Yes"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2011; 2013; 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE ELECTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 25 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1069",
+          "title": "TO OBSERVE STANDARD TIME YEAR ROUND IN ARKANSAS; AND TO ELIMINATE DAYLIGHT SAVING TIME IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1069&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1197",
+          "title": "TO PROHIBIT SCHEDULING, HOSTING, OR REQUIRING AN OUTDOOR PRACTICE, SCRIMMAGE, GAME, OR ACTIVITY FOR AN EXTRACURRICULAR ACTIVITY DURING THE HOURS WHEN AN EXCESSIVE HEAT WARNING HAS BEEN DECLARED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1197&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1441",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS COORDINATE SYSTEM OF 1983.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1441&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 214)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1453",
+          "title": "TO AMEND THE HORIZONTAL PROPERTY ACT; AND TO REGULATE PROPERTY OWNERS' ASSOCIATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1453&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1504",
+          "title": "TO CREATE THE OFFENSE OF MANUFACTURING, MODIFYING, SELLING, TRANSFERRING, OR OPERATING A ROBOTIC DEVICE OR AN UNCREWED AIRCRAFT THAT IS EQUIPPED OR MOUNTED WITH A WEAPON.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1504&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1518",
+          "title": "TO CREATE THE OFFENSE OF CREATING, DISTRIBUTING, POSSESSING, OR VIEWING ARTIFICIAL INTELLIGENCE-GENERATED MATTER DEPICTING SEXUALLY EXPLICIT CONDUCT INVOLVING A CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1518&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1529",
+          "title": "TO CREATE THE CRIMINAL OFFENSE OF UNLAWFUL CREATION OR DISTRIBUTION OF DEEPFAKE VISUAL MATERIAL; AND TO ESTABLISH A CAUSE OF ACTION FOR UNLAWFUL CREATION OF DEEPFAKE VISUAL MATERIAL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1529&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 827)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1548",
+          "title": "TO AMEND THE LAW CONCERNING THE DIVISION OF INFORMATION SYSTEMS; AND TO ABOLISH THE DATA AND TRANSPARENCY PANEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1548&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 375)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1647",
+          "title": "TO AMEND THE LAW CONCERNING THE DIVISION OF INFORMATION SYSTEMS; TO CHANGE THE NAME OF THE DIVISION OF INFORMATION SYSTEMS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1647&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 412)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1648",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL FIRE DEPARTMENTS; TO ALLOW A MEMBER OF A MUNICIPAL FIRE DEPARTMENT BOMB SQUAD TO MAKE ARRESTS UNDER CERTAIN CIRCUMSTANCES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1648&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1659",
+          "title": "TO AMEND THE UNIFORM COMMERCIAL CODE; AND TO CLARIFY THE PRIORITY AMONG SECURITY INTERESTS AND ENTITLEMENT HOLDERS UNDER THE UNIFORM COMMERCIAL CODE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1659&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1660",
+          "title": "TO AMEND THE HORIZONTAL PROPERTY ACT; TO REGULATE PROPERTY OWNERS ASSOCIATIONS; AND TO REQUIRE AN AUDIT FOR CERTAIN PROPERTY OWNERS ASSOCIATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1660&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1666",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS SELF-FUNDED CYBER RESPONSE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1666&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 656)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1846",
+          "title": "TO CREATE THE ARKANSAS 2036 COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1846&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 946)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1877",
+          "title": "CONCERNING CRIMINAL OFFENSES RELATED TO POSSESSION OF SEXUALLY EXPLICIT MATERIAL THAT DEPICTS A CHILD; AND TO INCLUDE A COMPUTER GENERATED IMAGE THAT IS INDISTINGUISHABLE FROM THE IMAGE OF A CHILD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1877&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 977)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1955",
+          "title": "TO REPEAL THE SHIELDED OUTDOOR LIGHTING ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1955&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1956",
+          "title": "TO CREATE THE ARKANSAS NIGHTTIME ENVIRONMENT PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1956&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1957",
+          "title": "TO AMEND THE UNSOLICITED COMMERCIAL AND SEXUALLY EXPLICIT ELECTRONIC MAIL PREVENTION ACT TO INCLUDE UNSOLICITED COMMERCIAL AND SEXUALLY EXPLICIT TEXT MESSAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1957&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 847)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1958",
+          "title": "TO REQUIRE PUBLIC ENTITIES TO CREATE A POLICY CONCERNING THE AUTHORIZED USE OF ARTIFICIAL INTELLIGENCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1958&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 848)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1008",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION CONCERNING THE TAXATION OF PERSONAL PROPERTY AND REAL PROPERTY IN THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1008&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1011",
+          "title": "A CONSTITUTIONAL AMENDMENT CONCERNING THE CONSIDERATION OF BILLS OTHER THAN APPROPRIATION BILLS DURING A FISCAL SESSION OF THE GENERAL ASSEMBLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1011&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1019",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO REMOVE REFERENCES TO GREYHOUND RACING FROM ARKANSAS CONSTITUTION, AMENDMENT 100.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1019&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1007",
+          "title": "TO AMEND THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH GENERAL ASSEMBLY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1007&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1012",
+          "title": "TO AMEND THE RULES OF THE HOUSE OF REPRESENTATIVES OF THE NINETY-FIFTH GENERAL ASSEMBLY; TO REQUIRE THAT A MEMBER OF THE HOUSE OF REPRESENTATIVES BE SELECTED AS A DESIGNATED SURVIVOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1012&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB258",
+          "title": "TO CREATE THE ARKANSAS DIGITAL RESPONSIBILITY, SAFETY, AND TRUST ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB258&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB278",
+          "title": "TO REPEAL THE STATUTES CONCERNING THE OCCUPATIONAL AUTHORIZATION AND LICENSURE OF CERTAIN EMPLOYMENT OFFICES AND AGENCIES; AND TO REPEAL THE ARKANSAS PRIVATE EMPLOYMENT AGENCY ACT OF 1975.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB278&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 438)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB547",
+          "title": "TO REPEAL THE REQUIREMENT THAT A HOMESCHOOLED STUDENT LIVE WITHIN A CERTAIN RADIUS OF A PRIVATE SCHOOL FOR PURPOSES OF PARTICIPATING IN AN EXTRACURRICULAR ACTIVITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB547&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 728)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=S.+Meeks"
+    }
+  ],
+  "removedByChecks": 0
+}

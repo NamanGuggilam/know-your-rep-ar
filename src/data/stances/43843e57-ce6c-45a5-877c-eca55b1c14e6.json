@@ -1,0 +1,117 @@
+{
+  "id": "43843e57-ce6c-45a5-877c-eca55b1c14e6",
+  "name": "James Eaton",
+  "generatedAt": "2026-10-26T02:44:37.160Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Carroll, Part Franklin, Madison"
+    },
+    {
+      "label": "Occupation",
+      "value": "Insurance Agent, Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAXATION- HOUSE COMPLAINTS AND REMEDIATION SUBCOM."
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 40 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB370",
+          "title": "TO TRANSFER THE ARKANSAS WINE PRODUCERS COUNCIL FROM THE DEPARTMENT OF COMMERCE TO THE DEPARTMENT OF PARKS, HERITAGE, AND TOURISM; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB370&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 462)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB494",
+          "title": "TO REDUCE THE NUMBER AND TYPES OF PERMITS ISSUED BY ARKANSAS TOBACCO CONTROL; AND TO CONSOLIDATE SEVERAL PERMITS INTO A SINGLE PERMIT UNDER THE ARKANSAS TOBACCO PRODUCTS TAX ACT OF 1977.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB494&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 717)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB495",
+          "title": "TO AMEND DEFINITIONS USED UNDER THE ARKANSAS TOBACCO PRODUCTS TAX ACT OF 1977; AND TO AMEND THE DEFINITION OF \"INVOICE\" AND THE DEFINITION OF \"INVOICE PRICE\" USED UNDER THE ARKANSAS TOBACCO PRODUCTS TAX ACT OF 1977.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB495&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 718)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB502",
+          "title": "TO AMEND THE ARKANSAS INCOME TAX WITHHOLDING ACT OF 1965; AND TO REQUIRE THE ELECTRONIC FILING OF A FORM 1099 IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB502&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB503",
+          "title": "TO REDUCE THE NUMBER OF EMPLOYEES AN EMPLOYER MUST HAVE TO BE MANDATED TO FILE AN ANNUAL INCOME TAX WITHHOLDING STATEMENT ELECTRONICALLY; AND TO REQUIRE THE ELECTRONIC FILING OF A WITHHOLDING RETURN FOR CERTAIN EMPLOYERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB503&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 616)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1007",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO PROVIDE ADDITIONAL FUNDING FOR COUNTIES USING CERTAIN STATE TAX REVENUES; AND TO CREATE THE EQUAL DISTRIBUTION COUNTY TURNBACK FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1007&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Eaton"
+    }
+  ],
+  "removedByChecks": 0
+}

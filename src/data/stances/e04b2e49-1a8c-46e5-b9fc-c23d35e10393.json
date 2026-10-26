@@ -1,0 +1,235 @@
+{
+  "id": "e04b2e49-1a8c-46e5-b9fc-c23d35e10393",
+  "name": "Lane Jean",
+  "generatedAt": "2026-10-26T02:44:39.966Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Columbia, Part Lafayette, Part Miller"
+    },
+    {
+      "label": "Occupation",
+      "value": "Timber, Real Estate, Cattle"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Mayor of Magnolia; Justice of the Peace Columbia County; First Term House 2011; 2013; 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE AGRICULTURE, FORESTRY & NATURAL RESOURCES SUBCOM."
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE SALES, USE, MISC. TAXES & EXEMPTIONS SUBCOM."
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 24 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1303",
+          "title": "TO CREATE THE SUSTAINABLE AVIATION FUEL INCENTIVE ACT; AND TO CREATE AN INCOME TAX CREDIT RELATED TO SUSTAINABLE AVIATION FUEL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1303&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 546)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1851",
+          "title": "TO AMEND THE SALES TAX EXEMPTION FOR FOOD, FOOD INGREDIENTS, AND PREPARED FOOD SOLD IN A PUBLIC, COMMON, HIGH SCHOOL, OR COLLEGE CAFETERIA OR DINING FACILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1851&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 714)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1927",
+          "title": "TO AMEND A PROVISION OF ACTS 2025, NO. 408, CONCERNING THE EFFECTIVE DATE OF ACTS 2025, NO. 408; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1927&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 552)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1937",
+          "title": "TO AMEND THE METHOD OF VALUATION FOR MINERAL RIGHTS UNDER ARKANSAS CONSTITUTION, ARTICLE 16, § 5; AND TO CLARIFY THE METHOD OF VALUATION FOR OIL AND GAS WELL PRODUCTION EQUIPMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1937&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 821)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB327",
+          "title": "TO AMEND THE LAW CONCERNING PAYMENTS TO LOCALITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB327&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 443)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB354",
+          "title": "AN ACT FOR THE DEPARTMENT OF CORRECTIONS - DIVISION OF CORRECTION DEVELOPMENT AND ENHANCEMENT CAPITAL IMPROVEMENT APPROPRIATION",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB354&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB395",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING STATEMENTS OF FINANCIAL INTEREST; AND AMENDING A PORTION OF ARKANSAS LAW RESULTING FROM INITIATED ACT 1 OF 1988.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB395&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB568",
+          "title": "TO AMEND THE LAW CONCERNING THE TAXES APPLICABLE TO LITHIUM EXTRACTION AND DEVELOPMENT; TO PROVIDE A SALES AND USE TAX EXEMPTION FOR LITHIUM RESOURCE DEVELOPMENT; AND TO AMEND THE LAW CONCERNING THE SEVERANCE TAX ON LITHIUM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB568&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1012)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB573",
+          "title": "TO AMEND THE METHOD OF VALUATION UNDER ARKANSAS CONSTITUTION, ARTICLE 16, § 5, BY DEFINING THE TERMS USED IN THE ESTABLISHED METHODS OF VALUATION FOR PURPOSES OF PROPERTY TAX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB573&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 783)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB633",
+          "title": "TO PROVIDE FUNDING FOR THE CORRECTIONAL FACILITIES SET-ASIDE; TO PROVIDE FOR THE TRANSFER OF FUNDS FROM THE SECURITIES RESERVE FUND; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB633&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB636",
+          "title": "AN ACT TO TRANSFER FUNDS; DEFINE THE MONIES TO BE AVAILABLE IN THE RESTRICTED RESERVE FUND; AND ALLOW ADDITIONAL FUNDS TO BE MADE AVAILABLE FOR STATE DEPARTMENTS, AGENCIES AND INSTITUTIONS; AND TO DECLARE AND EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB636&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1017)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB637",
+          "title": "TO AMEND THE REVENUE STABILIZATION LAW; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB637&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1018)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB79",
+          "title": "TO AMEND THE LAW CONCERNING THE ARKANSAS PUBLIC EMPLOYEES' RETIREMENT SYSTEM AND THE STATE POLICE RETIREMENT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB79&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1100",
+          "title": "TO AMEND THE REVENUE STABILIZATION LAW; TO CREATE FUNDS; TO MAKE TRANSFERS TO AND FROM FUNDS AND FUND ACCOUNTS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1100&ddBienniumSession=2025%2F2026F",
+          "status": "Became law (Act 143)",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1004",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE REVENUE STABILIZATION LAW, TO CREATE FUNDS, AND TO MAKE TRANSFERS TO AND FROM FUNDS AND FUND ACCOUNTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1004&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1005",
+          "title": "AUTHORIZING THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE REVENUE STABILIZATION LAW, TO CREATE FUNDS, AND TO MAKE TRANSFERS TO AND FROM FUNDS AND FUND ACCOUNTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1005&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Jean"
+    }
+  ],
+  "removedByChecks": 0
+}

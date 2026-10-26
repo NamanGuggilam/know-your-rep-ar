@@ -3,7 +3,7 @@
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import { useEffect } from "react";
-import { CircleMarker, GeoJSON, MapContainer, TileLayer, useMap } from "react-leaflet";
+import { GeoJSON, MapContainer, TileLayer, useMap } from "react-leaflet";
 import type { DistrictShape } from "@/lib/types";
 
 function FitBounds({ shape }: { shape: DistrictShape }) {
@@ -15,17 +15,14 @@ function FitBounds({ shape }: { shape: DistrictShape }) {
   return null;
 }
 
-export default function DistrictMapInner({
-  shape,
-  point,
-}: {
-  shape: DistrictShape;
-  point: { lat: number; lon: number };
-}) {
+// Center of Arkansas, used until the district outline loads.
+const ARKANSAS: [number, number] = [34.8, -92.2];
+
+export default function DistrictMapInner({ shape }: { shape: DistrictShape }) {
   return (
     <MapContainer
-      center={[point.lat, point.lon]}
-      zoom={9}
+      center={ARKANSAS}
+      zoom={7}
       scrollWheelZoom={false}
       className="h-80 w-full rounded-xl"
       attributionControl
@@ -39,11 +36,6 @@ export default function DistrictMapInner({
         key={shape.label}
         data={shape.geojson}
         style={{ color: "#1f5e45", weight: 3, fillColor: "#1f5e45", fillOpacity: 0.12 }}
-      />
-      <CircleMarker
-        center={[point.lat, point.lon]}
-        radius={8}
-        pathOptions={{ color: "#1c262b", weight: 3, fillColor: "#ffffff", fillOpacity: 1 }}
       />
       <FitBounds shape={shape} />
     </MapContainer>

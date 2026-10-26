@@ -1,0 +1,127 @@
+{
+  "id": "1bf7a3a7-5871-4777-af71-dbdfd358e41b",
+  "name": "Mike Holcomb",
+  "generatedAt": "2026-10-26T02:44:41.338Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Cleveland, Part Drew, Part Jefferson, Part Lincoln"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired Educator/Retired County Judge"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "County Judge, Quorum Court, Former Police Officer, Former Deputy Sheriff; First Term House 2013; 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE MOTOR VEHICLE & HIGHWAYS SUBCOM."
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE PUBLIC TRANSPORTATION AND RAIL SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE WATERWAYS & AERONAUTICS SUBCOM."
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1834",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE LICENSING AND REGULATION OF MOTOR VEHICLES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1834&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 816)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1845",
+          "title": "TO ALLOW THE ELECTRONIC ADMINISTRATION OF DOCUMENTS RELATED TO THE OWNERSHIP OF MOTOR VEHICLES; TO AUTHORIZE ELECTRONIC LIEN, TITLING, AND REGISTRATION SYSTEMS; AND TO AUTHORIZE THE CREATION OF A SECURE DIGITAL TITLE SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1845&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 926)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB411",
+          "title": "TO AMEND THE LAW CONCERNING THE HEIGHT OF VEHICLES; AND TO CREATE AN OFFENSE FOR THE OPERATION OF A VEHICLE WITH A MODIFIED BUMPER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB411&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 492)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB562",
+          "title": "TO AMEND THE LAW CONCERNING THE OFFICE OF INTERNAL AUDIT; AND TO REPEAL THE REQUIREMENT FOR AN ANNUAL PROJECT REVIEW AND EFFICIENCY STUDY OF THE ARKANSAS DEPARTMENT OF TRANSPORTATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB562&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 704)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Holcomb"
+    }
+  ],
+  "removedByChecks": 0
+}

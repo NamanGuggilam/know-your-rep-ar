@@ -1,0 +1,180 @@
+{
+  "id": "18f06e22-dd2c-4247-81c8-a40938de3ea1",
+  "name": "Tara Shephard",
+  "generatedAt": "2026-10-26T02:44:44.307Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE WATERWAYS & AERONAUTICS SUBCOM."
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 26 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1030",
+          "title": "TO REQUIRE A SCHOOL RESOURCE OFFICER OR LAW ENFORCEMENT PERSONNEL TO OBTAIN CERTIFICATION IN YOUTH MENTAL HEALTH FIRST AID; AND TO REQUIRE A SCHOOL COUNSELOR TO RECEIVE YOUTH MENTAL HEALTH FIRST AID TRAINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1030&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1755",
+          "title": "TO REQUIRE EACH PUBLIC SCHOOL TO PARTICIPATE IN THE ARKANSAS PREVENTION NEEDS ASSESSMENT SURVEY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1755&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1005",
+          "title": "TO HONOR THE ARKANSAS MINORITY HEALTH COMMISSION DURING AMERICAN HEART MONTH IN FEBRUARY FOR ITS EFFORTS TO ADDRESS HEART DISEASE AMONG THE MINORITY POPULATIONS OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1005&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1010",
+          "title": "REQUESTING A STUDY OF WAYS TO IMPROVE THE STATE'S JUVENILE JUSTICE SYSTEM FOR YOUTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1010&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1016",
+          "title": "TO RECOGNIZE FEBRUARY 10, 2025, AS KIDS COUNT DAY AT THE STATE CAPITOL, AND TO RECOGNIZE THE ARKANSAS KIDS COUNT COALITION FOR ITS ADVOCACY ON BEHALF OF THE CHILDREN OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1016&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1020",
+          "title": "TO RECOGNIZE MONDAY, FEBRUARY 3, 2025, AS THE LINKS LEGISLATIVE DAY AT THE STATE CAPITOL, AND TO RECOGNIZE THE LINKS, INCORPORATED FOR ITS SERVICE AND CONTRIBUTIONS TO ITS CHAPTER COMMUNITIES AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1020&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1033",
+          "title": "TO RECOGNIZE THE ARKANSAS MILITARY AND FIRST RESPONDERS ACADEMY DURING CAREER AND TECHNICAL EDUCATION MONTH FOR PREPARING STUDENTS FOR CAREERS IN THE MILITARY AND AS FIRST RESPONDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1033&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1041",
+          "title": "TO HONOR DELTA SIGMA THETA SORORITY, INC., FOR ITS ROLE IN THE 1913 WOMAN SUFFRAGE PROCESSION AND THE CENTENNIAL CELEBRATION MARCH, AND ITS ADVOCACY FOR THE ADVANCEMENT OF WOMEN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1041&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1057",
+          "title": "TO RECOGNIZE THE AMERICAN ASSOCIATION OF UNIVERSITY WOMEN, CENTRAL ARKANSAS BRANCH, FOR ADVANCING GENDER EQUITY FOR WOMEN AND GIRLS THROUGH RESEARCH, EDUCATION, AND ADVOCACY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1057&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB17",
+          "title": "TO CREATE LUX'S LAW; TO PROHIBIT THE SALE OF A DEAD HUMAN BODY THAT IS INTENDED TO BE CREMATED OR BURIED; AND TO ESTABLISH PENALTIES FOR THE SALE OF A DEAD HUMAN BODY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB17&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 200)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB632",
+          "title": "TO AMEND THE FOOD, DRUG, AND COSMETIC ACT; AND TO REQUIRE WARNING LABELS FOR HAIR RELAXERS THAT CONTAIN CERTAIN CHEMICALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB632&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 964)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR3",
+          "title": "TO URGE THE ARKANSAS CONGRESSIONAL DELEGATION TO PROPOSE AN AMENDMENT TO THE FEDERAL UNEMPLOYMENT TAX ACT TO WAIVE THE \"REASONABLE ASSURANCE\" CLAUSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR3&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=T.+Shephard"
+    }
+  ],
+  "removedByChecks": 0
+}

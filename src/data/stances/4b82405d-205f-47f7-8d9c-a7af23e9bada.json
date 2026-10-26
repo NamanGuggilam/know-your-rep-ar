@@ -1,0 +1,88 @@
+{
+  "id": "4b82405d-205f-47f7-8d9c-a7af23e9bada",
+  "name": "Nick Burkes",
+  "generatedAt": "2026-10-26T02:44:41.683Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Occupation",
+      "value": "Accountant"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE LEGISLATIVE AFFAIRS"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE WATERWAYS & AERONAUTICS SUBCOM."
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 22 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB498",
+          "title": "TO AMEND THE LAW CONCERNING DISCLOSURE OF DRIVER AND VEHICLE RECORDS AND TO PROTECT DRIVER AND VEHICLE RECORDS FROM PUBLIC DISCLOSURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB498&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 581)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=N.+Burkes"
+    }
+  ],
+  "removedByChecks": 0
+}

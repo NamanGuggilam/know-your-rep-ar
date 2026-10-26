@@ -1,0 +1,110 @@
+{
+  "id": "6eae19da-9b27-462c-af4b-28615d8d2f54",
+  "name": "Steve Hollowell",
+  "generatedAt": "2026-10-26T02:44:44.023Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Cross, Part Poinsett, Part St. Francis"
+    },
+    {
+      "label": "Occupation",
+      "value": "Real Estate"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Forrest City Alderman (2003-2016); First Term House 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE INSURANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 43 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB46",
+          "title": "TO REFLECT A MERGER BETWEEN THE UNIVERSITY OF ARKANSAS AND EAST ARKANSAS COMMUNITY COLLEGE BY CHANGING THE NAME OF EAST ARKANSAS COMMUNITY COLLEGE TO THE UNIVERSITY OF ARKANSAS EAST ARKANSAS COMMUNITY COLLEGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB46&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 25)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB496",
+          "title": "TO AMEND THE LAW CONCERNING PERMITS FOR SPECIAL CARGOES; AND TO AMEND THE LAW CONCERNING THE ISSUANCE OF A PERMIT FOR SPECIAL CARGO TRANSPORTED BY A FARM MACHINERY EQUIPMENT HAULER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB496&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 700)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB558",
+          "title": "TO REQUIRE THE ELECTRONIC FILING OF CERTAIN CORPORATE INCOME TAX RETURNS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB558&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB85",
+          "title": "TO PRESERVE PUBLIC PROPERTY; AND TO PRESERVE TIMBER AT THE PINE TREE RESEARCH STATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB85&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hollowell"
+    }
+  ],
+  "removedByChecks": 0
+}

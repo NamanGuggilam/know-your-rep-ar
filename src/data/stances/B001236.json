@@ -1,0 +1,309 @@
+{
+  "id": "B001236",
+  "name": "John Boozman",
+  "generatedAt": "2026-10-26T02:42:05.373Z",
+  "model": "none",
+  "facts": [],
+  "committees": [
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "role": "Chairman"
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Commodities, Derivatives, Risk Management, and Trade Subcommittee",
+      "role": "Ex Officio"
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Conservation, Forestry, Natural Resources, and Biotechnology Subcommittee",
+      "role": "Ex Officio"
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Food and Nutrition, Specialty Crops, Organics, and Research Subcommittee",
+      "role": "Ex Officio"
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Livestock, Dairy, Poultry, and Food Safety Subcommittee",
+      "role": "Ex Officio"
+    },
+    {
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Rural Development, Energy, and Credit Subcommittee",
+      "role": "Ex Officio"
+    },
+    {
+      "name": "Senate Committee on Appropriations"
+    },
+    {
+      "name": "Senate Committee on Appropriations: Department of Defense Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Appropriations: Financial Services and General Government Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Appropriations: Departments of Labor, Health and Human Services, and Education, and Related Agencies Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Appropriations: Military Construction, Veterans Affairs, and Related Agencies Subcommittee",
+      "role": "Chairman"
+    },
+    {
+      "name": "Senate Committee on Appropriations: State, Foreign Operations, and Related Programs Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Appropriations: Transportation, Housing and Urban Development, and Related Agencies Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Environment and Public Works"
+    },
+    {
+      "name": "Senate Committee on Environment and Public Works: Clean Air, Climate, and Nuclear Innovation and Safety Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Environment and Public Works: Fisheries, Water, and Wildlife Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Environment and Public Works: Transportation and Infrastructure Subcommittee"
+    },
+    {
+      "name": "Senate Committee on Rules and Administration"
+    },
+    {
+      "name": "Senate Committee on Veterans' Affairs"
+    },
+    {
+      "name": "Commission on Security and Cooperation in Europe"
+    }
+  ],
+  "ownWords": {
+    "status": "blocked",
+    "note": "This official's website blocks automated tools, so we could not read it. Visit their website to read their positions.",
+    "pages": []
+  },
+  "billsNote": "Bills and resolutions they were the main sponsor of in the 119th Congress (2025-2026).",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "S. 5588",
+          "title": "Ecological Restoration Project Permitting Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5588",
+          "status": "Read twice and referred to the Committee on Environment and Public Works.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 923",
+          "title": "A resolution expressing support for the designation of October 4 through October 10, 2026, as \"National 4-H Week\".",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/923",
+          "status": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186; text: CR S5176)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 5526",
+          "title": "Agricultural Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5526",
+          "status": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 5464",
+          "title": "VOICE for Women Veterans Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5464",
+          "status": "Read twice and referred to the Committee on Veterans' Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 830",
+          "title": "A resolution recognizing the 80th anniversary of the Fulbright Program.",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/830",
+          "status": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4425; text: CR S4436-4437)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 5180",
+          "title": "Provider Reimbursement Stability Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5180",
+          "status": "Read twice and referred to the Committee on Finance.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 5017",
+          "title": "More Paid Leave for More Americans Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5017",
+          "status": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 4624",
+          "title": "Medicare Access to Radiology Care Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4624",
+          "status": "Read twice and referred to the Committee on Finance.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 656",
+          "title": "A resolution designating the third week of March 2026 as \"National CACFP Week\".",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/656",
+          "status": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1523; text: CR S1517-1518)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 4064",
+          "title": "Digital Commodity Intermediaries Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4064",
+          "status": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 355.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 3967",
+          "title": "FLOWS Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3967",
+          "status": "Read twice and referred to the Committee on Environment and Public Works.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 3898",
+          "title": "Gerald’s Law Reauthorization Act of 2026",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3898",
+          "status": "Read twice and referred to the Committee on Veterans' Affairs.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 3755",
+          "title": "Digital Commodity Intermediaries Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3755",
+          "status": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 312.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 3572",
+          "title": "Roadway Safety Modernization Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3572",
+          "status": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 3095",
+          "title": "An original bill to require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas, and for other purposes.",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3095",
+          "status": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 259.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 3015",
+          "title": "AWRC Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3015",
+          "status": "Read twice and referred to the Committee on Environment and Public Works.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 434",
+          "title": "A resolution expressing support for the designation of October 5 through October 11, 2025, as \"National 4-H Week\".",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/434",
+          "status": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6959; text: CR S6958)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 2896",
+          "title": "STARS Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2896",
+          "status": "Read twice and referred to the Committee on Energy and Natural Resources.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 2309",
+          "title": "Veteran Burial Timeliness and Death Certificate Accountability Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2309",
+          "status": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 2439",
+          "title": "Resident Physician Shortage Reduction Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2439",
+          "status": "Read twice and referred to the Committee on Finance.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 1918",
+          "title": "Access Technology Affordability Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1918",
+          "status": "Read twice and referred to the Committee on Finance.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 225",
+          "title": "A resolution designating the week of September 14 through September 20, 2025, as \"National Truck Driver Appreciation Week\".",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/225",
+          "status": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6798-6799; text: CR 5/14/2025 S2930)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 1371",
+          "title": "S-CAP Act of 2025",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1371",
+          "status": "Read twice and referred to the Committee on Finance.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 131",
+          "title": "A resolution designating the third week of March 2025 as \"National CACFP Week\".",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/131",
+          "status": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1785; text: CR S1783)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "SRES 57",
+          "title": "An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-resolution/57",
+          "status": "Referred to the Committee on Rules and Administration. (text: CR S671)",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        },
+        {
+          "id": "S. 297",
+          "title": "PSA Screening for HIM Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/297",
+          "status": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+          "session": "119th Congress (2025-2026)",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Congress.gov (Library of Congress)",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "congress-legislators committee data",
+      "url": "https://github.com/unitedstates/congress-legislators"
+    }
+  ],
+  "removedByChecks": 0
+}

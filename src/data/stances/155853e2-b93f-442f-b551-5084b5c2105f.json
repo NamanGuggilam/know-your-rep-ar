@@ -1,0 +1,127 @@
+{
+  "id": "155853e2-b93f-442f-b551-5084b5c2105f",
+  "name": "Steven Walker",
+  "generatedAt": "2026-10-26T02:44:44.165Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Baxter, Izard, Newton, Searcy, Part Stone"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "HOUSE MANAGEMENT"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE PARKS & TOURISM SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 34 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1137",
+          "title": "AN ACT TO SEPARATE THE OFFICES OF SHERIFF AND TAX COLLECTOR IN SEARCY COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1137&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 11)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1903",
+          "title": "TO AMEND PROVISIONS OF THE ARKANSAS CODE TO PROVIDE SCHOOL DISTRICTS WITH FLEXIBILITY REGARDING ALTERNATIVE LEARNING ENVIRONMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1903&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 911)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1940",
+          "title": "TO ESTABLISH THE REQUIREMENTS FOR A PUBLIC SCHOOL DISTRICT THAT INITIATES AND MAINTAINS A FOUR-DAY SCHOOL WEEK; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1940&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1093",
+          "title": "TO RECOGNIZE THE IZARD COUNTY HIGH SCHOOL LADY COUGARS BASKETBALL TEAM AS THE 2025 CLASS 2A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1093&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB607",
+          "title": "TO ESTABLISH THE REQUIREMENTS FOR A PUBLIC SCHOOL DISTRICT THAT INITIATES AND MAINTAINS A FOUR-DAY SCHOOL WEEK; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB607&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB619",
+          "title": "CONCERNING THE FORMATION OF AN ISOLATED SCHOOL DISTRICT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB619&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 919)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Walker"
+    }
+  ],
+  "removedByChecks": 0
+}

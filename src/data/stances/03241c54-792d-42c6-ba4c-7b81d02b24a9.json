@@ -1,0 +1,197 @@
+{
+  "id": "03241c54-792d-42c6-ba4c-7b81d02b24a9",
+  "name": "Tippi McCullough",
+  "generatedAt": "2026-10-26T02:44:44.489Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Occupation",
+      "value": "Educator"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 32 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1033",
+          "title": "TO CREATE THE \"ARKANSAS RED FLAG LAW\"; AND TO CREATE AN EXTREME RISK PROTECTION ORDER AND WARRANT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1033&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1635",
+          "title": "AN ACT FOR A GRANT FOR AN ARKANSAS TEACHING VETERINARIAN HOSPITAL AT THE LITTLE ROCK ZOO FOR THE DEPARTMENT OF FINANCE AND ADMINISTRATION - DISBURSING OFFICER APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1635&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1699",
+          "title": "TO ADD FIREARM SAFETY DEVICES AND FIREARM STORAGE DEVICES TO THE SALES TAX HOLIDAY; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1699&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1965",
+          "title": "TO CREATE THE ARKANSAS HEALTHY FOOD RETAIL ACT OF 2025; AND TO PROVIDE FINANCIAL INCENTIVES FOR HEALTHY FOOD RETAILERS IN UNDERSERVED COMMUNITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1965&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 870)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1081",
+          "title": "TO HONOR SCULPTOR KEVIN KRESSE FOR CREATING THE SCULPTURE OF ARKANSAS MUSIC ICON JOHNNY CASH NOW ON DISPLAY IN THE NATIONAL STATUARY HALL COLLECTION IN THE UNITED STATES CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1081&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1082",
+          "title": "TO RECOGNIZE THE MOUNT ST. MARY ACADEMY BELLES GOLF TEAM AS THE CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1082&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1083",
+          "title": "TO RECOGNIZE THE CATHOLIC HIGH SCHOOL FOR BOYS ROCKETS GOLF TEAM AS THE CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1083&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1085",
+          "title": "TO RECOGNIZE PARALYMPIC MEDALIST OLIVIA CHAMBERS OF LITTLE ROCK FOR HER REMARKABLE GIFTS AND INCREDIBLE ACHIEVEMENTS THAT BRING RENOWN TO HER AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1085&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1022",
+          "title": "CONGRATULATING THE ROLLIN' RAZORBACKS FOR WINNING THEIR SIXTH DIVISION II NATIONAL WHEELCHAIR BASKETBALL CHAMPIONSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1022&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1035",
+          "title": "TO RECOGNIZE THE LITTLE ROCK HALL HIGH SCHOOL BOYS' BASKETBALL TEAM AS THE 2026 CLASS 4A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1035&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1044",
+          "title": "TO RECOGNIZE THE MOUNT SAINT MARY ACADEMY BELLES GOLF TEAM AS THE 2025 CLASS 6A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1044&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McCullough"
+    }
+  ],
+  "removedByChecks": 0
+}

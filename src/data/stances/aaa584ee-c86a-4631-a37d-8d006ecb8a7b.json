@@ -1,0 +1,182 @@
+{
+  "id": "aaa584ee-c86a-4631-a37d-8d006ecb8a7b",
+  "name": "Randy Torres",
+  "generatedAt": "2026-10-26T02:44:42.052Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton"
+    },
+    {
+      "label": "Occupation",
+      "value": "Market President"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE AGING SUBCOMMITTEE"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE"
+    },
+    {
+      "name": "PUBLIC TRANSPORTATION- HOUSE MOTOR VEHICLE & HIGHWAYS SUBCOM."
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 43 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1138",
+          "title": "TO AUTHORIZE CERTAIN MEDICAL PROFESSIONALS TO CERTIFY TO THE OFFICE OF MOTOR VEHICLE ELIGIBILITY FOR A SPECIAL LICENSE PLATE, CERTIFICATE, OR PARKING DECAL FOR A PERSON WITH A DISABILITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1138&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 98)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1315",
+          "title": "TO AUTHORIZE A BLOOD TYPE DESIGNATION TO BE PLACED ON A DRIVER'S LICENSE OR IDENTIFICATION CARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1315&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 147)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1599",
+          "title": "TO PROVIDE FOR CERTAIN PROPERTY TO BE EXEMPT FROM TAXATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1599&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1691",
+          "title": "TO PROVIDE FOR CERTAIN PROPERTY TO BE EXEMPT FROM TAXATION; AND TO PROVIDE THAT CERTAIN MOTOR VEHICLES USED EXCLUSIVELY FOR PUBLIC CHARITY ARE EXEMPT FROM PERSONAL PROPERTY TAX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1691&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 497)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1698",
+          "title": "TO AMEND THE LAW CONCERNING THE INCOME TAX TREATMENT OF EMPLOYER CONTRIBUTIONS FOR AN EMPLOYEE'S MEMBERSHIP IN A HEALTHCARE SHARING MINISTRY OR OTHER MEDICAL COST-SHARING PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1698&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1921",
+          "title": "TO AMEND THE CHILD WELFARE AGENCY LICENSING ACT; TO AMEND THE TRAINING AND CERTIFICATION PROCESS FOR FOSTER PARENTS; AND TO STREAMLINE THE PROCESS OF TRAINING AND CERTIFYING RELATIVES AS FOSTER PARENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1921&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 824)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1950",
+          "title": "TO PROTECT LICENSED FAMILY CHILDCARE HOMES FROM TERMINATION OF HOMEOWNERS INSURANCE COVERAGE; AND TO PROHIBIT DISCRIMINATION AGAINST LICENSED FAMILY CHILDCARE HOMES BY HOMEOWNERS INSURANCE PROVIDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1950&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1953",
+          "title": "TO PROVIDE FOR A SURCHARGE TO BE ASSESSED ON INMATE PHONE CALLS TO OFFSET THE COSTS OF SECURITY NEEDS ASSOCIATED WITH INMATE COMMUNICATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1953&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1997",
+          "title": "TO CREATE A ZONING EXEMPTION FOR CHILDCARE FAMILY HOMES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1997&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1998",
+          "title": "TO CREATE THE JAMES MCFERRON MENTAL HEALTH, WELLNESS, AND RESILIENCY ACT; AND TO IMPROVE ACCESS TO SERVICES AND TRAINING TO FIRST RESPONDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1998&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1019",
+          "title": "TO RECOGNIZE THE CITY OF SILOAM SPRINGS AS RECIPIENT IN 2024 OF A VOLUNTEER COMMUNITY OF THE YEAR AWARD THE MOST INNOVATIVE CITY AWARD, THE FLOODPLAIN COMMUNITY OF THE YEAR AWARD, AND A TRENDSETTER CITY AWARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1019&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1107",
+          "title": "TO PROCLAIM APRIL 24, 2025, AS TEACH CHILDREN TO SAVE DAY IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1107&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB303",
+          "title": "TO ALLOW A RESIDENT SCHOOL DISTRICT TO PERMIT A PRIVATE SCHOOL STUDENT TO PARTICIPATE IN AN INTERSCHOLASTIC ACTIVITY AT THE RESIDENT SCHOOL DISTRICT UNDER CERTAIN CONDITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB303&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 644)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB315",
+          "title": "TO ESTABLISH THE FARMER PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB315&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB409",
+          "title": "TO PROHIBIT DISCRIMINATION OF AGRICULTURAL PRODUCERS BY FINANCIAL SERVICES PROVIDERS; AND TO ESTABLISH THE FARMER PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB409&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 406)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Torres"
+    }
+  ],
+  "removedByChecks": 0
+}

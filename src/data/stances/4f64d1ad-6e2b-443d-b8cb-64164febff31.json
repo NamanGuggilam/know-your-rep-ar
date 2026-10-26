@@ -1,0 +1,114 @@
+{
+  "id": "4f64d1ad-6e2b-443d-b8cb-64164febff31",
+  "name": "Shad Pearce",
+  "generatedAt": "2026-10-26T02:44:43.391Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Cleburne, Part Independence, Part White"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE LEGISLATIVE AFFAIRS"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 37 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1886",
+          "title": "TO DESIGNATE THE LABRADOR RETRIEVER AS THE OFFICIAL CANINE OF THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1886&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 823)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1887",
+          "title": "TO AMEND THE LAW CONCERNING STATEWIDE CHILD ABDUCTION RESPONSE TEAMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1887&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 658)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1105",
+          "title": "TO PROCLAIM APRIL 9, 2025, AS ARKANSAS LINEWORKER APPRECIATION DAY AT THE STATE CAPITOL AND TO COMMEND THE MEN AND WOMEN WHO SERVE ARKANSAS AS UTILITY LINEWORKERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1105&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1106",
+          "title": "TO RECOGNIZE ARKANSAS STATE GAME AND FISH COMMISSION GAME WARDEN BRADY SMITH AS THE NATIONAL WILD TURKEY FEDERATION'S WILDLIFE OFFICER OF THE YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1106&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1037",
+          "title": "TO PROCLAIM APRIL 21, 2026, AS ARKANSAS LINEWORKER APPRECIATION DAY AT THE STATE CAPITOL AND TO COMMEND THE MEN AND WOMEN WHO SERVE ARKANSAS AS UTILITY LINEWORKERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1037&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Pearce"
+    }
+  ],
+  "removedByChecks": 0
+}

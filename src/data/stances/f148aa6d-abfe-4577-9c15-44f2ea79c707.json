@@ -1,0 +1,161 @@
+{
+  "id": "f148aa6d-abfe-4577-9c15-44f2ea79c707",
+  "name": "Reginald Murdock",
+  "generatedAt": "2026-10-26T02:44:42.062Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Crittenden, Part Lee, Phillips, Part St. Francis"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Represntative 2011, 2013, 2015, 2017, 2019, 2021, Senate 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CHILDREN AND YOUTH COMMITTEE - SENATE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "EDUCATION COMMITTEE - SENATE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE - SENATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 26 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SR38",
+          "title": "TO RECOGNIZE MARCH 13, 2025, AS IOTA PHI THETA FRATERNITY, INC., DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR38&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR50",
+          "title": "TO COMMEND ALPHA PHI ALPHA FRATERNITY, INC., FOR ONE HUNDRED EIGHTEEN (118) YEARS OF OUTSTANDING SERVICE AND LEADERSHIP IN ITS COMMUNITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR50&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1625",
+          "title": "TO AMEND THE LAW CONCERNING INSURANCE REQUIREMENTS FOR LICENSED HOME INSPECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1625&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 974)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1771",
+          "title": "TO AMEND THE LAW CONCERNING DISCLOSURES TO POLICYHOLDERS; AND TO REQUIRE MONTHLY REPORTING BY INSURERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1771&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 651)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1002",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO REPEAL THE EXCEPTION TO THE PROHIBITION OF SLAVERY AND INVOLUNTARY SERVITUDE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1002&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR17",
+          "title": "TO RECOGNIZE THE BARTON HIGH SCHOOL BEARS BOYS' BASKETBALL TEAM AS THE 2026 CLASS 2A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR17&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR18",
+          "title": "TO RECOGNIZE THE EARLE HIGH SCHOOL BULLDOGS BOYS' BASKETBALL TEAM AS THE 2025 AND 2026 CLASS 1A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR18&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR19",
+          "title": "TO RECOGNIZE THE EARLE HIGH SCHOOL LADY BULLDOGS GIRLS' BASKETBALL TEAM AS THE 2026 CLASS 1A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR19&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=R.+Murdock"
+    }
+  ],
+  "removedByChecks": 0
+}

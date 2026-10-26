@@ -1,0 +1,179 @@
+{
+  "id": "96dbbbb4-8a04-42bc-a553-e178d47ce838",
+  "name": "Justin Gonzales",
+  "generatedAt": "2026-10-26T02:44:39.324Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Clark, Part Garland, Part Hot Springs, Part Nevada, Pike"
+    },
+    {
+      "label": "Occupation",
+      "value": "Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 20 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1465",
+          "title": "CONCERNING DIRTBIKE USE ON PRIVATE PROPERTY; AND TO ESTABLISH THE LIABILITY OF AN OWNER OF PRIVATE PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1465&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 312)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1510",
+          "title": "TO REPEAL THE AUTHORITY FOR A MUNICIPALITY TO EXERCISE TERRITORIAL JURISDICTION OVER AN UNINCORPORATED AREA OF A COUNTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1510&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 314)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1611",
+          "title": "TO AMEND THE DEFINITION OF ANIMAL FIGHTING WITH RESPECT TO THE OFFENSE OF UNLAWFUL ANIMAL FIGHTING; AND TO CREATE THE OFFENSE OF UNLAWFUL ROOSTER FIGHTING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1611&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1701",
+          "title": "TO AMEND THE LAW CONCERNING SEWER COLLECTION AND SEWER TREATMENT PROVIDERS AND RELATED SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1701&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 925)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1754",
+          "title": "TO CREATE THE PRIVATE PROPERTY PROTECTION ACT; AND TO PROHIBIT CERTAIN PROPERTY USE RESTRICTIONS BY GOVERNMENTAL ENTITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1754&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1963",
+          "title": "TO CLARIFY THAT AN ADVANCED PRACTICE REGISTERED NURSE WHO PRESCRIBES A STIMULANT MAY SUBSTITUTE A THERAPEUTICALLY EQUIVALENT MEDICATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1963&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 963)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB238",
+          "title": "TO AMEND THE USED TIRE RECYCLING AND ACCOUNTABILITY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB238&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB260",
+          "title": "TO AMEND THE LAW CONCERNING THE COLLECTION OF COURT FINES, FEES, OR COSTS AFTER DEFAULT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB260&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 277)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB342",
+          "title": "TO AMEND THE LAW CONCERNING INJURIES TO CERTAIN ANIMALS BY DOGS TO AUTHORIZE TREBLE DAMAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB342&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 749)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB455",
+          "title": "TO ALLOW REGULATION OF HEMP PRODUCTS BY ARKANSAS TOBACCO CONTROL; AND TO AMEND THE UNIFORM CONTROLLED SUBSTANCES ACT TO REMOVE CERTAIN SUBSTANCES THAT ARE DEFINED AS HEMP PRODUCTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB455&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB518",
+          "title": "TO PROHIBIT A LOCAL GOVERNMENT FROM ENACTING REGULATIONS IN A FLOOD-PRONE AREA THAT ARE MORE RESTRICTIVE THAN THE REQUIREMENTS OF THE NATIONAL FLOOD INSURANCE PROGRAM IN CERTAIN INSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB518&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB531",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL PLANNING; AND TO ALLOW A MUNICIPALITY TO CONTRACT WITH A PROPERTY OWNER OUTSIDE THE MUNICIPAL BOUNDARY FOR MUNICIPAL SERVICES IN CERTAIN INSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB531&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Gonzales"
+    }
+  ],
+  "removedByChecks": 0
+}

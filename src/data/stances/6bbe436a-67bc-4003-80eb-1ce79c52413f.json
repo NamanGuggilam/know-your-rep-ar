@@ -1,0 +1,433 @@
+{
+  "id": "6bbe436a-67bc-4003-80eb-1ce79c52413f",
+  "name": "Blake Johnson",
+  "generatedAt": "2026-10-26T02:44:33.917Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Clay, Greene, Part Lawrence, Randolph"
+    },
+    {
+      "label": "Occupation",
+      "value": "Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Corning Alderman, Senate 2015, 2017, 2019, 2021, 2023, 2025 Majority Leader"
+    }
+  ],
+  "committees": [
+    {
+      "name": "INSURANCE & COMMERCE - SENATE"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE - SENATE"
+    },
+    {
+      "name": "SENATE EFFICIENCY"
+    },
+    {
+      "name": "SENATE ETHICS COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 37 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB150",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE AND PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM; AND TO AMEND THE POWERS AND DUTIES OF THE DIRECTOR OF THE EMPLOYEE BENEFITS DIVISION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB150&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 234)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB276",
+          "title": "TO AMEND THE LAW CONCERNING SURPLUS LINES INSURANCE; AND TO CLARIFY THAT SURPLUS LINES INSURANCE IS ACCEPTABLE COVERAGE FOR FINANCIAL RESPONSIBILITY OF MOTOR VEHICLE INSURANCE COVERAGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB276&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 345)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB290",
+          "title": "TO PROHIBIT A MORATORIUM ON THE ISSUANCE OF PERMITS IN WATERSHEDS AND OTHER BODIES OF WATER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB290&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 921)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB315",
+          "title": "TO ESTABLISH THE FARMER PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB315&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB316",
+          "title": "TO AMEND THE SALES AND USE TAX LAWS CONCERNING REBATES; AND TO REQUIRE THAT SALES AND USE TAX REBATES BE ADMINISTERED AS REFUNDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB316&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB317",
+          "title": "TO PROHIBIT AN INSTITUTION OF HIGHER EDUCATION FROM PARTICIPATING IN CERTAIN ACTIVITIES WITH A PROHIBITED FOREIGN PARTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB317&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 351)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB408",
+          "title": "TO PROVIDE AN INCOME TAX EXEMPTION FOR CERTAIN PAYMENTS BY THE UNITED STATES DEPARTMENT OF AGRICULTURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB408&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 696)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB409",
+          "title": "TO PROHIBIT DISCRIMINATION OF AGRICULTURAL PRODUCERS BY FINANCIAL SERVICES PROVIDERS; AND TO ESTABLISH THE FARMER PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB409&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 406)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB486",
+          "title": "CONCERNING SAFETY AND PRIVACY IN CERTAIN ENTITIES; AND CONCERNING THE DESIGNATION OF MULTI-OCCUPANCY RESTROOMS, CHANGING ROOMS, AND SLEEPING QUARTERS IN CERTAIN ENTITIES BASED ON AN INDIVIDUAL'S SEX.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB486&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 955)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB511",
+          "title": "TO CREATE THE CRIMINAL OFFENSE OF AUTOMATED TELLER MACHINE IMPAIRMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB511&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 757)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB512",
+          "title": "TO AMEND THE LAW CONCERNING ROBBERY AND AGGRAVATED ROBBERY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB512&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 758)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB513",
+          "title": "TO CREATE THE CRIMINAL OFFENSE OF MAIL THEFT; AND TO CREATE THE CRIMINAL OFFENSE OF THEFT OR UNAUTHORIZED REPRODUCTION OF A MAIL RECEPTACLE KEY OR LOCK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB513&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 759)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB514",
+          "title": "TO AMEND THE LAW CONCERNING THE UNLAWFUL POSSESSION OF A SKIMMER; AND TO INCREASE PENALTIES FOR THE UNLAWFUL POSSESSION OF A SKIMMER FOR REPEAT OFFENDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB514&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 760)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB529",
+          "title": "TO AMEND THE INDEPENDENT TAX APPEALS COMMISSION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB529&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 617)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB597",
+          "title": "TO CREATE THE CRIMINAL OFFENSE OF THREAT OF HARM UPON A FINANCIAL INSTITUTION EMPLOYEE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB597&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 770)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB73",
+          "title": "TO CREATE THE ACCESS TO CREDIT FOR OUR RURAL ECONOMY (ACRE) ACT; AND TO PROVIDE AN INCOME TAX DEDUCTION FOR CERTAIN AGRICULTURAL LOANS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB73&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB76",
+          "title": "TO AMEND THE LAW CONCERNING MISCELLANEOUS PROHIBITED PRACTICES UNDER THE ARKANSAS INSURANCE CODE; AND TO CLARIFY FEES COLLECTED BY CERTAIN BROKERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB76&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 23)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB84",
+          "title": "TO PROHIBIT A MORATORIUM ON THE ISSUANCE OF PERMITS IN WATERSHEDS AND OTHER BODIES OF WATER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB84&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR64",
+          "title": "TO URGE THE UNITED STATES DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT AND THE UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS TO TAKE CERTAIN ACTIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR64&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1148",
+          "title": "TO CREATE THE ARKANSAS PRIVACY ACT; AND TO ADDRESS CERTAIN IMAGES CAPTURED BY UNMANNED AIRCRAFT SYSTEMS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1148&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 597)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1177",
+          "title": "TO AMEND THE ARKANSAS FRANCHISE PRACTICES ACT; AND TO CLARIFY THE APPLICABILITY OF THE ARKANSAS FRANCHISE PRACTICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1177&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1193",
+          "title": "TO REQUIRE AN INSURER TO INCLUDE A LIENHOLDER ON PAYMENTS MADE UNDER AN INSURANCE POLICY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1193&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1194",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE PLACEMENT OF A MONUMENT ON THE STATE CAPITOL GROUNDS IN RECOGNITION AND APPRECIATION OF THE INTEGRATION OF HOXIE PUBLIC SCHOOLS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1194&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 251)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1275",
+          "title": "TO PROHIBIT PRIOR AUTHORIZATIONS FOR HEALTHCARE SERVICES PROVIDED FOR TREATMENT OF A MENTAL HEALTH CRISIS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1275&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 389)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1280",
+          "title": "TO AMEND THE LAW CONCERNING PROHIBITED CONTRACTS BY STATE AGENCIES; AND TO PROHIBIT THE USE OF PUBLIC FUNDS BY STATE AGENCIES TO PURCHASE PROMOTIONAL ITEMS MADE IN CHINA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1280&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1308",
+          "title": "CONCERNING UNFAIR PRACTICES RELATED TO RESIDENTIAL REAL ESTATE REPAIR CONTRACTS; AND TO REGULATE SOLICITING RESIDENTIAL CONTRACTORS AND TREE CONTRACTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1308&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1352",
+          "title": "TO AMEND VARIOUS LAWS CONCERNING ACTIONS RELATED TO CERTAIN FOREIGN ENTITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1352&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 937)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1381",
+          "title": "CONCERNING AN INSURER'S RIGHT TO SUBROGATION AND REIMBURSEMENT FOR MEDICAL AND HOSPITAL BENEFITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1381&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1417",
+          "title": "TO DESIGNATE THE OFFICIAL DUCK OF THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1417&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 215)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1424",
+          "title": "TO MANDATE COVERAGE FOR SEVERE OBESITY TREATMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1424&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 628)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1469",
+          "title": "TO CREATE THE BROADBAND EXPANSION AND EFFICIENCY ACT; AND TO CREATE A SALES AND USE TAX EXEMPTION FOR MACHINERY AND EQUIPMENT USED IN PRODUCING BROADBAND COMMUNICATIONS SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1469&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1489",
+          "title": "TO AMEND THE METHOD OF EXECUTION TO INCLUDE NITROGEN GAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1489&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 302)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1604",
+          "title": "TO AMEND THE LAW CONCERNING PROHIBITED CONTRACTS BY STATE AGENCIES; AND TO PROHIBIT THE USE OF PUBLIC FUNDS BY STATE AGENCIES TO PURCHASE PROMOTIONAL ITEMS MADE IN CHINA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1604&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 943)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1623",
+          "title": "TO EXEMPT H-2A VISA PROGRAM PARTICIPANTS WHO HAVE A VALID INTERNATIONAL DRIVER'S LICENSE OR PERMIT FROM THE SKILLS PORTION OF THE DRIVER'S LICENSE EXAMINATION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1623&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1662",
+          "title": "TO PROHIBIT LOBBYING FOR A COVERED FOREIGN ENTITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1662&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1680",
+          "title": "TO PREVENT A FOREIGN-PARTY-CONTROLLED BUSINESS FROM LEASING LAND; AND TO PROHIBIT A PROHIBITED FOREIGN PARTY FROM HOLDING AN INTEREST IN REAL PROPERTY OR AGRICULTURAL LAND IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1680&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 811)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1774",
+          "title": "TO AMEND THE MEMBERSHIP OF THE ARKANSAS FAIR HOUSING COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1774&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 562)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1796",
+          "title": "TO REQUIRE THE DISPLAY OF GENDER INFORMATION ON AN ARKANSAS DRIVER’S LICENSE OR IDENTIFICATION CARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1796&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 711)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1811",
+          "title": "TO AMEND PROPERTY AND CASUALTY LAW; AND TO REQUIRE REASONABLE PROOF OF PAYMENT OF A DEDUCTIBLE TO RECOUP RECOVERABLE DEPRECIATION UNDER PROPERTY AND CASUALTY LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1811&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1814",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL AUTHORITY OVER UTILITIES; AND TO REVISE THE DEFINITION OF \"PUBLIC UTILITY\" UNDER TITLE 14, CHAPTER 200.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1814&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 712)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1978",
+          "title": "TO ADD AN ADDITIONAL JUDGESHIP TO THE SEVENTEENTH DISTRICT OF THE STATE DISTRICT COURT SYSTEM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1978&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1979",
+          "title": "AN ACT TO AMEND ARKANSAS LAW TO ALLOW WARRANTLESS SEARCHES BY A LAW ENFORCEMENT OFFICER OF A PERSON PLACED ON SUSPENDED IMPOSITION OF SENTENCE; AND FOR OTHER PURPOSES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1979&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 983)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1980",
+          "title": "TO CREATE THE TECHNOLOGY AND ENERGY FOR SUSTAINABLE LOGISTICS ACT (TESLA); AND TO ADD ELECTRIC VEHICLE CHARGING STATIONS TO THE DEFINITION OF \"CRITICAL INFRASTRUCTURE\".",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1980&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR21",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO CREATE THE ARKANSAS PROPERTY RIGHTS PROTECTION FROM SHARIA LAW ACT AND TO REGULATE CERTAIN RESIDENTIAL PROPERTY INTERESTS CONTROLLED BY CERTAIN ENTITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR21&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+Johnson"
+    }
+  ],
+  "removedByChecks": 0
+}

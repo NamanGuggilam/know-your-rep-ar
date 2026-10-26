@@ -1,0 +1,219 @@
+{
+  "id": "91123b36-1cbd-4696-b6d1-b9973c9d920f",
+  "name": "Ryan Rose",
+  "generatedAt": "2026-10-26T02:44:43.085Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Crawford, Part Sebastian"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE HUMAN SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE ELECTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 50 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1309",
+          "title": "TO AMEND THE LAW CONCERNING COVERAGE OF EXAMINATIONS FOR BREAST CANCER; AND TO CLARIFY THE COST-SHARING REQUIREMENTS FOR EXAMINATIONS FOR BREAST CANCER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1309&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 268)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1456",
+          "title": "TO AMEND THE STATE KIDNEY DISEASE COMMISSION TO BE AN ADVISORY COUNCIL TO THE DEPARTMENT OF HEALTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1456&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 852)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1460",
+          "title": "TO AMEND THE LAW CONCERNING APPOINTMENTS TO CERTAIN BOARDS, COMMISSIONS, AND COUNCILS BASED ON CONGRESSIONAL DISTRICT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1460&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 324)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1607",
+          "title": "TO CREATE THE OFFICE OF OUTDOOR RECREATION WITHIN THE DEPARTMENT OF PARKS, HERITAGE, AND TOURISM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1607&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 318)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1608",
+          "title": "TO AMEND THE LAW CONCERNING THE MANAGEMENT OF PUBLIC RECORDS AND ARCHIVES; AND TO REQUIRE APPROVAL OF THE ARKANSAS STATE ARCHIVES PRIOR TO THE DESTRUCTION OF CERTAIN DOCUMENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1608&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 319)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1713",
+          "title": "TO REQUIRE BALLOT TITLES FOR INITIATED MEASURES TO BE AT OR UNDER A CERTAIN READING LEVEL; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1713&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 602)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1714",
+          "title": "TO AMEND THE DEFINITION OF PAID CANVASSER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1714&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1859",
+          "title": "TO AMEND THE LAW CONCERNING MASTECTOMIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1859&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 561)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1063",
+          "title": "TO RECOGNIZE COLLEEN NICK AND THE MORGAN NICK FOUNDATION ON THE THIRTIETH ANNIVERSARY OF THE KIDNAPPING OF MORGAN NICK.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1063&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB16",
+          "title": "TO AMEND THE LAW CONCERNING THE DISCHARGE OF A FIREARM AT A TRAIN; AND TO INCREASE THE FINE THAT MAY BE IMPOSED FOR THE DISCHARGE OF A FIREARM AT A TRAIN OR FOR THROWING OTHER OBJECTS AT A TRAIN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB16&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 27)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB178",
+          "title": "TO AMEND THE ARKANSAS HEALTHCARE DECISIONS ACT; AND TO CLARIFY THE ABILITY OF A SURROGATE TO OBTAIN RECORDS ON A PRINCIPAL'S INCOME, ASSETS, AND BANKING AND FINANCIAL RECORDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB178&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 202)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB291",
+          "title": "TO AMEND THE LAW CONCERNING COMPLAINTS OF ELECTION LAW VIOLATIONS; AND TO AMEND THE DEADLINES FOR COMPLAINTS OF ELECTION LAW VIOLATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB291&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 279)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB292",
+          "title": "TO AMEND THE LAW CONCERNING THE DATE OF AN ANNUAL SCHOOL ELECTION; TO MOVE THE ANNUAL SCHOOL ELECTION IF THE ANNUAL SCHOOL ELECTION IS SCHEDULED ON A STATE HOLIDAY IN CERTAIN INSTANCES; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB292&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 264)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB308",
+          "title": "TO AMEND THE LAW CONCERNING A WRITE-IN CANDIDATE; AND TO REMOVE REFERENCES TO A WRITE-IN CANDIDATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB308&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 284)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB428",
+          "title": "CONCERNING A CIVIL CAUSE OF ACTION FOR VICTIMS OF HUMAN TRAFFICKING; AND TO PROVIDE A STATUTE OF LIMITATION PERIOD OF TEN YEARS FOR A VICTIM OF HUMAN TRAFFICKING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB428&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 664)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB430",
+          "title": "AN ACT TO REQUIRE MANDATORY RESTITUTION TO BE AWARDED TO A VICTIM OF HUMAN TRAFFICKING; AND TO AMEND THE ARKANSAS CRIME VICTIMS REPARATIONS ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB430&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 666)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB443",
+          "title": "TO AMEND THE DUTIES OF THE STATE BOARD OF APPRAISERS, ABSTRACTERS, AND HOME INSPECTORS; TO AMEND THE LAW REGARDING LICENSURE OF ABSTRACTERS; TO AMEND THE LAW REGARDING LICENSURE OF HOME INSPECTORS; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB443&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 949)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Rose"
+    }
+  ],
+  "removedByChecks": 0
+}

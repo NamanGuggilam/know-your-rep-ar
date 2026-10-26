@@ -1,0 +1,227 @@
+{
+  "id": "7d85c10d-346f-4c4f-a4e5-470799f7b21c",
+  "name": "Les Eaves",
+  "generatedAt": "2026-10-26T02:44:40.235Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part White"
+    },
+    {
+      "label": "Occupation",
+      "value": "Manufacturing Executive"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-EXECUTIVE SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE UTILITIES SUBCOMMITTEE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE INCOME TAXES-PERSONAL & CORPORATE SUBCOM."
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 31 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1735",
+          "title": "TO AMEND THE ARKANSAS UNDERGROUND FACILITIES DAMAGE PREVENTION ACT; AND TO REVISE MEMBERSHIP IN THE ONE CALL CENTER UNDER THE ARKANSAS UNDERGROUND FACILITIES DAMAGE PREVENTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1735&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 813)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1807",
+          "title": "TO AMEND THE SALES TAX EXEMPTION FOR AIRCRAFT HELD FOR RESALE AND USED FOR RENTAL OR CHARTER; AND TO CLARIFY THE PERSONS ELIGIBLE FOR THE SALES TAX EXEMPTION FOR AIRCRAFT HELD FOR RESALE AND USED FOR RENTAL OR CHARTER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1807&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 879)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1935",
+          "title": "TO CREATE A MODERNIZATION AND AUTOMATION TAX CREDIT TO ENCOURAGE INVESTMENT BY EXISTING BUSINESSES WITHIN THE STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1935&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 882)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB150",
+          "title": "TO AMEND THE LAW CONCERNING THE STATE AND PUBLIC SCHOOL LIFE AND HEALTH INSURANCE PROGRAM; AND TO AMEND THE POWERS AND DUTIES OF THE DIRECTOR OF THE EMPLOYEE BENEFITS DIVISION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB150&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 234)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB219",
+          "title": "TO REPEAL THE SUNSET PROVISION OF THE ARKANSAS MEDICAL MARIJUANA SPECIAL PRIVILEGE TAX ACT OF 2017; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB219&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 380)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB307",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC UTILITIES; TO CREATE THE GENERATING ARKANSAS JOBS ACT OF 2025; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB307&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 373)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB351",
+          "title": "TO AMEND THE LAW CONCERNING ETHICS AND CAMPAIGN FINANCE; TO AMEND PORTIONS OF INITIATED ACT 1 OF 1990; AND TO AMEND PORTIONS OF INITIATED ACT 1 OF 1996.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB351&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 592)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB391",
+          "title": "TO CREATE THE ROBOTICS COMPETITION GRANT PROGRAM FOR ELIGIBLE ROBOTICS TEAMS IN PUBLIC OR PRIVATE SCHOOLS FOR THE PURPOSE OF ENCOURAGING STUDY IN THE FIELDS OF SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB391&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 472)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB408",
+          "title": "TO PROVIDE AN INCOME TAX EXEMPTION FOR CERTAIN PAYMENTS BY THE UNITED STATES DEPARTMENT OF AGRICULTURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB408&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 696)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB475",
+          "title": "TO ESTABLISH THE PHARMACY SERVICES ADMINISTRATIVE ORGANIZATION ACT; AND TO REGULATE PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB475&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 773)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB552",
+          "title": "TO CLARIFY THE DEFINITION OF \"PRINCIPAL OFFICE\" USED UNDER THE ARKANSAS BUSINESS CORPORATION ACT OF 1987 AND THE UNIFORM LIMITED LIABILITY COMPANY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB552&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 650)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB610",
+          "title": "TO AMEND THE GENERATING ARKANSAS JOBS ACT OF 2025; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB610&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 745)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Eaves"
+    }
+  ],
+  "removedByChecks": 0
+}

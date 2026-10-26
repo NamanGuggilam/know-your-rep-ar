@@ -1,0 +1,326 @@
+{
+  "id": "ac9a90a0-dfba-4bf0-a07d-ca2232b21a90",
+  "name": "Bryan King",
+  "generatedAt": "2026-10-26T02:44:34.934Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Boon, Carroll, Part Franklin, Part Johnson, Madison, Part Newton"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Senate 2023, 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "CHILDREN AND YOUTH COMMITTEE - SENATE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE - SENATE"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS-SENATE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 18 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB10",
+          "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO REGULATE THE IMPACT ON WATER USAGE AND THE ELECTRIC GRID BY BLOCKCHAIN NETWORKS AND DIGITAL ASSET MINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB10&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB11",
+          "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO AMEND THE UNIFORM MONEY SERVICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB11&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB12",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO AMEND ARKANSAS LAW CONCERNING COMMUNICATIONS REGARDING REDISTRICTING BY THE BOARD OF APPORTIONMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB12&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB141",
+          "title": "TO ELIMINATE FUNDING TO THE ARKANSAS CENTER FOR HEALTH IMPROVEMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB141&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB143",
+          "title": "TO AUTHORIZE THE DIVISION OF ARKANSAS STATE POLICE TO COORDINATE WITH LOCAL SHERIFFS AND THE DIVISION OF COMMUNITY CORRECTION IN CRIME REDUCTION AND PREVENTION ACTIVITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB143&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB144",
+          "title": "CONCERNING THE BACKLOG OF INMATES AWAITING TRANSFER TO THE DIVISION OF CORRECTION; TO PROVIDE FOR A DESIGNATED DIAGNOSTIC INTAKE FACILITY; AND TO CREATE COUNTY JAIL-STATE INMATE CLOSE-TO-HOME PARTNERSHIPS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB144&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB145",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE ALLOCATION OF FUNDS RESULTING FROM LITIGATION INVOLVING THE USE OF FUNDS FROM THE GENERAL IMPROVEMENT FUND OR ITS SUCCESSOR FUND OR FUND ACCOUNTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB145&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB310",
+          "title": "TO ENABLE THE COMMISSIONER OF STATE LANDS TO CONDUCT CERTAIN BUSINESS ONLINE; AND TO AMEND THE PROCEDURE THE COMMISSIONER OF STATE LANDS MUST FOLLOW IN SELLING CERTAIN PROPERTY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB310&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB410",
+          "title": "TO AMEND THE LAW CONCERNING PUBLIC OFFICERS AND EMPLOYEES; AND TO REQUIRE DISCLOSURE OF EMPLOYMENT FOR FORMER STATE EMPLOYEES AND FORMER ELECTED OFFICIALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB410&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB452",
+          "title": "CONCERNING CERTAIN CONTRACTS FOR MAINTENANCE OR RECYCLING OF WIND TURBINES UNDER CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB452&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB453",
+          "title": "TO AMEND THE LAW CONCERNING THE DEPARTMENT OF AGRICULTURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB453&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB5",
+          "title": "TO ADD THE CRIMINAL OFFENSE OF PRESCRIPTION DRUG HARM OR HOMICIDE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB5&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB566",
+          "title": "PROVIDE FOR FUNDING FOR THE EXPANSION, IMPROVEMENT, OR CONSTRUCTION OF STATE AND COUNTY CORRECTIONAL FACILITIES; AND TO ADDRESS PRISON OVERCROWDING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB566&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB581",
+          "title": "TO CREATE THE POULTRY INTEGRATORS DECEPTIVE TRADE PRACTICES AND TAXPAYER PROTECTION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB581&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB582",
+          "title": "TO ESTABLISH THE STATE ACTION POULTRY FLOCK DEPOPULATION GRANT PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB582&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB6",
+          "title": "TO CREATE THE CRIMINAL OFFENSE OF VACCINE HARM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB6&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB62",
+          "title": "TO TERMINATE THE ARKANSAS HEALTH AND OPPORTUNITY FOR ME PROGRAM; AND TO TRANSFER ALL BENEFICIARIES IN THE ARKANSAS HEALTH AND OPPORTUNITY FOR ME PROGRAM TO THE TRADITIONAL ARKANSAS MEDICAID PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB62&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR1",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO REQUIRE A VOTE OF THREE-FOURTHS OF EACH HOUSE OF THE GENERAL ASSEMBLY TO ENACT, AMEND, OR REPEAL LAWS CONCERNING ACCESS TO PUBLIC RECORDS OR ACCESS TO PUBLIC MEETINGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR1&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR10",
+          "title": "A CONSTITUTION AMENDMENT CONCERNING EFFICIENCY IN GOVERNMENT; AND TO PROVIDE FOR THE CREATION OF THE DEPARTMENT OF GOVERNMENT EFFICIENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR10&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR2",
+          "title": "A CONSTITUTIONAL AMENDMENT TO CREATE THE ARKANSAS APPORTIONMENT COMMISSION TO APPORTION DISTRICTS FOR THE HOUSE OF REPRESENTATIVES, THE SENATE, AND THE UNITED STATES HOUSE OF REPRESENTATIVES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR2&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR20",
+          "title": "A CONSTITUTIONAL AMENDMENT CONCERNING THE VOTE REQUIREMENTS FOR CONSTITUTIONAL AMENDMENTS TO BE CONSIDERED APPROVED AT THE GENERAL ELECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR20&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR21",
+          "title": "A CONSTITUTIONAL AMENDMENT CONCERNING THE VOTE REQUIREMENTS FOR INITIATED ACTS AND CONSTITUTIONAL AMENDMENTS TO BE CONSIDERED APPROVED AT THE GENERAL ELECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR21&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR3",
+          "title": "A CONSTITUTIONAL AMENDMENT CONCERNING THE MEMBERSHIP OF THE STATE HIGHWAY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR3&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR5",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO REPEAL THE OFFICE OF LIEUTENANT GOVERNOR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR5&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR6",
+          "title": "A CONSTITUTIONAL AMENDMENT TO PROVIDE THAT CERTAIN PROCEEDS FROM THE SALE OF MEDICAL MARIJUANA AND CASINO GAMING SHALL BE USED FOR CRIME REDUCTION AND PREVENTION PROGRAMS AND ASSISTANCE FOR POST-RELEASE SUPERVISION SERVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR6&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR7",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO AMEND ARKANSAS CONSTITUTION, AMENDMENT 98, CONCERNING MEDICAL MARIJUANA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR7&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR8",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO AMEND ARKANSAS CONSTITUTION, AMENDMENT 100, CONCERNING CASINO GAMING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR8&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SJR9",
+          "title": "A CONSTITUTIONAL AMENDMENT PERMITTING THE STATE OF ARKANSAS TO BE SUED AS A DEFENDANT IN STATE COURT TO ENFORCE CONSTITUTIONAL RIGHTS OR AS OTHERWISE PROVIDED BY LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SJR9&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR73",
+          "title": "REQUESTING THAT SENATOR KING BE AUTHORIZED TO PURSUE THE CONSIDERATION OF SJR 6 AS A THIRD PROPOSED CONSTITUTIONAL AMENDMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR73&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR10",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023 AND TO AMEND THE UNIFORM MONEY SERVICES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR10&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR11",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO REQUIRE A DIGITAL ASSET MINING BUSINESS TO PROVIDE NOTIFICATION BEFORE PURCHASING OR LEASING LAND OR A BUILDING OR BEGINNING CONSTRUCTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR11&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR12",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO REGULATE THE IMPACT ON WATER USAGE AND THE ELECTRICAL GRID BY BLOCKCHAIN NETWORKS AND DIGITAL ASSET MINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR12&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR16",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL CONCERNING THE ARKANSAS CHILDREN'S EDUCATIONAL FREEDOM ACCOUNT PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR16&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR6",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO PROVIDE ADDITIONAL FUNDING FOR COUNTIES USING CERTAIN STATE TAX REVENUES; AND TO CREATE THE EQUAL DISTRIBUTION COUNTY TURNBACK FUND.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR6&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR7",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE REQUIREMENTS FOR A DIGITAL ASSET MINING BUSINESS AND AMEND THE AUTHORITY OF A LOCAL GOVERNMENT WITH RESPECT TO A DIGITAL ASSET MINING BUSINESS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR7&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR8",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO REQUIRE A DIGITAL ASSET MINING BUSINESS TO PAY A FEE FOR EXTRAORDINARY ELECTRICAL ENERGY USAGE AND TO IMPLEMENT OVERSIGHT PROCEDURES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR8&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "SR9",
+          "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO PROHIBIT THE USE OF A COMPUTER MANUFACTURED BY A COVERED FOREIGN ENTITY IN DIGITAL ASSET MINING AND PROHIBIT THE USE OF CERTAIN SOFTWARE IN DIGITAL ASSET MINING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR9&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+King"
+    }
+  ],
+  "removedByChecks": 0
+}

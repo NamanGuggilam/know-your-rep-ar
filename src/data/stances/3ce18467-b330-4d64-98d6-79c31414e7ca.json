@@ -1,0 +1,166 @@
+{
+  "id": "3ce18467-b330-4d64-98d6-79c31414e7ca",
+  "name": "Johnny Rye",
+  "generatedAt": "2026-10-26T02:44:38.901Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Craighead, Part Poinsett"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired Poinsett County Assessor"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Assessor Poinsett County (1991-2016), Association of Arkansas Counties - Board (2002-2012), Association of Arkansas Counties - Legislative Committee, First Term House 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE LOCAL GOVERNMENT PERSONNEL SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-COUNTIES AND MUNICIPALITIES"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE COMPLAINTS AND REMEDIATION SUBCOM."
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 55 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1368",
+          "title": "TO AMEND THE LIST OF MUSICIANS HONORED ON ARKANSAS MUSIC APPRECIATION DAY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1368&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 203)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1556",
+          "title": "TO AMEND ARKANSAS MUSIC APPRECIATION DAY; AND TO CHANGE THE DATE ON WHICH ARKANSAS MUSIC APPRECIATION DAY IS CELEBRATED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1556&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 260)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HMR1011",
+          "title": "TO REMEMBER UNIVERSITY OF ARKANSAS AT FAYETTEVILLE AND NATIONAL BASKETBALL ASSOCIATION STAR OLIVER \"BIG O\" MILLER FOR HIS ACHIEVEMENTS AND FOR HIS CONTRIBUTIONS TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HMR1011&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1110",
+          "title": "TO RECOGNIZE WORLD WAR II VETERAN AND MEDAL OF HONOR RECIPIENT JAMES R. HENDRIX OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1110&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1111",
+          "title": "TO RECOGNIZE APRIL 7, 2025, AS THE DAY OF LOVE IN THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1111&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB273",
+          "title": "TO REQUIRE DIALYSIS CENTERS TO HAVE A BACKUP GENERATOR ON SITE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB273&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB295",
+          "title": "TO AMEND THE LAW CONCERNING APPROPRIATION FOR ELECTION EXPENSES; AND TO ALLOW COMPENSATION FOR A CERTIFIED ELECTION MONITOR AS AN ELECTION EXPENSE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB295&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 281)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB397",
+          "title": "TO PROTECT CONFIDENTIAL PERSONAL INFORMATION OF RAIL EMPLOYEES IN REPORTS INVOLVING RAILROAD FATALITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB397&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 931)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB440",
+          "title": "TO AMEND THE LAW CONCERNING EMBALMERS AND FUNERAL DIRECTORS; TO REGULATE THE USE OF ALKALINE HYDROLYSIS; AND TO REGULATE ALKALINE HYDROLYSIS FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB440&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB592",
+          "title": "TO REQUIRE A FINANCIAL INSTITUTION TO RENEW CERTAIN CERTIFICATES OF DEPOSIT AT THE HIGHEST INTEREST RATE CLOSEST TO THE TERM OF THE PREVIOUS CERTIFICATE OF DEPOSIT AND FOR THE SAME TERM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB592&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Rye"
+    }
+  ],
+  "removedByChecks": 0
+}

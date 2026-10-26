@@ -38,8 +38,8 @@ export default function PrivacyPage() {
         <ul>
           <li>Your accessibility settings (like text size), so they stay the same next time.</li>
           <li>
-            Your list of representatives, for this browser tab only, so the Back button works. It does not include your
-            address. It goes away when you close the tab, or when you press &ldquo;Look up a different address.&rdquo;
+            Your list of representatives and the outlines of your districts, for this browser tab only, so you can move
+            between pages. It does not include your address or your exact location. It goes away when you close the tab, or when you press &ldquo;Look up a different address.&rdquo;
           </li>
         </ul>
 

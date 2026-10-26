@@ -3,10 +3,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ExternalIcon, GlobeIcon, MailIcon, PhoneIcon, PinIcon } from "@/components/icons";
 import { MessageHelper } from "@/components/MessageHelper";
+import { Stances } from "@/components/Stances";
 import { RepPhoto } from "@/components/RepCard";
 import { formatUpdated, telHref } from "@/lib/format";
 import { OFFICES } from "@/lib/offices";
 import { getAllOfficials, getOfficialById } from "@/lib/officials";
+import { getStances } from "@/lib/stances";
 
 export async function generateStaticParams() {
   const all = await getAllOfficials();
@@ -22,11 +24,12 @@ export default async function RepPage({ params }: PageProps<"/rep/[id]">) {
   const o = await getOfficialById((await params).id);
   if (!o) notFound();
   const info = OFFICES[o.office];
+  const stances = await getStances(o.id);
 
   return (
     <article>
       <p className="mb-4">
-        <Link href="/">← Back to your representatives</Link>
+        <Link href="/my-reps">← Back to your representatives</Link>
       </p>
       <div className="flex flex-wrap gap-5">
         <RepPhoto src={o.photoUrl} name={o.name} size={140} />
@@ -42,7 +45,29 @@ export default async function RepPage({ params }: PageProps<"/rep/[id]">) {
         </div>
       </div>
 
-      <section aria-labelledby="contact-heading" className="mt-10">
+      <nav aria-label="On this page" className="mt-6">
+        <ul className="flex flex-wrap gap-3">
+          <li>
+            <a className="btn btn-primary" href="#stand">
+              Where they stand
+            </a>
+          </li>
+          <li>
+            <a className="btn btn-secondary" href="#contact-heading">
+              Contact
+            </a>
+          </li>
+          <li>
+            <a className="btn btn-secondary" href="#write">
+              Write a message
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <Stances data={stances} office={o.office} name={o.name} />
+
+      <section aria-labelledby="contact-heading" className="mt-12">
         <h2 id="contact-heading" className="text-2xl font-extrabold">
           How to contact {o.name}
         </h2>

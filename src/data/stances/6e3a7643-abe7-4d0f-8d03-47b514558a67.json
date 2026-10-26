@@ -1,0 +1,137 @@
+{
+  "id": "6e3a7643-abe7-4d0f-8d03-47b514558a67",
+  "name": "Lincoln Barnett",
+  "generatedAt": "2026-10-26T02:44:40.238Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Crittenden, Part St. Francis"
+    },
+    {
+      "label": "Occupation",
+      "value": "Behavioral Health, Minister/Pastor, Non-profit Regional Director"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE LEGISLATIVE AFFAIRS"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - HOUSE"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 35 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1625",
+          "title": "TO AMEND THE LAW CONCERNING INSURANCE REQUIREMENTS FOR LICENSED HOME INSPECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1625&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 974)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1627",
+          "title": "TO AMEND THE LAW CONCERNING PROPERTY TAX RELIEF; AND TO REQUIRE COUNTIES TO PROVIDE NOTICE TO TAXPAYERS CONCERNING CERTAIN PROPERTY TAX RELIEF OFFERED UNDER ARKANSAS LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1627&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 877)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1769",
+          "title": "CONCERNING LAW ENFORCEMENT OFFICER STANDARDS; AND TO REQUIRE A PSYCHOLOGICAL EVALUATION OR ASSESSMENT TO BECOME OR BE EMPLOYED AS A LAW ENFORCEMENT OFFICER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1769&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1885",
+          "title": "CONCERNING LAW ENFORCEMENT; AND TO REQUIRE A LAW ENFORCEMENT OFFICER INVOLVED IN A DEADLY USE OF FORCE INCIDENT TO BE PLACED ON TEMPORARY LEAVE AND ATTEND THERAPY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1885&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1966",
+          "title": "TO AUTHORIZE AN INCORPORATED TOWN OR A CITY OF THE SECOND CLASS TO PETITION THE STATE BOARD OF EDUCATION FOR THE ESTABLISHMENT OF A LOCAL PUBLIC ELEMENTARY SCHOOL OR SATELLITE SCHOOL UNDER CERTAIN CONDITIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1966&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 914)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1118",
+          "title": "TO RECOGNIZE AND COMMEND OMEGA PSI PHI FRATERNITY, INC., FOR OUTSTANDING SERVICE AND LEADERSHIP THROUGHOUT THE STATE OF ARKANSAS AND AROUND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1118&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Barnett"
+    }
+  ],
+  "removedByChecks": 0
+}

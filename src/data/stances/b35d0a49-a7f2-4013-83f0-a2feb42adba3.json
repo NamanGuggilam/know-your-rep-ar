@@ -1,0 +1,181 @@
+{
+  "id": "b35d0a49-a7f2-4013-83f0-a2feb42adba3",
+  "name": "Fred Love",
+  "generatedAt": "2026-10-26T02:44:36.630Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Pulaski"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Representative 2011, 2013, 2015, 2017, 2019, 2021, Senate 2023, 2025 Minority Whip"
+    }
+  ],
+  "committees": [
+    {
+      "name": "PUBLIC HEALTH - SENATE HUMAN SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    },
+    {
+      "name": "ADVANCED COMMUNICATIONS AND INFORMATION TECHNOLOGY - JOINT"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "BOYS STATE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    },
+    {
+      "name": "PUBLIC HEALTH - SENATE HEALTH SERVICES"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE - SENATE"
+    },
+    {
+      "name": "TRANSPORTATION, TECHNOLOGY & LEGISLATIVE AFFAIRS - SENATE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 25 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "SB17",
+          "title": "TO CREATE LUX'S LAW; TO PROHIBIT THE SALE OF A DEAD HUMAN BODY THAT IS INTENDED TO BE CREMATED OR BURIED; AND TO ESTABLISH PENALTIES FOR THE SALE OF A DEAD HUMAN BODY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB17&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 200)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB318",
+          "title": "TO CREATE AN INCOME TAX EXEMPTION FOR CERTAIN INDIVIDUALS BASED ON INCOME AND AGE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB318&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB632",
+          "title": "TO AMEND THE FOOD, DRUG, AND COSMETIC ACT; AND TO REQUIRE WARNING LABELS FOR HAIR RELAXERS THAT CONTAIN CERTAIN CHEMICALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB632&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 964)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR28",
+          "title": "TO RECOGNIZE AND HONOR ZETA PHI BETA SORORITY, INCORPORATED FOR ITS CONTRIBUTIONS TO ITS COMMUNITIES, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR28&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR29",
+          "title": "TO RECOGNIZE AND HONOR PHI BETA SIGMA FRATERNITY, INC., FOR ITS CONTRIBUTIONS TO ITS COMMUNITIES, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR29&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR45",
+          "title": "TO RECOGNIZE MARCH 17, 2025, AS JACK AND JILL OF AMERICA, INC., GREATER LITTLE ROCK CHAPTER DAY AT THE STATE CAPITOL.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR45&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR8",
+          "title": "TO RECOGNIZE MONDAY, FEBRUARY 3, 2025, AS THE LINKS LEGISLATIVE DAY AT THE STATE CAPITOL, AND TO RECOGNIZE THE LINKS, INCORPORATED FOR ITS SERVICE AND CONTRIBUTIONS TO ITS CHAPTER COMMUNITIES AND TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR8&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR9",
+          "title": "CELEBRATING BLACK HISTORY MONTH DURING THE MONTH OF FEBRUARY 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR9&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1158",
+          "title": "TO AMEND THE LAW CONCERNING THE ELECTION OF A DISTRIBUTION OPTION UNDER THE TEACHER DEFERRED RETIREMENT OPTION PLAN; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1158&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 226)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1711",
+          "title": "TO ALLOW A MUNICIPAL PORT AUTHORITY TO ESTABLISH A POLICE FORCE; AND TO ESTABLISH THE POWERS AND DUTIES OF A MUNICIPAL PORT AUTHORITY LAW ENFORCEMENT OFFICER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1711&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SR32",
+          "title": "TO RECOGNIZE THE PARKVIEW ARTS AND SCIENCES MAGNET HIGH SCHOOL PATRIOTS BOYS' BASKETBALL TEAM AS THE 2026 CLASS 5A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SR32&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HCMR1001",
+          "title": "IN RESPECTFUL MEMORY OF BISHOP KENNETH LYDELL ROBINSON SR. AND IN RECOGNITION OF HIS MANY CONTRIBUTIONS TO THE STATE OF ARKANSAS AND TO HIS LOCAL COMMUNITY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCMR1001&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=F.+Love"
+    }
+  ],
+  "removedByChecks": 0
+}

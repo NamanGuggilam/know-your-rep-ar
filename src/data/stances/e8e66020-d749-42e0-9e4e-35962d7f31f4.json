@@ -1,0 +1,144 @@
+{
+  "id": "e8e66020-d749-42e0-9e4e-35962d7f31f4",
+  "name": "Denise Garner",
+  "generatedAt": "2026-10-26T02:44:36.067Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Washington"
+    },
+    {
+      "label": "Occupation",
+      "value": "Retired RNP/Small Business Owner"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; House Minority Party Whip 2021; 2023; House Minority Party Whip 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE SMALL BUSINESS & ECONOMIC DEV. SUBCOM."
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "ENERGY - JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 43 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1015",
+          "title": "TO AMEND THE INDIVIDUAL INCOME TAX LAWS; AND TO CREATE AN INCOME TAX CREDIT FOR DEPENDENT CHILDREN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1015&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1019",
+          "title": "TO CREATE THE AFFORDABLE CHILDCARE ACT OF 2025; TO CREATE AN INCOME TAX CREDIT FOR EMPLOYERS WHO ASSIST EMPLOYEES WITH CHILDCARE COSTS; AND TO REPLACE THE EXISTING INCOME TAX CREDIT FOR EMPLOYER-OPERATED CHILDCARE FACILITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1019&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1021",
+          "title": "TO CREATE THE EARLY CHILDHOOD EDUCATION WORKFORCE QUALITY INCENTIVE ACT; AND TO CREATE AN INCOME TAX CREDIT FOR CERTAIN EARLY CHILDHOOD EDUCATION WORKERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1021&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1027",
+          "title": "TO CREATE THE BRIGHTER START ACT OF 2025; AND TO REQUIRE THE TREASURER OF STATE TO MAKE A ONE-TIME CONTRIBUTION TO EACH EXISTING AND FUTURE ARKANSAS BRIGHTER FUTURE FUND PLAN ACCOUNT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1027&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1029",
+          "title": "TO SET THE REIMBURSEMENT RATE IN THE ARKANSAS MEDICAID PROGRAM FOR MENTAL HEALTH SERVICES AND SERVICES RELATED TO ADDICTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1029&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1031",
+          "title": "TO CREATE THE ARKANSAS HEALTHY LIFESTYLE EDUCATION ACT OF 2025; AND TO ENSURE THE HEALTH CURRICULUM IN ARKANSAS PUBLIC SCHOOLS ADDRESSES CERTAIN HEALTH ISSUES FACING STUDENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1031&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1761",
+          "title": "TO INCREASE FISCAL RESPONSIBILITY THROUGH THE ESTABLISHMENT OF INCOME LIMITS FOR STUDENTS ELIGIBLE FOR EDUCATIONAL FREEDOM ACCOUNTS IN THE 2025-2026 SCHOOL YEAR AND THEREAFTER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1761&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1985",
+          "title": "TO CREATE THE ARKANSAS RENTER REFUND ACT; AND TO PROVIDE AN INCOME TAX CREDIT FOR CERTAIN TAXPAYERS WHO ARE RESIDENTIAL TENANTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1985&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1999",
+          "title": "TO REQUIRE THE SECRETARY OF THE DEPARTMENT OF EDUCATION TO PROVIDE INFORMATION REGARDING THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM TO CERTAIN STUDENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1999&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1051",
+          "title": "TO RECOGNIZE EATING DISORDER ACTION WEEK AS A TIME TO RAISE AWARENESS, PROMOTE EDUCATION, AND ENCOURAGE EARLY INTERVENTION AND TREATMENT FOR EATING DISORDERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1051&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=D.+Garner"
+    }
+  ],
+  "removedByChecks": 0
+}

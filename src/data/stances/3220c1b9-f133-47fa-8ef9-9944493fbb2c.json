@@ -1,0 +1,198 @@
+{
+  "id": "3220c1b9-f133-47fa-8ef9-9944493fbb2c",
+  "name": "Jon Eubanks",
+  "generatedAt": "2026-10-26T02:44:38.885Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Franklin, Part Johnson, Logan, Part Sebastian"
+    },
+    {
+      "label": "Occupation",
+      "value": "Farmer"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Paris School Board; First Term House 2011; 2013; House Speaker Pro Tempore 2015, 2017, 2019, 2021, 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE UTILITIES SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE COURTS & CIVIL LAW SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 24 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1204",
+          "title": "TO ESTABLISH RECOVERY OF DAMAGES FOR NECESSARY MEDICAL CARE, TREATMENT, OR SERVICES RENDERED.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1204&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 28)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1351",
+          "title": "TO REGULATE A VISION BENEFIT MANAGER; TO AMEND THE VISION CARE PLAN ACT OF 2015; AND TO AMEND THE HEALTHCARE CONTRACTING SIMPLIFICATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1351&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1353",
+          "title": "TO REGULATE A VISION BENEFIT MANAGER; TO AMEND THE VISION CARE PLAN ACT OF 2015; TO AMEND THE HEALTHCARE CONTRACTING SIMPLIFICATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1353&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 142)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1915",
+          "title": "TO DIRECT THE DEPARTMENT OF HUMAN SERVICES TO REQUEST A BROAD-BASED CATEGORICAL ELIGIBILITY WAIVER FOR THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM; AND TO AMEND THE ASSET LIMITS UNDER THE PROGRAM.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1915&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1983",
+          "title": "TO AMEND ACTS 1973, NO. 167, § 4, CONCERNING THE SALE OF CERTAIN PROPERTY TO THE WESTARK AREA COUNCIL, INC., BOY SCOUTS OF AMERICA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1983&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 1026)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB142",
+          "title": "TO CREATE THE BELL TO BELL, NO CELL ACT; AND TO AMEND THE REQUIREMENTS FOR PUBLIC SCHOOL DISCIPLINE POLICIES WITH REGARD TO STUDENT USE OF PERSONAL ELECTRONIC DEVICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB142&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 122)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB227",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO AMEND THE PROVISIONS OF THE FREEDOM OF INFORMATION ACT OF 1967 CONCERNING PUBLIC MEETINGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB227&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 505)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB248",
+          "title": "TO AMEND THE FREEDOM OF INFORMATION ACT OF 1967; AND TO AMEND THE PROVISIONS OF THE FREEDOM OF INFORMATION ACT OF 1967 CONCERNING PERSONNEL RECORDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB248&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB363",
+          "title": "AN ACT FOR THE DEPARTMENT OF FINANCE AND ADMINISTRATION - DISBURSING OFFICER SMITH HOSPITAL RESTORATION APPROPRIATION FOR THE 2025-2026 FISCAL YEAR.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB363&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB534",
+          "title": "TO ESTABLISH THE ARKANSAS KRATOM CONSUMER PROTECTION ACT; AND TO REMOVE MITRAGYNINE AND 7-HYDROXYMITRAGYNINE, ALSO KNOWN AS KRATOM, FROM THE CONTROLLED SUBSTANCES LIST IN ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB534&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB551",
+          "title": "TO AMEND THE LAW CONCERNING CANVASSING FOR A PETITION FOR A LOCAL OPTION ELECTION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB551&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 764)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB56",
+          "title": "CONCERNING THE EVALUATION, EXTENSION, AND REPEAL OF ADMINISTRATIVE RULES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB56&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 21)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB58",
+          "title": "TO REMOVE THE PROHIBITION ON NONPROFIT, TAX EXEMPT, OR GOVERNMENTALLY-FUNDED HOSPITALS HOLDING A LICENSED PHARMACY PERMIT FOR THE SALE AT RETAIL OF DRUGS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB58&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 52)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB611",
+          "title": "TO AMEND THE SOCIAL MEDIA SAFETY ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB611&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 900)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB612",
+          "title": "TO CREATE A PRIVATE RIGHT OF ACTION AGAINST A SOCIAL MEDIA PLATFORM THAT CAUSES HARM; AND TO IMPOSE A CIVIL PENALTY ON A SOCIAL MEDIA PLATFORM THAT KNOWINGLY AND WILLFULLY CONTRIBUTES TO A MINOR'S SUICIDE OR SUICIDE ATTEMPT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB612&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 901)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Eubanks"
+    }
+  ],
+  "removedByChecks": 0
+}

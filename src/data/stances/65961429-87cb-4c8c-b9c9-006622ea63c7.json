@@ -1,0 +1,192 @@
+{
+  "id": "65961429-87cb-4c8c-b9c9-006622ea63c7",
+  "name": "Jay Richardson",
+  "generatedAt": "2026-10-26T02:44:37.517Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Sebastian"
+    },
+    {
+      "label": "Occupation",
+      "value": "Business Development"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ARKANSAS LEGISLATIVE BLACK CAUCUS"
+    },
+    {
+      "name": "PUBLIC HEALTH- HOUSE HEALTH SERVICES SUBCOMMITTEE"
+    },
+    {
+      "name": "HOUSE MANAGEMENT"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE"
+    },
+    {
+      "name": "INSURANCE & COMMERCE- HOUSE FINANCIAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT INTERIM COMMITTEE ON LEGISLATIVE FACILITIES"
+    },
+    {
+      "name": "PUBLIC HEALTH, WELFARE AND LABOR COMMITTEE- HOUSE"
+    },
+    {
+      "name": "ALC-CHARITABLE, PENAL, AND CORRECTIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "JBC-ADMINISTRATIVE RULE REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JBC-SPECIAL LANGUAGE"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "PUBLIC RETIREMENT & SOCIAL SECURITY PROGRAMS-JOINT"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 48 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1159",
+          "title": "TO CREATE THE RETAIL CONVENIENCE STORE SECURITY ACT; AND TO REGULATE SECURITY MEASURES AT RETAIL CONVENIENCE STORES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1159&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1237",
+          "title": "TO PROHIBIT MEDICAL PROFESSIONALS FROM SOLICITING INJURED INDIVIDUALS; AND TO SET PENALTIES FOR A VIOLATION OF THE PROHIBITION OF SOLICITATION OF INJURED INDIVIDUALS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1237&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1282",
+          "title": "CONCERNING THE UNAUTHORIZED PRACTICE OF LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1282&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 110)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1405",
+          "title": "TO AMEND THE STATUTES CONCERNING PROCURERS; AND TO ADD ADDITIONAL REGULATIONS REGARDING THE USE OF A PROCURER BY A LICENSED CHIROPRACTIC PHYSICIAN.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1405&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 309)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1695",
+          "title": "TO CLARIFY THE FORECLOSURE PROCESS FOR PROPERTY SUBJECT TO A MUNICIPAL LIEN; TO ALLOW A MUNICIPALITY TO PETITION TO SET ASIDE THE SALE OF PROPERTY TO CERTAIN PERSONS; AND TO PROVIDE FOR THE PRIORITY OF UNRECORDED MUNICIPAL LIENS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1695&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HJR1002",
+          "title": "AN AMENDMENT TO THE ARKANSAS CONSTITUTION TO REPEAL THE EXCEPTION TO THE PROHIBITION OF SLAVERY AND INVOLUNTARY SERVITUDE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HJR1002&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1053",
+          "title": "TO RECOGNIZE AND HONOR ZETA PHI BETA SORORITY, INCORPORATED AND PHI BETA SIGMA FRATERNITY, INC., FOR THEIR CONTRIBUTIONS TO THEIR COMMUNITIES, THE STATE OF ARKANSAS, THE NATION, AND THE WORLD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1053&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1078",
+          "title": "TO COMMEND ALPHA PHI ALPHA FRATERNITY, INC., FOR ONE HUNDRED EIGHTEEN (118) YEARS OF OUTSTANDING SERVICE AND LEADERSHIP IN ITS COMMUNITIES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1078&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB225",
+          "title": "TO REQUIRE THE ARKANSAS MEDICAID PROGRAM TO PROVIDE A CATEGORY FOR BENEFICIARIES WITH SICKLE CELL DISEASE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB225&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR2",
+          "title": "TO AFFIRM THAT THE AMERICAN DREAM BELONGS TO ALL OF US.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR2&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SCR4",
+          "title": "TO RECOGNIZE FORMER REPRESENTATIVE AND SENATOR JOYCE ELLIOTT DURING BLACK HISTORY MONTH FOR HER SERVICE TO THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SCR4&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Richardson"
+    }
+  ],
+  "removedByChecks": 0
+}

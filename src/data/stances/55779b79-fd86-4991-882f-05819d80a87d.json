@@ -1,0 +1,88 @@
+{
+  "id": "55779b79-fd86-4991-882f-05819d80a87d",
+  "name": "Tony Furman",
+  "generatedAt": "2026-10-26T02:44:44.497Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Saline"
+    },
+    {
+      "label": "Occupation",
+      "value": "Realtor"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "AGING & LEGISLATIVE AFFAIRS- HOUSE CHILDREN & YOUTH SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW - HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "AGING, CHILDREN AND YOUTH, & LEGISLATIVE AFFAIRS- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-MEDICAID SUBCOMMITTEE"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 40 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1306",
+          "title": "CONCERNING CIVIL IMMUNITY FOR A CHURCH OR OTHER PLACE OF WORSHIP; AND TO PROVIDE CIVIL IMMUNITY FOR VOLUNTEER SECURITY PERSONNEL IN A CHURCH OR OTHER PLACE OF WORSHIP.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1306&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB642",
+          "title": "TO CREATE THE FAMILIES' RIGHTS AND RESPONSIBILITIES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB642&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Furman"
+    }
+  ],
+  "removedByChecks": 0
+}

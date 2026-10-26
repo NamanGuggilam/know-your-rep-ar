@@ -1,0 +1,162 @@
+{
+  "id": "8f012092-5f3f-4047-8047-f2520efe0fad",
+  "name": "Rebecca Burkes",
+  "generatedAt": "2026-10-26T02:44:42.001Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Benton, Part Washington"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "REVENUE & TAXATION- HOUSE COMPLAINTS AND REMEDIATION SUBCOM."
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE FINANCE SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "REVENUE & TAXATION- HOUSE"
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-GAME & FISH/STATE POLICE"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC SPECIAL LANGUAGE"
+    },
+    {
+      "name": "ALC-OCCUPATIONAL LICENSING REVIEW SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 50 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1486",
+          "title": "TO AMEND THE LAW CONCERNING THE MARKET VALUE OF CERTAIN SURPLUS PROPERTY ACQUIRED BY THE STATE HIGHWAY COMMISSION.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1486&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 210)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1565",
+          "title": "TO AMEND THE LAW CONCERNING THE DUTIES OF A COUNTY PROPERTY ASSESSOR; AND TO PERMIT A PROPERTY OWNER TO OPT OUT OF HAVING THE PROPERTY OWNER'S INFORMATION POSTED ON AN ONLINE DATABASE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1565&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1729",
+          "title": "TO AMEND THE HOMESTEAD EXEMPTION ACT; AND TO PROVIDE THAT A HOMESTEAD OWNED BY A LIMITED LIABILITY COMPANY IS ELIGIBLE FOR THE HOMESTEAD EXEMPTION IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1729&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 679)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1789",
+          "title": "TO RESTRICT A LOCAL GOVERNMENT FROM PROVIDING FUNDS FOR THE PURPOSE OF ISSUING AN IDENTIFICATION CARD TO AN INDIVIDUAL IN CERTAIN CIRCUMSTANCES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1789&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 605)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1936",
+          "title": "AN ACT TO AMEND THE LAW CONCERNING ELECTION TO CERTAIN MUNICIPAL OFFICES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1936&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB181",
+          "title": "TO AMEND THE LIBRARY LAW; TO AMEND THE REQUIREMENTS FOR THE STATE LIBRARIAN; AND TO AMEND THE REQUIREMENTS FOR REGIONAL LIBRARY SYSTEM DIRECTORS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB181&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 242)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB206",
+          "title": "TO AMEND THE RIGHT TO READ ACT; AND TO AMEND THE AMOUNT OF THE LITERACY TUTORING GRANT AWARDED UNDER THE RIGHT TO READ ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB206&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 195)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB329",
+          "title": "TO CREATE THE ONLINE MARKETPLACE GUARANTEES ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB329&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 426)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB456",
+          "title": "TO CREATE THE HOME OPPORTUNITIES MADE EASIER ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB456&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB567",
+          "title": "TO AMEND AND MODERNIZE THE LAW CONCERNING THE APPORTIONMENT OF INCOME DERIVED FROM MULTISTATE OPERATIONS; AND TO CHANGE THE METHOD FOR SOURCING OF RECEIPTS FOR SERVICES AND INTANGIBLES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB567&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 719)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=R.+Burkes"
+    }
+  ],
+  "removedByChecks": 0
+}

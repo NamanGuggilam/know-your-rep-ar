@@ -1,0 +1,187 @@
+{
+  "id": "c3be3a52-2646-4ea6-9aef-e4ff36a16762",
+  "name": "Nicole Clowney",
+  "generatedAt": "2026-10-26T02:44:41.688Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Washington"
+    },
+    {
+      "label": "Occupation",
+      "value": "Teacher"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2019; 2021; 2023; 2025; House Minority Party Whip 2026"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "JUDICIARY- HOUSE JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HOSPITAL, MEDICAID, & DEVELOPMENTAL DISABILITIES STUDY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-STATE INSURANCE PROGRAMS OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "GIRLS STATE"
+    },
+    {
+      "name": "HOUSE RULES"
+    },
+    {
+      "name": "JBC-PEER REVIEW"
+    },
+    {
+      "name": "JBC-PERSONNEL"
+    },
+    {
+      "name": "JOINT BUDGET COMMITTEE"
+    },
+    {
+      "name": "JUDICIARY COMMITTEE- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE"
+    },
+    {
+      "name": "STATE AGENCIES & GOVT'L AFFAIRS- HOUSE STATE AGENCIES & REORGAN. SUBCOM"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-LOTTERY OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 25 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1245",
+          "title": "TO CREATE THE ARKANSAS BEHAVIOR ANALYST REGISTRATION ACT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1245&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 432)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1322",
+          "title": "TO AMEND THE LAWS UNDER THE ARKANSAS LOCAL POLICE AND FIRE RETIREMENT SYSTEM CONCERNING LINE-OF-DUTY DEATH FROM OCCUPATIONAL CANCER; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1322&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 416)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1503",
+          "title": "TO AMEND THE LAW CONCERNING MUNICIPAL REGULATIONS; AND TO PROHIBIT CERTAIN RESTRICTIONS ON THE REGULATION OF ACCESSORY DWELLING UNITS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1503&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 313)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1641",
+          "title": "TO AMEND THE LAW CONCERNING HARASSMENT; AND TO INCLUDE THE USE OF A TRACKING DEVICE IN THE OFFENSE OF HARASSMENT.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1641&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 600)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1783",
+          "title": "TO AMEND THE LAW CONCERNING THE REDUCTION OF A CITY OF THE FIRST CLASS TO A CITY OF THE SECOND CLASS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1783&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 834)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1947",
+          "title": "TO AMEND THE LAW CONCERNING THE OFFENSE OF POSSESSION OF DRUG PARAPHERNALIA.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1947&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB343",
+          "title": "TO AMEND THE LAW CONCERNING STATE-OWNED MOTOR VEHICLES; TO AMEND THE LAW CONCERNING PUBLIC PROPERTY; AND TO AMEND THE AUTOMOBILE AND PICKUP TRUCK ACQUISITION ACT FOR THE STATE OF ARKANSAS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB343&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 734)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB458",
+          "title": "TO REQUIRE A COURT TO CONSIDER THE IMPACT OF FACTORS SUCH AS TRAUMA AND INVOLVEMENT WITH THE CHILD WELFARE SYSTEM ON A PERSON WHO COMMITTED A CRIME AS A MINOR DURING A TRANSFER OR SENTENCING HEARING.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB458&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 988)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB489",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING THE PLACEMENT OF A MONUMENT ON THE STATE CAPITOL GROUNDS IN RECOGNITION OF THE DESEGREGATION OF THE CHARLESTON AND FAYETTEVILLE SCHOOL DISTRICTS IN 1954.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB489&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 950)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB490",
+          "title": "TO ALLOW A COURT TO WAIVE CERTAIN FEES WHEN A JUVENILE IS ORDERED TO REGISTER AS A SEX OFFENDER.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB490&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 972)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB517",
+          "title": "TO AMEND THE LAW CONCERNING CONDUCT OF ELECTIONS; AND TO ALLOW A COUNTY BOARD OF ELECTION COMMISSIONERS TO DESIGNATE A RESTROOM FOR CAMPAIGN WORKERS AND VOLUNTEERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB517&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Clowney"
+    }
+  ],
+  "removedByChecks": 0
+}

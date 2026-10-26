@@ -1,0 +1,271 @@
+{
+  "id": "120ce349-5d8a-4fa6-902e-4fa39945d7d7",
+  "name": "Stetson Painter",
+  "generatedAt": "2026-10-26T02:44:43.819Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Baxter, Part Fulton"
+    },
+    {
+      "label": "Veteran",
+      "value": "Yes"
+    },
+    {
+      "label": "Public Service",
+      "value": "First Term House 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "ALC-REVIEW"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS- HOUSE PLANNING SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-ADMINISTRATIVE RULES"
+    },
+    {
+      "name": "ALC-HIGHWAY COMMISSION REVIEW AND ADVISORY SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-JBC PERSONNEL"
+    },
+    {
+      "name": "ALC-PEER"
+    },
+    {
+      "name": "CITY, COUNTY & LOCAL AFFAIRS COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "EDUCATION- HOUSE EARLY CHILDHOOD SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING-EDUCATIONAL INSTITUTIONS"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 52 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1006",
+          "title": "\"TO REDESIGNATE THE FOURTEENTH JUDICIAL DISTRICT AS A DIVISION A JUDICIAL DISTRICT AS IT RELATES TO PROSECUTING ATTORNEYS; AND TO DECLARE AN EMERGENCY.\"",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1006&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 15)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1276",
+          "title": "CONCERNING SPOUSAL RETIREMENT BENEFITS FOR SPOUSES OF CERTAIN MUNICIPAL EMPLOYEES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1276&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 413)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1450",
+          "title": "TO AMEND THE LAW CONCERNING REPORTS BY THE DEPARTMENT OF AGRICULTURE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1450&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 213)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1462",
+          "title": "TO AUTHORIZE AN OWNER OF A PUBLIC WATERWORKS SYSTEM TO EXPEND PUBLIC FUNDS AND TO ISSUE BONDS TO PAY FOR THE REPLACEMENT OF LEAD AND CERTAIN GALVANIZED CUSTOMER SERVICE LINES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1462&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1497",
+          "title": "TO ADD THE DEPARTMENT OF THE MILITARY TO THE LIST OF CLAIMANT AGENCIES FOR PURPOSES OF THE SETOFF AGAINST STATE TAX REFUNDS; AND TO AMEND THE DEFINITION OF \"DEBT\" FOR PURPOSES OF THE SETOFF AGAINST STATE TAX REFUNDS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1497&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 411)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1498",
+          "title": "TO AMEND THE LAW CONCERNING MILITARY-TYPE CANTEENS AND EXCHANGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1498&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 507)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1514",
+          "title": "TO AMEND THE UNIFORM ATTENDANCE AND LEAVE POLICY ACT; AND TO AMEND THE DEFINITION OF A \"CRITICAL-NEED EMPLOYEE\".",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1514&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 253)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1515",
+          "title": "TO AMEND THE LAW CONCERNING THE AUTHORITY TO ORDER THE ARKANSAS NATIONAL GUARD INTO SERVICE; AND TO AUTHORIZE THE USE OF THE ARKANSAS NATIONAL GUARD FOR MATTERS RELATED TO MILITARY JUSTICE AND TO ADDRESS STAFFING SHORTAGES.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1515&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 574)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1526",
+          "title": "TO AUTHORIZE THE DEPARTMENT OF THE MILITARY TO ENTER INTO PUBLIC-PRIVATE PARTNERSHIPS; AND TO AMEND THE LAW CONCERNING GIFTS RECEIVED BY THE DEPARTMENT OF THE MILITARY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1526&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 575)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1555",
+          "title": "TO ESTABLISH UNIFORM PROCEDURES FOR FILLING A VACANCY IN A MUNICIPAL OFFICE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1555&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 995)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1561",
+          "title": "TO ESTABLISH THE RESEARCH AND EDUCATION PROTECTION ACT OF 2025.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1561&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 473)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1638",
+          "title": "TO MODERNIZE REFERENCES TO THE UNITED STATES ARMED FORCES; AND TO AMEND ARMED FORCES AND UNIFORMED SERVICES LISTINGS TO INCLUDE THE UNITED STATES SPACE FORCE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1638&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 508)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1897",
+          "title": "TO CREATE THE ARKANSAS TOWING AND RECOVERY REFORM AND EFFICIENCY ACT OF 2025; TO AMEND THE LAW CONCERNING THE ARKANSAS TOWING AND RECOVERY BOARD; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1897&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1898",
+          "title": "TO CREATE THE REGULATORY DIVISION AND THE REGULATORY ENFORCEMENT DIVISION IN THE DEPARTMENT OF FINANCE AND ADMINISTRATION; AND TO ALLOW PERSONNEL OF THE REGULATORY ENFORCEMENT DIVISION TO BE DESIGNATED AS AGENTS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1898&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 837)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB2001",
+          "title": "TO CREATE THE ARKANSAS TOWING AND RECOVERY REFORM AND EFFICIENCY ACT OF 2025; TO AMEND THE LAW CONCERNING THE ARKANSAS TOWING AND RECOVERY BOARD; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB2001&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 932)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HCR1007",
+          "title": "TO ENCOURAGE THE UNITED STATES CONGRESS TO REEVALUATE THE MEDICARE PHYSICIAN FEE SCHEDULE LOCALITY STRUCTURE AND ENSURE ACCURATE GEOGRAPHIC PRACTICE COST INDICES FOR THE METROPOLITAN STATISTICAL AREAS OF THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HCR1007&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1014",
+          "title": "TO RECOGNIZE THE MOUNTAIN HOME TENNIS TEAM AS THE CLASS 5A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1014&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1015",
+          "title": "TO RECOGNIZE THE MOUNTAIN HOME CROSS COUNTRY TEAM AS THE CLASS 5A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1015&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1061",
+          "title": "TO RECOGNIZE THE MOUNTAIN HOME BOMBERS HIGH SCHOOL BOYS' INDOOR TRACK TEAM AS THE CLASS 5A STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1061&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB45",
+          "title": "TO AUTHORIZE THE CREATION OF THE WOMEN VETERANS SPECIAL LICENSE PLATE; AND TO REPEAL THE PEARL HARBOR SURVIVOR LICENSE PLATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB45&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 51)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB550",
+          "title": "TO CHANGE THE NAME OF THE ARKANSAS LIVESTOCK AND POULTRY COMMISSION TO THE ARKANSAS BOARD OF ANIMAL HEALTH.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB550&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 703)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1017",
+          "title": "TO RECOGNIZE AND CELEBRATE MAY 2026 AS AMYOTROPHIC LATERAL SCLEROSIS AWARENESS MONTH IN THIS STATE.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1017&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1040",
+          "title": "TO RECOGNIZE THE MOUNTAIN HOME HIGH SCHOOL BOMBERS AS THE 2025 CLASS 5A BOYS' CROSS COUNTRY STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1040&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1041",
+          "title": "TO RECOGNIZE THE MOUNTAIN HOME HIGH SCHOOL BOMBERS AS THE 2025 CLASS 5A GIRLS' CROSS COUNTRY STATE CHAMPIONS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1041&ddBienniumSession=2025%2F2026F",
+          "session": "2026 Fiscal Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Painter"
+    }
+  ],
+  "removedByChecks": 0
+}

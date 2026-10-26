@@ -1,0 +1,132 @@
+{
+  "id": "49608f14-5f53-40fc-b662-0d48a2aa1340",
+  "name": "Bruce Cozart",
+  "generatedAt": "2026-10-26T02:44:34.688Z",
+  "model": "none",
+  "facts": [
+    {
+      "label": "Counties Served",
+      "value": "Part Garland"
+    },
+    {
+      "label": "Occupation",
+      "value": "General Contractor"
+    },
+    {
+      "label": "Veteran",
+      "value": "No"
+    },
+    {
+      "label": "Public Service",
+      "value": "Lake Hamilton School Board 1991-2001; First Term House (Special Election) 2011; 2013; Assistant Speaker Pro Tempore 2015; 2017; 2019; 2021; 2023; 2025"
+    }
+  ],
+  "committees": [
+    {
+      "name": "EDUCATION- HOUSE K-12, VOCATIONAL-TECHNICAL INSTITUTIONS SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-HIGHER EDUCATION SUBCOMMITTEE"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW (JPR)"
+    },
+    {
+      "name": "JOINT PERFORMANCE REVIEW - HOUSE"
+    },
+    {
+      "name": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT- HOUSE"
+    },
+    {
+      "name": "AGRICULTURE- HOUSE SMALL BUSINESS & ECONOMIC DEV. SUBCOM."
+    },
+    {
+      "name": "ALC-CLAIMS REVIEW/LITIGATION REPORTS OVERSIGHT"
+    },
+    {
+      "name": "ALC-JBC BUDGET HEARINGS"
+    },
+    {
+      "name": "ALC-MEDICAL MARIJUANA OVERSIGHT SUBCOMMITTEE"
+    },
+    {
+      "name": "ALC-PERSONNEL"
+    },
+    {
+      "name": "ARKANSAS LEGISLATIVE COUNCIL (ALC)"
+    },
+    {
+      "name": "EDUCATION COMMITTEE- HOUSE"
+    },
+    {
+      "name": "LEGISLATIVE JOINT AUDITING"
+    }
+  ],
+  "ownWords": {
+    "status": "none",
+    "note": "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+    "pages": []
+  },
+  "billsNote": "Bills they were the main sponsor of in the 2025 Regular Session and 2026 Fiscal Session. They also co-sponsored 48 other bills, not listed here.",
+  "topics": [
+    {
+      "topic": "Other topics",
+      "statements": [],
+      "bills": [
+        {
+          "id": "HB1423",
+          "title": "TO PROHIBIT A PERSON FROM RECEIVING COMPENSATION FOR THE PREPARATION, PRESENTATION, OR PROSECUTION OF A CLAIM WITH REGARD TO A VETERANS' BENEFITS MATTER EXCEPT AS AUTHORIZED BY FEDERAL LAW.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1423&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HB1468",
+          "title": "TO AMEND ARKANSAS LAW CONCERNING CLAIMS AGAINST HOME IMPROVEMENT CONTRACTORS, RESIDENTIAL BUILDING CONTRACTORS, AND SUPPLIERS.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HB1468&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 558)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "HR1027",
+          "title": "TO EXPRESS SUPPORT FOR ARKANSAS'S PARTICIPATION IN THE CRISIS RECOVERY SUPPORT NETWORK COORDINATED BY THE SOUTHERN REGIONAL EDUCATION BOARD.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=HR1027&ddBienniumSession=2025%2F2025R",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB231",
+          "title": "TO CONFER LAW ENFORCEMENT AUTHORITY ON SELECT EMPLOYEES OF THE OFFICE OF THE ARKANSAS LOTTERY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB231&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 342)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB232",
+          "title": "TO AMEND VARIOUS PROVISIONS OF THE ARKANSAS SCHOLARSHIP LOTTERY ACT; AND TO DECLARE AN EMERGENCY.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB232&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 429)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        },
+        {
+          "id": "SB598",
+          "title": "TO AMEND VARIOUS LAWS RELATED TO THE DIVISION OF WORKFORCE SERVICES; AND TO AMEND THE DEFINITION OF \"EMPLOYEE\" UNDER THE WORKERS' COMPENSATION LAW RESULTING FROM INITIATED ACT 4 OF 1948.",
+          "url": "https://arkleg.state.ar.us/Bills/Detail?id=SB598&ddBienniumSession=2025%2F2025R",
+          "status": "Became law (Act 743)",
+          "session": "2025 Regular Session",
+          "plain": ""
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arkansas State Legislature",
+      "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Cozart"
+    }
+  ],
+  "removedByChecks": 0
+}

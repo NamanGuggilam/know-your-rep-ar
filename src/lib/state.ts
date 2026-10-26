@@ -1,3 +1,4 @@
+import * as cheerio from "cheerio";
 import Papa from "papaparse";
 import { cacheLife } from "next/cache";
 import type { ContactAddress, DataSource, Official } from "./types";
@@ -74,6 +75,55 @@ function splitAddress(addr: string) {
   return [parts.slice(0, -2).join(", "), parts.slice(-2).join(", ")];
 }
 
+const ARKLEG_LIST = "https://www.arkleg.state.ar.us/Legislators/List";
+
+/**
+ * The Legislature's own member list, keyed "upper-34" / "lower-13".
+ * Open States sometimes lists an old profile link first, so we prefer the official list.
+ * A district can have more than one row (for example, a member and the person they replaced),
+ * so we keep every row and match on name too.
+ */
+export function parseArklegList(html: string): Map<string, { url: string; name: string }[]> {
+  const $ = cheerio.load(html);
+  const out = new Map<string, { url: string; name: string }[]>();
+  $("[role=row]").each((_, row) => {
+    const $row = $(row);
+    const a = $row.find("a[href*='/Legislators/Detail']").first();
+    const href = a.attr("href");
+    const chamber = $row.find("[aria-colindex='2']").text().replace(/Chamber:/, "").trim();
+    const district = $row.find("[aria-colindex='4']").text().replace(/District:/, "").trim();
+    if (!href || !/^(Senate|House)$/.test(chamber) || !/^\d+$/.test(district)) return;
+    const url = new URL(href, "https://arkleg.state.ar.us");
+    url.searchParams.delete("ddBienniumSession");
+    const key = `${chamber === "Senate" ? "upper" : "lower"}-${district}`;
+    out.set(key, [...(out.get(key) ?? []), { url: url.toString(), name: a.text().replace(/\s+/g, " ").trim() }]);
+  });
+  return out;
+}
+
+/** Last word of a name, lowercased, ignoring suffixes like "Jr." */
+export function surname(name: string) {
+  const parts = name.toLowerCase().replace(/[.,]/g, "").split(/\s+/).filter((p) => !/^(jr|sr|ii|iii|iv)$/.test(p));
+  return parts.at(-1) ?? "";
+}
+
+export function withArklegLinks(officials: Official[], links: Map<string, { url: string; name: string }[]>) {
+  return officials.map((o) => {
+    const key = `${o.office === "state-senate" ? "upper" : "lower"}-${o.district?.match(/(\d+)$/)?.[1]}`;
+    const match = links.get(key)?.find((l) => surname(l.name) === surname(o.name));
+    return match ? { ...o, officialPageUrl: match.url } : o;
+  });
+}
+
+export async function getArklegLinks(): Promise<Map<string, { url: string; name: string }[]>> {
+  try {
+    const res = await fetch(ARKLEG_LIST, { signal: AbortSignal.timeout(20000) });
+    return res.ok ? parseArklegList(await res.text()) : new Map();
+  } catch {
+    return new Map();
+  }
+}
+
 export async function getStateOfficials(): Promise<Official[]> {
   "use cache";
   cacheLife("days");
@@ -85,7 +135,10 @@ export async function getStateOfficials(): Promise<Official[]> {
     url: SOURCE_PAGE,
     fetchedAt: new Date().toISOString(),
   };
-  const officials = rows.map((r) => mapStateRow(r, source));
+  const officials = withArklegLinks(
+    rows.map((r) => mapStateRow(r, source)),
+    await getArklegLinks(),
+  );
   if (officials.length < 100) throw new Error("Open States returned too few Arkansas legislators");
   return officials;
 }
