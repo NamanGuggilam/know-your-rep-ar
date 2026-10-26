@@ -2,7 +2,7 @@
   "candidateId": "chris-jones",
   "website": "https://chrisjonesforcongress.com",
   "websiteNote": "From 14 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T03:30:58.603Z",
+  "generatedAt": "2026-10-26T04:49:17.705Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Jobs and the economy": {
@@ -34,6 +34,12 @@
       "summary": "Says they would reform campaign finance and require accurate public reporting of political spending.",
       "quote": "Establish finance reform in the process of campaigns, disclosing political spending accurately to voters.",
       "url": "https://chrisjonesforcongress.com/accountability/"
+    },
+    "Taxes and spending": {
+      "summary": "Says tariffs work as taxes that Arkansans pay to the federal government.",
+      "quote": "Say what you will, color it how you want to — tariffs at the end of the day are taxes. And Arkansans don’t like paying taxes to the federal government.",
+      "url": "https://katv.com/news/local/arkansas-2nd-district-showdown-as-march-3rd-nears-chris-jones-calls-for-accountability",
+      "source": "KATV, Feb 2026"
     }
   },
   "photo": {

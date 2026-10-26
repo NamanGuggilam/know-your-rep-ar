@@ -2,7 +2,7 @@
   "candidateId": "hallie-shoffner",
   "website": "https://www.hallieshoffner.com",
   "websiteNote": "From 5 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T03:30:55.604Z",
+  "generatedAt": "2026-10-26T04:50:35.368Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Jobs and the economy": {
@@ -34,6 +34,18 @@
       "summary": "Says they would help farmers stay in business by growing a wider mix of products and building local food markets.",
       "quote": "We need to give farmers more ways to stay in business. That means expanding agricultural diversification and building regional food systems that create new markets close to home.",
       "url": "https://www.hallieshoffner.com/platform"
+    },
+    "Immigration": {
+      "summary": "Says they would deport violent criminals and fix the backlog in the legal immigration system.",
+      "quote": "I support deporting violent criminals, and I support reforming and fixing what is a broken, backlogged, and bureaucratic legal immigration system.",
+      "url": "https://www.pbs.org/video/title-us-senate-fmfs70/",
+      "source": "Arkansas PBS U.S. Senate debate, Oct 12, 2026 (automatic captions)"
+    },
+    "Elections and government": {
+      "summary": "Says they would build a strong constituent services program to help people with federal agencies.",
+      "quote": "One of the things I'd like to do as your next U.S.senator is have the best constituent services program in the country.",
+      "url": "https://www.pbs.org/video/title-us-senate-fmfs70/",
+      "source": "Arkansas PBS U.S. Senate debate, Oct 12, 2026 (automatic captions)"
     }
   },
   "photo": {

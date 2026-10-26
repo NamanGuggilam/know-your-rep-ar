@@ -2,7 +2,7 @@
   "candidateId": "french-hill",
   "website": "https://www.electfrench.com",
   "websiteNote": "From 1 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T03:34:28.841Z",
+  "generatedAt": "2026-10-26T04:49:52.845Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Jobs and the economy": {
@@ -34,6 +34,30 @@
       "summary": "Says they introduced a law to protect wilderness land in Perry County.",
       "quote": "French introduced the Flatside Wilderness Act to set aside wilderness in Perry County, to make the area more accessible to visitors, and to ensure the Flatside Wilderness remains an integral part of what makes Arkansas the “Natural State”.",
       "url": "https://www.electfrench.com"
+    },
+    "Elections and government": {
+      "summary": "Says they believe Congress is doing its job effectively.",
+      "quote": "I believe that the Congress is doing its job in an effective way",
+      "url": "https://talkbusiness.net/2026/10/hill-jones-agree-on-tariffs-disagree-elsewhere-in-spirited-debate/",
+      "source": "Talk Business & Politics, Oct 15, 2026"
+    },
+    "Farming and rural life": {
+      "summary": "Says they added a Farm Bill amendment to study whether mental health help is reaching farmers and ranchers.",
+      "quote": "Too many farmers and ranchers are struggling in silence, and we don't have a clear picture of whether the mental health resources we have are actually getting to the people who need them.",
+      "url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9973",
+      "source": "Rep. French Hill press release, hill.house.gov, 2026 (Farm Bill amendment)"
+    },
+    "Roads and infrastructure": {
+      "summary": "Says reliable internet is essential and that 120,000 Arkansas homes and businesses still lack it.",
+      "quote": "Internet access is essential to daily life, yet 120,000 homes and businesses across Arkansas still lack reliable broadband.",
+      "url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9536",
+      "source": "Rep. French Hill press release, hill.house.gov, 2025 (broadband)"
+    },
+    "Schools and education": {
+      "summary": "Says Congress should give skilled trade workers the same attention as college graduates.",
+      "quote": "While we continue to applaud those who attend our great colleges and universities, this caucus will make sure Congress pays equal attention to the skilled workers who make modern American life possible.",
+      "url": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=10167",
+      "source": "Rep. French Hill press release, hill.house.gov, 2026 (career training caucus)"
     }
   },
   "photo": {
