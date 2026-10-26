@@ -12,25 +12,37 @@ export interface RaceTab {
 
 /**
  * Race tiles that work as tabs: pick a race and only that race shows below.
- * The chosen race is kept in the address (#race-...), so the Back button and shared links work.
+ * The choice is kept in the address (#race-...), so the Back button and shared links work.
+ * Also used for the offices on the Who does what page.
  */
-export function RaceTabs({ tabs, panels }: { tabs: RaceTab[]; panels: Record<string, React.ReactNode> }) {
+export function RaceTabs({
+  tabs,
+  panels,
+  label = "Races on your ballot",
+  hashPrefix = "race-",
+}: {
+  tabs: RaceTab[];
+  panels: Record<string, React.ReactNode>;
+  label?: string;
+  /** The address remembers the choice as #<prefix><id>. With "", existing #id links open the right tab. */
+  hashPrefix?: string;
+}) {
   const [active, setActive] = useState(tabs[0]?.id);
   const panelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const fromHash = () => {
-      const id = window.location.hash.replace(/^#race-/, "");
+      const id = window.location.hash.slice(1).replace(hashPrefix, "");
       if (tabs.some((t) => t.id === id)) setActive(id);
     };
     fromHash();
     window.addEventListener("hashchange", fromHash);
     return () => window.removeEventListener("hashchange", fromHash);
-  }, [tabs]);
+  }, [tabs, hashPrefix]);
 
   function choose(id: string, focusPanel: boolean) {
     setActive(id);
-    history.replaceState(null, "", `#race-${id}`);
+    history.replaceState(null, "", `#${hashPrefix}${id}`);
     if (focusPanel) requestAnimationFrame(() => panelRef.current?.scrollIntoView({ block: "start" }));
   }
 
@@ -46,7 +58,7 @@ export function RaceTabs({ tabs, panels }: { tabs: RaceTab[]; panels: Record<str
 
   return (
     <div>
-      <div role="tablist" aria-label="Races on your ballot" className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      <div role="tablist" aria-label={label} className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {tabs.map((t, i) => {
           const on = t.id === active;
           return (
