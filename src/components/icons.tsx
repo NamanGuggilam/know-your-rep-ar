@@ -104,10 +104,14 @@ export const ExternalIcon = (p: P) => (
     <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14 21 3" />
   </Icon>
 );
+/** The universal access symbol: a person with open arms inside a circle. */
 export const AccessIcon = (p: P) => (
-  <Icon {...p}>
-    <circle cx="12" cy="4" r="2" />
-    <path d="M4 8h16M12 8v6M12 14l-4 7M12 14l4 7" />
+  <Icon {...p} size={p.size ?? 26}>
+    <circle cx="12" cy="12" r="10.5" />
+    <circle cx="12" cy="6.4" r="1.6" fill="currentColor" stroke="none" />
+    <path d="M6.5 9.6c1.9.5 3.7.8 5.5.8s3.6-.3 5.5-.8" />
+    <path d="M12 10.4v3.4" />
+    <path d="M12 13.8l-2.6 4.6M12 13.8l2.6 4.6" />
   </Icon>
 );
 export const ArrowIcon = (p: P) => (
