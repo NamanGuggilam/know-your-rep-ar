@@ -1,9 +1,17 @@
 {
   "candidateId": "john-thurston",
+  "website": null,
   "websiteNote": "We could not find a campaign website for this candidate.",
-  "generatedAt": "2026-10-26T03:23:56.348Z",
+  "generatedAt": "2026-10-26T04:45:02.259Z",
   "model": "Claude (reviewed by code)",
-  "positions": {},
+  "positions": {
+    "Taxes and spending": {
+      "summary": "Says they have focused on openness, careful money management, and protecting the tax dollars people pay.",
+      "quote": "Since taking office, I’ve focused on transparency, fiscal responsibility, and safeguarding Arkansans’ hard-earned tax dollars",
+      "url": "https://talkbusiness.net/2025/05/state-treasurer-john-thurston-announces-re-election-bid/",
+      "source": "Talk Business & Politics, May 13, 2025"
+    }
+  },
   "photo": {
     "src": "/candidates/john-thurston.jpg",
     "credit": "Wikimedia Commons (Meganmarkham, CC BY-SA 4.0)",

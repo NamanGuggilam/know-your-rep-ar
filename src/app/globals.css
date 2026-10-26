@@ -9,25 +9,29 @@
  * Dark is the default. Every text pair is AA or better (body text AAA).
  */
 :root {
-  --bg: #08080f;
-  --surface: #11121d;
-  --surface-2: #1a1b2b;
+  --bg: #0b0c1f; /* deep indigo "void" */
+  --surface: #14163a;
+  --surface-2: #1d2050;
   --ink: #f3f3fa;
-  --ink-muted: #b4b6cc;
-  --line: #6e7090;
-  --line-soft: #2a2c42;
-  --accent: #a88bff; /* Hollow Purple */
+  --ink-muted: #bcc0e0;
+  --line: #7a7fb0;
+  --line-soft: #2c3066;
+  --accent: #ad91ff; /* Hollow Purple */
   --accent-ink: #0b0b14;
-  --accent-soft: #221b40;
+  --accent-soft: #272259;
   --glow: #6fe3ff; /* Six Eyes, decoration only */
-  --panel-shadow: #a88bff;
+  --panel-shadow: #ad91ff;
   --focus: #6fe3ff;
   --party-r: #ff5c7a; /* Reversal Red */
   --party-r-ink: #0b0b14;
   --party-d: #5aa9ff; /* Lapse Blue */
   --party-d-ink: #0b0b14;
-  --party-o: #a88bff; /* Hollow Purple: independent and other parties */
+  --party-o: #ad91ff; /* Hollow Purple: independent and other parties */
   --party-o-ink: #0b0b14;
+  /* Soft purple and blue light behind the top of every page. */
+  --page-glow:
+    radial-gradient(60rem 28rem at 15% -8rem, rgb(173 145 255 / 0.16), transparent 70%),
+    radial-gradient(50rem 24rem at 90% -6rem, rgb(90 169 255 / 0.12), transparent 70%);
   color-scheme: dark;
 }
 
@@ -51,6 +55,7 @@
   --party-d-ink: #ffffff;
   --party-o: #5a35e0;
   --party-o-ink: #ffffff;
+  --page-glow: none;
   color-scheme: light;
 }
 
@@ -74,6 +79,7 @@
   --party-d-ink: #000000;
   --party-o: #d2c2ff;
   --party-o-ink: #000000;
+  --page-glow: none;
   color-scheme: dark;
 }
 
@@ -114,7 +120,8 @@ html[data-font="dyslexic"] {
 
 @layer base {
 body {
-  background: var(--bg);
+  background: var(--page-glow), var(--bg);
+  background-repeat: no-repeat;
   color: var(--ink);
   font-family: var(--font-sans);
   line-height: 1.6;

@@ -2,7 +2,7 @@
   "candidateId": "fred-love",
   "website": "https://www.fredlove.com/",
   "websiteNote": "From 4 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T03:30:58.946Z",
+  "generatedAt": "2026-10-26T04:46:33.458Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Jobs and the economy": {
@@ -29,6 +29,24 @@
       "summary": "Says they would protect Medicaid and expand maternal and mental health care, including through telehealth.",
       "quote": "Fred will protect Medicaid, expand access to maternal and mental health services across the state, and use telehealth to reach underserved and rural communities.",
       "url": "https://www.fredlove.com/issues"
+    },
+    "Farming and rural life": {
+      "summary": "Says the state should take steps now to bring relief to farmers.",
+      "quote": "We need to look at things that we can do today so that we can have relief for the farmers tomorrow",
+      "url": "https://talkbusiness.net/2026/10/sanders-love-and-shelby-spar-over-health-care-education-prison/",
+      "source": "Talk Business & Politics, Oct 13, 2026"
+    },
+    "Energy and the environment": {
+      "summary": "Says Arkansans are right to be worried about how fast data centers are being built.",
+      "quote": "Data centers are popping up at alarming rates, and Arkansans, they’re worried and they have every right to be",
+      "url": "https://arkansasadvocate.com/2026/06/26/love-vows-order-halting-school-vouchers-if-elected-arkansas-governor/",
+      "source": "Arkansas Advocate, June 26, 2026"
+    },
+    "Elections and government": {
+      "summary": "Says stronger public records laws help the press and the public understand what government is doing.",
+      "quote": "That helps our press report, but also that helps the people understand what’s going on",
+      "url": "https://arkansasadvocate.com/2026/06/26/love-vows-order-halting-school-vouchers-if-elected-arkansas-governor/",
+      "source": "Arkansas Advocate, June 26, 2026"
     }
   },
   "photo": {

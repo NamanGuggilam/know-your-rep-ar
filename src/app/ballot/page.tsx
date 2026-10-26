@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
 import { Comparison, UnopposedCard } from "@/components/Comparison";
+import { RaceAsk } from "@/components/RaceAsk";
+import { RaceTabs } from "@/components/RaceTabs";
 import { ResultsTabs } from "@/components/ResultsTabs";
 import { WhereToVote } from "@/components/WhereToVote";
 import { ExtLink } from "@/components/PageIntro";
@@ -78,49 +80,6 @@ async function BallotBody({ searchParams }: { searchParams: PageProps<"/ballot">
         </ul>
       </details>
 
-      <nav aria-label="Races on your ballot" className="mt-6">
-        <h2 className="sr-only">Races on your ballot</h2>
-        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {contested.map((c) => (
-            <li key={c.id}>
-              <a
-                href={`#sec-${c.id}`}
-                className="card flex h-full items-center justify-between gap-3 p-4 text-ink no-underline hover:border-accent"
-              >
-                <span className="min-w-0">
-                  <span className="block font-display text-lg font-bold">{c.office}</span>
-                  <span className="block text-sm text-ink-muted">{c.candidates.length} candidates</span>
-                </span>
-                <span className="flex flex-none -space-x-3" aria-hidden="true">
-                  {c.candidates.map((k) => (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      key={k.id}
-                      src={positions[k.id]?.photo?.src ?? "/candidates/placeholder.svg"}
-                      alt=""
-                      width={40}
-                      height={40}
-                      className={`size-10 rounded-full border-2 bg-surface-2 object-cover party-ring-${partyKey(k.party)}`}
-                    />
-                  ))}
-                </span>
-              </a>
-            </li>
-          ))}
-          {unopposed.length > 0 && (
-            <li>
-              <a
-                href="#unopposed"
-                className="card flex h-full flex-col justify-center p-4 text-ink no-underline hover:border-accent"
-              >
-                <span className="font-display text-lg font-bold">Unopposed races</span>
-                <span className="text-sm text-ink-muted">{unopposed.map((c) => c.office).join(", ")}</span>
-              </a>
-            </li>
-          )}
-        </ul>
-      </nav>
-
       <div className="mt-6 grid gap-4 md:grid-cols-2">
         <WhereToVote />
         <section aria-labelledby="how-h" className="card p-5">
@@ -142,23 +101,55 @@ async function BallotBody({ searchParams }: { searchParams: PageProps<"/ballot">
         </p>
       )}
 
-      {contested.map((c) => (
-        <Comparison key={c.id} contest={c} positions={positions} />
-      ))}
-
-      {unopposed.length > 0 && (
-        <section id="unopposed" aria-labelledby="unopposed-h" className="mt-10 scroll-mt-4">
-          <h2 id="unopposed-h" className="text-3xl font-bold">
-            Unopposed races
-          </h2>
-          <p className="mt-1 text-ink-muted">Only one candidate is running for each of these offices.</p>
-          <ul className="mt-4 grid gap-4 md:grid-cols-3">
-            {unopposed.map((c) => (
-              <UnopposedCard key={c.id} contest={c} data={positions[c.candidates[0].id]} />
-            ))}
-          </ul>
-        </section>
-      )}
+      <h2 className="mt-10 text-3xl font-bold">Pick a race</h2>
+      <p className="mt-1 mb-4 text-ink-muted">Tap a race to compare its candidates.</p>
+      <RaceTabs
+        tabs={[
+          ...contested.map((c) => ({
+            id: c.id,
+            title: c.office,
+            subtitle: `${c.candidates.length} candidates`,
+            faces: c.candidates.map((k) => ({
+              src: positions[k.id]?.photo?.src ?? "/candidates/placeholder.svg",
+              ring: partyKey(k.party),
+            })),
+          })),
+          ...(unopposed.length
+            ? [
+                {
+                  id: "unopposed",
+                  title: "Unopposed races",
+                  subtitle: unopposed.map((c) => c.office).join(", "),
+                  faces: [],
+                },
+              ]
+            : []),
+        ]}
+        panels={{
+          ...Object.fromEntries(
+            contested.map((c) => [
+              c.id,
+              <div key={c.id}>
+                <Comparison contest={c} positions={positions} />
+                <RaceAsk race={c.office} names={c.candidates.map((k) => k.name)} />
+              </div>,
+            ]),
+          ),
+          unopposed: (
+            <section aria-labelledby="unopposed-h" className="card mt-8 p-5 sm:p-7">
+              <h2 id="unopposed-h" className="text-3xl font-bold">
+                Unopposed races
+              </h2>
+              <p className="mt-1 text-ink-muted">Only one candidate is running for each of these offices.</p>
+              <ul className="mt-4 grid gap-4 md:grid-cols-3">
+                {unopposed.map((c) => (
+                  <UnopposedCard key={c.id} contest={c} data={positions[c.candidates[0].id]} />
+                ))}
+              </ul>
+            </section>
+          ),
+        }}
+      />
 
       <p className="mt-10 text-sm text-ink-muted">
         Candidates, parties, and ballot order: <ExtLink href={ELECTION.source.url}>{ELECTION.source.name}</ExtLink>,

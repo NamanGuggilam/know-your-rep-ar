@@ -42,7 +42,7 @@ export function SiteHeader() {
     });
 
   return (
-    <header className="border-b-2 border-line-soft bg-bg">
+    <header className="border-b-2 border-line-soft">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3">
         <Link href="/" className="flex min-w-0 items-center gap-2 text-ink no-underline sm:gap-3">
           <InfinityMark size={36} />

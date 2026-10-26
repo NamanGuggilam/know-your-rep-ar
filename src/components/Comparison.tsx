@@ -31,7 +31,7 @@ export function Comparison({
   contest: Contest;
   positions: Record<string, CandidatePositions | null>;
 }) {
-  const headingId = `race-${contest.id}`;
+  const headingId = `race-h-${contest.id}`;
   const covered = COMPARE_TOPICS.filter((t) => contest.candidates.some((c) => positions[c.id]?.positions[t]));
   const silent = COMPARE_TOPICS.filter((t) => !covered.includes(t));
 
@@ -145,7 +145,7 @@ export function UnopposedCard({ contest, data }: { contest: Contest; data: Candi
   const c = contest.candidates[0];
   const said = COMPARE_TOPICS.filter((t) => data?.positions[t]);
   return (
-    <li id={`race-${contest.id}`} className={`card scroll-mt-4 p-5 party-bar-${partyKey(c.party)}`}>
+    <li id={`unopposed-${contest.id}`} className={`card scroll-mt-4 p-5 party-bar-${partyKey(c.party)}`}>
       <p className="eyebrow">{contest.office}</p>
       <div className="mt-3 flex items-center gap-3">
         <CandidatePhoto src={data?.photo?.src} name={c.name} size={56} />

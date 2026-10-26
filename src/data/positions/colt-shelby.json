@@ -2,7 +2,7 @@
   "candidateId": "colt-shelby",
   "website": "https://www.colt4arkansas.org/",
   "websiteNote": "From 4 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T03:30:59.846Z",
+  "generatedAt": "2026-10-26T04:46:34.082Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Elections and government": {
@@ -39,6 +39,12 @@
       "summary": "Says they would give rural roads, broadband, and power grids the same attention as those in cities.",
       "quote": "Ensuring rural infrastructure — roads, broadband, and grid reliability — gets the same attention as infrastructure in urban centers.",
       "url": "https://www.colt4arkansas.org/platform"
+    },
+    "Jobs and the economy": {
+      "summary": "Says local governments, not the state, should lead economic development.",
+      "quote": "It’s not the big government’s job for economic development, that should be up to the lower governments",
+      "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+      "source": "Arkansas Advocate, Sept 30, 2026"
     }
   }
 }

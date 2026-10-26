@@ -1,7 +1,21 @@
 {
   "candidateId": "christopher-olson",
+  "website": null,
   "websiteNote": "We could not find a campaign website for this candidate.",
-  "generatedAt": "2026-10-26T03:23:57.023Z",
+  "generatedAt": "2026-10-26T04:45:09.761Z",
   "model": "Claude (reviewed by code)",
-  "positions": {}
+  "positions": {
+    "Taxes and spending": {
+      "summary": "Says they favor slowly lowering the amount of money taken out of people's paychecks over several years.",
+      "quote": "But, my vision for that was, over the course of several years to gradually reduce the amount of money that’s taken out of people’s paychecks.",
+      "url": "https://digital-release.nwahomepage.com/myfox24/in-studio-libertarian-lt-gov-candidate-chris-olson/",
+      "source": "KNWA/Fox24, October 22, 2014"
+    },
+    "Health care": {
+      "summary": "Says cannabis has a real medical use.",
+      "quote": "I believe that cannabis has a legitimate medical use.",
+      "url": "https://digital-release.nwahomepage.com/myfox24/in-studio-libertarian-lt-gov-candidate-chris-olson/",
+      "source": "KNWA/Fox24, October 22, 2014"
+    }
+  }
 }

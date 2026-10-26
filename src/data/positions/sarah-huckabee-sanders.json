@@ -2,9 +2,46 @@
   "candidateId": "sarah-huckabee-sanders",
   "website": "https://sarahforgovernor.com",
   "websiteNote": "From 1 pages of their campaign website.",
-  "generatedAt": "2026-10-26T03:30:57.684Z",
+  "generatedAt": "2026-10-26T04:46:32.515Z",
   "model": "Claude (reviewed by code)",
-  "positions": {},
+  "positions": {
+    "Taxes and spending": {
+      "summary": "Says they expect to pass another tax cut in the next legislative session.",
+      "quote": "I’m confident that in the next legislative session, we will be able to do an additional tax cut, letting you keep more of your hard-earned money",
+      "url": "https://talkbusiness.net/2026/10/sanders-love-and-shelby-spar-over-health-care-education-prison/",
+      "source": "Talk Business & Politics, Oct 13, 2026"
+    },
+    "Health care": {
+      "summary": "Says the state's Medicaid expansion should help people while they need it and then help them move off the program.",
+      "quote": "The goal should be to help move people off of that program, provide assistance while they need it, and get them back on their own two feet.",
+      "url": "https://talkbusiness.net/2026/10/sanders-love-and-shelby-spar-over-health-care-education-prison/",
+      "source": "Talk Business & Politics, Oct 13, 2026"
+    },
+    "Schools and education": {
+      "summary": "Says education freedom opens up opportunity for every child in Arkansas.",
+      "quote": "Education freedom opens up endless opportunity for every single child growing up in Arkansas.",
+      "url": "https://talkbusiness.net/2026/10/sanders-love-and-shelby-spar-over-health-care-education-prison/",
+      "source": "Talk Business & Politics, Oct 13, 2026"
+    },
+    "Jobs and the economy": {
+      "summary": "Says each economic development project should be judged on its own.",
+      "quote": "At the same time, you have to look at every single economic development project independently.",
+      "url": "https://talkbusiness.net/2026/10/sanders-love-and-shelby-spar-over-health-care-education-prison/",
+      "source": "Talk Business & Politics, Oct 13, 2026"
+    },
+    "Public safety": {
+      "summary": "Says the death penalty must be handled with great care because it cannot be undone.",
+      "quote": "It’s the only decision that you make that you can’t undo. We have to get it right.",
+      "url": "https://talkbusiness.net/2026/10/sanders-love-and-shelby-spar-over-health-care-education-prison/",
+      "source": "Talk Business & Politics, Oct 13, 2026"
+    },
+    "Immigration": {
+      "summary": "Says they signed a law with tougher penalties for immigrants here illegally who commit more crimes and will have the National Guard help enforce federal immigration law.",
+      "quote": "I signed the Defense Against Criminal Illegals Act to hold these criminals accountable and slap enhanced penalties on illegal immigrants who commit additional crimes while in our state, and I look forward to our guardsmen working with the Trump Administration to enforce federal immigration law.",
+      "url": "https://governor.arkansas.gov/news_post/sanders-announces-arkansas-national-guard-to-assist-ice-with-immigration-enforcement-in-arkansas/",
+      "source": "Office of the Governor, Sept 9, 2025"
+    }
+  },
   "photo": {
     "src": "/candidates/sarah-huckabee-sanders.jpg",
     "credit": "Gage Skidmore, Wikimedia Commons (CC BY-SA 4.0)",

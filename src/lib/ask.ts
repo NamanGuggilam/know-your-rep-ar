@@ -52,8 +52,23 @@ function docBlock(d: SearchDoc, i: number) {
 
 let client: Anthropic | null = null;
 
-export async function ask(question: string, docs: SearchDoc[]): Promise<AskResult> {
-  const picked = retrieve(docs, question, 12);
+/**
+ * @param race When the person is looking at one race (e.g. "Governor"), every candidate in it
+ *   and that office's description are always included, so answers cover all of them equally.
+ */
+export async function ask(question: string, docs: SearchDoc[], race?: string): Promise<AskResult> {
+  const picked = retrieve(docs, race ? `${race} ${question}` : question, 12);
+  if (race) {
+    const inRace = docs.filter((d) => d.kind === "candidate" && d.subtitle === `Candidate for ${race}`);
+    const office = docs.filter(
+      (d) => d.kind === "role" && race.toLowerCase().includes(d.title.toLowerCase().replace(/ of arkansas$/, "")),
+    );
+    for (const d of [...office, ...inRace].reverse()) {
+      const i = picked.indexOf(d);
+      if (i >= 0) picked.splice(i, 1);
+      picked.unshift(d);
+    }
+  }
   // For a race question, make sure every candidate in that race is in the context, so no one is left out.
   const races = new Set(picked.filter((d) => d.kind === "candidate").map((d) => d.subtitle));
   for (const d of docs) {
@@ -78,7 +93,7 @@ export async function ask(question: string, docs: SearchDoc[]): Promise<AskResul
       messages: [
         {
           role: "user",
-          content: `<app_facts>${APP_FACTS}</app_facts>\n\n<sources>\n${picked.map(docBlock).join("\n\n")}\n</sources>\n\n<question>${question}</question>`,
+          content: `<app_facts>${APP_FACTS}</app_facts>\n\n<sources>\n${picked.map(docBlock).join("\n\n")}\n</sources>\n\n${race ? `<context>The person is looking at the race for ${race}. Cover every candidate in it.</context>\n\n` : ""}<question>${question}</question>`,
         },
       ],
     });
