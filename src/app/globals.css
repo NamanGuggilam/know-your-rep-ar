@@ -125,10 +125,8 @@ h1,
 h2,
 h3 {
   hyphens: auto;
-  overflow-wrap: anywhere;
 }
 .btn {
-  overflow-wrap: anywhere;
   text-align: center;
 }
 html[data-spacing="relaxed"] body {

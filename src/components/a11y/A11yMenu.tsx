@@ -78,11 +78,11 @@ export function A11yMenu() {
           if (e.target === ref.current) ref.current.close();
         }}
       >
-        <div className="sticky top-0 flex items-center justify-between gap-3 border-b border-line-soft bg-surface px-5 py-3">
+        <div className="sticky top-0 z-10 flex flex-wrap items-center justify-between gap-3 border-b border-line-soft bg-surface px-5 py-3">
           <h2 id="a11y-title" className="text-xl font-extrabold">
             Accessibility settings
           </h2>
-          <button type="button" className="btn btn-secondary" onClick={() => ref.current?.close()}>
+          <button type="button" className="btn btn-secondary flex-none" onClick={() => ref.current?.close()}>
             <CloseIcon />
             Close
           </button>
