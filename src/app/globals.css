@@ -412,17 +412,6 @@ html[data-simple="on"] .btn {
   padding: 0.8rem 1.4rem;
 }
 
-/* The "Infinity" rings behind the hero slowly turn. */
-@keyframes kyr-spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
-.infinity-spin {
-  animation: kyr-spin 60s linear infinite;
-  transform-origin: center;
-}
-
 /* Reduce motion: honor the OS setting and the manual toggle. */
 @media (prefers-reduced-motion: reduce) {
   *,

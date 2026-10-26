@@ -2,31 +2,40 @@ import Link from "next/link";
 import { ArrowIcon } from "@/components/icons";
 import { LookupForm } from "@/components/LookupForm";
 
-/** Decorative "Infinity" rings behind the hero. Original artwork. */
-function InfinityRings() {
+/** Decorative "Infinity" emblem beside the hero. Original artwork, static, fully inside its column. */
+function InfinityEmblem() {
   return (
     <svg
       viewBox="0 0 400 400"
-      className="pointer-events-none absolute -top-24 -right-32 hidden h-[34rem] w-[34rem] opacity-70 lg:block"
+      className="pointer-events-none hidden h-auto w-full max-w-[26rem] lg:block"
       aria-hidden="true"
       focusable="false"
     >
       <defs>
         <radialGradient id="void" cx="50%" cy="50%" r="50%">
-          <stop offset="0%" stopColor="var(--accent)" stopOpacity="0.35" />
-          <stop offset="55%" stopColor="var(--accent)" stopOpacity="0.06" />
+          <stop offset="0%" stopColor="var(--accent)" stopOpacity="0.28" />
+          <stop offset="60%" stopColor="var(--accent)" stopOpacity="0.06" />
           <stop offset="100%" stopColor="var(--accent)" stopOpacity="0" />
         </radialGradient>
       </defs>
-      <circle cx="200" cy="200" r="200" fill="url(#void)" />
-      <g className="infinity-spin" fill="none">
-        <circle cx="200" cy="200" r="170" stroke="var(--accent)" strokeWidth="1.5" strokeDasharray="1 9" />
-        <circle cx="200" cy="200" r="130" stroke="var(--glow)" strokeWidth="1" strokeDasharray="40 14" opacity="0.7" />
-        <circle cx="200" cy="200" r="92" stroke="var(--accent)" strokeWidth="2" />
-        <circle cx="200" cy="200" r="58" stroke="var(--glow)" strokeWidth="1" opacity="0.8" />
+      <circle cx="200" cy="200" r="196" fill="url(#void)" />
+      <g fill="none">
+        <circle cx="200" cy="200" r="186" stroke="var(--line-soft)" strokeWidth="1" />
+        <circle cx="200" cy="200" r="150" stroke="var(--glow)" strokeWidth="1" strokeOpacity="0.45" strokeDasharray="2 10" strokeLinecap="round" />
+        <circle cx="200" cy="200" r="112" stroke="var(--accent)" strokeWidth="2.5" />
+        <circle cx="200" cy="200" r="76" stroke="var(--glow)" strokeWidth="1" strokeOpacity="0.6" />
       </g>
-      <path d="M200 160 228 200 200 240 172 200Z" fill="var(--ink)" />
-      <path d="M200 160 210 200 200 240 190 200Z" fill="var(--accent)" />
+      {/* Four points on the middle ring, like a compass. */}
+      <g fill="var(--accent)">
+        <circle cx="200" cy="88" r="4" />
+        <circle cx="312" cy="200" r="4" />
+        <circle cx="200" cy="312" r="4" />
+        <circle cx="88" cy="200" r="4" />
+      </g>
+      {/* The diamond (Arkansas is the Diamond State). */}
+      <path d="M200 142 240 200 200 258 160 200Z" fill="var(--ink)" />
+      <path d="M200 142 214 200 200 258 186 200Z" fill="var(--accent)" />
+      <path d="M160 200H240" stroke="var(--bg)" strokeWidth="2" strokeOpacity="0.5" />
     </svg>
   );
 }
@@ -40,9 +49,11 @@ const STEPS = [
 export default function Home() {
   return (
     <>
-      <section aria-labelledby="hero-heading" className="relative mb-10 overflow-x-clip">
-        <InfinityRings />
-        <div className="relative max-w-2xl">
+      <section
+        aria-labelledby="hero-heading"
+        className="mb-10 grid items-center gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,24rem)]"
+      >
+        <div>
           <p className="eyebrow">Arkansas · Your ballot · Your voice</p>
           <h1 id="hero-heading" className="mt-3 text-5xl leading-[1.05] font-bold sm:text-6xl">
             Know who&apos;s on your ballot.
@@ -51,9 +62,12 @@ export default function Home() {
             Type your address. Compare every candidate on the same topics, in plain English, with sources. Then see who
             already represents you and contact them.
           </p>
+          <div className="mt-8 max-w-2xl">
+            <LookupForm />
+          </div>
         </div>
-        <div className="relative mt-8 max-w-2xl">
-          <LookupForm />
+        <div className="flex justify-center">
+          <InfinityEmblem />
         </div>
       </section>
 
