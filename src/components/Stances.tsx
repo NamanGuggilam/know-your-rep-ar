@@ -95,8 +95,8 @@ export function Stances({ data, office, name }: { data: StanceFile | null; offic
             {data.billsNote} {billCount === 0 && "We did not find any."}
           </p>
           <p className="mt-1 max-w-[65ch] text-ink-muted">
-            A <strong>bill</strong> is an idea for a new law. A <strong>resolution</strong> is a statement by lawmakers,
-            like honoring a person, that does not become a law. Sponsoring a bill does not mean it passed.
+            A bill is an idea for a new law. A resolution is a statement by lawmakers, like honoring a person, that does
+            not become a law. Sponsoring a bill does not mean it passed.
           </p>
 
           <div className="mt-4 grid gap-3">
