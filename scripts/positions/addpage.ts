@@ -30,9 +30,11 @@ async function main() {
   await mkdir(path.dirname(file), { recursive: true });
   await writeFile(file, JSON.stringify(saved, null, 2));
   console.log(`saved as page ${saved.pages.length}: ${label} (${r.pages[0].text.length} chars) ${url}`);
-  await closeBrowser();
 }
-main().catch((e) => {
-  console.error(e.message);
-  process.exitCode = 1;
-});
+main()
+  .catch((e) => {
+    console.error(e.message);
+    process.exitCode = 1;
+  })
+  // Always shut the browser, or the script hangs after a failed page.
+  .finally(() => closeBrowser());

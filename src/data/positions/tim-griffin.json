@@ -2,7 +2,7 @@
   "candidateId": "tim-griffin",
   "website": "https://timgriffinforag.com/",
   "websiteNote": "From 5 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T04:53:12.866Z",
+  "generatedAt": "2026-10-26T04:55:12.587Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Jobs and the economy": {
@@ -14,12 +14,6 @@
       "summary": "Says that in Congress they pushed for changes to taxes and entitlement programs to grow jobs and lower the national debt.",
       "quote": "In Congress, he advocated for bold tax reform and entitlement reform to grow jobs and reduce the national debt.",
       "url": "https://timgriffinforag.com/meet-tim/"
-    },
-    "Public safety": {
-      "summary": "Says violent offenders in Arkansas are let out on parole after serving only part of their sentences.",
-      "quote": "Arkansas has a deceptive and dangerous parole problem where violent felons go free after serving only a fraction of their time.",
-      "url": "https://arkansasag.gov/news-release/attorney-general-griffin-praises-protect-arkansas-act/",
-      "source": "Arkansas Attorney General's office, March 27, 2023"
     },
     "Health care": {
       "summary": "Says people who commit Medicaid fraud will face serious penalties.",
