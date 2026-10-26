@@ -1,26 +1,308 @@
 @import "tailwindcss";
+@import "@fontsource/opendyslexic/400.css";
+@import "@fontsource/opendyslexic/700.css";
 
+/*
+ * Design tokens. Neutral on purpose: slate, warm paper, and one forest-green accent.
+ * No red or blue anywhere, so nothing reads as partisan.
+ * Every text pair was checked: body text is AAA (7:1+), accents are AA or better.
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --bg: #f6f3ec;
+  --surface: #ffffff;
+  --surface-2: #ece6da;
+  --ink: #1c262b;
+  --ink-muted: #46535b;
+  --line: #8c8270;
+  --line-soft: #ddd5c7;
+  --accent: #1f5e45;
+  --accent-ink: #ffffff;
+  --accent-soft: #e2eee7;
+  --focus: #b4570a;
+  --ridge-1: #c9d8cd;
+  --ridge-2: #a9c2b1;
+  --ridge-3: #1f5e45;
+  color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme]) {
+    --bg: #11171a;
+    --surface: #1a2226;
+    --surface-2: #232d32;
+    --ink: #eef0ec;
+    --ink-muted: #b7c0c3;
+    --line: #6b7b82;
+    --line-soft: #2f3a40;
+    --accent: #7fcba4;
+    --accent-ink: #0b1f16;
+    --accent-soft: #1e3a2e;
+    --focus: #ffb35c;
+    --ridge-1: #1d2a2b;
+    --ridge-2: #24372f;
+    --ridge-3: #7fcba4;
+    color-scheme: dark;
   }
 }
 
+:root[data-theme="dark"] {
+  --bg: #11171a;
+  --surface: #1a2226;
+  --surface-2: #232d32;
+  --ink: #eef0ec;
+  --ink-muted: #b7c0c3;
+  --line: #6b7b82;
+  --line-soft: #2f3a40;
+  --accent: #7fcba4;
+  --accent-ink: #0b1f16;
+  --accent-soft: #1e3a2e;
+  --focus: #ffb35c;
+  --ridge-1: #1d2a2b;
+  --ridge-2: #24372f;
+  --ridge-3: #7fcba4;
+  color-scheme: dark;
+}
+
+:root[data-theme="contrast"] {
+  --bg: #000000;
+  --surface: #000000;
+  --surface-2: #000000;
+  --ink: #ffffff;
+  --ink-muted: #ffffff;
+  --line: #ffffff;
+  --line-soft: #ffffff;
+  --accent: #ffe14d;
+  --accent-ink: #000000;
+  --accent-soft: #000000;
+  --focus: #ffe14d;
+  --ridge-1: #000000;
+  --ridge-2: #000000;
+  --ridge-3: #ffe14d;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --font-sans: var(--font-reading), system-ui, sans-serif;
+}
+
+/* Text size: 18px base, four steps. Everything is sized in rem so it all scales. */
+html {
+  font-size: 112.5%;
+}
+html[data-text="2"] {
+  font-size: 125%;
+}
+html[data-text="3"] {
+  font-size: 137.5%;
+}
+html[data-text="4"] {
+  font-size: 156.25%;
+}
+
+html[data-font="dyslexic"] {
+  --font-reading: "OpenDyslexic";
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  -webkit-text-size-adjust: 100%;
+  overflow-wrap: break-word;
+}
+h1,
+h2,
+h3 {
+  hyphens: auto;
+  overflow-wrap: anywhere;
+}
+.btn {
+  overflow-wrap: anywhere;
+  text-align: center;
+}
+html[data-spacing="relaxed"] body {
+  line-height: 1.85;
+  word-spacing: 0.06em;
+}
+html[data-spacing="extra"] body {
+  line-height: 2.1;
+  word-spacing: 0.12em;
+  letter-spacing: 0.02em;
+}
+
+/* Visible focus everywhere. Two rings so it shows on any background. */
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 6px var(--bg);
+  border-radius: 4px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 0.08em;
+}
+a:hover {
+  text-decoration-thickness: 0.16em;
+}
+
+/* Never rely on color alone: high contrast mode adds borders and underlines everywhere. */
+html[data-theme="contrast"] .card,
+html[data-theme="contrast"] .btn {
+  border: 2px solid var(--ink) !important;
+}
+html[data-theme="contrast"] img {
+  filter: grayscale(0.2) contrast(1.1);
+}
+
+/* Buttons: at least 48px tall, always with a text label. */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 48px;
+  min-width: 48px;
+  padding: 0.6rem 1.1rem;
+  border-radius: 0.6rem;
+  border: 2px solid var(--accent);
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    background-color 0.15s,
+    transform 0.15s;
+}
+.btn-primary {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+.btn-primary:hover {
+  filter: brightness(1.08);
+}
+.btn-secondary {
+  background: var(--surface);
+  color: var(--accent);
+}
+.btn-secondary:hover {
+  background: var(--accent-soft);
+}
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.btn svg {
+  flex: none;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line-soft);
+  border-radius: 1rem;
+}
+
+.field {
+  width: 100%;
+  min-height: 52px;
+  padding: 0.7rem 0.9rem;
+  border: 2px solid var(--line);
+  border-radius: 0.6rem;
+  background: var(--surface);
+  color: var(--ink);
+}
+.field:focus-visible {
+  border-color: var(--accent);
+}
+
+.prose-civic h2 {
+  font-size: 1.45rem;
+  font-weight: 800;
+  line-height: 1.25;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+.prose-civic h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 1.4rem;
+  margin-bottom: 0.4rem;
+}
+.prose-civic p,
+.prose-civic ul,
+.prose-civic ol {
+  margin-bottom: 1rem;
+  max-width: 68ch;
+}
+.prose-civic ul {
+  list-style: disc;
+  padding-left: 1.4rem;
+}
+.prose-civic ol {
+  list-style: decimal;
+  padding-left: 1.4rem;
+}
+.prose-civic li {
+  margin-bottom: 0.4rem;
+}
+
+/* Simple mode: fewer things on screen, bigger targets. */
+html[data-simple="on"] .simple-hide {
+  display: none !important;
+}
+html[data-simple="on"] .btn {
+  min-height: 60px;
+  font-size: 1.1rem;
+  padding: 0.8rem 1.4rem;
+}
+
+/* Reduce motion: honor the OS setting and the manual toggle. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+html[data-motion="reduce"] *,
+html[data-motion="reduce"] *::before,
+html[data-motion="reduce"] *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+
+.sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+dialog::backdrop {
+  background: rgb(0 0 0 / 0.55);
+}
+
+.leaflet-container {
+  font-family: var(--font-sans);
+  background: var(--surface-2);
 }
