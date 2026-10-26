@@ -132,6 +132,11 @@ h3,
   /* Lets long words wrap inside flex rows at the largest text sizes. */
   min-width: 0;
 }
+/* Grid and flex children may shrink below their longest word, so text wraps instead of overflowing. */
+.grid > *,
+.flex > * {
+  min-width: 0;
+}
 html[data-spacing="relaxed"] body {
   line-height: 1.85;
   word-spacing: 0.06em;

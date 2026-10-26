@@ -1,0 +1,44 @@
+{
+  "candidateId": "colt-shelby",
+  "website": "https://www.colt4arkansas.org/",
+  "websiteNote": "From 4 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:30:59.846Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Elections and government": {
+      "summary": "Says they would push to make major state contracts and deals public before they are final.",
+      "quote": "Push for real-time public disclosure of major state contracts, incentive packages, and economic development agreements before they're finalized — not after.",
+      "url": "https://www.colt4arkansas.org/platform"
+    },
+    "Taxes and spending": {
+      "summary": "Says they would have outside auditors check large state contracts and economic development deals.",
+      "quote": "Independent audits of large state contracts and economic development agreements, not just internal agency sign-off.",
+      "url": "https://www.colt4arkansas.org/platform"
+    },
+    "Schools and education": {
+      "summary": "Says they oppose school voucher programs, which they say take money from rural and local schools.",
+      "quote": "Colt opposes school voucher schemes that siphon funding away from rural communities and local schools.",
+      "url": "https://www.colt4arkansas.org/issues"
+    },
+    "Public safety": {
+      "summary": "Says they oppose the planned 3,000-bed prison in Franklin County.",
+      "quote": "Colt opposes the proposed 3,000-bed prison in Franklin County — a costly, poorly-planned project that will harm rural communities without making Arkansans safer.",
+      "url": "https://www.colt4arkansas.org/issues"
+    },
+    "Energy and the environment": {
+      "summary": "Says they would push for a state plan to protect power customers and water supplies for families and farms.",
+      "quote": "As governor, he will push for an Arkansas Ratepayer and Water Protection framework that puts Arkansas families and farms first.",
+      "url": "https://www.colt4arkansas.org/platform"
+    },
+    "Farming and rural life": {
+      "summary": "Says they would support policies that help family farms stay in business across generations.",
+      "quote": "Supporting policies that keep family farms economically viable across generations, not just large agribusiness operations.",
+      "url": "https://www.colt4arkansas.org/platform"
+    },
+    "Roads and infrastructure": {
+      "summary": "Says they would give rural roads, broadband, and power grids the same attention as those in cities.",
+      "quote": "Ensuring rural infrastructure — roads, broadband, and grid reliability — gets the same attention as infrastructure in urban centers.",
+      "url": "https://www.colt4arkansas.org/platform"
+    }
+  }
+}

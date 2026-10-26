@@ -55,6 +55,7 @@ export interface CandidatePositions {
   generatedAt: string;
   model: string;
   positions: Partial<Record<CompareTopic, Position>>;
+  photo?: { src: string; credit: string; sourcePage: string };
 }
 
 export const ELECTION = ballot.election;

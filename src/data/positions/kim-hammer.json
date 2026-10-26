@@ -1,0 +1,34 @@
+{
+  "candidateId": "kim-hammer",
+  "website": "https://www.hammerforarkansas.com/",
+  "websiteNote": "From 3 pages of their campaign website.",
+  "generatedAt": "2026-10-26T03:31:12.342Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Elections and government": {
+      "summary": "Says they would carry out election laws passed by the Legislature and executive orders from the governor and the president.",
+      "quote": "As Secretary of State, I will work to implement any election laws passed by the Legislature or any executive orders put forth by Governor Sanders or President Trump.",
+      "url": "https://www.hammerforarkansas.com/"
+    },
+    "Health care": {
+      "summary": "Says they sponsored laws to expand medical coverage for childhood disorders and to simplify payments for mental health treatment.",
+      "quote": "During the 94th General Assembly, Senator Hammer sponsored legislation to enhance medical coverage for pediatric disorders, to streamline reimbursements for mental health treatment and to protect the integrity of elections.",
+      "url": "https://www.hammerforarkansas.com/about/"
+    },
+    "Schools and education": {
+      "summary": "Says they sponsored laws to help nurses pay for doctoral degrees and to make foster children eligible for state scholarships.",
+      "quote": "In past sessions, Senator Hammer sponsored legislation to make it easier for nurses to get funds to pay for their doctoral degree, to make foster children eligible for state scholarships and to strengthen the Arkansas Whistle-Blower Act.",
+      "url": "https://www.hammerforarkansas.com/about/"
+    },
+    "Farming and rural life": {
+      "summary": "Says they sponsored bills to help rural fire departments and the state Forestry Commission.",
+      "quote": "Senator Hammer has sponsored bills helping rural fire departments and the state Forestry Commission.",
+      "url": "https://www.hammerforarkansas.com/about/"
+    }
+  },
+  "photo": {
+    "src": "/candidates/kim-hammer.jpg",
+    "credit": "Official portrait, Arkansas State Senate",
+    "sourcePage": "https://senate.arkansas.gov/senators/kim-hammer/"
+  }
+}

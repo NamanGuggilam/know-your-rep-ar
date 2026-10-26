@@ -1,0 +1,44 @@
+{
+  "candidateId": "french-hill",
+  "website": "https://www.electfrench.com",
+  "websiteNote": "From 1 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:34:28.841Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says they passed a law to cut red tape and help small businesses and startups get funding.",
+      "quote": "He passed the INVEST Act to cut red tape and expand access to capital for small businesses, startups, and entrepreneurs, and introduced the S-CAP Act to create new ownership opportunities for Arkansas workers.",
+      "url": "https://www.electfrench.com"
+    },
+    "Taxes and spending": {
+      "summary": "Says they introduced a bill to cap the federal long-term capital gains tax at 15 percent.",
+      "quote": "He also introduced legislation to cap the federal long-term capital gains tax at 15 percent and promote responsible use of artificial intelligence in financial services to keep America competitive.",
+      "url": "https://www.electfrench.com"
+    },
+    "Health care": {
+      "summary": "Says they backed a bill to lower health insurance premiums and make health care more affordable.",
+      "quote": "He also backed the Lower Healthcare Premiums for All Americans Act to reduce insurance costs and make healthcare more affordable for working families.",
+      "url": "https://www.electfrench.com"
+    },
+    "Immigration": {
+      "summary": "Says they backed the Secure the Border Act and the No Sanctuary for Criminals Act.",
+      "quote": "French backed the Secure the Border Act and the No Sanctuary for Criminals Act.",
+      "url": "https://www.electfrench.com"
+    },
+    "Public safety": {
+      "summary": "Says they sponsored two laws aimed at fentanyl and drug overdoses.",
+      "quote": "He sponsored the Preventing Overdoses and Saving Lives Act 2.0 and the Fentanyl Sanctions Act, both of which were signed into law by President Trump to keep our most vulnerable safe.",
+      "url": "https://www.electfrench.com"
+    },
+    "Energy and the environment": {
+      "summary": "Says they introduced a law to protect wilderness land in Perry County.",
+      "quote": "French introduced the Flatside Wilderness Act to set aside wilderness in Perry County, to make the area more accessible to visitors, and to ensure the Flatside Wilderness remains an integral part of what makes Arkansas the “Natural State”.",
+      "url": "https://www.electfrench.com"
+    }
+  },
+  "photo": {
+    "src": "/candidates/french-hill.jpg",
+    "credit": "Wikimedia Commons (public domain), Brian Thorpe, House Creative Services",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hill_French_119th_Congress.jpg"
+  }
+}

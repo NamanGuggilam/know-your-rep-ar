@@ -1,0 +1,64 @@
+{
+  "candidateId": "jeff-wadlin",
+  "website": "https://www.jeffwadlin.com",
+  "websiteNote": "From 3 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:33:12.281Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says they would end broad tariffs that raise prices on food, equipment, and household goods.",
+      "quote": "We should eliminate broad tariffs that raise the price of food, equipment, vehicles, building materials, and household goods—and end wars of aggression that waste lives, fuel debt, and drive up energy and supply costs.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Taxes and spending": {
+      "summary": "Says they would pass a balanced-budget amendment with a slow transition to avoid sudden cuts.",
+      "quote": "I support a balanced-budget amendment with reasonable emergency provisions and a multiyear transition that avoids sudden, indiscriminate cuts.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Health care": {
+      "summary": "Says they would work to cover everyone by cutting the total cost of health care about in half over time.",
+      "quote": "My goal is straightforward: cover everyone, which requires cutting the total cost of healthcare roughly in half over time.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Immigration": {
+      "summary": "Says they would add border security, more immigration judges, faster asylum decisions, and workplace checks.",
+      "quote": "I support effective border security, faster immigration and asylum decisions, more immigration judges, modern entry-and-exit systems, and reliable workplace verification.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Farming and rural life": {
+      "summary": "Says they would back strong crop insurance and a long-term Farm Bill.",
+      "quote": "I support strong crop insurance and a durable Farm Bill that gives producers long-term certainty instead of temporary extensions and emergency patches.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Schools and education": {
+      "summary": "Says federal student aid should do more for apprenticeships, technical schools, and short programs that lead to jobs.",
+      "quote": "Federal aid should work better for apprenticeships, technical education, industry credentials, and shorter programs that lead directly to employment.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Energy and the environment": {
+      "summary": "Says they would let all energy sources, including nuclear, natural gas, solar, and wind, compete on cost and performance.",
+      "quote": "I support an all-of-the-above strategy that allows nuclear power, natural gas, solar, wind, hydroelectric power, geothermal energy, storage, efficiency, and future technologies to compete on performance and cost.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Roads and infrastructure": {
+      "summary": "Says roads, bridges, and other projects should be chosen openly, built efficiently, and kept in good repair.",
+      "quote": "Roads, bridges, ports, water systems, broadband, power transmission, and freight networks are essential to growth. Projects should be selected transparently, completed efficiently, and maintained properly—not treated as political trophies.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Elections and government": {
+      "summary": "Says they would support fair voting districts, easier ballot access for independent candidates, and strong open-records laws.",
+      "quote": "I support fair districting, reasonable ballot access for independent and third-party candidates, protection of Arkansas’s citizen-initiative process, and strong open-records laws.",
+      "url": "https://www.jeffwadlin.com/issues"
+    },
+    "Public safety": {
+      "summary": "Says they would end civil asset forfeiture when no one has been convicted of a crime.",
+      "quote": "I support ending civil asset forfeiture when no one has been convicted of a crime.",
+      "url": "https://www.jeffwadlin.com/issues"
+    }
+  },
+  "photo": {
+    "src": "/candidates/jeff-wadlin.webp",
+    "credit": "Jeff Wadlin campaign website",
+    "sourcePage": "https://www.jeffwadlin.com/about"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "candidateId": "tom-cotton",
+  "website": "https://www.tomcotton.com",
+  "websiteNote": "From 4 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:30:56.523Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says they bring military and defense industry investments to Arkansas to support local jobs.",
+      "quote": "Senator Cotton has delivered billions in Arkansas investments in Pine Bluff, Fort Ebbing, and across the state. Those investments support good jobs in Arkansas and strengthen America’s ability to deter China, Russia, Iran, and terrorists.",
+      "url": "https://tomcotton.com/issues/"
+    },
+    "Taxes and spending": {
+      "summary": "Says they oppose tax increases and a larger IRS and want people to keep more of their pay.",
+      "quote": "He has voted to stop tax hikes, oppose IRS expansion, and keep more of your paycheck in your pocket.",
+      "url": "https://tomcotton.com/issues/"
+    },
+    "Schools and education": {
+      "summary": "Says they support school choice and want schools to focus on reading, writing, math, history, and civics.",
+      "quote": "Cotton supports school choice so parents can pick the best option for their children. He has pushed to keep politics out of the classroom and focus on reading, writing, math, history, and civics.",
+      "url": "https://tomcotton.com/issues/"
+    },
+    "Health care": {
+      "summary": "Says they work to protect rural hospitals and lower prescription drug costs without more government control of health care.",
+      "quote": "Senator Cotton has fought to protect rural hospitals, expand access to care, and lower prescription drug costs without turning healthcare over to bureaucrats.",
+      "url": "https://tomcotton.com/issues/"
+    },
+    "Public safety": {
+      "summary": "Says they back police and opposed legislation they say would have released violent offenders in Arkansas.",
+      "quote": "Backs the Blue 100% of the time. Helped stop legislation that would have freed violent criminals in Arkansas.",
+      "url": "https://www.tomcotton.com"
+    },
+    "Immigration": {
+      "summary": "Says they back border enforcement, ending catch-and-release, and finishing the border wall.",
+      "quote": "He backed President Trump’s border enforcement policies, fought to end catch-and-release, and pushed to finish the wall.",
+      "url": "https://tomcotton.com/issues/"
+    },
+    "Energy and the environment": {
+      "summary": "Says they support American energy and removing some energy rules to lower costs.",
+      "quote": "Senator Cotton has fought to lower costs by getting rid of the Democrats Green New Deal regulations and supporting American energy, which means lower costs for Arkansans and jobs right here at home.",
+      "url": "https://tomcotton.com/issues/"
+    }
+  },
+  "photo": {
+    "src": "/candidates/tom-cotton.jpg",
+    "credit": "Wikimedia Commons (public domain), U.S. Senate Photo Office",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tom_Cotton_official_Senate_photo.jpg"
+  }
+}

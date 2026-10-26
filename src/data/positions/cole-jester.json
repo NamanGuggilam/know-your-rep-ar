@@ -1,0 +1,24 @@
+{
+  "candidateId": "cole-jester",
+  "website": "https://coleforcommissioner.com/",
+  "websiteNote": "From 1 pages of their campaign website.",
+  "generatedAt": "2026-10-26T03:30:05.404Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Elections and government": {
+      "summary": "Says they would shrink government while making it work more efficiently.",
+      "quote": "Shrink Government WhileBoosting Efficiency",
+      "url": "https://coleforcommissioner.com/"
+    },
+    "Energy and the environment": {
+      "summary": "Says they would expand energy production through state leases.",
+      "quote": "Expand Our Energy DominanceThrough State Leases",
+      "url": "https://coleforcommissioner.com/"
+    }
+  },
+  "photo": {
+    "src": "/candidates/cole-jester.jpg",
+    "credit": "Official portrait, Arkansas Secretary of State",
+    "sourcePage": "https://www.sos.arkansas.gov/"
+  }
+}

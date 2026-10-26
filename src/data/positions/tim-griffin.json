@@ -1,0 +1,24 @@
+{
+  "candidateId": "tim-griffin",
+  "website": "https://timgriffinforag.com/",
+  "websiteNote": "From 5 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:31:14.292Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says that as lieutenant governor they worked to grow jobs by seeking economic development.",
+      "quote": "From 2015-2023, he served as the state’s 20th lieutenant and focused on growing jobs through aggressively pursuing economic development, more parental choice in education and boldly reforming state government.",
+      "url": "https://timgriffinforag.com/meet-tim/"
+    },
+    "Taxes and spending": {
+      "summary": "Says that in Congress they pushed for changes to taxes and entitlement programs to grow jobs and lower the national debt.",
+      "quote": "In Congress, he advocated for bold tax reform and entitlement reform to grow jobs and reduce the national debt.",
+      "url": "https://timgriffinforag.com/meet-tim/"
+    }
+  },
+  "photo": {
+    "src": "/candidates/tim-griffin.jpg",
+    "credit": "Wikimedia Commons (public domain)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rep_Tim_Griffin_Official_Photo.jpg"
+  }
+}

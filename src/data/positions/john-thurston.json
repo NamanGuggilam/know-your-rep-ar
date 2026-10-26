@@ -1,0 +1,12 @@
+{
+  "candidateId": "john-thurston",
+  "websiteNote": "We could not find a campaign website for this candidate.",
+  "generatedAt": "2026-10-26T03:23:56.348Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {},
+  "photo": {
+    "src": "/candidates/john-thurston.jpg",
+    "credit": "Wikimedia Commons (Meganmarkham, CC BY-SA 4.0)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Arkansas_Secretary_of_State_John_Thurston_(cropped).jpg"
+  }
+}

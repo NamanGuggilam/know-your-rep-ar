@@ -1,0 +1,54 @@
+{
+  "candidateId": "leslie-rutledge",
+  "website": "https://www.leslierutledge.com",
+  "websiteNote": "From 3 pages of their campaign website.",
+  "generatedAt": "2026-10-26T03:31:01.858Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Public safety": {
+      "summary": "Says they have committed to never cutting funding for Arkansas law enforcement agencies.",
+      "quote": "I have made an ironclad commitment NEVER to defund Arkansas law enforcement agencies",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Jobs and the economy": {
+      "summary": "Says they will keep giving relief to help Arkansas small businesses grow.",
+      "quote": "As we emerge from this pandemic, I promise to continue to provide relief to stabilize, foster, and grow Arkansas’s small businesses.",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Elections and government": {
+      "summary": "Says every Arkansas elected official should be easy to reach and held accountable.",
+      "quote": "Every single one of Arkansas’s elected officials needs to be accessible and held to account.",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Health care": {
+      "summary": "Says they won a U.S. Supreme Court case on pharmacy benefit managers that they say will lower drug costs.",
+      "quote": "Won an 8-0 decision in the Supreme Court of the United States, against pharmacy benefit managers and for independent pharmacies. This will ultimately lower prescription drug costs for all Arkansans.",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Immigration": {
+      "summary": "Says they pushed federal officials to arrest and remove immigrants here unlawfully who were convicted of sex crimes.",
+      "quote": "Pushed the Biden Administration to arrest and remove unlawful immigrants convicted of sex crimes.",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Energy and the environment": {
+      "summary": "Says they challenged a federal power plant rule that they say would have raised Arkansans' electric rates.",
+      "quote": "Challenged the Obama Administration’s “Clean Power Plan” that would have raised rates on Arkansans and prevented our own state leaders from ensuring our air is clean.",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Farming and rural life": {
+      "summary": "Says they joined a lawsuit to stop a federal water rule that they say would have hurt Arkansas farmers and ranchers.",
+      "quote": "Joined a lawsuit to stop the EPA’s Water of the United States Rule. These burdensome, one-size-fits-all regulations would have decimated farmers and ranchers in Arkansas.",
+      "url": "https://www.leslierutledge.com/record"
+    },
+    "Taxes and spending": {
+      "summary": "Says they sued the federal government to protect the state's power to lower taxes.",
+      "quote": "Sued President Biden to protect our state's authority to lower taxes for Arkansans.",
+      "url": "https://www.leslierutledge.com/record"
+    }
+  },
+  "photo": {
+    "src": "/candidates/leslie-rutledge.jpg",
+    "credit": "Gage Skidmore, Wikimedia Commons (CC BY-SA 2.0)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Leslie_Rutledge_(25475720912)_(1).jpg"
+  }
+}

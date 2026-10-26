@@ -6,6 +6,8 @@ const NAV = [
   { href: "/", label: "My ballot" },
   { href: "/who-does-what", label: "Who does what" },
   { href: "/vote", label: "How to vote" },
+  { href: "/search", label: "Search" },
+  { href: "/ask", label: "Ask" },
   { href: "/about", label: "About" },
 ];
 

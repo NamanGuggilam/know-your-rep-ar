@@ -1,0 +1,19 @@
+{
+  "candidateId": "dennis-milligan",
+  "website": "https://www.dennismilligan.com/",
+  "websiteNote": "From 4 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:30:04.442Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Elections and government": {
+      "summary": "Says they would look at growing the state's unclaimed property matching program so it covers businesses and heirs, not just individuals.",
+      "quote": "The Auditor’s office is just beginning to see the full potential of its Data Match program, and Milligan plans to explore ways to expand the program in his second term to businesses and heirs rather than only individuals as it currently applies.",
+      "url": "https://www.dennismilligan.com/"
+    }
+  },
+  "photo": {
+    "src": "/candidates/dennis-milligan.jpg",
+    "credit": "Official portrait, Arkansas Auditor of State",
+    "sourcePage": "https://auditor.ar.gov/about-us/about-dennis-milligan/"
+  }
+}

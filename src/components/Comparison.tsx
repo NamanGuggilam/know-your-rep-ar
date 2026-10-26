@@ -24,7 +24,10 @@ export function Comparison({
         <h2 id={headingId} className="text-3xl font-bold">
           {contest.office}
         </h2>
-        <Link href={`/who-does-what#${contest.role === "statewide" ? "statewide" : contest.role}`} className="font-semibold">
+        <Link
+          href={`/who-does-what#${contest.role === "statewide" ? "statewide" : contest.role}`}
+          className="font-semibold"
+        >
           What does this office do?
         </Link>
       </div>
@@ -45,12 +48,29 @@ export function Comparison({
               const site = positions[c.id]?.website;
               return (
                 <th key={c.id} scope="col" className={`compare-head party-bar-${partyKey(c.party)}`}>
-                  <span className="block font-display text-xl leading-tight font-bold">{c.name}</span>
+                  {/* Photos are copies saved with credit, so a plain img keeps it simple. */}
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={positions[c.id]?.photo?.src ?? "/candidates/placeholder.svg"}
+                    alt={positions[c.id]?.photo ? `Photo of ${c.name}` : ""}
+                    width={96}
+                    height={116}
+                    loading="lazy"
+                    className="mb-3 h-[116px] w-24 rounded bg-surface-2 object-cover"
+                  />
+                  <Link href={`/candidates/${c.id}`} className="block font-display text-xl leading-tight font-bold">
+                    {c.name}
+                  </Link>
                   <span className="mt-2 block">
                     <PartyBadge party={c.party} />
                   </span>
                   {c.currentOffice && (
                     <span className="mt-2 block text-sm font-normal text-ink-muted">Currently: {c.currentOffice}</span>
+                  )}
+                  {positions[c.id]?.photo && (
+                    <span className="mt-2 block text-xs font-normal text-ink-muted">
+                      Photo: {positions[c.id]!.photo!.credit}
+                    </span>
                   )}
                   {site && (
                     <span className="mt-2 block text-sm font-normal">
@@ -86,7 +106,11 @@ export function Comparison({
                       </>
                     ) : (
                       <p className="text-ink-muted italic">
-                        {data ? "Not stated on their campaign website." : "Not gathered yet."}
+                        {!data
+                          ? "Not gathered yet."
+                          : data.website
+                            ? "Not stated on their campaign website."
+                            : "No campaign website found."}
                       </p>
                     )}
                   </td>

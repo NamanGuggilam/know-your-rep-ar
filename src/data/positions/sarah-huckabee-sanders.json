@@ -1,0 +1,13 @@
+{
+  "candidateId": "sarah-huckabee-sanders",
+  "website": "https://sarahforgovernor.com",
+  "websiteNote": "From 1 pages of their campaign website.",
+  "generatedAt": "2026-10-26T03:30:57.684Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {},
+  "photo": {
+    "src": "/candidates/sarah-huckabee-sanders.jpg",
+    "credit": "Gage Skidmore, Wikimedia Commons (CC BY-SA 4.0)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Governor_Sarah_Huckabee_Sanders_2026.jpg"
+  }
+}

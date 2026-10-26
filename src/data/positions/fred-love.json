@@ -1,0 +1,39 @@
+{
+  "candidateId": "fred-love",
+  "website": "https://www.fredlove.com/",
+  "websiteNote": "From 4 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:30:58.946Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says they would grow the economy in every part of Arkansas by investing in infrastructure, workers, and small businesses.",
+      "quote": "Fred is committed to building an economy that works for every corner of Arkansas—from the Delta to the Ozarks—by investing in infrastructure, workforce, and small businesses, this will allow communties to thrive.",
+      "url": "https://www.fredlove.com/issues"
+    },
+    "Roads and infrastructure": {
+      "summary": "Says they would rebuild roads, water and sewer systems, and broadband.",
+      "quote": "He will create regional economic hubs, rebuild critical infrastructure like roads, water, sewer, and broadband, and expand career pathways through apprenticeships, entrepreneurship, and workforce training.",
+      "url": "https://www.fredlove.com/issues"
+    },
+    "Schools and education": {
+      "summary": "Says they would invest in reading and early education so every student reads on grade level.",
+      "quote": "Fred will ensure every student reads on grade level by investing in literacy, providing the proper resources, and strengthening early education.",
+      "url": "https://www.fredlove.com/issues"
+    },
+    "Public safety": {
+      "summary": "Says they would stop building the planned 3,000-bed Franklin County prison and focus on rehabilitation and reentry programs.",
+      "quote": "He will stop the construction of the costly 3,000-bed Franklin County prison that fails to solve long-term issues and instead focus on rehabilitation, workforce training, and reentry programs that reduce repeat offenses.",
+      "url": "https://www.fredlove.com/issues"
+    },
+    "Health care": {
+      "summary": "Says they would protect Medicaid and expand maternal and mental health care, including through telehealth.",
+      "quote": "Fred will protect Medicaid, expand access to maternal and mental health services across the state, and use telehealth to reach underserved and rural communities.",
+      "url": "https://www.fredlove.com/issues"
+    }
+  },
+  "photo": {
+    "src": "/candidates/fred-love.jpg",
+    "credit": "Arkansas Farm Bureau, Wikimedia Commons (CC BY 3.0)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rep_Fredrick_J_Love.jpg"
+  }
+}

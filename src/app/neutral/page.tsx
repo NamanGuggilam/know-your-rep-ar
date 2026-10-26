@@ -30,6 +30,10 @@ const RULES = [
     body: "When we use AI to explain a bill in plain English, we label it clearly and link to the full official text. The AI is told to describe only what a bill does, never whether it is good or bad.",
   },
   {
+    title: "The question helper never takes sides.",
+    body: "The Ask feature answers only from this app's sources and shows which ones it used. It will not say who to vote for or whether anyone is good or bad. When you ask about a race, it covers every candidate the same way.",
+  },
+  {
     title: "Your message is your own.",
     body: "The “Help me write a message” tool only uses the words you type. It never adds opinions or tells you what to think.",
   },

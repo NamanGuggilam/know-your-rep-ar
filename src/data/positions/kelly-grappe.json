@@ -1,0 +1,34 @@
+{
+  "candidateId": "kelly-grappe",
+  "website": "https://www.kellygrappe.com/",
+  "websiteNote": "From 14 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:31:09.970Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Elections and government": {
+      "summary": "Says they would show the public how Arkansas voting machines, testing, security, and vote counting work.",
+      "quote": "I want to lift up the hood on Arkansas elections and show people how our systems actually work — from the machines and testing to the security measures, paper records, tabulation and verification.",
+      "url": "https://www.kellygrappe.com/priorities"
+    },
+    "Jobs and the economy": {
+      "summary": "Says they would make state business filing steps simpler and easier to understand without removing legal requirements.",
+      "quote": "The goal isn’t to eliminate requirements that exist in law. It’s to make complying with them as simple and understandable as we reasonably can.",
+      "url": "https://www.kellygrappe.com/priorities"
+    },
+    "Schools and education": {
+      "summary": "Says they would create civic education materials that schools, libraries, and community groups can use.",
+      "quote": "I want the Secretary of State’s office to create practical, nonpartisan resources that schools, libraries, counties and community organizations can use.",
+      "url": "https://www.kellygrappe.com/priorities"
+    },
+    "Farming and rural life": {
+      "summary": "Says they would run an office that listens to all counties and serves people who live far from the Capitol.",
+      "quote": "I want an office that listens to all 75 counties and remembers that state government serves the people who live miles from the Capitol just as much as the people who can see its dome from their office window.",
+      "url": "https://www.kellygrappe.com/about"
+    }
+  },
+  "photo": {
+    "src": "/candidates/kelly-grappe.webp",
+    "credit": "Kelly Grappe campaign website",
+    "sourcePage": "https://www.kellygrappe.com/"
+  }
+}

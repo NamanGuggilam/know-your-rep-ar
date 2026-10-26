@@ -1,0 +1,44 @@
+{
+  "candidateId": "chris-jones",
+  "website": "https://chrisjonesforcongress.com",
+  "websiteNote": "From 14 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:30:58.603Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says they would help small businesses and local entrepreneurs with financing, training, and access to markets.",
+      "quote": "Supporting the creation, expansion, and sustainability of small businesses & local entrepreneurs through financing, training, and market access.",
+      "url": "https://chrisjonesforcongress.com/opportunity/"
+    },
+    "Schools and education": {
+      "summary": "Says they would invest in early childhood education, apprenticeships, and training in technology and the trades.",
+      "quote": "Our government should invest in our people. Early childhood education, hands-on apprenticeships, and training in both technology and the trades will prepare our children and our workforce for tomorrow.",
+      "url": "https://chrisjonesforcongress.com"
+    },
+    "Health care": {
+      "summary": "Says they would expand access to affordable health care and lower out-of-pocket costs.",
+      "quote": "Expand access to quality, affordable healthcare and lowering out-of-pocket costs for individuals and working families.",
+      "url": "https://chrisjonesforcongress.com/affordability/"
+    },
+    "Energy and the environment": {
+      "summary": "Says they would add more affordable housing and bring down home energy costs.",
+      "quote": "Increase the availability of safe, affordable housing options for homeowners, renters, and first-time buyers while also bringing energy costs within the home down.",
+      "url": "https://chrisjonesforcongress.com/affordability/"
+    },
+    "Roads and infrastructure": {
+      "summary": "Says they would expand reliable high-speed internet, especially in rural and underserved areas.",
+      "quote": "Increase access to reliable high-speed internet, particularly in underserved and rural areas, to support workforce operations and education.",
+      "url": "https://chrisjonesforcongress.com/opportunity/"
+    },
+    "Elections and government": {
+      "summary": "Says they would reform campaign finance and require accurate public reporting of political spending.",
+      "quote": "Establish finance reform in the process of campaigns, disclosing political spending accurately to voters.",
+      "url": "https://chrisjonesforcongress.com/accountability/"
+    }
+  },
+  "photo": {
+    "src": "/candidates/chris-jones.jpg",
+    "credit": "Wikimedia Commons (CC0)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chris_Jones_Congressional_Campaign.jpg"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "candidateId": "hallie-shoffner",
+  "website": "https://www.hallieshoffner.com",
+  "websiteNote": "From 5 pages of their campaign website, including its issues section.",
+  "generatedAt": "2026-10-26T03:30:55.604Z",
+  "model": "Claude (reviewed by code)",
+  "positions": {
+    "Jobs and the economy": {
+      "summary": "Says they would raise the minimum wage, expand job training, and help local businesses grow.",
+      "quote": "That means raising the minimum wage, expanding workforce training, cutting taxes for working families, giving local businesses the resources they need to thrive, cutting red tape, and modernizing infrastructure so people can live near where they work and build real futures here.",
+      "url": "https://www.hallieshoffner.com/platform"
+    },
+    "Taxes and spending": {
+      "summary": "Says they would cut wasteful spending so future generations are not left paying the debt.",
+      "quote": "In the Senate, I will fight to rein in waste, make smart investments in working people, and stop rigging the system so future generations are not stuck with the bill.",
+      "url": "https://www.hallieshoffner.com/platform"
+    },
+    "Schools and education": {
+      "summary": "Says they would raise pay and benefits for teachers and other school staff.",
+      "quote": "I will fight for increased pay, better benefits, and real support for teachers, bus drivers, cafeteria workers, paraprofessionals, and staff who keep our schools running.",
+      "url": "https://www.hallieshoffner.com/platform"
+    },
+    "Health care": {
+      "summary": "Says they would lower prescription drug prices, strengthen the Affordable Care Act, and protect Medicare and Medicaid.",
+      "quote": "I will fight to protect our hospitals, lower prescription drug prices, strengthen the Affordable Care Act, protect Medicare and Medicaid, cut red tape, and hold insurance companies accountable.",
+      "url": "https://www.hallieshoffner.com/platform"
+    },
+    "Public safety": {
+      "summary": "Says they would give local police and first responders more training, staff, and mental health support.",
+      "quote": "Keeping Arkansas safe means supporting local law enforcement and first responders with the training, staffing, mental health support, and strong unions they need to do their jobs safely.",
+      "url": "https://www.hallieshoffner.com/platform"
+    },
+    "Farming and rural life": {
+      "summary": "Says they would help farmers stay in business by growing a wider mix of products and building local food markets.",
+      "quote": "We need to give farmers more ways to stay in business. That means expanding agricultural diversification and building regional food systems that create new markets close to home.",
+      "url": "https://www.hallieshoffner.com/platform"
+    }
+  },
+  "photo": {
+    "src": "/candidates/hallie-shoffner.jpg",
+    "credit": "Wikimedia Commons (CC0)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hallie_Shoffner_headshot_003.jpg"
+  }
+}
