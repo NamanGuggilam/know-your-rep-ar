@@ -84,7 +84,7 @@ export default async function CandidatePage({ params }: PageProps<"/candidates/[
                 {p ? (
                   <>
                     <p>{p.summary}</p>
-                    <blockquote className="mt-2 border-l-4 border-line pl-3 text-ink-muted">
+                    <blockquote lang="en" translate="no" className="mt-2 border-l-4 border-line pl-3 text-ink-muted">
                       &ldquo;{p.quote}&rdquo;
                     </blockquote>
                     <p className="mt-1 text-sm">

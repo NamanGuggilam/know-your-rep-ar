@@ -304,6 +304,15 @@ html[data-theme="contrast"] .btn {
 .party-ring-o {
   border-color: var(--party-o);
 }
+.party-topbar-r {
+  border-top-color: var(--party-r);
+}
+.party-topbar-d {
+  border-top-color: var(--party-d);
+}
+.party-topbar-o {
+  border-top-color: var(--party-o);
+}
 .party-bar-r {
   border-top: 6px solid var(--party-r);
 }

@@ -3,14 +3,17 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { A11yButton, A11yDialog } from "./a11y/A11yMenu";
+import { A11yButton, A11yDialog, LanguageButton } from "./a11y/A11yMenu";
+import { useA11y } from "./a11y/settings";
 import { CloseIcon, SiteMark } from "./icons";
 
 // "Ask" stays off the menu until AI answers are switched on; /ask still works directly.
 const NAV = [
   { href: "/", label: "My ballot" },
   { href: "/who-does-what", label: "Who does what" },
+  { href: "/elections", label: "Elections" },
   { href: "/vote", label: "How to vote" },
+  { href: "/results", label: "Results" },
   { href: "/search", label: "Search" },
   { href: "/about", label: "About" },
 ];
@@ -33,6 +36,7 @@ function MenuIcon() {
 
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
+  const { settings } = useA11y();
   const path = usePathname();
   // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(() => setOpen(false), [path]);
@@ -46,13 +50,21 @@ export function SiteHeader() {
     <header>
       {/* Where government sites say "official website", we say plainly that we are not one. */}
       <div className="border-b border-line-soft bg-surface-2">
-        <p className="mx-auto max-w-6xl px-4 py-1.5 text-sm text-ink">
-          An independent, nonpartisan student project. Not a government website.{" "}
-          <Link href="/neutral" className="whitespace-nowrap">
-            How we stay neutral
-          </Link>
-        </p>
+        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-4 px-4 py-1 text-sm">
+          <p className="py-1.5">
+            An independent, nonpartisan student project. Not a government website.{" "}
+            <Link href="/neutral" className="whitespace-nowrap">
+              How we stay neutral
+            </Link>
+          </p>
+          <LanguageButton />
+        </div>
       </div>
+      {settings.lang !== "en" && (
+        <p className="border-b border-line-soft bg-accent-soft px-4 py-2 text-center text-sm">
+          This page was translated by computer and may have mistakes. Native speakers: help us fix them.
+        </p>
+      )}
 
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-4">
         <Link href="/" className="flex min-w-0 items-center gap-3 text-ink no-underline">
@@ -78,7 +90,7 @@ export function SiteHeader() {
       </div>
 
       <nav aria-label="Main" className="hidden bg-navy lg:block">
-        <ul className="mx-auto flex max-w-6xl px-2">
+        <ul className="mx-auto flex max-w-6xl flex-wrap px-2">
           {NAV.map((n) => {
             const on = isOn(n.href);
             return (

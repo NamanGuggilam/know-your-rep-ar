@@ -60,7 +60,9 @@ export function Stances({ data, office, name }: { data: StanceFile | null; offic
           <ul className="mt-3 grid gap-2 sm:grid-cols-2">
             {data.committees.map((c) => (
               <li key={c.name} className="card px-4 py-3">
-                {c.name}
+                <span lang="en" translate="no">
+                  {c.name}
+                </span>
                 {c.role && <strong> — {c.role}</strong>}
               </li>
             ))}
@@ -119,7 +121,7 @@ export function Stances({ data, office, name }: { data: StanceFile | null; offic
                         {t.statements.map((s) => (
                           <li key={s.quote}>
                             <p>{s.summary}</p>
-                            <blockquote className="mt-1 border-l-4 border-line pl-3 text-ink-muted">
+                            <blockquote lang="en" translate="no" className="mt-1 border-l-4 border-line pl-3 text-ink-muted">
                               &ldquo;{s.quote}&rdquo;
                             </blockquote>
                             <p className="mt-1 text-sm">
@@ -142,11 +144,17 @@ export function Stances({ data, office, name }: { data: StanceFile | null; offic
                             </p>
                             {b.plain && <p className="mt-1">{b.plain}</p>}
                             <p className="mt-1 text-sm text-ink-muted">
-                              <span className="font-semibold">Official title:</span> {b.title}
+                              <span className="font-semibold">Official title:</span>{" "}
+                              <span lang="en" translate="no">
+                                {b.title}
+                              </span>
                             </p>
                             {b.status && (
                               <p className="mt-1 text-sm">
-                                <span className="font-semibold">Latest step:</span> {b.status}
+                                <span className="font-semibold">Latest step:</span>{" "}
+                                <span lang="en" translate="no">
+                                  {b.status}
+                                </span>
                               </p>
                             )}
                           </li>

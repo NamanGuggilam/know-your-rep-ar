@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Atkinson_Hyperlegible_Next, Merriweather, Public_Sans } from "next/font/google";
 import { A11yProvider, BOOT_SCRIPT } from "@/components/a11y/settings";
+import { Translator } from "@/components/a11y/Translator";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { ServiceWorker } from "@/components/ServiceWorker";
@@ -63,6 +64,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             {children}
           </main>
           <SiteFooter />
+          <Translator />
         </A11yProvider>
         <ServiceWorker />
       </body>

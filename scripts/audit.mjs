@@ -3,7 +3,7 @@
 import { chromium } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 const base = process.argv[2] ?? "http://localhost:3210";
-const PAGES = ["/", "/ballot?cd=3&ss=33&sh=13", "/ballot?cd=2&ss=14&sh=74", "/who-does-what", "/vote", "/neutral", "/about", "/privacy", "/accessibility", "/offline", "/rep/W000809", "/search?q=agriculture", "/ask", "/candidates/hallie-shoffner", "/my-reps"];
+const PAGES = ["/", "/ballot?cd=3&ss=33&sh=13", "/ballot?cd=2&ss=14&sh=74", "/who-does-what", "/vote", "/neutral", "/about", "/privacy", "/accessibility", "/offline", "/elections", "/results", "/rep/W000809", "/search?q=agriculture", "/ask", "/candidates/hallie-shoffner", "/my-reps"];
 const MODES = [
   { name: "light", settings: { theme: "light" } },
   { name: "dark", settings: { theme: "dark" } },
@@ -14,7 +14,7 @@ let problems = 0;
 for (const vp of [{ width: 390, height: 844 }, { width: 1280, height: 900 }]) {
   for (const mode of MODES) {
     const ctx = await browser.newContext({ viewport: vp });
-    await ctx.addInitScript((s) => localStorage.setItem("kyr-a11y-v2", JSON.stringify(s)), mode.settings);
+    await ctx.addInitScript((s) => localStorage.setItem("kyr-a11y-v2", JSON.stringify({ lang: "en", ...s })), mode.settings);
     const page = await ctx.newPage();
     for (const path of PAGES) {
       await page.goto(base + path, { waitUntil: "networkidle" });

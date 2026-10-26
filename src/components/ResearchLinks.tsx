@@ -1,4 +1,4 @@
-import type { CompareTopic } from "@/lib/ballot";
+import type { CompareTopic } from "@/lib/topics";
 
 // Plain words to search the news with, for each topic.
 const TOPIC_WORDS: Record<CompareTopic, string> = {

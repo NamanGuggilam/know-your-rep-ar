@@ -9,6 +9,9 @@ Type your address and see:
 - **Where they stand.** Each official's role, committees, and the bills they sponsored, from official records.
 - **Who does what.** The powers and responsibilities of each office, in plain English.
 - **How to vote.** A first-time voter guide that links to official Arkansas Secretary of State resources.
+- **Elections and key dates.** What each kind of election is, the official 2026 calendar, and how, where, and when to register.
+- **Live results.** Official election-night results from the Arkansas Secretary of State's results system, refreshed every minute.
+- **Five languages.** English, Spanish, Marshallese, Vietnamese, and Chinese (the languages most spoken in Arkansas homes), from the Accessibility and language menu. Candidates' quotes stay in their original words.
 
 ## Built for everyone
 
@@ -39,7 +42,8 @@ See the in-app "How we stay neutral" page for the full rules.
 | State bills and committees | Arkansas State Legislature (arkleg.state.ar.us) |
 | 2026 candidates and ballot order | Official sample ballot, Arkansas Secretary of State |
 | Candidate positions | Candidates' own websites and direct quotes (sources shown on every entry) |
-| Voter information | Arkansas Secretary of State |
+| Voter information, 2026 calendar | Arkansas Secretary of State |
+| Live results | Arkansas Secretary of State results system (Tally) |
 
 ## Run it locally
 

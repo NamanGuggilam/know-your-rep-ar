@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
+import { CandidatePicker } from "@/components/CandidatePicker";
 import { Comparison, UnopposedCard } from "@/components/Comparison";
 import { RaceAsk } from "@/components/RaceAsk";
 import { RaceTabs } from "@/components/RaceTabs";
@@ -130,6 +131,10 @@ async function BallotBody({ searchParams }: { searchParams: PageProps<"/ballot">
             contested.map((c) => [
               c.id,
               <div key={c.id}>
+                <CandidatePicker
+                  contest={c}
+                  positions={Object.fromEntries(c.candidates.map((k) => [k.id, positions[k.id]]))}
+                />
                 <Comparison contest={c} positions={positions} />
                 <RaceAsk race={c.office} names={c.candidates.map((k) => k.name)} />
               </div>,

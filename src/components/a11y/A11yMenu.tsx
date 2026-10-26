@@ -1,12 +1,15 @@
 "use client";
 
 import { useRef } from "react";
-import { AccessIcon, CloseIcon } from "../icons";
+import { AccessIcon, CloseIcon, GlobeIcon } from "../icons";
+import { LANGUAGES } from "@/lib/i18n/languages";
 import { useA11y, type A11ySettings } from "./settings";
 
 interface Choice<K extends keyof A11ySettings> {
   value: A11ySettings[K];
   label: string;
+  /** Language of the label itself, so screen readers pronounce "Español" correctly. */
+  lang?: string;
 }
 
 function ChoiceGroup<K extends keyof A11ySettings>({
@@ -45,7 +48,9 @@ function ChoiceGroup<K extends keyof A11ySettings>({
                 onChange={() => update({ [name]: c.value } as Partial<A11ySettings>)}
                 className="size-5 accent-[var(--accent)]"
               />
-              {c.label}
+              <span lang={c.lang} translate={c.lang ? "no" : undefined}>
+                {c.label}
+              </span>
               {checked && <span className="sr-only"> (selected)</span>}
             </label>
           );
@@ -73,6 +78,29 @@ export function A11yButton() {
   );
 }
 
+/** A small "Language" link-style button that opens the same dialog. */
+export function LanguageButton() {
+  const { settings } = useA11y();
+  const current = LANGUAGES.find((l) => l.code === settings.lang) ?? LANGUAGES[0];
+  return (
+    <button
+      type="button"
+      aria-haspopup="dialog"
+      aria-controls={DIALOG_ID}
+      onClick={() => (document.getElementById(DIALOG_ID) as HTMLDialogElement | null)?.showModal()}
+      className="inline-flex min-h-11 items-center gap-1 font-semibold text-accent underline underline-offset-4"
+    >
+      <GlobeIcon size={18} />
+      <span translate="no" lang="en">
+        Language:
+      </span>{" "}
+      <span lang={current.code} translate="no">
+        {current.native}
+      </span>
+    </button>
+  );
+}
+
 /** The settings dialog. Render exactly once per page. */
 export function A11yDialog() {
   const ref = useRef<HTMLDialogElement>(null);
@@ -90,7 +118,7 @@ export function A11yDialog() {
     >
       <div className="sticky top-0 z-10 flex flex-wrap items-center justify-between gap-3 border-b border-line-soft bg-surface px-5 py-3">
         <h2 id="a11y-title" className="text-xl font-extrabold">
-          Accessibility settings
+          Accessibility and language
         </h2>
         <button type="button" className="btn btn-secondary flex-none" onClick={() => ref.current?.close()}>
           <CloseIcon />
@@ -98,7 +126,15 @@ export function A11yDialog() {
         </button>
       </div>
       <div className="px-5 pt-4 pb-6">
-        <p className="mb-4 text-ink-muted">Change how this app looks. Your choices are saved on this device only.</p>
+        <p className="mb-4 text-ink-muted">
+          Change the language and how this app looks. Your choices are saved on this device only.
+        </p>
+        <ChoiceGroup
+          name="lang"
+          legend="Language / Idioma / Kajin / Ngôn ngữ / 语言"
+          hint="Translations are made by computer. Candidates' exact words stay in the language they used."
+          choices={LANGUAGES.map((l) => ({ value: l.code, label: l.native, lang: l.code }))}
+        />
         <ChoiceGroup
           name="text"
           legend="Text size"

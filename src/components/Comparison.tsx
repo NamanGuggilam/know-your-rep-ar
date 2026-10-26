@@ -49,7 +49,7 @@ export function Comparison({
           What does this office do?
         </Link>
       </div>
-      <p className="mt-1 text-ink-muted">{contest.candidates.length} candidates, in official ballot order.</p>
+      <p className="mt-1 text-ink-muted">Compare side by side: {contest.candidates.length} candidates, in official ballot order.</p>
 
       <table className="compare mt-6 w-full border-collapse text-left">
         <caption className="sr-only">
@@ -98,7 +98,7 @@ export function Comparison({
                         <p>{p.summary}</p>
                         <details className="mt-1 text-sm">
                           <summary className="cursor-pointer text-accent underline">Their exact words</summary>
-                          <blockquote className="mt-2 border-l-4 border-line pl-3 text-ink-muted">
+                          <blockquote lang="en" translate="no" className="mt-2 border-l-4 border-line pl-3 text-ink-muted">
                             &ldquo;{p.quote}&rdquo;
                           </blockquote>
                           <p className="mt-1">

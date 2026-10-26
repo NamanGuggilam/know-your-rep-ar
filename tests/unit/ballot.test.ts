@@ -51,3 +51,14 @@ describe("mapPlaces", () => {
     ]);
   });
 });
+
+describe("translation lookup", () => {
+  it("uses exact entries first, then number templates (which may reorder)", async () => {
+    const { lookup } = await import("@/lib/i18n/languages");
+    const dict = { "Show my ballot": "Ver mi boleta", "State House District {0}": "Distrito {0} de la Cámara", "November {0}, {1}": "{1}年11月{0}日" };
+    expect(lookup(dict, "Show my ballot")).toBe("Ver mi boleta");
+    expect(lookup(dict, "State House District 13")).toBe("Distrito 13 de la Cámara");
+    expect(lookup(dict, "November 3, 2026")).toBe("2026年11月3日");
+    expect(lookup(dict, "Something else")).toBeUndefined();
+  });
+});

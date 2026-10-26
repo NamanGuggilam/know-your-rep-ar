@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
+import type { LangCode } from "@/lib/i18n/languages";
 
 export interface A11ySettings {
   theme: "light" | "dark" | "contrast";
@@ -9,6 +10,7 @@ export interface A11ySettings {
   spacing: "normal" | "relaxed" | "extra";
   simple: "off" | "on";
   motion: "system" | "reduce";
+  lang: LangCode;
 }
 
 export const DEFAULTS: A11ySettings = {
@@ -18,6 +20,7 @@ export const DEFAULTS: A11ySettings = {
   spacing: "normal",
   simple: "off",
   motion: "system",
+  lang: "en",
 };
 
 // New key: the default theme changed from dark to light, so older saved settings start fresh.
