@@ -2,7 +2,7 @@
   "candidateId": "tim-griffin",
   "website": "https://timgriffinforag.com/",
   "websiteNote": "From 5 pages of their campaign website, including its issues section.",
-  "generatedAt": "2026-10-26T03:31:14.292Z",
+  "generatedAt": "2026-10-26T04:53:12.866Z",
   "model": "Claude (reviewed by code)",
   "positions": {
     "Jobs and the economy": {
@@ -14,6 +14,42 @@
       "summary": "Says that in Congress they pushed for changes to taxes and entitlement programs to grow jobs and lower the national debt.",
       "quote": "In Congress, he advocated for bold tax reform and entitlement reform to grow jobs and reduce the national debt.",
       "url": "https://timgriffinforag.com/meet-tim/"
+    },
+    "Public safety": {
+      "summary": "Says violent offenders in Arkansas are let out on parole after serving only part of their sentences.",
+      "quote": "Arkansas has a deceptive and dangerous parole problem where violent felons go free after serving only a fraction of their time.",
+      "url": "https://arkansasag.gov/news-release/attorney-general-griffin-praises-protect-arkansas-act/",
+      "source": "Arkansas Attorney General's office, March 27, 2023"
+    },
+    "Health care": {
+      "summary": "Says people who commit Medicaid fraud will face serious penalties.",
+      "quote": "Individuals who submit false claims, misuse Medicaid funds, or exploit programs intended to serve vulnerable Arkansans will face significant consequences.",
+      "url": "https://arkansasag.gov/news-release/attorney-general-griffin-announces-five-medicaid-fraud-arrests-during-national-health-care-fraud-takedown/",
+      "source": "Arkansas Attorney General's office, June 26, 2026"
+    },
+    "Schools and education": {
+      "summary": "Says the state can move ahead with plans for higher teacher pay, maternity leave, and safer schools under the LEARNS law.",
+      "quote": "And the Arkansas Department of Education can immediately resume planning to provide teachers higher salaries and maternity leave, make schools safer for our children, and enable the most vulnerable children to obtain the education they deserve.",
+      "url": "https://arkansasag.gov/?p=1161",
+      "source": "Arkansas Attorney General's office, June 15, 2023"
+    },
+    "Elections and government": {
+      "summary": "Says the voting process and voting machines used in Arkansas follow state law.",
+      "quote": "The voting process and machines used in Arkansas comply with state law.",
+      "url": "https://arkansasag.gov/news-release/attorney-general-griffin-praises-state-supreme-court-decision-on-voting-machines/",
+      "source": "Arkansas Attorney General's office, April 4, 2024"
+    },
+    "Roads and infrastructure": {
+      "summary": "Says the state should use more of its general revenue to pay for highways.",
+      "quote": "I want to see general revenue play a bigger role.",
+      "url": "https://talkbusiness.net/2019/05/lt-gov-griffin-wants-general-revenue-for-highways-longer-term-road-funding-discussion/",
+      "source": "Talk Business & Politics, May 12, 2019"
+    },
+    "Immigration": {
+      "summary": "Says they will keep working to secure the nation's borders.",
+      "quote": "I will continue to fight to secure America’s borders, even if President Biden’s administration won’t.",
+      "url": "https://arkansasag.gov/news-release/attorney-general-griffin-joins-multistate-lawsuit-against-biden-administrations-immigration-parole-policy/",
+      "source": "Arkansas Attorney General's office, Jan 24, 2023"
     }
   },
   "photo": {

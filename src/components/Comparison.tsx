@@ -3,6 +3,7 @@ import { COMPARE_TOPICS, type CandidatePositions, type Contest } from "@/lib/bal
 import { memberSentence, partyKey } from "@/lib/party";
 import { PartyBadge } from "./PartyBadge";
 import { ExtLink } from "./PageIntro";
+import { ResearchLinks } from "./ResearchLinks";
 
 export function CandidatePhoto({ src, name, size = 96 }: { src?: string; name: string; size?: number }) {
   return (
@@ -106,9 +107,12 @@ export function Comparison({
                         </details>
                       </>
                     ) : (
-                      <p className="text-ink-muted">
-                        {!data ? "Not gathered yet." : "Nothing found in their own words."}
-                      </p>
+                      <>
+                        <p className="text-ink-muted">
+                          {!data ? "Not gathered yet." : "Nothing found in their own words."}
+                        </p>
+                        <ResearchLinks name={c.name} topic={topic} website={data?.website} className="mt-1" />
+                      </>
                     )}
                   </td>
                 );
@@ -165,6 +169,7 @@ export function UnopposedCard({ contest, data }: { contest: Contest; data: Candi
             ? "We didn't find their own words on our topics."
             : "No campaign website found, and nothing else in their own words."}
       </p>
+      <ResearchLinks name={c.name} website={data?.website} className="mt-2" />
       <p className="mt-2 text-sm font-semibold">{memberSentence(c.party)}</p>
     </li>
   );

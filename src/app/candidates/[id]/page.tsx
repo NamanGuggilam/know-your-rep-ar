@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PartyBadge } from "@/components/PartyBadge";
 import { ExtLink } from "@/components/PageIntro";
+import { ResearchLinks } from "@/components/ResearchLinks";
 import ballot from "@/data/ballot-2026.json";
 import { COMPARE_TOPICS, ELECTION, getPositions, type Contest } from "@/lib/ballot";
 import { formatUpdated } from "@/lib/format";
@@ -91,13 +92,12 @@ export default async function CandidatePage({ params }: PageProps<"/candidates/[
                     </p>
                   </>
                 ) : (
-                  <p className="text-ink-muted italic">
-                    {!data
-                      ? "Not gathered yet."
-                      : data.website
-                        ? "Not stated on their campaign website."
-                        : "No campaign website found."}
-                  </p>
+                  <>
+                    <p className="text-ink-muted italic">
+                      {!data ? "Not gathered yet." : "Nothing found in their own words."}
+                    </p>
+                    <ResearchLinks name={c.name} topic={t} website={data?.website} className="mt-1" />
+                  </>
                 )}
               </dd>
             </div>
