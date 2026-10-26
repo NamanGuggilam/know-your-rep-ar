@@ -55,101 +55,108 @@ function ChoiceGroup<K extends keyof A11ySettings>({
   );
 }
 
-export function A11yMenu() {
+const DIALOG_ID = "a11y-dialog";
+
+/** Opens the one shared settings dialog. Can appear in more than one place. */
+export function A11yButton() {
+  return (
+    <button
+      type="button"
+      className="btn btn-secondary"
+      aria-haspopup="dialog"
+      aria-controls={DIALOG_ID}
+      onClick={() => (document.getElementById(DIALOG_ID) as HTMLDialogElement | null)?.showModal()}
+    >
+      <AccessIcon />
+      Accessibility
+    </button>
+  );
+}
+
+/** The settings dialog. Render exactly once per page. */
+export function A11yDialog() {
   const ref = useRef<HTMLDialogElement>(null);
   const { reset } = useA11y();
 
   return (
-    <>
-      <button
-        type="button"
-        className="btn btn-secondary"
-        aria-haspopup="dialog"
-        onClick={() => ref.current?.showModal()}
-      >
-        <AccessIcon />
-        Accessibility
-      </button>
-      <dialog
-        ref={ref}
-        aria-labelledby="a11y-title"
-        className="panel m-auto max-h-[90dvh] w-[min(40rem,calc(100vw-2rem))] overflow-y-auto bg-surface p-0 text-ink"
-        onClick={(e) => {
-          if (e.target === ref.current) ref.current.close();
-        }}
-      >
-        <div className="sticky top-0 z-10 flex flex-wrap items-center justify-between gap-3 border-b border-line-soft bg-surface px-5 py-3">
-          <h2 id="a11y-title" className="text-xl font-extrabold">
-            Accessibility settings
-          </h2>
-          <button type="button" className="btn btn-secondary flex-none" onClick={() => ref.current?.close()}>
-            <CloseIcon />
-            Close
-          </button>
-        </div>
-        <div className="px-5 pt-4 pb-6">
-          <p className="mb-4 text-ink-muted">
-            Change how this app looks. Your choices are saved on this device only.
-          </p>
-          <ChoiceGroup
-            name="text"
-            legend="Text size"
-            choices={[
-              { value: "1", label: "Normal" },
-              { value: "2", label: "Large" },
-              { value: "3", label: "Larger" },
-              { value: "4", label: "Largest" },
-            ]}
-          />
-          <ChoiceGroup
-            name="theme"
-            legend="Colors"
-            choices={[
-              { value: "dark", label: "Dark (default)" },
-              { value: "light", label: "Light" },
-              { value: "contrast", label: "High contrast" },
-            ]}
-          />
-          <ChoiceGroup
-            name="font"
-            legend="Font"
-            hint="OpenDyslexic is a font some people with dyslexia find easier to read."
-            choices={[
-              { value: "standard", label: "Standard (Atkinson Hyperlegible Next)" },
-              { value: "dyslexic", label: "OpenDyslexic" },
-            ]}
-          />
-          <ChoiceGroup
-            name="spacing"
-            legend="Line spacing"
-            choices={[
-              { value: "normal", label: "Normal" },
-              { value: "relaxed", label: "More space" },
-              { value: "extra", label: "Most space" },
-            ]}
-          />
-          <ChoiceGroup
-            name="simple"
-            legend="Simple mode"
-            hint="Shows fewer things on each screen, with bigger buttons."
-            choices={[
-              { value: "off", label: "Off" },
-              { value: "on", label: "On" },
-            ]}
-          />
-          <ChoiceGroup
-            name="motion"
-            legend="Motion"
-            choices={[
-              { value: "system", label: "Match my device" },
-              { value: "reduce", label: "Reduce motion" },
-            ]}
-          />
-          <button type="button" className="btn btn-secondary" onClick={reset}>
-            Reset to default settings
-          </button>
-        </div>
-      </dialog>
-    </>
+    <dialog
+      id={DIALOG_ID}
+      ref={ref}
+      aria-labelledby="a11y-title"
+      className="panel m-auto max-h-[90dvh] w-[min(40rem,calc(100vw-2rem))] overflow-y-auto bg-surface p-0 text-ink"
+      onClick={(e) => {
+        if (e.target === ref.current) ref.current.close();
+      }}
+    >
+      <div className="sticky top-0 z-10 flex flex-wrap items-center justify-between gap-3 border-b border-line-soft bg-surface px-5 py-3">
+        <h2 id="a11y-title" className="text-xl font-extrabold">
+          Accessibility settings
+        </h2>
+        <button type="button" className="btn btn-secondary flex-none" onClick={() => ref.current?.close()}>
+          <CloseIcon />
+          Close
+        </button>
+      </div>
+      <div className="px-5 pt-4 pb-6">
+        <p className="mb-4 text-ink-muted">Change how this app looks. Your choices are saved on this device only.</p>
+        <ChoiceGroup
+          name="text"
+          legend="Text size"
+          choices={[
+            { value: "1", label: "Normal" },
+            { value: "2", label: "Large" },
+            { value: "3", label: "Larger" },
+            { value: "4", label: "Largest" },
+          ]}
+        />
+        <ChoiceGroup
+          name="theme"
+          legend="Colors"
+          choices={[
+            { value: "dark", label: "Dark (default)" },
+            { value: "light", label: "Light" },
+            { value: "contrast", label: "High contrast" },
+          ]}
+        />
+        <ChoiceGroup
+          name="font"
+          legend="Font"
+          hint="OpenDyslexic is a font some people with dyslexia find easier to read."
+          choices={[
+            { value: "standard", label: "Standard (Atkinson Hyperlegible Next)" },
+            { value: "dyslexic", label: "OpenDyslexic" },
+          ]}
+        />
+        <ChoiceGroup
+          name="spacing"
+          legend="Line spacing"
+          choices={[
+            { value: "normal", label: "Normal" },
+            { value: "relaxed", label: "More space" },
+            { value: "extra", label: "Most space" },
+          ]}
+        />
+        <ChoiceGroup
+          name="simple"
+          legend="Simple mode"
+          hint="Shows fewer things on each screen, with bigger buttons."
+          choices={[
+            { value: "off", label: "Off" },
+            { value: "on", label: "On" },
+          ]}
+        />
+        <ChoiceGroup
+          name="motion"
+          legend="Motion"
+          choices={[
+            { value: "system", label: "Match my device" },
+            { value: "reduce", label: "Reduce motion" },
+          ]}
+        />
+        <button type="button" className="btn btn-secondary" onClick={reset}>
+          Reset to default settings
+        </button>
+      </div>
+    </dialog>
   );
 }

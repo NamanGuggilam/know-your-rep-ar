@@ -168,8 +168,8 @@ a:hover {
 /* Manga-panel cards: hard ink border and an offset shadow, no soft blur. */
 .card {
   background: var(--surface);
-  border: 2px solid var(--line-soft);
-  border-radius: 4px;
+  border: 1px solid var(--line-soft);
+  border-radius: 6px;
 }
 .panel {
   background: var(--surface);
@@ -198,7 +198,9 @@ html[data-theme="contrast"] .btn {
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  /* At the largest text sizes a long word can be wider than a phone screen. */
+  /* Buttons keep their size in a row (the row wraps instead).
+     At the largest text sizes a long word can be wider than a phone screen, so cap the width. */
+  flex-shrink: 0;
   max-width: 100%;
   overflow-wrap: anywhere;
   transition:
@@ -209,20 +211,14 @@ html[data-theme="contrast"] .btn {
 .btn-primary {
   background: var(--accent);
   color: var(--accent-ink);
-  box-shadow: 3px 3px 0 var(--ink);
 }
 .btn-primary:hover {
-  transform: translate(-1px, -1px);
-  box-shadow: 4px 4px 0 var(--ink);
-}
-.btn-primary:active {
-  transform: translate(2px, 2px);
-  box-shadow: 1px 1px 0 var(--ink);
+  filter: brightness(1.1);
 }
 .btn-secondary {
   background: transparent;
   color: var(--ink);
-  border-color: var(--line);
+  border-color: var(--line-soft);
 }
 .btn-secondary:hover {
   border-color: var(--accent);
@@ -262,6 +258,8 @@ html[data-theme="contrast"] .btn {
 /* Party labels: always the party name in words, plus its color. Never color alone. */
 .party {
   display: inline-flex;
+  flex-wrap: wrap;
+  max-width: 100%;
   align-items: center;
   gap: 0.4rem;
   padding: 0.15rem 0.6rem;
@@ -280,6 +278,15 @@ html[data-theme="contrast"] .btn {
 .party-o {
   background: var(--party-o);
   color: var(--party-o-ink);
+}
+.party-ring-r {
+  border-color: var(--party-r);
+}
+.party-ring-d {
+  border-color: var(--party-d);
+}
+.party-ring-o {
+  border-color: var(--party-o);
 }
 .party-bar-r {
   border-top: 6px solid var(--party-r);
@@ -380,6 +387,7 @@ html[data-theme="contrast"] .btn {
     }
     .compare thead tr {
       display: grid;
+      grid-template-columns: minmax(0, 1fr);
       gap: 0.75rem;
     }
     .compare-corner {

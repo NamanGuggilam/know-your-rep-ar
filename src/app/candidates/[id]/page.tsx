@@ -39,7 +39,7 @@ export default async function CandidatePage({ params }: PageProps<"/candidates/[
       <p className="eyebrow">
         {ELECTION.name} · Candidate for {contest.office}
       </p>
-      <div className={`panel mt-4 flex flex-wrap gap-6 p-6 party-bar-${partyKey(c.party)}`}>
+      <div className={`card mt-4 flex flex-wrap gap-6 p-6 party-bar-${partyKey(c.party)}`}>
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={data?.photo?.src ?? "/candidates/placeholder.svg"}

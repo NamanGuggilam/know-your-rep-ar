@@ -7,6 +7,7 @@ import { formatUpdated } from "@/lib/format";
 import { clearLineup, loadLineup, type SavedLineup } from "@/lib/session";
 import { DistrictMap } from "./DistrictMap";
 import { RepCard } from "./RepCard";
+import { ResultsTabs } from "./ResultsTabs";
 import { Term } from "./Term";
 
 export function Lineup() {
@@ -64,18 +65,13 @@ export function Lineup() {
           Look up a different address
         </button>
       </div>
-      <p className="mt-3 text-lg">
-        You live in <strong>Congressional District {lineup.districts.congressional}</strong>,{" "}
-        <strong>State Senate District {lineup.districts.stateSenate}</strong>, and{" "}
-        <strong>State House District {lineup.districts.stateHouse}</strong>. A <Term k="district">district</Term> is
-        the area each official represents.
+      <p className="mt-3 mb-8 text-lg text-ink-muted">
+        The people who speak for you now. Tap <strong className="text-ink">See where they stand</strong> for their
+        record.
       </p>
-      <p className="mt-3 rounded border-l-4 border-accent bg-accent-soft p-4">
-        <strong>Tip:</strong> Tap <strong>See where they stand</strong> on any card to see their role, the bills they
-        sponsored, and what they say on their own website.
-      </p>
+      <ResultsTabs active="reps" />
 
-      <h2 className="mt-8 text-2xl font-extrabold">In Little Rock: your Arkansas lawmakers</h2>
+      <h2 className="text-2xl font-extrabold">In Little Rock: your Arkansas lawmakers</h2>
       <p className="mt-1 text-ink-muted simple-hide">
         They make Arkansas laws. They are part of the <Term k="general-assembly">General Assembly</Term>.
       </p>

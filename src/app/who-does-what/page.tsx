@@ -35,7 +35,7 @@ export default function WhoDoesWhat() {
 
       <div className="mt-10 grid grid-cols-[minmax(0,1fr)] gap-8">
         {ROLES.map((r, i) => (
-          <section key={r.id} id={r.id} aria-labelledby={`${r.id}-h`} className="panel scroll-mt-4 p-6 sm:p-8">
+          <section key={r.id} id={r.id} aria-labelledby={`${r.id}-h`} className="card scroll-mt-4 p-6 sm:p-8">
             <div className="flex flex-wrap items-baseline justify-between gap-2">
               <p className="eyebrow">
                 {String(i + 1).padStart(2, "0")} · {r.level === "Arkansas" ? "Arkansas government" : "National government"}

@@ -49,7 +49,7 @@ export function SearchBox() {
 
   return (
     <div>
-      <form role="search" onSubmit={(e) => e.preventDefault()} className="panel p-5">
+      <form role="search" onSubmit={(e) => e.preventDefault()} className="card p-5">
         <label htmlFor="q" className="block font-display text-xl font-bold">
           Search people, offices, and topics
         </label>

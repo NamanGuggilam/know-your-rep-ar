@@ -59,7 +59,7 @@ export function AskBox() {
           e.preventDefault();
           submit(question);
         }}
-        className="panel p-5"
+        className="card p-5"
       >
         <label htmlFor="ask-q" className="block font-display text-xl font-bold">
           Your question
