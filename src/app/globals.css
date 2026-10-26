@@ -9,29 +9,26 @@
  * Dark is the default. Every text pair is AA or better (body text AAA).
  */
 :root {
-  --bg: #0b0c1f; /* deep indigo "void" */
-  --surface: #14163a;
-  --surface-2: #1d2050;
-  --ink: #f3f3fa;
-  --ink-muted: #bcc0e0;
-  --line: #7a7fb0;
-  --line-soft: #2c3066;
-  --accent: #ad91ff; /* Hollow Purple */
-  --accent-ink: #0b0b14;
-  --accent-soft: #272259;
-  --glow: #6fe3ff; /* Six Eyes, decoration only */
-  --panel-shadow: #ad91ff;
-  --focus: #6fe3ff;
-  --party-r: #ff5c7a; /* Reversal Red */
-  --party-r-ink: #0b0b14;
-  --party-d: #5aa9ff; /* Lapse Blue */
-  --party-d-ink: #0b0b14;
-  --party-o: #ad91ff; /* Hollow Purple: independent and other parties */
-  --party-o-ink: #0b0b14;
-  /* Soft purple and blue light behind the top of every page. */
-  --page-glow:
-    radial-gradient(60rem 28rem at 15% -8rem, rgb(173 145 255 / 0.16), transparent 70%),
-    radial-gradient(50rem 24rem at 90% -6rem, rgb(90 169 255 / 0.12), transparent 70%);
+  --bg: #16171d; /* soft charcoal */
+  --surface: #1e2028;
+  --surface-2: #272a34;
+  --ink: #ececf1;
+  --ink-muted: #b3b5c2;
+  --line: #6c6f80;
+  --line-soft: #33364a;
+  --accent: #a99bd6; /* dusty lavender (a softer Hollow Purple) */
+  --accent-ink: #14141a;
+  --accent-soft: #2c2a3d;
+  --glow: #8fb8c9; /* muted Six Eyes blue, decoration only */
+  --panel-shadow: #a99bd6;
+  --focus: #8fb8c9;
+  --party-r: #e07a8a; /* softer red */
+  --party-r-ink: #14141a;
+  --party-d: #7fa8d9; /* softer blue */
+  --party-d-ink: #14141a;
+  --party-o: #a99bd6; /* lavender: independent and other parties */
+  --party-o-ink: #14141a;
+  --page-glow: none;
   color-scheme: dark;
 }
 
@@ -180,9 +177,9 @@ a:hover {
 }
 .panel {
   background: var(--surface);
-  border: 2px solid var(--ink);
-  border-radius: 4px;
-  box-shadow: 5px 5px 0 var(--panel-shadow);
+  border: 2px solid var(--line);
+  border-radius: 6px;
+  box-shadow: 4px 4px 0 var(--panel-shadow);
 }
 html[data-theme="contrast"] .card,
 html[data-theme="contrast"] .btn {
