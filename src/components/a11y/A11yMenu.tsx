@@ -89,7 +89,7 @@ export function A11yMenu() {
         </div>
         <div className="px-5 pt-4 pb-6">
           <p className="mb-4 text-ink-muted">
-            Change how this app looks and sounds. Your choices are saved on this device only.
+            Change how this app looks. Your choices are saved on this device only.
           </p>
           <ChoiceGroup
             name="text"

@@ -92,7 +92,7 @@ export default function WhoDoesWhat() {
         </ul>
       </nav>
 
-      <div className="mt-10 grid gap-8">
+      <div className="mt-10 grid grid-cols-[minmax(0,1fr)] gap-8">
         {ROLES.map((r, i) => (
           <section key={r.id} id={r.id} aria-labelledby={`${r.id}-h`} className="panel scroll-mt-4 p-6 sm:p-8">
             <div className="flex flex-wrap items-baseline justify-between gap-2">
@@ -150,7 +150,7 @@ export default function WhoDoesWhat() {
           <dl className="mt-5 grid gap-4 sm:grid-cols-2">
             {STATEWIDE.map((s) => (
               <div key={s.name} className="border-l-4 border-accent pl-4">
-                <dt className="font-display text-lg font-bold">{s.name}</dt>
+                <dt className="font-display text-lg font-bold [overflow-wrap:anywhere]">{s.name}</dt>
                 <dd className="mt-1">{s.job}</dd>
               </div>
             ))}

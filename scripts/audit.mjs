@@ -3,7 +3,7 @@
 import { chromium } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 const base = process.argv[2] ?? "http://localhost:3210";
-const PAGES = ["/", "/who-does-what", "/vote", "/neutral", "/about", "/privacy", "/accessibility", "/offline", "/rep/W000809"];
+const PAGES = ["/", "/ballot?cd=3&ss=33&sh=13", "/ballot?cd=2&ss=14&sh=74", "/who-does-what", "/vote", "/neutral", "/about", "/privacy", "/accessibility", "/offline", "/rep/W000809"];
 const MODES = [
   { name: "light", settings: { theme: "light" } },
   { name: "dark", settings: { theme: "dark" } },

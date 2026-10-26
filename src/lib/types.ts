@@ -55,6 +55,8 @@ export interface DistrictShape {
   geojson: GeoJSON.Geometry;
 }
 
+import type { VotingInfo } from "./civic";
+
 export interface LookupResult {
   matchedAddress?: string;
   point: { lat: number; lon: number };
@@ -62,4 +64,6 @@ export interface LookupResult {
   seats: Seat[];
   shapes: DistrictShape[];
   sources: DataSource[];
+  /** Polling place and early voting, when the Civic API has them for this address */
+  voting: VotingInfo | null;
 }

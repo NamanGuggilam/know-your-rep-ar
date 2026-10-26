@@ -40,7 +40,7 @@ const STEPS = [
 export default function Home() {
   return (
     <>
-      <section aria-labelledby="hero-heading" className="relative mb-10">
+      <section aria-labelledby="hero-heading" className="relative mb-10 overflow-x-clip">
         <InfinityRings />
         <div className="relative max-w-2xl">
           <p className="eyebrow">Arkansas · Your ballot · Your voice</p>

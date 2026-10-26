@@ -5,12 +5,12 @@ import type { LookupResult } from "./types";
 // and the district outlines (which cover thousands of homes).
 const SESSION_KEY = "kyr-lineup";
 
-export type SavedLineup = Pick<LookupResult, "seats" | "districts" | "sources" | "shapes">;
+export type SavedLineup = Pick<LookupResult, "seats" | "districts" | "sources" | "shapes" | "voting">;
 
 export function saveLineup(r: LookupResult) {
   try {
-    const { seats, districts, sources, shapes } = r;
-    sessionStorage.setItem(SESSION_KEY, JSON.stringify({ seats, districts, sources, shapes }));
+    const { seats, districts, sources, shapes, voting } = r;
+    sessionStorage.setItem(SESSION_KEY, JSON.stringify({ seats, districts, sources, shapes, voting }));
   } catch {
     // Storage blocked: the results page will ask the person to look up again.
   }

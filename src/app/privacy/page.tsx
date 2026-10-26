@@ -15,10 +15,14 @@ export default function PrivacyPage() {
         <ul>
           <li>We use your address one time, to find your districts. Then we forget it.</li>
           <li>We never save your address in a database or in our logs.</li>
-          <li>Your address is never put in the web address (URL), so it won&apos;t show up in your browser history.</li>
+          <li>
+            Your address is never put in the web address (URL). Only your district numbers are, like &ldquo;District
+            3&rdquo;. Each district has thousands of homes, so they do not show where you live.
+          </li>
           <li>
             To find your districts, we send your address to the U.S. Census Bureau&apos;s free address service. To draw
-            the map, we send the location of your address to the Census Bureau&apos;s map service.
+            the map, we send the location of your address to the Census Bureau&apos;s map service. To find your polling
+            place, we send your address to the Google Civic Information API, which uses official election data.
           </li>
         </ul>
 

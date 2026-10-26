@@ -1,0 +1,187 @@
+{
+  "election": {
+    "name": "2026 General Election",
+    "date": "2026-11-03",
+    "source": {
+      "name": "Official sample ballot, Arkansas Secretary of State (VoterView)",
+      "url": "https://www.voterview.ar-nova.org/voterview"
+    },
+    "checkedAt": "2026-10-25",
+    "note": "Names, parties, and ballot order come from the official sample ballot. 'Currently serves as' comes from the title printed on the ballot."
+  },
+  "contests": [
+    {
+      "id": "us-senate",
+      "office": "U.S. Senate",
+      "role": "us-senate",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "hallie-shoffner",
+          "name": "Hallie Shoffner",
+          "party": "Democratic"
+        },
+        {
+          "id": "tom-cotton",
+          "name": "Tom Cotton",
+          "party": "Republican",
+          "currentOffice": "U.S. Senator"
+        },
+        {
+          "id": "jeff-wadlin",
+          "name": "Jeff Wadlin",
+          "party": "Libertarian"
+        }
+      ]
+    },
+    {
+      "id": "us-house-2",
+      "office": "U.S. House, District 2",
+      "role": "us-house",
+      "scope": "congressional",
+      "district": "2",
+      "candidates": [
+        {
+          "id": "chris-jones",
+          "name": "Chris Jones",
+          "party": "Democratic"
+        },
+        {
+          "id": "french-hill",
+          "name": "French Hill",
+          "party": "Republican",
+          "currentOffice": "U.S. Representative"
+        }
+      ]
+    },
+    {
+      "id": "governor",
+      "office": "Governor",
+      "role": "governor",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "sarah-huckabee-sanders",
+          "name": "Sarah Huckabee Sanders",
+          "party": "Republican",
+          "currentOffice": "Governor"
+        },
+        {
+          "id": "fred-love",
+          "name": "Fred Love",
+          "party": "Democratic",
+          "currentOffice": "State Senator"
+        },
+        {
+          "id": "colt-shelby",
+          "name": "Colt Shelby",
+          "party": "Libertarian"
+        }
+      ]
+    },
+    {
+      "id": "lieutenant-governor",
+      "office": "Lieutenant Governor",
+      "role": "statewide",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "michael-kalagias",
+          "name": "Michael Kalagias",
+          "party": "Libertarian"
+        },
+        {
+          "id": "leslie-rutledge",
+          "name": "Leslie Rutledge",
+          "party": "Republican",
+          "currentOffice": "Lieutenant Governor"
+        }
+      ]
+    },
+    {
+      "id": "attorney-general",
+      "office": "Attorney General",
+      "role": "statewide",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "tim-griffin",
+          "name": "Tim Griffin",
+          "party": "Republican",
+          "currentOffice": "Attorney General"
+        }
+      ]
+    },
+    {
+      "id": "secretary-of-state",
+      "office": "Secretary of State",
+      "role": "statewide",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "kelly-grappe",
+          "name": "Kelly Grappe",
+          "party": "Democratic"
+        },
+        {
+          "id": "michael-pakko",
+          "name": "Michael Pakko",
+          "party": "Libertarian"
+        },
+        {
+          "id": "kim-hammer",
+          "name": "Kim Hammer",
+          "party": "Republican",
+          "currentOffice": "State Senator"
+        }
+      ]
+    },
+    {
+      "id": "treasurer",
+      "office": "Treasurer of State",
+      "role": "statewide",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "john-thurston",
+          "name": "John Thurston",
+          "party": "Republican",
+          "currentOffice": "State Treasurer"
+        }
+      ]
+    },
+    {
+      "id": "auditor",
+      "office": "Auditor of State",
+      "role": "statewide",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "dennis-milligan",
+          "name": "Dennis Milligan",
+          "party": "Republican",
+          "currentOffice": "Auditor of State"
+        }
+      ]
+    },
+    {
+      "id": "land-commissioner",
+      "office": "Commissioner of State Lands",
+      "role": "statewide",
+      "scope": "statewide",
+      "candidates": [
+        {
+          "id": "christopher-olson",
+          "name": "Christopher Olson",
+          "party": "Libertarian"
+        },
+        {
+          "id": "cole-jester",
+          "name": "Cole Jester",
+          "party": "Republican",
+          "currentOffice": "Secretary of State"
+        }
+      ]
+    }
+  ]
+}

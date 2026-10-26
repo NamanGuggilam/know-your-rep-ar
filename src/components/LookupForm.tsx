@@ -30,7 +30,8 @@ export function LookupForm() {
         return;
       }
       saveLineup(data);
-      router.push("/my-reps");
+      const d = data.districts;
+      router.push(`/ballot?cd=${d.congressional}&ss=${d.stateSenate}&sh=${d.stateHouse}`);
     } catch {
       setStatus({ kind: "error", message: "We could not reach the internet. Check your connection and try again." });
     }

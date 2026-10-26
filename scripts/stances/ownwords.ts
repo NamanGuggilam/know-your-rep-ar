@@ -15,7 +15,7 @@ export interface OwnWords {
 }
 
 const UA = "Mozilla/5.0 (compatible; KnowYourRepAR/1.0; student civic project)";
-const ISSUE_LINK = /\b(issues?|priorities|positions|where (?:i|he|she) stands?|legislative agenda)\b/i;
+const ISSUE_LINK = /\b(issues?|priorities|positions|platform|vision|agenda|plan|where (?:i|he|she) stands?|legislative agenda)\b/i;
 const MAX_PAGES = 20;
 const MAX_CHARS_PER_PAGE = 12000;
 
@@ -43,7 +43,15 @@ async function disallowed(origin: string): Promise<string[]> {
   }
 }
 
-export async function ownWords(website: string | undefined): Promise<OwnWords> {
+/**
+ * Crawl a site's issues/priorities pages. `kind` only changes the wording of notes.
+ * With `fallbackToHome`, a site with no issues section contributes its home page text instead.
+ */
+export async function ownWords(
+  website: string | undefined,
+  kind: "official" | "campaign" = "official",
+  fallbackToHome = false,
+): Promise<OwnWords> {
   if (!website) return { status: "none", note: "We do not have an official website for this person.", pages: [] };
   browser ??= chromium.launch();
   const ctx = await (await browser).newContext({ userAgent: UA });
@@ -84,14 +92,24 @@ export async function ownWords(website: string | undefined): Promise<OwnWords> {
     if (!home.ok) {
       return {
         status: "blocked",
-        note: "This official's website blocks automated tools, so we could not read it. Visit their website to read their positions.",
+        note: `This ${kind} website blocks automated tools, so we could not read it. Visit the website to read their positions.`,
         pages: [],
       };
     }
     const sameSite = (h: string) => h.startsWith(origin) && allowed(h);
     const index = (await links()).find((l) => sameSite(l.href) && ISSUE_LINK.test(l.text) && l.text.length < 40);
     if (!index) {
-      return { status: "not-found", note: "We could not find an issues or priorities page on their official website.", pages: [] };
+      if (fallbackToHome) {
+        const text = await mainText();
+        if (text.length > 400) {
+          return {
+            status: "ok",
+            note: `From the home page of their ${kind} website (it has no separate issues page).`,
+            pages: [{ url: website, title: home.title, text: text.slice(0, MAX_CHARS_PER_PAGE) }],
+          };
+        }
+      }
+      return { status: "not-found", note: `We could not find an issues or priorities page on their ${kind} website.`, pages: [] };
     }
 
     const out: OwnWordsPage[] = [];
@@ -126,7 +144,7 @@ export async function ownWords(website: string | undefined): Promise<OwnWords> {
       }
     }
     return out.length
-      ? { status: "ok", note: `From ${out.length} issue pages on their official website.`, pages: out }
+      ? { status: "ok", note: `From ${out.length} issue pages on their ${kind} website.`, pages: out }
       : { status: "not-found", note: "Their official website's issues section had no text we could read.", pages: [] };
   } catch (e) {
     return { status: "not-found", note: `We could not load their official website (${(e as Error).message.slice(0, 60)}).`, pages: [] };

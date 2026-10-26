@@ -17,3 +17,11 @@ export function partyName(party: string | undefined) {
   if (/^(independent|nonpartisan|no party)/i.test(p)) return p;
   return /party$/i.test(p) ? p : `${p} Party`;
 }
+
+/** The closing line under each candidate on the comparison page. */
+export function memberSentence(party: string | undefined) {
+  const name = partyName(party);
+  if (name === "No party listed") return "No party is listed for this candidate.";
+  if (/^(independent|nonpartisan|no party)/i.test(name)) return `Running as ${name.toLowerCase()}, not as a member of a party.`;
+  return `Member of the ${name}.`;
+}
