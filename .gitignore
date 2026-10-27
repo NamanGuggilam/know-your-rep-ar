@@ -46,3 +46,6 @@ next-env.d.ts
 
 # screenshots and recordings (regenerate with scripts/media)
 /media
+
+# demo video clips (regenerate with scripts/media/clips.mjs)
+/video
