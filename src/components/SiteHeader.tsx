@@ -7,7 +7,6 @@ import { A11yButton, A11yDialog, LanguageButton } from "./a11y/A11yMenu";
 import { useA11y } from "./a11y/settings";
 import { CloseIcon, SiteMark } from "./icons";
 
-// "Ask" stays off the menu until AI answers are switched on; /ask still works directly.
 const NAV = [
   { href: "/", label: "My ballot" },
   { href: "/who-does-what", label: "Who does what" },
@@ -34,21 +33,22 @@ function MenuIcon() {
   );
 }
 
-export function SiteHeader() {
-  const [open, setOpen] = useState(false);
-  const { settings } = useA11y();
-  const path = usePathname();
-  // eslint-disable-next-line react-hooks/set-state-in-effect
-  useEffect(() => setOpen(false), [path]);
+const HOME_SECTION_PATHS = ["/ballot", "/my-reps", "/candidates"];
 
-  const isOn = (href: string) =>
-    href === "/"
-      ? path === "/" || path.startsWith("/ballot") || path.startsWith("/my-reps") || path.startsWith("/candidates")
-      : path.startsWith(href);
+function isCurrentSection(pathname: string, href: string) {
+  if (href !== "/") return pathname.startsWith(href);
+  return pathname === "/" || HOME_SECTION_PATHS.some((sectionPath) => pathname.startsWith(sectionPath));
+}
+
+export function SiteHeader() {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const { settings } = useA11y();
+  const pathname = usePathname();
+  // eslint-disable-next-line react-hooks/set-state-in-effect
+  useEffect(() => setMenuOpen(false), [pathname]);
 
   return (
     <header>
-      {/* Where government sites say "official website", we say plainly that we are not one. */}
       <div className="border-b border-line-soft bg-surface-2">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-4 px-4 py-1 text-sm">
           <p className="py-1.5">
@@ -80,29 +80,29 @@ export function SiteHeader() {
         <button
           type="button"
           className="btn btn-secondary lg:hidden"
-          aria-expanded={open}
+          aria-expanded={menuOpen}
           aria-controls="mobile-menu"
-          onClick={() => setOpen((o) => !o)}
+          onClick={() => setMenuOpen((wasOpen) => !wasOpen)}
         >
-          {open ? <CloseIcon /> : <MenuIcon />}
+          {menuOpen ? <CloseIcon /> : <MenuIcon />}
           Menu
         </button>
       </div>
 
       <nav aria-label="Main" className="hidden bg-navy lg:block">
         <ul className="mx-auto flex max-w-6xl flex-wrap px-2">
-          {NAV.map((n) => {
-            const on = isOn(n.href);
+          {NAV.map((item) => {
+            const isCurrent = isCurrentSection(pathname, item.href);
             return (
-              <li key={n.href}>
+              <li key={item.href}>
                 <Link
-                  href={n.href}
-                  aria-current={on ? "page" : undefined}
+                  href={item.href}
+                  aria-current={isCurrent ? "page" : undefined}
                   className={`inline-flex min-h-14 items-center border-b-4 px-4 font-semibold text-navy-ink no-underline hover:bg-white/10 ${
-                    on ? "border-glow" : "border-transparent"
+                    isCurrent ? "border-glow" : "border-transparent"
                   }`}
                 >
-                  {n.label}
+                  {item.label}
                 </Link>
               </li>
             );
@@ -110,21 +110,21 @@ export function SiteHeader() {
         </ul>
       </nav>
 
-      <div id="mobile-menu" hidden={!open} className="border-t border-line-soft bg-surface-2 px-4 pt-3 pb-5 lg:hidden">
+      <div id="mobile-menu" hidden={!menuOpen} className="border-t border-line-soft bg-surface-2 px-4 pt-3 pb-5 lg:hidden">
         <nav aria-label="Main">
           <ul className="grid gap-1">
-            {NAV.map((n) => {
-              const on = isOn(n.href);
+            {NAV.map((item) => {
+              const isCurrent = isCurrentSection(pathname, item.href);
               return (
-                <li key={n.href}>
+                <li key={item.href}>
                   <Link
-                    href={n.href}
-                    aria-current={on ? "page" : undefined}
+                    href={item.href}
+                    aria-current={isCurrent ? "page" : undefined}
                     className={`flex min-h-12 items-center border-l-4 px-3 text-lg font-semibold no-underline ${
-                      on ? "border-accent text-accent" : "border-transparent text-ink"
+                      isCurrent ? "border-accent text-accent" : "border-transparent text-ink"
                     }`}
                   >
-                    {n.label}
+                    {item.label}
                   </Link>
                 </li>
               );

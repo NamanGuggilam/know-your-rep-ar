@@ -9,121 +9,146 @@ import type { Seat } from "@/lib/types";
 import { AlertIcon, ExternalIcon, GlobeIcon, InfoIcon, MailIcon, PencilIcon, PersonIcon, PhoneIcon, PinIcon } from "./icons";
 import { formatUpdated, telHref } from "@/lib/format";
 
+const PHOTO_HEIGHT_RATIO = 1.2;
+const PLACEHOLDER_ICON_RATIO = 1 / 2.5;
+
 export function RepPhoto({ src, name, size = 112 }: { src?: string; name: string; size?: number }) {
-  const [failed, setFailed] = useState(false);
-  if (!src || failed) {
+  const [failedToLoad, setFailedToLoad] = useState(false);
+  const height = size * PHOTO_HEIGHT_RATIO;
+  if (!src || failedToLoad) {
     return (
       <div
         className="flex flex-none items-center justify-center rounded bg-surface-2 text-ink-muted"
-        style={{ width: size, height: size * 1.2 }}
+        style={{ width: size, height }}
         role="img"
         aria-label={`No photo available for ${name}`}
       >
-        <PersonIcon size={size / 2.5} />
+        <PersonIcon size={size * PLACEHOLDER_ICON_RATIO} />
       </div>
     );
   }
   return (
-    // Photos come from public datasets on other domains, so a plain img keeps it simple.
     // eslint-disable-next-line @next/next/no-img-element
     <img
       src={src}
       alt={`Photo of ${name}`}
       width={size}
-      height={size * 1.2}
+      height={height}
       loading="lazy"
-      onError={() => setFailed(true)}
+      onError={() => setFailedToLoad(true)}
       className="flex-none rounded bg-surface-2 object-cover"
-      style={{ width: size, height: size * 1.2 }}
+      style={{ width: size, height }}
     />
   );
 }
 
-export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?: 2 | 3 }) {
-  const info = OFFICES[seat.office];
-  const o = seat.official;
-  const H = `h${headingLevel}` as "h2" | "h3";
+type Official = NonNullable<Seat["official"]>;
 
-  if (!o) {
-    return (
-      <article className="card p-5">
-        <p className="font-semibold text-ink-muted">
-          {info.name}
-          {seat.district ? ` · ${seat.district}` : ""}
+function MissingSeatCard({ seat, officeName, Heading }: { seat: Seat; officeName: string; Heading: "h2" | "h3" }) {
+  return (
+    <article className="card p-5">
+      <p className="font-semibold text-ink-muted">
+        {officeName}
+        {seat.district ? ` · ${seat.district}` : ""}
+      </p>
+      <Heading className="mt-1 flex items-center gap-2 text-xl font-extrabold">
+        <AlertIcon /> No current member found
+      </Heading>
+      <p className="mt-2">{seat.missingNote}</p>
+      {seat.missingLink && (
+        <p className="mt-2">
+          <a href={seat.missingLink.url} target="_blank" rel="noopener noreferrer">
+            {seat.missingLink.label}
+            <ExternalIcon className="ml-1 inline" />
+            <span className="sr-only"> (opens in a new tab)</span>
+          </a>
         </p>
-        <H className="mt-1 flex items-center gap-2 text-xl font-extrabold">
-          <AlertIcon /> No current member found
-        </H>
-        <p className="mt-2">{seat.missingNote}</p>
-        {seat.missingLink && (
-          <p className="mt-2">
-            <a href={seat.missingLink.url} target="_blank" rel="noopener noreferrer">
-              {seat.missingLink.label}
-              <ExternalIcon className="ml-1 inline" />
-              <span className="sr-only"> (opens in a new tab)</span>
-            </a>
-          </p>
-        )}
-      </article>
+      )}
+    </article>
+  );
+}
+
+/** The best single way to reach this official: email, else contact form, else website. */
+function PrimaryContactButton({ official }: { official: Official }) {
+  if (official.email) {
+    return (
+      <a className="btn btn-secondary" href={`mailto:${official.email}`}>
+        <MailIcon />
+        Email
+      </a>
     );
   }
+  if (official.contactFormUrl) {
+    return (
+      <a className="btn btn-secondary" href={official.contactFormUrl} target="_blank" rel="noopener noreferrer">
+        <MailIcon />
+        Contact form<span className="sr-only"> (opens in a new tab)</span>
+      </a>
+    );
+  }
+  if (official.website) {
+    return (
+      <a className="btn btn-secondary" href={official.website} target="_blank" rel="noopener noreferrer">
+        <GlobeIcon />
+        Website<span className="sr-only"> (opens in a new tab)</span>
+      </a>
+    );
+  }
+  return null;
+}
 
-  const cardId = `card-${o.id}`;
-  const firstAddress = o.addresses.find((a) => a.lines.length);
+export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?: 2 | 3 }) {
+  const office = OFFICES[seat.office];
+  const official = seat.official;
+  const Heading = `h${headingLevel}` as "h2" | "h3";
+
+  if (!official) return <MissingSeatCard seat={seat} officeName={office.name} Heading={Heading} />;
+
+  const cardId = `card-${official.id}`;
+  const firstAddress = official.addresses.find((address) => address.lines.length);
   const mapQuery = firstAddress ? encodeURIComponent(firstAddress.lines.join(", ")) : "";
+  const sourceDisplayName = official.source.name.split(" (")[0];
 
   return (
-    <article className={`card flex flex-col p-5 party-bar-${partyKey(o.party)}`} aria-labelledby={`${cardId}-name`}>
+    <article
+      className={`card flex flex-col p-5 party-bar-${partyKey(official.party)}`}
+      aria-labelledby={`${cardId}-name`}
+    >
       <div id={cardId}>
         <div className="flex gap-4">
-          <RepPhoto src={o.photoUrl} name={o.name} size={96} />
+          <RepPhoto src={official.photoUrl} name={official.name} size={96} />
           <div className="min-w-0">
-            <p className="font-semibold text-ink-muted">{o.title}</p>
-            <H id={`${cardId}-name`} className="text-2xl leading-tight font-extrabold">
-              {o.name}
-            </H>
-            {o.district && <p className="mt-1">{o.district}</p>}
+            <p className="font-semibold text-ink-muted">{official.title}</p>
+            <Heading id={`${cardId}-name`} className="text-2xl leading-tight font-extrabold">
+              {official.name}
+            </Heading>
+            {official.district && <p className="mt-1">{official.district}</p>}
             <p className="mt-2">
-              <PartyBadge party={o.party} />
+              <PartyBadge party={official.party} />
             </p>
           </div>
         </div>
         <p className="mt-4">
           <strong>What this person does: </strong>
-          {info.short}{" "}
+          {office.short}{" "}
           <Link href={`/who-does-what#${seat.office}`} className="simple-hide">
-            Learn more<span className="sr-only"> about what a {info.name} does</span>
+            Learn more<span className="sr-only"> about what a {office.name} does</span>
           </Link>
         </p>
       </div>
 
-      <Link className="btn btn-primary mt-5 w-full" href={`/rep/${o.id}#stand`}>
+      <Link className="btn btn-primary mt-5 w-full" href={`/rep/${official.id}#stand`}>
         <InfoIcon />
         See where they stand
       </Link>
       <div className="mt-3 grid gap-2 sm:grid-cols-2">
-        {o.phone && (
-          <a className="btn btn-secondary" href={telHref(o.phone)}>
+        {official.phone && (
+          <a className="btn btn-secondary" href={telHref(official.phone)}>
             <PhoneIcon />
-            Call {o.phone}
+            Call {official.phone}
           </a>
         )}
-        {o.email ? (
-          <a className="btn btn-secondary" href={`mailto:${o.email}`}>
-            <MailIcon />
-            Email
-          </a>
-        ) : o.contactFormUrl ? (
-          <a className="btn btn-secondary" href={o.contactFormUrl} target="_blank" rel="noopener noreferrer">
-            <MailIcon />
-            Contact form<span className="sr-only"> (opens in a new tab)</span>
-          </a>
-        ) : o.website ? (
-          <a className="btn btn-secondary" href={o.website} target="_blank" rel="noopener noreferrer">
-            <GlobeIcon />
-            Website<span className="sr-only"> (opens in a new tab)</span>
-          </a>
-        ) : null}
+        <PrimaryContactButton official={official} />
         {firstAddress && (
           <a
             className="btn btn-secondary simple-hide"
@@ -135,23 +160,23 @@ export function RepCard({ seat, headingLevel = 3 }: { seat: Seat; headingLevel?:
             Office on a map<span className="sr-only"> (opens in a new tab)</span>
           </a>
         )}
-        <Link className="btn btn-secondary" href={`/rep/${o.id}#write`}>
+        <Link className="btn btn-secondary" href={`/rep/${official.id}#write`}>
           <PencilIcon />
           Write a message
         </Link>
       </div>
 
       <div className="mt-4 flex flex-wrap items-center justify-end gap-3 border-t border-line-soft pt-3">
-        <Link href={`/rep/${o.id}`} className="font-semibold">
-          All contact info<span className="sr-only"> for {o.name}</span>
+        <Link href={`/rep/${official.id}`} className="font-semibold">
+          All contact info<span className="sr-only"> for {official.name}</span>
         </Link>
       </div>
       <p className="mt-3 text-sm text-ink-muted simple-hide">
         Source:{" "}
-        <a href={o.source.url} target="_blank" rel="noopener noreferrer">
-          {o.source.name.split(" (")[0]}
+        <a href={official.source.url} target="_blank" rel="noopener noreferrer">
+          {sourceDisplayName}
         </a>
-        . Last updated {formatUpdated(o.source.fetchedAt)}.
+        . Last updated {formatUpdated(official.source.fetchedAt)}.
       </p>
     </article>
   );

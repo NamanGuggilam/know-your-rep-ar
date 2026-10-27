@@ -1,12 +1,23 @@
-// Renders src/app/icon.svg to the PNG sizes a PWA needs. Run: node scripts/make-icons.mjs
 import { chromium } from "@playwright/test";
 import { readFileSync } from "node:fs";
-const svg = readFileSync("src/app/icon.svg", "utf8");
-const b = await chromium.launch();
-for (const [size, out] of [[192, "public/icon-192.png"], [512, "public/icon-512.png"], [180, "src/app/apple-icon.png"]]) {
-  const p = await b.newPage({ viewport: { width: size, height: size } });
-  await p.setContent(`<style>*{margin:0}svg{display:block;width:${size}px;height:${size}px}</style>${svg}`);
-  await p.screenshot({ path: out, omitBackground: true });
-  await p.close();
+
+const SOURCE_SVG_PATH = "src/app/icon.svg";
+const ICON_TARGETS = [
+  { size: 192, outputPath: "public/icon-192.png" },
+  { size: 512, outputPath: "public/icon-512.png" },
+  { size: 180, outputPath: "src/app/apple-icon.png" },
+];
+
+async function main() {
+  const svg = readFileSync(SOURCE_SVG_PATH, "utf8");
+  const browser = await chromium.launch();
+  for (const { size, outputPath } of ICON_TARGETS) {
+    const page = await browser.newPage({ viewport: { width: size, height: size } });
+    await page.setContent(`<style>*{margin:0}svg{display:block;width:${size}px;height:${size}px}</style>${svg}`);
+    await page.screenshot({ path: outputPath, omitBackground: true });
+    await page.close();
+  }
+  await browser.close();
 }
-await b.close();
+
+await main();

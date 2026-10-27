@@ -1,7 +1,9 @@
 import { cacheLife } from "next/cache";
 
-// Google Civic Information API: official polling place and early voting data (from the
-// Voting Information Project). Needs GOOGLE_CIVIC_API_KEY. Without a key we skip it.
+const ELECTIONS_TIMEOUT_MS = 10_000;
+const VOTER_INFO_TIMEOUT_MS = 12_000;
+const ARKANSAS_OR_NATIONAL_DIVISION = /state:ar$|country:us$/;
+const TEST_ELECTION_ID = "2000";
 const BASE = "https://www.googleapis.com/civicinfo/v2";
 
 export interface VotingPlace {
@@ -52,18 +54,17 @@ export function mapPlaces(raw: RawPlace[] | undefined): VotingPlace[] {
     });
 }
 
-/** The upcoming Arkansas general election id, or null if Google hasn't listed it. */
-async function electionId(key: string): Promise<{ id: string; name: string; day: string } | null> {
+async function upcomingElection(key: string): Promise<{ id: string; name: string; day: string } | null> {
   "use cache";
   cacheLife("hours");
-  const res = await fetch(`${BASE}/elections?key=${key}`, { signal: AbortSignal.timeout(10000) });
+  const res = await fetch(`${BASE}/elections?key=${key}`, { signal: AbortSignal.timeout(ELECTIONS_TIMEOUT_MS) });
   if (!res.ok) return null;
   const { elections } = (await res.json()) as {
     elections?: { id: string; name: string; electionDay: string; ocdDivisionId: string }[];
   };
   const today = new Date().toISOString().slice(0, 10);
   const match = (elections ?? [])
-    .filter((e) => e.electionDay >= today && /state:ar$|country:us$/.test(e.ocdDivisionId) && e.id !== "2000")
+    .filter((e) => e.electionDay >= today && ARKANSAS_OR_NATIONAL_DIVISION.test(e.ocdDivisionId) && e.id !== TEST_ELECTION_ID)
     .sort((a, b) => a.electionDay.localeCompare(b.electionDay))[0];
   return match ? { id: match.id, name: match.name, day: match.electionDay } : null;
 }
@@ -72,10 +73,10 @@ export async function votingInfo(address: string): Promise<VotingInfo | null> {
   const key = process.env.GOOGLE_CIVIC_API_KEY;
   if (!key) return null;
   try {
-    const election = await electionId(key);
+    const election = await upcomingElection(key);
     if (!election) return null;
     const qs = new URLSearchParams({ key, address, electionId: election.id, officialOnly: "true" });
-    const res = await fetch(`${BASE}/voterinfo?${qs}`, { cache: "no-store", signal: AbortSignal.timeout(12000) });
+    const res = await fetch(`${BASE}/voterinfo?${qs}`, { cache: "no-store", signal: AbortSignal.timeout(VOTER_INFO_TIMEOUT_MS) });
     if (!res.ok) return null;
     const data = await res.json();
     const info: VotingInfo = {

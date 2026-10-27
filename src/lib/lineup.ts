@@ -35,7 +35,6 @@ function seat(office: OfficeKind, district: string | undefined, official: Offici
   };
 }
 
-/** Turn a set of districts into the five seats that represent an Arkansan, in display order. */
 export function buildLineup(districts: Districts, federal: Official[], state: Official[]): Seat[] {
   const senators = federal.filter((o) => o.office === "us-senate");
   const find = (list: Official[], office: OfficeKind, n: string) =>

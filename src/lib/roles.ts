@@ -23,7 +23,6 @@ const fromOffice = (k: OfficeKind, level: Role["level"], where: string): Role =>
   responsibleFor: OFFICES[k].contactFor,
 });
 
-// Governor and statewide offices are on Arkansas ballots, so we explain them too.
 export const GOVERNOR: Role = {
   id: "governor",
   level: "Arkansas",

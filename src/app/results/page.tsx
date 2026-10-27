@@ -21,7 +21,6 @@ function Contest({ c }: { c: ResultContest }) {
           {c.precinctsReporting.toLocaleString()} of {c.totalPrecincts.toLocaleString()} precincts reporting
         </p>
       </div>
-      {/* At very large text sizes the table can scroll sideways inside its own box, not the whole page. */}
       <div className="mt-3 overflow-x-auto" role="region" aria-label={`Votes for ${c.name}`} tabIndex={0}>
         <table className="w-full border-collapse text-left">
           <caption className="sr-only">Votes for {c.name}</caption>

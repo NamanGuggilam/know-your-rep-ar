@@ -1,8 +1,3 @@
-// Uses Claude to sort an official's own words and sponsored bills into a fixed list of topics.
-// The AI only sorts and restates. Code then checks its work:
-//   - every quote must appear word-for-word on the page it came from
-//   - every bill id must be a real bill from the official record
-// Anything that fails a check is thrown away.
 import Anthropic from "@anthropic-ai/sdk";
 import { zodOutputFormat } from "@anthropic-ai/sdk/helpers/zod";
 import { z } from "zod";
@@ -11,6 +6,9 @@ import type { RawBill } from "./records";
 import type { OwnWordsPage } from "./ownwords";
 
 export const MODEL = process.env.ANTHROPIC_MODEL || "claude-sonnet-5-5";
+const MAX_OUTPUT_TOKENS = 16000;
+const MIN_QUOTE_CHARS = 20;
+const OTHER_TOPICS: StanceTopic["topic"] = "Other topics";
 let client: Anthropic | null = null;
 
 export const SYSTEM = `You organize public records about Arkansas elected officials for a strictly nonpartisan civic app. Many readers have limited formal education or use screen readers.
@@ -33,16 +31,15 @@ For the website text: write "statements" for the positions the official states. 
 - "page": the number of the page the quote came from.
 Give at most 3 statements per topic, choosing the clearest ones. Skip biography, event announcements, and lists of past press releases. If the website text is empty or states no positions, return an empty statements list.`;
 
-const Output = z.object({
+const OrganizedOutput = z.object({
   bills: z.array(z.object({ id: z.string(), topic: z.enum(TOPICS), plain: z.string() })),
   statements: z.array(
     z.object({ topic: z.enum(TOPICS), summary: z.string(), quote: z.string(), page: z.number().int() }),
   ),
 });
 
-/** Compare text ignoring spacing, curly quotes, and dash styles. */
-export function normalize(s: string) {
-  return s
+export function normalize(text: string) {
+  return text
     .replace(/[‘’ʼ]/g, "'")
     .replace(/[“”]/g, '"')
     .replace(/[–—]/g, "-")
@@ -52,7 +49,7 @@ export function normalize(s: string) {
     .toLowerCase();
 }
 
-const BANNED = /\b(conservative|liberal|progressive|right-wing|left-wing|far-right|far-left|radical|extreme|maga|woke|republican|democrat(ic)?)\b/i;
+const BANNED_WORDS = /\b(conservative|liberal|progressive|right-wing|left-wing|far-right|far-left|radical|extreme|maga|woke|republican|democrat(ic)?)\b/i;
 
 export async function organize(
   official: { name: string; title: string },
@@ -60,16 +57,16 @@ export async function organize(
   bills: RawBill[],
 ): Promise<{ topics: StanceTopic[]; removed: number; refused: boolean }> {
   const pageBlock = pages.length
-    ? pages.map((p, i) => `<page number="${i + 1}" title="${p.title}" url="${p.url}">\n${p.text}\n</page>`).join("\n\n")
+    ? pages.map((page, index) => `<page number="${index + 1}" title="${page.title}" url="${page.url}">\n${page.text}\n</page>`).join("\n\n")
     : "(No website text available.)";
-  const billBlock = bills.length ? bills.map((b) => `${b.id} | ${b.title}`).join("\n") : "(No bills.)";
+  const billBlock = bills.length ? bills.map((bill) => `${bill.id} | ${bill.title}`).join("\n") : "(No bills.)";
 
   client ??= new Anthropic();
   const response = await client.messages.parse({
     model: MODEL,
-    max_tokens: 16000,
+    max_tokens: MAX_OUTPUT_TOKENS,
     system: SYSTEM,
-    output_config: { format: zodOutputFormat(Output), effort: "medium" },
+    output_config: { format: zodOutputFormat(OrganizedOutput), effort: "medium" },
     messages: [
       {
         role: "user",
@@ -81,45 +78,48 @@ export async function organize(
   if (response.stop_reason === "refusal" || !response.parsed_output) {
     return { topics: [], removed: 0, refused: true };
   }
-  const out = response.parsed_output;
+  const organized = response.parsed_output;
   let removed = 0;
-  const byId = new Map(bills.map((b) => [b.id, b]));
-  const topics = new Map<string, StanceTopic>();
-  const topicFor = (t: (typeof TOPICS)[number]) => {
-    if (!topics.has(t)) topics.set(t, { topic: t, statements: [], bills: [] });
-    return topics.get(t)!;
+  const billsById = new Map(bills.map((bill) => [bill.id, bill]));
+  const topicsByName = new Map<string, StanceTopic>();
+  const topicFor = (topic: (typeof TOPICS)[number]) => {
+    if (!topicsByName.has(topic)) topicsByName.set(topic, { topic, statements: [], bills: [] });
+    return topicsByName.get(topic)!;
   };
 
-  const usedBills = new Set<string>();
-  for (const b of out.bills) {
-    const real = byId.get(b.id);
-    if (!real || usedBills.has(b.id) || BANNED.test(b.plain)) {
+  const usedBillIds = new Set<string>();
+  for (const sortedBill of organized.bills) {
+    const realBill = billsById.get(sortedBill.id);
+    if (!realBill || usedBillIds.has(sortedBill.id) || BANNED_WORDS.test(sortedBill.plain)) {
       removed++;
       continue;
     }
-    usedBills.add(b.id);
-    topicFor(b.topic).bills.push({ ...real, plain: b.plain.trim() });
+    usedBillIds.add(sortedBill.id);
+    topicFor(sortedBill.topic).bills.push({ ...realBill, plain: sortedBill.plain.trim() });
   }
-  // Any real bill the AI skipped still gets listed, with its official title only.
-  for (const b of bills) {
-    if (!usedBills.has(b.id)) topicFor("Other topics").bills.push({ ...b, plain: "" });
+  for (const bill of bills) {
+    if (!usedBillIds.has(bill.id)) topicFor(OTHER_TOPICS).bills.push({ ...bill, plain: "" });
   }
 
-  for (const s of out.statements) {
-    const page = pages[s.page - 1];
-    const ok =
-      page &&
-      s.quote.trim().length >= 20 &&
-      normalize(page.text).includes(normalize(s.quote)) &&
-      /^Says\b/.test(s.summary.trim()) &&
-      !BANNED.test(s.summary);
-    if (!ok) {
+  for (const statement of organized.statements) {
+    const sourcePage = pages[statement.page - 1];
+    const passesChecks =
+      sourcePage &&
+      statement.quote.trim().length >= MIN_QUOTE_CHARS &&
+      normalize(sourcePage.text).includes(normalize(statement.quote)) &&
+      /^Says\b/.test(statement.summary.trim()) &&
+      !BANNED_WORDS.test(statement.summary);
+    if (!passesChecks) {
       removed++;
       continue;
     }
-    topicFor(s.topic).statements.push({ summary: s.summary.trim(), quote: s.quote.trim(), url: page.url });
+    topicFor(statement.topic).statements.push({
+      summary: statement.summary.trim(),
+      quote: statement.quote.trim(),
+      url: sourcePage.url,
+    });
   }
 
-  const ordered = TOPICS.map((t) => topics.get(t)).filter((t): t is StanceTopic => !!t);
+  const ordered = TOPICS.map((topic) => topicsByName.get(topic)).filter((topic): topic is StanceTopic => !!topic);
   return { topics: ordered, removed, refused: false };
 }

@@ -49,3 +49,4 @@ next-env.d.ts
 
 # demo video clips (regenerate with scripts/media/clips.mjs)
 /video
+/vids

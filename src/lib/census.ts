@@ -1,6 +1,7 @@
 import type { Districts } from "./types";
 
 const BASE = "https://geocoding.geo.census.gov/geocoder/geographies";
+const REQUEST_TIMEOUT_MS = 15_000;
 const ARKANSAS_FIPS = "05";
 
 export class LookupError extends Error {
@@ -20,11 +21,6 @@ export interface GeocodeResult {
   districts: Districts;
 }
 
-/**
- * The Census renames its layers every cycle ("119th Congressional Districts",
- * "120th Congressional Districts", "2024 State Legislative Districts - Upper", ...).
- * Pick the newest layer whose name matches the pattern.
- */
 export function pickLayer(geos: Geographies, pattern: RegExp) {
   const keys = Object.keys(geos)
     .filter((k) => pattern.test(k) && geos[k]?.length)
@@ -32,7 +28,6 @@ export function pickLayer(geos: Geographies, pattern: RegExp) {
   return keys.length ? geos[keys[0]][0] : undefined;
 }
 
-/** "033" -> "33" */
 function trimDistrict(code: string | undefined) {
   if (!code) return undefined;
   const n = parseInt(code, 10);
@@ -71,7 +66,7 @@ async function callCensus(path: string, params: Record<string, string>) {
   try {
     res = await fetch(`${BASE}/${path}?${qs}`, {
       cache: "no-store",
-      signal: AbortSignal.timeout(15000),
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
     });
   } catch {
     throw new LookupError("upstream", "The U.S. Census address service did not respond.");

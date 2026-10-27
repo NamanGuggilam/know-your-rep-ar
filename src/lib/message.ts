@@ -10,7 +10,6 @@ export interface MessageInput {
   town: string;
 }
 
-/** Builds a short, respectful message. Uses only what the person typed: no opinions are added. */
 export function buildMessage(o: Pick<Official, "name" | "office">, m: MessageInput) {
   const greeting = `Dear ${OFFICES[o.office].honorific} ${lastName(o.name)},`;
   const intro = [

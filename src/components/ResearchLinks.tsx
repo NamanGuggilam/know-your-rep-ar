@@ -1,6 +1,5 @@
 import type { CompareTopic } from "@/lib/topics";
 
-// Plain words to search the news with, for each topic.
 const TOPIC_WORDS: Record<CompareTopic, string> = {
   "Jobs and the economy": "economy jobs",
   "Taxes and spending": "taxes",
@@ -14,12 +13,9 @@ const TOPIC_WORDS: Record<CompareTopic, string> = {
   "Elections and government": "elections",
 };
 
-const ext = { target: "_blank", rel: "noopener noreferrer" } as const;
+const DEFAULT_NEWS_TERMS = "Arkansas 2026";
+const NEW_TAB_LINK = { target: "_blank", rel: "noopener noreferrer" } as const;
 
-/**
- * Neutral places to keep researching when we found nothing in a candidate's own words.
- * Same three kinds of links for every candidate.
- */
 export function ResearchLinks({
   name,
   topic,
@@ -31,30 +27,31 @@ export function ResearchLinks({
   website?: string;
   className?: string;
 }) {
-  const news = `https://news.google.com/search?q=${encodeURIComponent(`"${name}" ${topic ? TOPIC_WORDS[topic] : "Arkansas 2026"}`)}`;
-  const ballotpedia = `https://ballotpedia.org/wiki/index.php?search=${encodeURIComponent(name)}`;
-  const about = topic ? ` about ${topic.toLowerCase()}` : "";
+  const newsSearchTerms = topic ? TOPIC_WORDS[topic] : DEFAULT_NEWS_TERMS;
+  const newsUrl = `https://news.google.com/search?q=${encodeURIComponent(`"${name}" ${newsSearchTerms}`)}`;
+  const ballotpediaUrl = `https://ballotpedia.org/wiki/index.php?search=${encodeURIComponent(name)}`;
+  const aboutTopic = topic ? ` about ${topic.toLowerCase()}` : "";
   return (
     <p className={`text-sm ${className}`}>
       <span className="text-ink-muted">Look it up: </span>
       {website && (
         <>
-          <a href={website} {...ext}>
+          <a href={website} {...NEW_TAB_LINK}>
             Campaign site<span className="sr-only"> of {name} (opens in a new tab)</span>
           </a>
           {" · "}
         </>
       )}
-      <a href={news} {...ext}>
+      <a href={newsUrl} {...NEW_TAB_LINK}>
         News
         <span className="sr-only">
           {" "}
           stories on {name}
-          {about} (opens in a new tab)
+          {aboutTopic} (opens in a new tab)
         </span>
       </a>
       {" · "}
-      <a href={ballotpedia} {...ext}>
+      <a href={ballotpediaUrl} {...NEW_TAB_LINK}>
         Ballotpedia<span className="sr-only"> page for {name} (opens in a new tab)</span>
       </a>
     </p>

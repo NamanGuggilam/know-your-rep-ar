@@ -14,6 +14,12 @@ const EXAMPLES = [
   "Where do I find my polling place?",
 ];
 
+const MIN_QUESTION_LENGTH = 3;
+const MAX_QUESTION_LENGTH = 300;
+const MESSAGE_EMPTY_QUESTION = "Please type a question.";
+const MESSAGE_GENERIC_FAILURE = "Something went wrong. Please try again.";
+const MESSAGE_OFFLINE = "We could not reach the internet. Check your connection and try again.";
+
 export function AskBox() {
   const [question, setQuestion] = useState("");
   const [asked, setAsked] = useState("");
@@ -22,11 +28,12 @@ export function AskBox() {
   const [loading, setLoading] = useState(false);
   const hintId = useId();
   const answerRef = useRef<HTMLHeadingElement>(null);
+  const isUnavailable = result?.kind === "unavailable";
 
-  async function submit(q: string) {
-    const text = q.trim();
-    if (text.length < 3) {
-      setError("Please type a question.");
+  async function submit(rawQuestion: string) {
+    const text = rawQuestion.trim();
+    if (text.length < MIN_QUESTION_LENGTH) {
+      setError(MESSAGE_EMPTY_QUESTION);
       return;
     }
     setLoading(true);
@@ -34,19 +41,20 @@ export function AskBox() {
     setResult(null);
     setAsked(text);
     try {
-      const res = await fetch("/api/ask", {
+      const response = await fetch("/api/ask", {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify({ question: text }),
       });
-      const data = await res.json();
-      if (!res.ok) setError(data.error ?? "Something went wrong. Please try again.");
-      else {
-        setResult(data);
-        requestAnimationFrame(() => answerRef.current?.focus());
+      const data = await response.json();
+      if (!response.ok) {
+        setError(data.error ?? MESSAGE_GENERIC_FAILURE);
+        return;
       }
+      setResult(data);
+      requestAnimationFrame(() => answerRef.current?.focus());
     } catch {
-      setError("We could not reach the internet. Check your connection and try again.");
+      setError(MESSAGE_OFFLINE);
     } finally {
       setLoading(false);
     }
@@ -55,8 +63,8 @@ export function AskBox() {
   return (
     <div>
       <form
-        onSubmit={(e) => {
-          e.preventDefault();
+        onSubmit={(event) => {
+          event.preventDefault();
           submit(question);
         }}
         className="card p-5"
@@ -70,14 +78,14 @@ export function AskBox() {
         <textarea
           id="ask-q"
           rows={3}
-          maxLength={300}
+          maxLength={MAX_QUESTION_LENGTH}
           className="field mt-3"
           value={question}
-          onChange={(e) => setQuestion(e.target.value)}
+          onChange={(event) => setQuestion(event.target.value)}
           aria-describedby={hintId}
-          onKeyDown={(e) => {
-            if (e.key === "Enter" && !e.shiftKey) {
-              e.preventDefault();
+          onKeyDown={(event) => {
+            if (event.key === "Enter" && !event.shiftKey) {
+              event.preventDefault();
               submit(question);
             }
           }}
@@ -90,17 +98,17 @@ export function AskBox() {
         </div>
         <p className="mt-4 text-sm text-ink-muted">Try one:</p>
         <ul className="mt-2 flex flex-wrap gap-2">
-          {EXAMPLES.map((ex) => (
-            <li key={ex}>
+          {EXAMPLES.map((example) => (
+            <li key={example}>
               <button
                 type="button"
                 className="btn btn-secondary min-h-11 py-1 text-sm"
                 onClick={() => {
-                  setQuestion(ex);
-                  submit(ex);
+                  setQuestion(example);
+                  submit(example);
                 }}
               >
-                {ex}
+                {example}
               </button>
             </li>
           ))}
@@ -122,9 +130,9 @@ export function AskBox() {
           <p className="eyebrow">You asked</p>
           <p className="mt-1 text-lg font-semibold">{asked}</p>
           <h2 id="answer-h" ref={answerRef} tabIndex={-1} className="mt-5 text-2xl font-bold outline-none">
-            {result.kind === "unavailable" ? "Pages that may help" : "Answer"}
+            {isUnavailable ? "Pages that may help" : "Answer"}
           </h2>
-          {result.kind === "unavailable" ? (
+          {isUnavailable ? (
             <p className="mt-2">
               AI answers are turned off right now. These pages from our search match your question.
             </p>
@@ -140,17 +148,17 @@ export function AskBox() {
           )}
           {result.sources.length > 0 && (
             <>
-              <h3 className="mt-5 font-bold">{result.kind === "unavailable" ? "Matching pages" : "Sources used"}</h3>
+              <h3 className="mt-5 font-bold">{isUnavailable ? "Matching pages" : "Sources used"}</h3>
               <ul className="mt-2 list-[square] pl-6">
-                {result.sources.map((s) => (
-                  <li key={s.href + s.title}>
-                    <Link href={s.href}>{s.title}</Link>
+                {result.sources.map((source) => (
+                  <li key={source.href + source.title}>
+                    <Link href={source.href}>{source.title}</Link>
                   </li>
                 ))}
               </ul>
             </>
           )}
-          {result.kind !== "unavailable" && (
+          {!isUnavailable && (
             <p className="mt-5 flex items-start gap-2 text-sm text-ink-muted">
               <InfoIcon size={18} className="mt-0.5 flex-none" />
               AI-generated answer, using only this app&apos;s sources. It never takes sides. It can make mistakes, so

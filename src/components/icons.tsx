@@ -1,7 +1,6 @@
 import { useId } from "react";
 import type { SVGProps } from "react";
 
-// Simple line icons. Always paired with a visible text label, so they are hidden from screen readers.
 function Icon({ children, size = 22, ...props }: SVGProps<SVGSVGElement> & { size?: number }) {
   return (
     <svg
@@ -105,7 +104,6 @@ export const ExternalIcon = (p: P) => (
     <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14 21 3" />
   </Icon>
 );
-/** The universal access symbol: a person with open arms inside a circle. */
 export const AccessIcon = (p: P) => (
   <Icon {...p} size={p.size ?? 26}>
     <circle cx="12" cy="12" r="10.5" />
@@ -138,10 +136,6 @@ export const PersonIcon = (p: P) => (
   </Icon>
 );
 
-/**
- * Original mark: a diamond (Arkansas is the Diamond State) inside "Infinity" rings.
- * Not a seal, a government logo, or any character's likeness.
- */
 export function InfinityMark({ size = 40 }: { size?: number }) {
   return (
     <svg width={size} height={size} viewBox="0 0 40 40" aria-hidden="true" focusable="false">
@@ -153,14 +147,9 @@ export function InfinityMark({ size = 40 }: { size?: number }) {
   );
 }
 
-// Star shapes for the site badge (8 small stars in the diamond band, 1 center star).
 const BAND_STARS = "M32.00 7.40 L32.52 8.79 L34.00 8.85 L32.84 9.77 L33.23 11.20 L32.00 10.38 L30.77 11.20 L31.16 9.77 L30.00 8.85 L31.48 8.79ZM53.50 28.90 L54.02 30.29 L55.50 30.35 L54.34 31.27 L54.73 32.70 L53.50 31.88 L52.27 32.70 L52.66 31.27 L51.50 30.35 L52.98 30.29ZM32.00 50.40 L32.52 51.79 L34.00 51.85 L32.84 52.77 L33.23 54.20 L32.00 53.38 L30.77 54.20 L31.16 52.77 L30.00 51.85 L31.48 51.79ZM10.50 28.90 L11.02 30.29 L12.50 30.35 L11.34 31.27 L11.73 32.70 L10.50 31.88 L9.27 32.70 L9.66 31.27 L8.50 30.35 L9.98 30.29ZM42.75 18.15 L43.27 19.54 L44.75 19.60 L43.59 20.52 L43.98 21.95 L42.75 21.13 L41.52 21.95 L41.91 20.52 L40.75 19.60 L42.23 19.54ZM42.75 39.65 L43.27 41.04 L44.75 41.10 L43.59 42.02 L43.98 43.45 L42.75 42.63 L41.52 43.45 L41.91 42.02 L40.75 41.10 L42.23 41.04ZM21.25 39.65 L21.77 41.04 L23.25 41.10 L22.09 42.02 L22.48 43.45 L21.25 42.63 L20.02 43.45 L20.41 42.02 L19.25 41.10 L20.73 41.04ZM21.25 18.15 L21.77 19.54 L23.25 19.60 L22.09 20.52 L22.48 21.95 L21.25 21.13 L20.02 21.95 L20.41 20.52 L19.25 19.60 L20.73 19.54Z";
 const CENTER_STAR = "M32.00 24.00 L33.85 28.95 L39.13 29.18 L35.00 32.47 L36.41 37.57 L32.00 34.65 L27.59 37.57 L29.00 32.47 L24.87 29.18 L30.15 28.95Z";
 
-/**
- * Site badge: U.S. flag colors and stripes, with the Arkansas flag's diamond and stars.
- * Original artwork, not a seal or any official insignia. Fixed colors in every theme.
- */
 export function SiteMark({ size = 44 }: { size?: number }) {
   const id = useId();
   return (

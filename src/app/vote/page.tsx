@@ -4,8 +4,6 @@ import { Term } from "@/components/Term";
 
 export const metadata: Metadata = { title: "Your voice matters: new voter guide" };
 
-// Every fact here comes from the Arkansas Secretary of State's voter pages, linked below.
-// We do not list deadlines or dates: those change, so we send people to the official source.
 const SOS = {
   info: "https://www.sos.arkansas.gov/elections/voter-information",
   registration: "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information",

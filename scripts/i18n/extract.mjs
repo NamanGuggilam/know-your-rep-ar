@@ -1,17 +1,20 @@
-// Collects every English string the app shows, as dictionary keys for translators.
-//   node scripts/i18n/extract.mjs [baseUrl]   -> scripts/i18n/strings.json
-// Numbers become {0}, {1}... so one entry covers every district and date.
 import { chromium } from "@playwright/test";
 import { writeFileSync } from "node:fs";
 
-const base = process.argv[2] ?? "http://localhost:3210";
+const DEFAULT_BASE_URL = "http://localhost:3210";
+const OUTPUT_PATH = "scripts/i18n/strings.json";
+const VIEWPORT = { width: 1280, height: 900 };
+const TEST_ADDRESS = "1001 SE Walton Blvd, Bentonville 72712";
+const BALLOT_LOOKUP_TIMEOUT_MS = 30000;
+const PAGE_SETTLE_MS = 600;
+const MAX_STRING_LENGTH = 600;
+const baseUrl = process.argv[2] ?? DEFAULT_BASE_URL;
 const PAGES = [
   "/", "/ballot?cd=3&ss=33&sh=13", "/ballot?cd=2&ss=14&sh=74", "/who-does-what", "/elections", "/vote", "/results",
   "/neutral", "/about", "/privacy", "/accessibility", "/offline", "/search", "/ask",
   "/rep/W000809", "/rep/0dee8795-58dd-48a8-980e-044d8d2ac646", "/candidates/fred-love", "/candidates/michael-kalagias",
 ];
-// Messages that only appear after an action (errors, loading states).
-const DYNAMIC = [
+const MESSAGES_SHOWN_AFTER_ACTIONS = [
   "Please type your street address, city, and ZIP code. For example: 123 Main St, Bentonville 72712",
   "Looking up your representatives. This can take a few seconds.",
   "Asking your device for your location…",
@@ -38,12 +41,11 @@ const DYNAMIC = [
   "This page was translated by computer and may have mistakes. Native speakers: help us fix them.",
 ];
 
-// Same rules as the in-page Translator: neighbouring text nodes form one string.
-const collect = () => {
-  const SKIP = "script, style, noscript, textarea, input, select, code, [translate='no'], [data-no-translate], nextjs-portal";
+const collectPageStrings = () => {
+  const SKIPPED_ELEMENTS = "script, style, noscript, textarea, input, select, code, [translate='no'], [data-no-translate], nextjs-portal";
   const out = [];
   const walk = (el) => {
-    if (el.matches(SKIP)) return;
+    if (el.matches(SKIPPED_ELEMENTS)) return;
     for (const a of ["placeholder", "aria-label", "alt", "title"]) {
       const v = el.getAttribute(a);
       if (v) out.push(v);
@@ -63,26 +65,37 @@ const collect = () => {
   return out;
 };
 
-const b = await chromium.launch();
-const p = await (await b.newContext({ viewport: { width: 1280, height: 900 } })).newPage();
-const all = new Map();
-const add = (raw, where) => {
-  const k = raw.replace(/\s+/g, " ").trim();
-  if (!/[A-Za-z]{2}/.test(k) || k.length > 600) return;
-  let i = 0;
-  const key = k.replace(/\d+/g, () => `{${i++}}`);
-  if (!all.has(key)) all.set(key, where);
+const numberedKey = (rawText) => {
+  let index = 0;
+  return rawText.replace(/\d+/g, () => `{${index++}}`);
 };
-// Results pages need a lookup first (they read this visit's saved lineup).
-await p.goto(base + "/"); await p.fill("#address", "1001 SE Walton Blvd, Bentonville 72712"); await p.click("text=Show my ballot");
-await p.waitForURL("**/ballot?**", { timeout: 30000 });
-for (const path of [...PAGES, "/my-reps"]) {
-  await p.goto(base + path, { waitUntil: "networkidle" });
-  await p.waitForTimeout(600);
-  for (const s of await p.evaluate(collect)) add(s, path);
+
+function addString(strings, rawText, source) {
+  const text = rawText.replace(/\s+/g, " ").trim();
+  if (!/[A-Za-z]{2}/.test(text) || text.length > MAX_STRING_LENGTH) return;
+  const key = numberedKey(text);
+  if (!strings.has(key)) strings.set(key, source);
 }
-for (const s of DYNAMIC) add(s, "dynamic");
-await b.close();
-const keys = [...all.keys()].sort();
-writeFileSync("scripts/i18n/strings.json", JSON.stringify(keys, null, 1) + "\n");
-console.log(`${keys.length} strings, ${keys.join(" ").split(/\s+/).length} words`);
+
+async function main() {
+  const browser = await chromium.launch();
+  const context = await browser.newContext({ viewport: VIEWPORT });
+  const page = await context.newPage();
+  const strings = new Map();
+  await page.goto(baseUrl + "/");
+  await page.fill("#address", TEST_ADDRESS);
+  await page.click("text=Show my ballot");
+  await page.waitForURL("**/ballot?**", { timeout: BALLOT_LOOKUP_TIMEOUT_MS });
+  for (const pagePath of [...PAGES, "/my-reps"]) {
+    await page.goto(baseUrl + pagePath, { waitUntil: "networkidle" });
+    await page.waitForTimeout(PAGE_SETTLE_MS);
+    for (const text of await page.evaluate(collectPageStrings)) addString(strings, text, pagePath);
+  }
+  for (const text of MESSAGES_SHOWN_AFTER_ACTIONS) addString(strings, text, "dynamic");
+  await browser.close();
+  const keys = [...strings.keys()].sort();
+  writeFileSync(OUTPUT_PATH, JSON.stringify(keys, null, 1) + "\n");
+  console.log(`${keys.length} strings, ${keys.join(" ").split(/\s+/).length} words`);
+}
+
+await main();

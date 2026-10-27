@@ -6,7 +6,11 @@ import { retrieve, type SearchDoc } from "./search";
 
 export const ASK_MODEL = process.env.ANTHROPIC_MODEL || "claude-sonnet-5-5";
 
-// Facts from our own pages, so common voting questions have a grounded answer.
+const RETRIEVED_DOC_LIMIT = 12;
+const MAX_FIELDS_PER_SOURCE = 40;
+const FALLBACK_SOURCE_LIMIT = 8;
+const MAX_ANSWER_TOKENS = 2000;
+
 const APP_FACTS = `
 - The next election in this app: ${ELECTION.name}, ${ELECTION.date}. Polls are open 7:30 a.m. to 7:30 p.m. on Election Day (Arkansas Secretary of State).
 - Find your polling place, early voting sites, and check your registration on VoterView: https://www.voterview.ar-nova.org/voterview
@@ -46,39 +50,40 @@ export interface AskResult {
 }
 
 function docBlock(d: SearchDoc, i: number) {
-  const lines = d.fields.slice(0, 40).map((f) => `${f.label}: ${f.text}`);
+  const lines = d.fields.slice(0, MAX_FIELDS_PER_SOURCE).map((f) => `${f.label}: ${f.text}`);
   return `<source id="s${i + 1}" title="${d.title}" kind="${d.kind}" page="${d.href}">\n${d.subtitle}\n${lines.join("\n")}\n</source>`;
 }
 
 let client: Anthropic | null = null;
 
-/**
- * @param race When the person is looking at one race (e.g. "Governor"), every candidate in it
- *   and that office's description are always included, so answers cover all of them equally.
- */
+function pinRaceDocsFirst(picked: SearchDoc[], docs: SearchDoc[], race: string) {
+  const candidatesInRace = docs.filter((d) => d.kind === "candidate" && d.subtitle === `Candidate for ${race}`);
+  const officeDescriptions = docs.filter(
+    (d) => d.kind === "role" && race.toLowerCase().includes(d.title.toLowerCase().replace(/ of arkansas$/, "")),
+  );
+  for (const doc of [...officeDescriptions, ...candidatesInRace].reverse()) {
+    const existingIndex = picked.indexOf(doc);
+    if (existingIndex >= 0) picked.splice(existingIndex, 1);
+    picked.unshift(doc);
+  }
+}
+
+function addMissingCandidatesOfPickedRaces(picked: SearchDoc[], docs: SearchDoc[]) {
+  const pickedRaces = new Set(picked.filter((d) => d.kind === "candidate").map((d) => d.subtitle));
+  for (const doc of docs) {
+    if (doc.kind === "candidate" && pickedRaces.has(doc.subtitle) && !picked.includes(doc)) picked.push(doc);
+  }
+}
+
 export async function ask(question: string, docs: SearchDoc[], race?: string): Promise<AskResult> {
-  const picked = retrieve(docs, race ? `${race} ${question}` : question, 12);
-  if (race) {
-    const inRace = docs.filter((d) => d.kind === "candidate" && d.subtitle === `Candidate for ${race}`);
-    const office = docs.filter(
-      (d) => d.kind === "role" && race.toLowerCase().includes(d.title.toLowerCase().replace(/ of arkansas$/, "")),
-    );
-    for (const d of [...office, ...inRace].reverse()) {
-      const i = picked.indexOf(d);
-      if (i >= 0) picked.splice(i, 1);
-      picked.unshift(d);
-    }
-  }
-  // For a race question, make sure every candidate in that race is in the context, so no one is left out.
-  const races = new Set(picked.filter((d) => d.kind === "candidate").map((d) => d.subtitle));
-  for (const d of docs) {
-    if (d.kind === "candidate" && races.has(d.subtitle) && !picked.includes(d)) picked.push(d);
-  }
+  const picked = retrieve(docs, race ? `${race} ${question}` : question, RETRIEVED_DOC_LIMIT);
+  if (race) pinRaceDocsFirst(picked, docs, race);
+  addMissingCandidatesOfPickedRaces(picked, docs);
 
   const searchOnly: AskResult = {
     kind: "unavailable",
     answer: "",
-    sources: picked.slice(0, 8).map((d) => ({ title: d.title, href: d.href })),
+    sources: picked.slice(0, FALLBACK_SOURCE_LIMIT).map((d) => ({ title: d.title, href: d.href })),
   };
   if (!process.env.ANTHROPIC_API_KEY) return searchOnly;
 
@@ -87,7 +92,7 @@ export async function ask(question: string, docs: SearchDoc[], race?: string): P
   try {
     res = await client.messages.parse({
       model: ASK_MODEL,
-      max_tokens: 2000,
+      max_tokens: MAX_ANSWER_TOKENS,
       system: SYSTEM,
       output_config: { format: zodOutputFormat(Output), effort: "low" },
       messages: [
@@ -97,10 +102,11 @@ export async function ask(question: string, docs: SearchDoc[], race?: string): P
         },
       ],
     });
-  } catch (e) {
-    // A missing or bad key turns the AI off; search results still help.
-    if (e instanceof Anthropic.AuthenticationError || e instanceof Anthropic.PermissionDeniedError) return searchOnly;
-    throw e;
+  } catch (error) {
+    if (error instanceof Anthropic.AuthenticationError || error instanceof Anthropic.PermissionDeniedError) {
+      return searchOnly;
+    }
+    throw error;
   }
   if (res.stop_reason === "refusal" || !res.parsed_output) {
     return {
@@ -110,10 +116,10 @@ export async function ask(question: string, docs: SearchDoc[], race?: string): P
       model: ASK_MODEL,
     };
   }
-  const out = res.parsed_output;
-  const sources = out.sourceIds
+  const output = res.parsed_output;
+  const sources = output.sourceIds
     .map((id) => picked[Number(id.replace(/^s/, "")) - 1])
     .filter((d): d is SearchDoc => !!d)
     .map((d) => ({ title: d.title, href: d.href }));
-  return { kind: out.kind, answer: out.answer, sources, model: ASK_MODEL };
+  return { kind: output.kind, answer: output.answer, sources, model: ASK_MODEL };
 }

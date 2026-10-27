@@ -10,20 +10,54 @@ import { RepCard } from "./RepCard";
 import { ResultsTabs } from "./ResultsTabs";
 import { Term } from "./Term";
 
+function useFocusWhenReady<T extends HTMLElement>(isReady: boolean) {
+  const elementRef = useRef<T>(null);
+  useEffect(() => {
+    if (isReady) elementRef.current?.focus();
+  }, [isReady]);
+  return elementRef;
+}
+
+const STATE_OFFICE_PREFIX = "state";
+const FEDERAL_OFFICE_PREFIX = "us";
+
+type Seat = SavedLineup["seats"][number];
+
+function SeatGroup({
+  title,
+  titleClassName,
+  keyPrefix,
+  seats,
+  children,
+}: {
+  title: string;
+  titleClassName: string;
+  keyPrefix: string;
+  seats: Seat[];
+  children: React.ReactNode;
+}) {
+  return (
+    <>
+      <h2 className={titleClassName}>{title}</h2>
+      <p className="mt-1 text-ink-muted simple-hide">{children}</p>
+      <div className="mt-4 grid gap-4 md:grid-cols-2">
+        {seats.map((seat, index) => (
+          <RepCard key={seat.official?.id ?? `${keyPrefix}-${index}`} seat={seat} headingLevel={3} />
+        ))}
+      </div>
+    </>
+  );
+}
+
 export function Lineup() {
   const router = useRouter();
   const [lineup, setLineup] = useState<SavedLineup | null | undefined>(undefined);
-  const heading = useRef<HTMLHeadingElement>(null);
+  const headingRef = useFocusWhenReady<HTMLHeadingElement>(Boolean(lineup));
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setLineup(loadLineup());
   }, []);
-
-  useEffect(() => {
-    // Move focus to the page heading so screen reader users hear the new page.
-    if (lineup) heading.current?.focus();
-  }, [lineup]);
 
   if (lineup === undefined) {
     return (
@@ -45,13 +79,13 @@ export function Lineup() {
     );
   }
 
-  const stateSeats = lineup.seats.filter((s) => s.office.startsWith("state"));
-  const federalSeats = lineup.seats.filter((s) => s.office.startsWith("us"));
+  const stateSeats = lineup.seats.filter((seat) => seat.office.startsWith(STATE_OFFICE_PREFIX));
+  const federalSeats = lineup.seats.filter((seat) => seat.office.startsWith(FEDERAL_OFFICE_PREFIX));
 
   return (
     <div>
       <div className="flex flex-wrap items-end justify-between gap-3">
-        <h1 ref={heading} tabIndex={-1} className="text-4xl font-extrabold outline-none">
+        <h1 ref={headingRef} tabIndex={-1} className="text-4xl font-extrabold outline-none">
           Your representatives
         </h1>
         <button
@@ -71,25 +105,23 @@ export function Lineup() {
       </p>
       <ResultsTabs active="reps" />
 
-      <h2 className="text-2xl font-extrabold">In Little Rock: your Arkansas lawmakers</h2>
-      <p className="mt-1 text-ink-muted simple-hide">
+      <SeatGroup
+        title="In Little Rock: your Arkansas lawmakers"
+        titleClassName="text-2xl font-extrabold"
+        keyPrefix="state"
+        seats={stateSeats}
+      >
         They make Arkansas laws. They are part of the <Term k="general-assembly">General Assembly</Term>.
-      </p>
-      <div className="mt-4 grid gap-4 md:grid-cols-2">
-        {stateSeats.map((s, i) => (
-          <RepCard key={s.official?.id ?? `state-${i}`} seat={s} headingLevel={3} />
-        ))}
-      </div>
+      </SeatGroup>
 
-      <h2 className="mt-10 text-2xl font-extrabold">In Washington, D.C.: your members of Congress</h2>
-      <p className="mt-1 text-ink-muted simple-hide">
+      <SeatGroup
+        title="In Washington, D.C.: your members of Congress"
+        titleClassName="mt-10 text-2xl font-extrabold"
+        keyPrefix="fed"
+        seats={federalSeats}
+      >
         They make national laws. Together they are part of <Term k="congress">Congress</Term>.
-      </p>
-      <div className="mt-4 grid gap-4 md:grid-cols-2">
-        {federalSeats.map((s, i) => (
-          <RepCard key={s.official?.id ?? `fed-${i}`} seat={s} headingLevel={3} />
-        ))}
-      </div>
+      </SeatGroup>
 
       {lineup.shapes.length > 0 && (
         <div className="mt-10">
@@ -102,12 +134,12 @@ export function Lineup() {
           Where this information comes from
         </h2>
         <ul className="mt-2 list-disc pl-6">
-          {lineup.sources.map((s) => (
-            <li key={s.url}>
-              <a href={s.url} target="_blank" rel="noopener noreferrer">
-                {s.name}
+          {lineup.sources.map((source) => (
+            <li key={source.url}>
+              <a href={source.url} target="_blank" rel="noopener noreferrer">
+                {source.name}
               </a>{" "}
-              — last updated {formatUpdated(s.fetchedAt)}
+              — last updated {formatUpdated(source.fetchedAt)}
             </li>
           ))}
         </ul>

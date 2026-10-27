@@ -1,8 +1,3 @@
-// Step 2 of the agent-assisted path: check a draft and publish it.
-//   npx tsx scripts/positions/finalize.ts <candidate-id>
-// Reads .cache/drafts/<id>.json (written by the reviewer) and .cache/campaign/<id>.json (crawler output).
-// Every quote must appear word-for-word on the page it cites, or it is dropped.
-// Downloads the photo to public/candidates/<id>.<ext>; its credit is saved in the positions file.
 import { existsSync, readFileSync } from "node:fs";
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
@@ -16,62 +11,82 @@ interface Draft {
   positions: { topic: string; summary: string; quote: string; page: number }[];
 }
 
-const BANNED = /\b(conservative|liberal|progressive|right-wing|left-wing|far-right|far-left|radical|extreme|maga|woke|republican|democrat(ic)?|libertarian)\b/i;
-const root = process.cwd();
-const read = (p: string) => JSON.parse(readFileSync(p, "utf8"));
+type CompareTopic = (typeof COMPARE_TOPICS)[number];
+type DraftPosition = Draft["positions"][number];
+type CrawledPage = { url: string; text: string; source?: string };
 
-async function savePhoto(id: string, photo: NonNullable<Draft["photo"]>) {
-  const res = await fetch(photo.url, {
-    headers: { "user-agent": "KnowYourRepAR/1.0 (student civic project)" },
-    signal: AbortSignal.timeout(30000),
+const USAGE = "usage: finalize.ts <candidate-id>";
+const BANNED_WORDS = /\b(conservative|liberal|progressive|right-wing|left-wing|far-right|far-left|radical|extreme|maga|woke|republican|democrat(ic)?|libertarian)\b/i;
+const PHOTO_USER_AGENT = "KnowYourRepAR/1.0 (student civic project)";
+const PHOTO_TIMEOUT_MS = 30000;
+const MIN_PHOTO_BYTES = 2000;
+const MIN_QUOTE_CHARS = 20;
+const NO_WEBSITE_NOTE = "We could not find a campaign website for this candidate.";
+const projectRoot = process.cwd();
+
+const readJson = (filePath: string) => JSON.parse(readFileSync(filePath, "utf8"));
+
+function photoExtension(contentType: string) {
+  if (contentType.includes("png")) return "png";
+  if (contentType.includes("webp")) return "webp";
+  return "jpg";
+}
+
+async function savePhoto(candidateId: string, photo: NonNullable<Draft["photo"]>) {
+  const response = await fetch(photo.url, {
+    headers: { "user-agent": PHOTO_USER_AGENT },
+    signal: AbortSignal.timeout(PHOTO_TIMEOUT_MS),
   });
-  const type = res.headers.get("content-type") ?? "";
-  if (!res.ok || !/^image\/(jpeg|png|webp)/.test(type)) throw new Error(`photo: ${res.status} ${type}`);
-  const ext = type.includes("png") ? "png" : type.includes("webp") ? "webp" : "jpg";
-  const buf = Buffer.from(await res.arrayBuffer());
-  if (buf.length < 2000) throw new Error("photo: file too small");
-  const dir = path.join(root, "public", "candidates");
-  await mkdir(dir, { recursive: true });
-  await writeFile(path.join(dir, `${id}.${ext}`), buf);
-  return `/candidates/${id}.${ext}`;
+  const contentType = response.headers.get("content-type") ?? "";
+  if (!response.ok || !/^image\/(jpeg|png|webp)/.test(contentType)) throw new Error(`photo: ${response.status} ${contentType}`);
+  const extension = photoExtension(contentType);
+  const bytes = Buffer.from(await response.arrayBuffer());
+  if (bytes.length < MIN_PHOTO_BYTES) throw new Error("photo: file too small");
+  const directory = path.join(projectRoot, "public", "candidates");
+  await mkdir(directory, { recursive: true });
+  await writeFile(path.join(directory, `${candidateId}.${extension}`), bytes);
+  return `/candidates/${candidateId}.${extension}`;
+}
+
+function rejectionReason(
+  position: DraftPosition,
+  topic: CompareTopic,
+  page: CrawledPage | undefined,
+  alreadyKept: boolean,
+): string | null {
+  if (!COMPARE_TOPICS.includes(topic)) return "unknown topic";
+  if (alreadyKept) return "duplicate topic";
+  if (!page) return "no such page";
+  if (position.quote.trim().length < MIN_QUOTE_CHARS) return "quote too short";
+  if (!normalize(page.text).includes(normalize(position.quote))) return "quote not found word-for-word on the page";
+  if (!/^Says\b/.test(position.summary.trim())) return 'summary must start with "Says"';
+  if (BANNED_WORDS.test(position.summary)) return "summary uses a label or party name";
+  return null;
 }
 
 async function main() {
-  const id = process.argv[2];
-  if (!id || !/^[a-z0-9-]+$/.test(id)) throw new Error("usage: finalize.ts <candidate-id>");
-  const draft: Draft = read(path.join(root, ".cache", "drafts", `${id}.json`));
-  const crawl = existsSync(path.join(root, ".cache", "campaign", `${id}.json`))
-    ? read(path.join(root, ".cache", "campaign", `${id}.json`))
-    : { pages: [], note: draft.websiteNote ?? "We could not find a campaign website for this candidate." };
-  const pages: { url: string; text: string; source?: string }[] = crawl.pages;
+  const candidateId = process.argv[2];
+  if (!candidateId || !/^[a-z0-9-]+$/.test(candidateId)) throw new Error(USAGE);
+  const draft: Draft = readJson(path.join(projectRoot, ".cache", "drafts", `${candidateId}.json`));
+  const crawlPath = path.join(projectRoot, ".cache", "campaign", `${candidateId}.json`);
+  const crawl = existsSync(crawlPath)
+    ? readJson(crawlPath)
+    : { pages: [], note: draft.websiteNote ?? NO_WEBSITE_NOTE };
+  const pages: CrawledPage[] = crawl.pages;
 
-  const kept: Partial<Record<(typeof COMPARE_TOPICS)[number], Position>> = {};
+  const keptPositions: Partial<Record<CompareTopic, Position>> = {};
   const problems: string[] = [];
-  for (const p of draft.positions) {
-    const page = pages[p.page - 1];
-    const topic = p.topic as (typeof COMPARE_TOPICS)[number];
-    const why = !COMPARE_TOPICS.includes(topic)
-      ? "unknown topic"
-      : kept[topic]
-        ? "duplicate topic"
-        : !page
-          ? "no such page"
-          : p.quote.trim().length < 20
-            ? "quote too short"
-            : !normalize(page.text).includes(normalize(p.quote))
-              ? "quote not found word-for-word on the page"
-              : !/^Says\b/.test(p.summary.trim())
-                ? 'summary must start with "Says"'
-                : BANNED.test(p.summary)
-                  ? "summary uses a label or party name"
-                  : null;
-    if (why) {
-      problems.push(`${p.topic}: ${why}`);
+  for (const position of draft.positions) {
+    const page = pages[position.page - 1];
+    const topic = position.topic as CompareTopic;
+    const reason = rejectionReason(position, topic, page, Boolean(keptPositions[topic]));
+    if (reason) {
+      problems.push(`${position.topic}: ${reason}`);
       continue;
     }
-    kept[topic] = {
-      summary: p.summary.trim(),
-      quote: p.quote.trim(),
+    keptPositions[topic] = {
+      summary: position.summary.trim(),
+      quote: position.quote.trim(),
       url: page.url,
       ...(page.source ? { source: page.source } : {}),
     };
@@ -80,27 +95,32 @@ async function main() {
   let photo: CandidatePositions["photo"];
   if (draft.photo) {
     try {
-      photo = { src: await savePhoto(id, draft.photo), credit: draft.photo.credit, sourcePage: draft.photo.sourcePage };
-    } catch (e) {
-      problems.push((e as Error).message);
+      photo = {
+        src: await savePhoto(candidateId, draft.photo),
+        credit: draft.photo.credit,
+        sourcePage: draft.photo.sourcePage,
+      };
+    } catch (error) {
+      problems.push((error as Error).message);
     }
   }
 
   const file: CandidatePositions = {
-    candidateId: id,
+    candidateId,
     website: draft.website ?? crawl.website,
     websiteNote: draft.websiteNote ?? crawl.note,
     generatedAt: new Date().toISOString(),
     model: "Claude (reviewed by code)",
-    positions: kept,
+    positions: keptPositions,
     photo,
   };
-  await mkdir(path.join(root, "src", "data", "positions"), { recursive: true });
-  await writeFile(path.join(root, "src", "data", "positions", `${id}.json`), JSON.stringify(file, null, 2) + "\n");
-  console.log(`${id}: kept ${Object.keys(kept).length} topics, photo ${photo?.src ?? "none"}`);
-  for (const p of problems) console.log(`  REMOVED ${p}`);
+  await mkdir(path.join(projectRoot, "src", "data", "positions"), { recursive: true });
+  await writeFile(path.join(projectRoot, "src", "data", "positions", `${candidateId}.json`), JSON.stringify(file, null, 2) + "\n");
+  console.log(`${candidateId}: kept ${Object.keys(keptPositions).length} topics, photo ${photo?.src ?? "none"}`);
+  for (const problem of problems) console.log(`  REMOVED ${problem}`);
 }
-main().catch((e) => {
-  console.error(e.message);
+
+main().catch((error) => {
+  console.error(error.message);
   process.exitCode = 1;
 });

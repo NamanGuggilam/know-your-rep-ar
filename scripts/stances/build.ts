@@ -1,14 +1,3 @@
-// Builds src/data/stances/<id>.json for every Arkansas official.
-//
-//   npx tsx scripts/stances/build.ts            # all officials, skips ones already built
-//   npx tsx scripts/stances/build.ts --force    # rebuild everything
-//   npx tsx scripts/stances/build.ts --only W000809,<uuid>
-//   npx tsx scripts/stances/build.ts --limit 3
-//
-//   npx tsx scripts/stances/build.ts --no-ai    # records only: no topics, no plain-English lines
-//
-// Needs ANTHROPIC_API_KEY (from .env.local or the shell) unless --no-ai. CONGRESS_GOV_API_KEY is optional (falls back to the public DEMO_KEY).
-// Review the JSON files before publishing: they are what the app shows.
 import { existsSync, readFileSync } from "node:fs";
 import { parseEnv } from "node:util";
 import { mkdir, writeFile } from "node:fs/promises";
@@ -19,104 +8,125 @@ import type { StanceFile } from "../../src/lib/stances";
 import type { DataSource, Official } from "../../src/lib/types";
 import { MODEL, organize } from "./organize";
 import { closeBrowser, ownWords } from "./ownwords";
-import { federalRecord, stateRecord } from "./records";
+import { federalRecord, stateRecord, type RawBill } from "./records";
 
-const OUT = path.join(process.cwd(), "src", "data", "stances");
+const OUTPUT_DIR = path.join(process.cwd(), "src", "data", "stances");
+const CONCURRENCY = 4;
+const LEGISLATORS_DATA_URL = "https://unitedstates.github.io/congress-legislators";
+const OPEN_STATES_CSV_URL = "https://data.openstates.org/people/current/ar.csv";
+
+function readOption(args: string[], flag: string) {
+  return args.includes(flag) ? args[args.indexOf(flag) + 1] : undefined;
+}
+
 const args = process.argv.slice(2);
 const force = args.includes("--force");
-const only = args.includes("--only") ? args[args.indexOf("--only") + 1].split(",") : null;
-const limit = args.includes("--limit") ? Number(args[args.indexOf("--limit") + 1]) : Infinity;
-const noAi = args.includes("--no-ai");
-const CONCURRENCY = 4;
+const onlyIds = readOption(args, "--only")?.split(",") ?? null;
+const limitOption = readOption(args, "--limit");
+const limit = limitOption === undefined ? Infinity : Number(limitOption);
+const withoutAi = args.includes("--no-ai");
 
-// Keys in .env.local win over the shell, so a stale exported key can't shadow the project's key.
-try {
-  Object.assign(process.env, parseEnv(readFileSync(".env.local", "utf8")));
-} catch {
-  // No .env.local: use the shell environment.
+function loadEnvLocal() {
+  try {
+    Object.assign(process.env, parseEnv(readFileSync(".env.local", "utf8")));
+  } catch {
+    return;
+  }
 }
 
 async function loadOfficials(): Promise<Official[]> {
-  const src: DataSource = { name: "", url: "", fetchedAt: new Date().toISOString() };
-  const [people, offices, csv] = await Promise.all([
-    fetch("https://unitedstates.github.io/congress-legislators/legislators-current.json").then((r) => r.json()),
-    fetch("https://unitedstates.github.io/congress-legislators/legislators-district-offices.json").then((r) => r.json()),
-    fetch("https://data.openstates.org/people/current/ar.csv").then((r) => r.text()),
+  const dataSource: DataSource = { name: "", url: "", fetchedAt: new Date().toISOString() };
+  const [people, districtOffices, csv] = await Promise.all([
+    fetch(`${LEGISLATORS_DATA_URL}/legislators-current.json`).then((response) => response.json()),
+    fetch(`${LEGISLATORS_DATA_URL}/legislators-district-offices.json`).then((response) => response.json()),
+    fetch(OPEN_STATES_CSV_URL).then((response) => response.text()),
   ]);
-  const state = withArklegLinks(
-    parseOpenStatesCsv(csv).map((r) => mapStateRow(r, src)),
+  const stateOfficials = withArklegLinks(
+    parseOpenStatesCsv(csv).map((row) => mapStateRow(row, dataSource)),
     await getArklegLinks(),
   );
-  return [...mapFederal(people, offices, src), ...state];
+  return [...mapFederal(people, districtOffices, dataSource), ...stateOfficials];
 }
 
-async function buildOne(o: Official): Promise<string> {
-  const federal = o.office === "us-senate" || o.office === "us-house";
-  const record = federal
-    ? await federalRecord(o.id)
-    : o.officialPageUrl
-      ? await stateRecord(o.officialPageUrl, o.name)
-      : { facts: [], committees: [], bills: [], billsNote: "We could not find this person's page on the Arkansas State Legislature website.", sources: [] };
+const NO_STATE_PAGE_RECORD = {
+  facts: [],
+  committees: [],
+  bills: [],
+  billsNote: "We could not find this person's page on the Arkansas State Legislature website.",
+  sources: [],
+};
 
-  // State lawmakers rarely have an official issues page, so we only crawl federal .gov sites.
-  const words = federal
-    ? await ownWords(o.website)
-    : {
-        status: "none" as const,
-        note: "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
-        pages: [],
-      };
+const NO_STATE_OWN_WORDS = {
+  status: "none" as const,
+  note: "Arkansas state lawmakers do not have official issue pages on the Legislature website. Their bills below show what they have worked on.",
+  pages: [],
+};
 
-  // --no-ai: list the real bills with their official titles, unsorted. Nothing is generated.
-  const { topics, removed, refused } = noAi
-    ? {
-        topics: record.bills.length
-          ? [{ topic: "Other topics" as const, statements: [], bills: record.bills.map((b) => ({ ...b, plain: "" })) }]
-          : [],
-        removed: 0,
-        refused: false,
-      }
-    : await organize({ name: o.name, title: o.title }, words.pages, record.bills);
+async function loadRecord(official: Official, isFederal: boolean) {
+  if (isFederal) return federalRecord(official.id);
+  if (official.officialPageUrl) return stateRecord(official.officialPageUrl, official.name);
+  return NO_STATE_PAGE_RECORD;
+}
+
+function unsortedBillTopics(bills: RawBill[]) {
+  if (!bills.length) return [];
+  return [{ topic: "Other topics" as const, statements: [], bills: bills.map((bill) => ({ ...bill, plain: "" })) }];
+}
+
+async function buildOne(official: Official): Promise<string> {
+  const isFederal = official.office === "us-senate" || official.office === "us-house";
+  const record = await loadRecord(official, isFederal);
+  const ownWordsResult = isFederal ? await ownWords(official.website) : NO_STATE_OWN_WORDS;
+
+  const { topics, removed, refused } = withoutAi
+    ? { topics: unsortedBillTopics(record.bills), removed: 0, refused: false }
+    : await organize({ name: official.name, title: official.title }, ownWordsResult.pages, record.bills);
   if (refused) throw new Error("model declined");
 
   const file: StanceFile = {
-    id: o.id,
-    name: o.name,
+    id: official.id,
+    name: official.name,
     generatedAt: new Date().toISOString(),
-    model: noAi ? "none" : MODEL,
+    model: withoutAi ? "none" : MODEL,
     facts: record.facts,
     committees: record.committees,
-    ownWords: { status: words.status, note: words.note, pages: words.pages.map((p) => ({ url: p.url, title: p.title })) },
+    ownWords: {
+      status: ownWordsResult.status,
+      note: ownWordsResult.note,
+      pages: ownWordsResult.pages.map((page) => ({ url: page.url, title: page.title })),
+    },
     billsNote: record.billsNote,
     topics,
     sources: [
       ...record.sources,
-      ...(words.pages.length ? [{ name: `${o.name}'s official website`, url: o.website! }] : []),
+      ...(ownWordsResult.pages.length ? [{ name: `${official.name}'s official website`, url: official.website! }] : []),
     ],
     removedByChecks: removed,
   };
-  await writeFile(path.join(OUT, `${o.id}.json`), JSON.stringify(file, null, 2) + "\n");
-  const statements = topics.reduce((n, t) => n + t.statements.length, 0);
-  return `${o.name}: ${record.bills.length} bills, ${statements} statements, ${record.committees.length} committees, own words: ${words.status}, removed ${removed}`;
+  await writeFile(path.join(OUTPUT_DIR, `${official.id}.json`), JSON.stringify(file, null, 2) + "\n");
+  const statementCount = topics.reduce((total, topic) => total + topic.statements.length, 0);
+  return `${official.name}: ${record.bills.length} bills, ${statementCount} statements, ${record.committees.length} committees, own words: ${ownWordsResult.status}, removed ${removed}`;
 }
 
 async function main() {
-  await mkdir(OUT, { recursive: true });
-  let todo = (await loadOfficials()).filter((o) => (only ? only.includes(o.id) : true));
-  if (!force) todo = todo.filter((o) => !existsSync(path.join(OUT, `${o.id}.json`)));
-  todo = todo.slice(0, limit);
-  console.log(`Building ${todo.length} officials ${noAi ? "without AI" : `with ${MODEL}`}...`);
+  loadEnvLocal();
+  await mkdir(OUTPUT_DIR, { recursive: true });
+  const outputExists = (official: Official) => existsSync(path.join(OUTPUT_DIR, `${official.id}.json`));
+  let queue = (await loadOfficials()).filter((official) => (onlyIds ? onlyIds.includes(official.id) : true));
+  if (!force) queue = queue.filter((official) => !outputExists(official));
+  queue = queue.slice(0, limit);
+  console.log(`Building ${queue.length} officials ${withoutAi ? "without AI" : `with ${MODEL}`}...`);
 
   const failures: string[] = [];
-  let i = 0;
+  let nextIndex = 0;
   async function worker() {
-    while (i < todo.length) {
-      const o = todo[i++];
+    while (nextIndex < queue.length) {
+      const official = queue[nextIndex++];
       try {
-        console.log("ok  ", await buildOne(o));
-      } catch (e) {
-        failures.push(`${o.name} (${o.id}): ${(e as Error).message}`);
-        console.log("FAIL", o.name, (e as Error).message);
+        console.log("ok  ", await buildOne(official));
+      } catch (error) {
+        failures.push(`${official.name} (${official.id}): ${(error as Error).message}`);
+        console.log("FAIL", official.name, (error as Error).message);
       }
     }
   }

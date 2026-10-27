@@ -1,4 +1,3 @@
-/** Party color group: Reversal Red (Republican), Lapse Blue (Democratic), Hollow Purple (everyone else). */
 export type PartyKey = "r" | "d" | "o";
 
 export function partyKey(party: string | undefined): PartyKey {
@@ -8,7 +7,6 @@ export function partyKey(party: string | undefined): PartyKey {
   return "o";
 }
 
-/** "Republican" -> "Republican Party", "Democrat" -> "Democratic Party", "Independent" -> "Independent" */
 export function partyName(party: string | undefined) {
   const p = (party ?? "").trim();
   if (!p || /^not listed$/i.test(p)) return "No party listed";
@@ -18,7 +16,6 @@ export function partyName(party: string | undefined) {
   return /party$/i.test(p) ? p : `${p} Party`;
 }
 
-/** The closing line under each candidate on the comparison page. */
 export function memberSentence(party: string | undefined) {
   const name = partyName(party);
   if (name === "No party listed") return "No party is listed for this candidate.";

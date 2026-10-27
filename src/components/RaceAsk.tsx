@@ -4,44 +4,52 @@ import Link from "next/link";
 import { useId, useState } from "react";
 import type { AskResult } from "@/lib/ask";
 
-/** "Ask about these candidates": the question helper, focused on one race. */
+const MIN_QUESTION_LENGTH = 3;
+const MAX_QUESTION_LENGTH = 300;
+const MESSAGE_EMPTY_QUESTION = "Please type a question.";
+const MESSAGE_GENERIC_FAILURE = "Something went wrong. Please try again.";
+const MESSAGE_OFFLINE = "We could not reach the internet. Check your connection and try again.";
+
+function exampleQuestionsFor(race: string) {
+  return [`What does the ${race} do?`, "What do they say about schools?", "How do their plans on taxes compare?"];
+}
+
 export function RaceAsk({ race, names }: { race: string; names: string[] }) {
-  const [q, setQ] = useState("");
+  const [question, setQuestion] = useState("");
   const [result, setResult] = useState<AskResult | null>(null);
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
-  const id = useId();
-  const examples = [
-    `What does the ${race} do?`,
-    "What do they say about schools?",
-    "How do their plans on taxes compare?",
-  ];
+  const baseId = useId();
+  const examples = exampleQuestionsFor(race);
 
-  async function submit(text: string) {
-    const question = text.trim();
-    if (question.length < 3) return setError("Please type a question.");
+  async function submit(rawQuestion: string) {
+    const trimmedQuestion = rawQuestion.trim();
+    if (trimmedQuestion.length < MIN_QUESTION_LENGTH) {
+      setError(MESSAGE_EMPTY_QUESTION);
+      return;
+    }
     setLoading(true);
     setError("");
     setResult(null);
     try {
-      const res = await fetch("/api/ask", {
+      const response = await fetch("/api/ask", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ question, race }),
+        body: JSON.stringify({ question: trimmedQuestion, race }),
       });
-      const data = await res.json();
-      if (res.ok) setResult(data);
-      else setError(data.error ?? "Something went wrong. Please try again.");
+      const data = await response.json();
+      if (response.ok) setResult(data);
+      else setError(data.error ?? MESSAGE_GENERIC_FAILURE);
     } catch {
-      setError("We could not reach the internet. Check your connection and try again.");
+      setError(MESSAGE_OFFLINE);
     } finally {
       setLoading(false);
     }
   }
 
   return (
-    <section aria-labelledby={`${id}-h`} className="card mt-4 p-5">
-      <h3 id={`${id}-h`} className="font-display text-xl font-bold">
+    <section aria-labelledby={`${baseId}-h`} className="card mt-4 p-5">
+      <h3 id={`${baseId}-h`} className="font-display text-xl font-bold">
         Ask about these candidates
       </h3>
       <p className="mt-1 text-sm text-ink-muted">
@@ -49,20 +57,20 @@ export function RaceAsk({ race, names }: { race: string; names: string[] }) {
       </p>
       <form
         className="mt-3 flex flex-wrap gap-2"
-        onSubmit={(e) => {
-          e.preventDefault();
-          submit(q);
+        onSubmit={(event) => {
+          event.preventDefault();
+          submit(question);
         }}
       >
-        <label htmlFor={`${id}-q`} className="sr-only">
+        <label htmlFor={`${baseId}-q`} className="sr-only">
           Your question about the {race} race
         </label>
         <input
-          id={`${id}-q`}
+          id={`${baseId}-q`}
           className="field min-w-0 flex-1"
-          value={q}
-          maxLength={300}
-          onChange={(e) => setQ(e.target.value)}
+          value={question}
+          maxLength={MAX_QUESTION_LENGTH}
+          onChange={(event) => setQuestion(event.target.value)}
           placeholder="Type a question"
         />
         <button type="submit" className="btn btn-primary" disabled={loading}>
@@ -70,17 +78,17 @@ export function RaceAsk({ race, names }: { race: string; names: string[] }) {
         </button>
       </form>
       <ul className="mt-3 flex flex-wrap gap-2">
-        {examples.map((ex) => (
-          <li key={ex}>
+        {examples.map((example) => (
+          <li key={example}>
             <button
               type="button"
               className="btn btn-secondary min-h-11 py-1 text-sm"
               onClick={() => {
-                setQ(ex);
-                submit(ex);
+                setQuestion(example);
+                submit(example);
               }}
             >
-              {ex}
+              {example}
             </button>
           </li>
         ))}
@@ -92,7 +100,7 @@ export function RaceAsk({ race, names }: { race: string; names: string[] }) {
         {result && result.kind === "unavailable" && (
           <p>
             AI answers aren&apos;t switched on yet. The table above shows what each candidate says. You can also{" "}
-            <Link href={`/search?q=${encodeURIComponent(q || race)}`}>search</Link>.
+            <Link href={`/search?q=${encodeURIComponent(question || race)}`}>search</Link>.
           </p>
         )}
         {result && result.kind !== "unavailable" && (
@@ -101,10 +109,10 @@ export function RaceAsk({ race, names }: { race: string; names: string[] }) {
             {result.sources.length > 0 && (
               <p className="mt-2 text-sm">
                 Sources:{" "}
-                {result.sources.map((s, i) => (
-                  <span key={s.href + s.title}>
-                    {i > 0 && ", "}
-                    <Link href={s.href}>{s.title}</Link>
+                {result.sources.map((source, index) => (
+                  <span key={source.href + source.title}>
+                    {index > 0 && ", "}
+                    <Link href={source.href}>{source.title}</Link>
                   </span>
                 ))}
               </p>

@@ -6,6 +6,7 @@ const LEGISLATORS_URL =
 const OFFICES_URL =
   "https://unitedstates.github.io/congress-legislators/legislators-district-offices.json";
 const PHOTO_BASE = "https://unitedstates.github.io/images/congress/225x275";
+const FETCH_TIMEOUT_MS = 20_000;
 const SOURCE_PAGE = "https://github.com/unitedstates/congress-legislators";
 
 interface RawTerm {
@@ -53,26 +54,12 @@ export function mapFederal(
     .map((p): Official => {
       const t = p.terms.at(-1)!;
       const isSenate = t.type === "sen";
-      const addresses: ContactAddress[] = [];
-      if (t.address) {
-        addresses.push({
-          label: "Washington, D.C. office",
-          lines: splitDcAddress(t.address),
-          phone: t.phone,
-        });
-      }
-      for (const o of officeMap.get(p.id.bioguide) ?? []) {
-        addresses.push({
-          label: `${o.city ?? "Arkansas"} office`,
-          lines: [
-            [o.address, o.suite].filter(Boolean).join(", "),
-            o.building,
-            [o.city, o.state].filter(Boolean).join(", ") + (o.zip ? ` ${o.zip}` : ""),
-          ].filter((l): l is string => Boolean(l && l.trim())),
-          phone: o.phone,
-          hours: o.hours,
-        });
-      }
+      const addresses: ContactAddress[] = [
+        ...(t.address
+          ? [{ label: "Washington, D.C. office", lines: splitDcAddress(t.address), phone: t.phone }]
+          : []),
+        ...(officeMap.get(p.id.bioguide) ?? []).map(districtOfficeAddress),
+      ];
       return {
         id: p.id.bioguide,
         name: p.name.official_full ?? `${p.name.first} ${p.name.last}`,
@@ -91,7 +78,19 @@ export function mapFederal(
     });
 }
 
-/** "555 Dirksen Senate Office Building Washington DC 20510" -> two lines */
+function districtOfficeAddress(o: RawOffice): ContactAddress {
+  return {
+    label: `${o.city ?? "Arkansas"} office`,
+    lines: [
+      [o.address, o.suite].filter(Boolean).join(", "),
+      o.building,
+      [o.city, o.state].filter(Boolean).join(", ") + (o.zip ? ` ${o.zip}` : ""),
+    ].filter((line): line is string => Boolean(line && line.trim())),
+    phone: o.phone,
+    hours: o.hours,
+  };
+}
+
 function splitDcAddress(addr: string) {
   const m = addr.match(/^(.*?)\s+(Washington,? DC.*)$/);
   return m ? [m[1], m[2].replace(/Washington,? DC/, "Washington, DC")] : [addr];
@@ -101,8 +100,8 @@ export async function getFederalOfficials(): Promise<Official[]> {
   "use cache";
   cacheLife("days");
   const [peopleRes, officesRes] = await Promise.all([
-    fetch(LEGISLATORS_URL, { signal: AbortSignal.timeout(20000) }),
-    fetch(OFFICES_URL, { signal: AbortSignal.timeout(20000) }),
+    fetch(LEGISLATORS_URL, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) }),
+    fetch(OFFICES_URL, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) }),
   ]);
   if (!peopleRes.ok) throw new Error(`congress-legislators returned ${peopleRes.status}`);
   const people: RawLegislator[] = await peopleRes.json();

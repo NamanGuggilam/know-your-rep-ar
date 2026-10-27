@@ -1,13 +1,14 @@
 import { cacheLife } from "next/cache";
 import type { DistrictShape } from "./types";
 
+const LAYER_LIST_TIMEOUT_MS = 10_000;
+const SHAPE_QUERY_TIMEOUT_MS = 15_000;
 const SERVICE = "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer";
 
-/** TIGERweb layer ids shift each cycle, so resolve them by name. The newest layers are listed first. */
 async function getLayerIds() {
   "use cache";
   cacheLife("days");
-  const res = await fetch(`${SERVICE}?f=json`, { signal: AbortSignal.timeout(10000) });
+  const res = await fetch(`${SERVICE}?f=json`, { signal: AbortSignal.timeout(LAYER_LIST_TIMEOUT_MS) });
   if (!res.ok) throw new Error(`TIGERweb returned ${res.status}`);
   const { layers } = (await res.json()) as { layers: { id: number; name: string }[] };
   const first = (re: RegExp) => layers.find((l) => re.test(l.name))?.id;
@@ -33,7 +34,7 @@ async function shapeAt(layer: number, lat: number, lon: number): Promise<Distric
   });
   const res = await fetch(`${SERVICE}/${layer}/query?${qs}`, {
     cache: "no-store",
-    signal: AbortSignal.timeout(15000),
+    signal: AbortSignal.timeout(SHAPE_QUERY_TIMEOUT_MS),
   });
   if (!res.ok) return null;
   const data = await res.json();
@@ -41,7 +42,6 @@ async function shapeAt(layer: number, lat: number, lon: number): Promise<Distric
   return f?.geometry ? { label: f.properties?.NAME ?? "District", geojson: f.geometry } : null;
 }
 
-/** Best effort: the map is a visual extra, so failures return an empty list. */
 export async function getDistrictShapes(lat: number, lon: number): Promise<DistrictShape[]> {
   try {
     const ids = await getLayerIds();

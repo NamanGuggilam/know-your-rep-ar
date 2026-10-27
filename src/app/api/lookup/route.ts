@@ -6,7 +6,6 @@ import { getStateOfficials } from "@/lib/state";
 import { votingInfo } from "@/lib/civic";
 import type { LookupResult } from "@/lib/types";
 
-// Addresses arrive in the POST body (never the URL) and are never stored or logged.
 export async function POST(request: Request) {
   let body: { address?: unknown; lat?: unknown; lon?: unknown };
   try {
@@ -22,8 +21,7 @@ export async function POST(request: Request) {
       geo = await geocodePoint(body.lat, body.lon);
     } else if (typeof body.address === "string" && body.address.trim().length >= 5) {
       const address = body.address.trim().slice(0, 200);
-      // Most people in Arkansas leave off the state. Help the geocoder out.
-      const withState = /\b(AR|Arkansas)\b/i.test(address) ? address : `${address}, AR`;
+      const withState = withArkansas(address);
       voting = votingInfo(withState);
       geo = await geocodeAddress(withState);
     } else {
@@ -59,7 +57,6 @@ export async function POST(request: Request) {
     if (e instanceof LookupError) {
       return error(e.code, e.message, e.code === "upstream" ? 502 : 422);
     }
-    // Log the failure type only, never the address.
     console.error("lookup failed:", e instanceof Error ? e.message : "unknown");
     return error(
       "upstream",
@@ -67,6 +64,10 @@ export async function POST(request: Request) {
       502,
     );
   }
+}
+
+function withArkansas(address: string) {
+  return /\b(AR|Arkansas)\b/i.test(address) ? address : `${address}, AR`;
 }
 
 function error(code: string, message: string, status: number) {

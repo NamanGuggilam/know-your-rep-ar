@@ -2,25 +2,18 @@
 @import "@fontsource/opendyslexic/400.css";
 @import "@fontsource/opendyslexic/700.css";
 
-/*
- * Design tokens. A clean public-service look in the style of U.S. government websites:
- * white pages, navy header, blue links and buttons, gray dividers.
- * (Original styling: no seals, no government banners, no agency branding.)
- * Party labels: red Republican, blue Democratic, violet everyone else, always with the name in words.
- * Light is the default. Every text pair is AA or better (body text AAA).
- */
 :root {
   --bg: #ffffff;
   --surface: #ffffff;
   --surface-2: #f0f0f0;
   --ink: #1b1b1b;
   --ink-muted: #565c65;
-  --line: #71767a; /* form field borders: 3:1 or better */
-  --line-soft: #dfe1e2; /* dividers */
-  --accent: #005ea2; /* links and buttons */
+  --line: #71767a;
+  --line-soft: #dfe1e2;
+  --accent: #005ea2;
   --accent-ink: #ffffff;
   --accent-soft: #e7f2f8;
-  --navy: #162e51; /* header, nav, footer */
+  --navy: #162e51;
   --navy-ink: #ffffff;
   --glow: #73b3e7;
   --panel-shadow: transparent;
@@ -105,7 +98,6 @@
   --font-display: var(--font-heading), var(--font-reading), system-ui, sans-serif;
 }
 
-/* Text size: 18px base, four steps. Everything is sized in rem so it all scales. */
 html {
   font-size: 112.5%;
 }
@@ -144,10 +136,8 @@ h3,
   font-family: var(--font-display);
   hyphens: auto;
   overflow-wrap: break-word;
-  /* Lets long words wrap inside flex rows at the largest text sizes. */
   min-width: 0;
 }
-/* Grid and flex children may shrink below their longest word, so text wraps instead of overflowing. */
 .grid > *,
 .flex > * {
   min-width: 0;
@@ -180,13 +170,11 @@ a:hover {
 }
 
 @layer components {
-/* Plain public-service cards: thin gray border, small corners, no shadows. */
 .card {
   background: var(--surface);
   border: 1px solid var(--line-soft);
   border-radius: 4px;
 }
-/* The one main box on a page (like the address form): a blue top edge. */
 .panel {
   background: var(--surface-2);
   border: 1px solid var(--line-soft);
@@ -198,7 +186,6 @@ html[data-theme="contrast"] .btn {
   border: 2px solid var(--ink) !important;
 }
 
-/* Buttons: at least 48px tall, always with a text label. */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -214,8 +201,6 @@ html[data-theme="contrast"] .btn {
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  /* Buttons keep their size in a row (the row wraps instead).
-     At the largest text sizes a long word can be wider than a phone screen, so cap the width. */
   flex-shrink: 0;
   max-width: 100%;
   overflow-wrap: anywhere;
@@ -261,7 +246,6 @@ html[data-theme="contrast"] .btn {
   border-color: var(--accent);
 }
 
-/* Small uppercase label above headings. */
 .eyebrow {
   font-family: var(--font-sans);
   font-size: 0.85rem;
@@ -271,7 +255,6 @@ html[data-theme="contrast"] .btn {
   color: var(--ink-muted);
 }
 
-/* Party labels: always the party name in words, plus its color. Never color alone. */
 .party {
   display: inline-flex;
   flex-wrap: wrap;
@@ -358,7 +341,6 @@ html[data-theme="contrast"] .btn {
 }
 }
 
-/* Candidate comparison table. Phones: each topic stacks; desktop: side-by-side columns. */
 @layer components {
   .compare th,
   .compare td {
@@ -435,7 +417,6 @@ html[data-theme="contrast"] .btn {
   }
 }
 
-/* Simple mode: fewer things on screen, bigger targets. */
 html[data-simple="on"] .simple-hide {
   display: none !important;
 }
@@ -445,7 +426,6 @@ html[data-simple="on"] .btn {
   padding: 0.8rem 1.4rem;
 }
 
-/* Reduce motion: honor the OS setting and the manual toggle. */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

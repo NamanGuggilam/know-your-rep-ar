@@ -1,7 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { LookupError, parseGeographies, pickLayer } from "@/lib/census";
 
-// Shape copied from a real Census Geocoder response for a Bentonville address.
 const bentonville = {
   "120th Congressional Districts": [{ STATE: "05", BASENAME: "3", GEOID: "0503" }],
   "2026 State Legislative Districts - Upper": [{ STATE: "05", BASENAME: "33", SLDU: "033" }],

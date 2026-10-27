@@ -1,4 +1,3 @@
-/** Page title and short intro. */
 export function PageIntro({ title, intro }: { title: string; intro: React.ReactNode }) {
   return (
     <div className="mb-8">

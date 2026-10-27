@@ -4,10 +4,6 @@ import type { StanceFile } from "@/lib/stances";
 import type { OfficeKind } from "@/lib/types";
 import { ExtLink } from "./PageIntro";
 
-/**
- * "Where they stand": role, committees, their own words, and the bills they sponsored.
- * Every official gets exactly the same sections in the same order.
- */
 export function Stances({ data, office, name }: { data: StanceFile | null; office: OfficeKind; name: string }) {
   const info = OFFICES[office];
   const usedAi = data && data.model !== "none";

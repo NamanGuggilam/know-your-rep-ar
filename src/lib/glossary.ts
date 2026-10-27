@@ -1,4 +1,3 @@
-// Plain definitions for civic words. Shown when someone taps a dotted-underlined word.
 export const GLOSSARY = {
   district: "An area of the state. Each area elects its own representative.",
   constituent: "A person who lives in an official's district. If you live there, you are their constituent.",

@@ -8,7 +8,6 @@ import { useA11y, type A11ySettings } from "./settings";
 interface Choice<K extends keyof A11ySettings> {
   value: A11ySettings[K];
   label: string;
-  /** Language of the label itself, so screen readers pronounce "Español" correctly. */
   lang?: string;
 }
 
@@ -62,7 +61,6 @@ function ChoiceGroup<K extends keyof A11ySettings>({
 
 const DIALOG_ID = "a11y-dialog";
 
-/** Opens the one shared settings dialog. Can appear in more than one place. */
 export function A11yButton() {
   return (
     <button
@@ -78,7 +76,6 @@ export function A11yButton() {
   );
 }
 
-/** A small "Language" link-style button that opens the same dialog. */
 export function LanguageButton() {
   const { settings } = useA11y();
   const current = LANGUAGES.find((l) => l.code === settings.lang) ?? LANGUAGES[0];
@@ -101,7 +98,6 @@ export function LanguageButton() {
   );
 }
 
-/** The settings dialog. Render exactly once per page. */
 export function A11yDialog() {
   const ref = useRef<HTMLDialogElement>(null);
   const { reset } = useA11y();

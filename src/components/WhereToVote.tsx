@@ -7,12 +7,20 @@ import { loadLineup } from "@/lib/session";
 import { PinIcon } from "./icons";
 
 const VOTERVIEW = "https://www.voterview.ar-nova.org/voterview";
+const MAX_POLLING_PLACES_SHOWN = 2;
 
 function mapLink(address: string) {
   return `https://www.openstreetmap.org/search?query=${encodeURIComponent(address)}`;
 }
 
-/** Polling place and early voting sites for the address typed this visit, when we have them. */
+function VoterViewLink() {
+  return (
+    <a href={VOTERVIEW} target="_blank" rel="noopener noreferrer">
+      VoterView<span className="sr-only"> (opens in a new tab)</span>
+    </a>
+  );
+}
+
 export function WhereToVote() {
   const [voting, setVoting] = useState<VotingInfo | null>(null);
 
@@ -30,15 +38,15 @@ export function WhereToVote() {
         <>
           <h3 className="mt-3 font-bold">On Election Day</h3>
           <ul className="mt-1 grid gap-2">
-            {voting.pollingPlaces.slice(0, 2).map((p) => (
-              <li key={p.address}>
-                {p.name && <span className="block font-semibold">{p.name}</span>}
-                <a href={mapLink(p.address)} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1">
+            {voting.pollingPlaces.slice(0, MAX_POLLING_PLACES_SHOWN).map((place) => (
+              <li key={place.address}>
+                {place.name && <span className="block font-semibold">{place.name}</span>}
+                <a href={mapLink(place.address)} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1">
                   <PinIcon size={18} />
-                  {p.address}
+                  {place.address}
                   <span className="sr-only"> (opens a map in a new tab)</span>
                 </a>
-                {p.hours && <span className="block text-ink-muted">{p.hours}</span>}
+                {place.hours && <span className="block text-ink-muted">{place.hours}</span>}
               </li>
             ))}
           </ul>
@@ -46,9 +54,7 @@ export function WhereToVote() {
       ) : (
         <p className="mt-2">
           Polls are open 7:30 a.m. to 7:30 p.m. on Election Day. Find your polling place on{" "}
-          <a href={VOTERVIEW} target="_blank" rel="noopener noreferrer">
-            VoterView<span className="sr-only"> (opens in a new tab)</span>
-          </a>
+          <VoterViewLink />
           , the official Arkansas voter lookup.
         </p>
       )}
@@ -58,11 +64,11 @@ export function WhereToVote() {
             Early voting sites ({voting.earlyVoteSites.length})
           </summary>
           <ul className="mt-2 grid gap-2">
-            {voting.earlyVoteSites.map((p) => (
-              <li key={p.address}>
-                {p.name && <span className="block font-semibold">{p.name}</span>}
-                <span className="block">{p.address}</span>
-                {p.hours && <span className="block text-ink-muted">{p.hours}</span>}
+            {voting.earlyVoteSites.map((site) => (
+              <li key={site.address}>
+                {site.name && <span className="block font-semibold">{site.name}</span>}
+                <span className="block">{site.address}</span>
+                {site.hours && <span className="block text-ink-muted">{site.hours}</span>}
               </li>
             ))}
           </ul>
@@ -71,9 +77,7 @@ export function WhereToVote() {
       {voting && (
         <p className="mt-3 text-sm text-ink-muted">
           Source: {voting.source.name}. Double-check on{" "}
-          <a href={VOTERVIEW} target="_blank" rel="noopener noreferrer">
-            VoterView<span className="sr-only"> (opens in a new tab)</span>
-          </a>
+          <VoterViewLink />
           .
         </p>
       )}

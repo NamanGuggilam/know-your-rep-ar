@@ -5,7 +5,6 @@ import { ELECTION } from "@/lib/ballot";
 
 const VOTERVIEW = "https://www.voterview.ar-nova.org/voterview";
 
-/** Key facts for the next election, from the Arkansas Secretary of State. */
 function ElectionBox() {
   const day = new Date(`${ELECTION.date}T12:00:00`).toLocaleDateString("en-US", {
     weekday: "long",

@@ -24,16 +24,17 @@ function electionDate() {
   });
 }
 
-/** District numbers are 1-3 digits. Anything else is ignored. */
-function district(v: string | string[] | undefined) {
-  return typeof v === "string" && /^\d{1,3}$/.test(v) ? String(Number(v)) : null;
+const DISTRICT_NUMBER_PATTERN = /^\d{1,3}$/;
+
+function parseDistrictNumber(value: string | string[] | undefined) {
+  return typeof value === "string" && DISTRICT_NUMBER_PATTERN.test(value) ? String(Number(value)) : null;
 }
 
 async function BallotBody({ searchParams }: { searchParams: PageProps<"/ballot">["searchParams"] }) {
   const sp = await searchParams;
-  const cd = district(sp.cd);
-  const ss = district(sp.ss);
-  const sh = district(sp.sh);
+  const cd = parseDistrictNumber(sp.cd);
+  const ss = parseDistrictNumber(sp.ss);
+  const sh = parseDistrictNumber(sp.sh);
 
   if (!cd || !ss || !sh) {
     return (

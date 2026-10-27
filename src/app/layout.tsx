@@ -7,7 +7,6 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { ServiceWorker } from "@/components/ServiceWorker";
 import "./globals.css";
 
-// Body: Public Sans, the typeface of U.S. government websites. Latin Extended covers Marshallese letters.
 const publicSans = Public_Sans({
   weight: ["400", "600", "700", "800"],
   subsets: ["latin", "latin-ext"],
@@ -15,7 +14,6 @@ const publicSans = Public_Sans({
   display: "swap",
 });
 
-// Headings: a sturdy serif, common on public-service sites.
 const merriweather = Merriweather({
   weight: ["700", "900"],
   subsets: ["latin", "latin-ext"],
@@ -23,7 +21,6 @@ const merriweather = Merriweather({
   display: "swap",
 });
 
-// Optional reading font in the Accessibility menu: designed for low-vision readers.
 const atkinson = Atkinson_Hyperlegible_Next({
   weight: ["400", "700"],
   subsets: ["latin", "latin-ext"],

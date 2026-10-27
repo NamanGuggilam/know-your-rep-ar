@@ -16,10 +16,10 @@ export function SiteFooter() {
     <footer className="mt-20">
       <nav aria-label="Footer" className="bg-navy">
         <ul className="mx-auto flex max-w-6xl flex-wrap gap-x-6 gap-y-1 px-4 py-4">
-          {LINKS.map((l) => (
-            <li key={l.href}>
-              <Link href={l.href} className="inline-flex min-h-11 items-center font-semibold text-navy-ink">
-                {l.label}
+          {LINKS.map((link) => (
+            <li key={link.href}>
+              <Link href={link.href} className="inline-flex min-h-11 items-center font-semibold text-navy-ink">
+                {link.label}
               </Link>
             </li>
           ))}

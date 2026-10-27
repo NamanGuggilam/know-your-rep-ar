@@ -10,7 +10,6 @@ const REGISTRATION = "https://www.sos.arkansas.gov/elections/voter-information/v
 const HANDBOOK = "https://sbec.arkansas.gov/wp-content/uploads/2025-Running-for-Public-Office-8-13-25-FINAL-small.pdf";
 const VOTERVIEW = "https://www.voterview.ar-nova.org/voterview";
 
-// Every date below is from the Arkansas Secretary of State's 2026 Election Calendar (Rev. July 2026).
 const KEY_DATES = [
   {
     when: "Monday, October 5, 2026",

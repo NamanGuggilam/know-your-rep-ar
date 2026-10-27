@@ -6,36 +6,40 @@ import { useEffect } from "react";
 import { GeoJSON, MapContainer, TileLayer, useMap } from "react-leaflet";
 import type { DistrictShape } from "@/lib/types";
 
+const FIT_PADDING: [number, number] = [16, 16];
+const INITIAL_ZOOM = 7;
+const OPENSTREETMAP_ATTRIBUTION =
+  '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+const DISTRICT_STYLE = { color: "#005ea2", weight: 3, fillColor: "#73b3e7", fillOpacity: 0.25 };
+
 function FitBounds({ shape }: { shape: DistrictShape }) {
   const map = useMap();
   useEffect(() => {
-    const b = L.geoJSON(shape.geojson).getBounds();
-    if (b.isValid()) map.fitBounds(b, { padding: [16, 16] });
+    const bounds = L.geoJSON(shape.geojson).getBounds();
+    if (bounds.isValid()) map.fitBounds(bounds, { padding: FIT_PADDING });
   }, [map, shape]);
   return null;
 }
 
-// Center of Arkansas, used until the district outline loads.
-const ARKANSAS: [number, number] = [34.8, -92.2];
+const ARKANSAS_CENTER: [number, number] = [34.8, -92.2];
 
 export default function DistrictMapInner({ shape }: { shape: DistrictShape }) {
   return (
     <MapContainer
-      center={ARKANSAS}
-      zoom={7}
+      center={ARKANSAS_CENTER}
+      zoom={INITIAL_ZOOM}
       scrollWheelZoom={false}
       className="h-80 w-full rounded"
       attributionControl
     >
       <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        attribution={OPENSTREETMAP_ATTRIBUTION}
         url="https://tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      {/* One neutral color for every district. Never party colors. */}
       <GeoJSON
         key={shape.label}
         data={shape.geojson}
-        style={{ color: "#005ea2", weight: 3, fillColor: "#73b3e7", fillOpacity: 0.25 }}
+        style={DISTRICT_STYLE}
       />
       <FitBounds shape={shape} />
     </MapContainer>

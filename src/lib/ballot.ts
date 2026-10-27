@@ -11,19 +11,24 @@ import type { CandidatePositions, Contest } from "./topics";
 export const ELECTION = ballot.election;
 const CONTESTS = ballot.contests as Contest[];
 
-/** The contests on this person's ballot that we have candidate lists for, plus the ones we don't. */
+function isOnBallot(c: Contest, d: Districts) {
+  switch (c.scope) {
+    case "statewide":
+      return true;
+    case "congressional":
+      return c.district === d.congressional;
+    case "state-senate":
+      return c.district === d.stateSenate;
+    case "state-house":
+      return c.district === d.stateHouse;
+  }
+}
+
 export function contestsFor(d: Districts) {
-  const known = CONTESTS.filter(
-    (c) =>
-      c.scope === "statewide" ||
-      (c.scope === "congressional" && c.district === d.congressional) ||
-      (c.scope === "state-senate" && c.district === d.stateSenate) ||
-      (c.scope === "state-house" && c.district === d.stateHouse),
-  );
+  const known = CONTESTS.filter((contest) => isOnBallot(contest, d));
   const missing: string[] = [];
   if (!known.some((c) => c.scope === "congressional")) missing.push(`U.S. House, District ${d.congressional}`);
   if (!known.some((c) => c.scope === "state-house")) missing.push(`State House, District ${d.stateHouse}`);
-  // About half of state senate seats are on the ballot in a given year, so this one may or may not be.
   if (!known.some((c) => c.scope === "state-senate")) missing.push(`State Senate, District ${d.stateSenate} (if it is up this year)`);
   return { contests: known, missing };
 }

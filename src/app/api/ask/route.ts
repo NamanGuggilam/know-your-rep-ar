@@ -2,22 +2,20 @@ import { ask } from "@/lib/ask";
 import ballot from "@/data/ballot-2026.json";
 import { getSearchDocs } from "@/lib/search";
 
-const RACES = new Set(ballot.contests.map((c) => c.office));
+const BALLOT_OFFICES = new Set(ballot.contests.map((c) => c.office));
 
-// Simple per-visitor limit so the AI helper can't run up a bill. Best effort: resets when the server restarts.
-const WINDOW_MS = 10 * 60 * 1000;
-const MAX_PER_WINDOW = 20;
-const hits = new Map<string, number[]>();
+const RATE_LIMIT_WINDOW_MS = 10 * 60 * 1000;
+const MAX_REQUESTS_PER_WINDOW = 20;
+const requestTimesByVisitor = new Map<string, number[]>();
 
-function limited(key: string) {
+function isRateLimited(visitorKey: string) {
   const now = Date.now();
-  const recent = (hits.get(key) ?? []).filter((t) => now - t < WINDOW_MS);
+  const recent = (requestTimesByVisitor.get(visitorKey) ?? []).filter((time) => now - time < RATE_LIMIT_WINDOW_MS);
   recent.push(now);
-  hits.set(key, recent);
-  return recent.length > MAX_PER_WINDOW;
+  requestTimesByVisitor.set(visitorKey, recent);
+  return recent.length > MAX_REQUESTS_PER_WINDOW;
 }
 
-// Questions are not stored or logged.
 export async function POST(request: Request) {
   let question = "";
   let race: string | undefined;
@@ -26,13 +24,12 @@ export async function POST(request: Request) {
     question = String(body.question ?? "")
       .trim()
       .slice(0, 300);
-    // Only real races on the ballot can be used as context.
-    if (typeof body.race === "string" && RACES.has(body.race)) race = body.race;
+    if (typeof body.race === "string" && BALLOT_OFFICES.has(body.race)) race = body.race;
   } catch {}
   if (question.length < 3) return Response.json({ error: "Please type a question." }, { status: 400 });
 
   const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ?? "local";
-  if (limited(ip)) {
+  if (isRateLimited(ip)) {
     return Response.json(
       { error: "You've asked a lot of questions. Please wait a few minutes and try again." },
       { status: 429 },

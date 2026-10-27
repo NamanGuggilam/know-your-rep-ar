@@ -13,7 +13,6 @@ const people = [
   { id: { bioguide: "TX1" }, name: { first: "D", last: "Texan" }, terms: [{ type: "rep" as const, state: "TX", district: 3, party: "Republican", end: "2027-01-03" }] },
 ];
 
-// Quoted fields with commas and line breaks, like the real Open States CSV.
 const csv = `id,name,current_party,current_district,current_chamber,email,image,links,capitol_address,capitol_voice,district_address,district_voice
 ocd-person/aaa,Pat Rep,Republican,13,lower,pat@arkansashouse.org,https://img/1.jpg,"https://arkleg.state.ar.us/Legislators/Detail?member=Rep;https://arkleg.state.ar.us/Legislators/Detail?member=Rep&ddBienniumSession=2023%2F2023R",,,"4106 SW Main St., Bentonville, AR 72713",479-555-0100
 ocd-person/bbb,Sam Sen,Democrat,33,upper,sam@senate.ar.gov,,"https://arkleg.state.ar.us/Legislators/Detail?member=Sen",,,,

@@ -2,20 +2,15 @@ import type { OfficeKind } from "./types";
 
 export interface OfficeInfo {
   name: string;
-  /** Used in "Dear ___ Smith" */
   honorific: string;
-  /** One line for the rep card */
   short: string;
-  /** Longer plain-language explanation */
   long: string[];
   term: string;
   howMany: string;
-  /** What the office can do. Facts from the U.S. and Arkansas constitutions. */
   powers: string[];
   contactFor: string[];
 }
 
-// Written at a 6th-8th grade reading level. Facts only, no opinions.
 export const OFFICES: Record<OfficeKind, OfficeInfo> = {
   "us-senate": {
     name: "U.S. Senator",

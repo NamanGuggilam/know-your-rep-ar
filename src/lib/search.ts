@@ -10,7 +10,6 @@ import type { StanceFile } from "./stances";
 
 export type ResultKind = "candidate" | "official" | "role";
 
-/** One searchable field. Higher weight = more important match. */
 interface Field {
   label: string;
   text: string;
@@ -36,11 +35,14 @@ export interface SearchHit {
   href: string;
   party?: string;
   photo?: string;
-  /** Where the words matched, e.g. "Committee: Senate Agriculture" */
   matches: { label: string; text: string }[];
 }
 
-// Words people use for the same thing. Each group matches any of its members.
+const MAX_MATCHES_SHOWN = 3;
+const RACE_QUESTION_CANDIDATE_BOOST = 10;
+const TITLE_MATCH_BOOST = 8;
+const RACE_QUESTION_PATTERN = /\b(running|run|candidates?|race|ballot|on the ballot|vote for)\b/i;
+
 const SYNONYMS = [
   ["farm", "farming", "farmer", "agriculture", "agricultural", "rural", "crop", "livestock"],
   ["school", "education", "teacher", "student", "college", "university"],
@@ -62,7 +64,6 @@ function stem(w: string) {
   return w.length > 4 ? w.replace(/(ies)$/, "y").replace(/(es|s)$/, "") : w;
 }
 
-/** Each query word becomes a set of alternatives (itself, its stem, and synonyms). */
 export function expandQuery(q: string): string[][] {
   return q
     .toLowerCase()
@@ -77,71 +78,74 @@ export function expandQuery(q: string): string[][] {
 }
 const STOP = new Set(["the", "and", "who", "what", "for", "about", "with", "does", "is", "of", "in", "on", "to", "a", "my", "me", "can", "do"]);
 
-export function search(docs: SearchDoc[], q: string, limit = 40): SearchHit[] {
-  const terms = expandQuery(q);
+function escapeRegExp(text: string) {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function startsAtWordBoundary(alternative: string, text: string) {
+  return new RegExp(`\\b${escapeRegExp(alternative)}`).test(text);
+}
+
+export function search(docs: SearchDoc[], query: string, limit = 40): SearchHit[] {
+  const terms = expandQuery(query);
   if (!terms.length) return [];
   const scored: { hit: SearchHit; score: number }[] = [];
-  for (const d of docs) {
+  for (const doc of docs) {
     let score = 0;
     const matches: SearchHit["matches"] = [];
     let allFound = true;
-    for (const alts of terms) {
-      let best = 0;
-      let where: Field | null = null;
-      for (const f of d.fields) {
-        const t = f.text.toLowerCase();
-        if (alts.some((a) => new RegExp(`\\b${a.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`).test(t)) && f.weight > best) {
-          best = f.weight;
-          where = f;
+    for (const alternatives of terms) {
+      let bestWeight = 0;
+      let bestField: Field | null = null;
+      for (const field of doc.fields) {
+        const text = field.text.toLowerCase();
+        if (alternatives.some((alt) => startsAtWordBoundary(alt, text)) && field.weight > bestWeight) {
+          bestWeight = field.weight;
+          bestField = field;
         }
       }
-      if (!where) {
+      if (!bestField) {
         allFound = false;
         break;
       }
-      score += best;
-      if (!matches.some((m) => m.text === where!.text)) matches.push({ label: where.label, text: where.text });
+      score += bestWeight;
+      const matchedText = bestField.text;
+      if (!matches.some((m) => m.text === matchedText)) matches.push({ label: bestField.label, text: matchedText });
     }
     if (allFound) {
-      const { fields: _fields, ...rest } = d;
+      const { fields: _fields, ...rest } = doc;
       void _fields;
-      scored.push({ hit: { ...rest, matches: matches.slice(0, 3) }, score });
+      scored.push({ hit: { ...rest, matches: matches.slice(0, MAX_MATCHES_SHOWN) }, score });
     }
   }
   return scored
     .sort((a, b) => b.score - a.score || a.hit.title.localeCompare(b.hit.title))
     .slice(0, limit)
-    .map((s) => s.hit);
+    .map((scoredHit) => scoredHit.hit);
 }
 
-/**
- * Looser matching for questions in plain words: a document scores for every query word it
- * contains, so long questions still find the right pages. Used to pick context for Ask.
- */
-export function retrieve(docs: SearchDoc[], q: string, limit = 12): SearchDoc[] {
-  const terms = expandQuery(q);
+export function retrieve(docs: SearchDoc[], query: string, limit = 12): SearchDoc[] {
+  const terms = expandQuery(query);
   if (!terms.length) return [];
-  // "Who is running for...", "candidates for...": put candidates first.
-  const aboutRace = /\b(running|run|candidates?|race|ballot|on the ballot|vote for)\b/i.test(q);
+  const aboutRace = RACE_QUESTION_PATTERN.test(query);
   return docs
-    .map((d) => {
-      let score = aboutRace && d.kind === "candidate" ? 10 : 0;
-      for (const alts of terms) {
-        let best = 0;
-        for (const f of d.fields) {
-          const t = f.text.toLowerCase();
-          if (f.weight > best && alts.some((a) => t.includes(a))) best = f.weight;
+    .map((doc) => {
+      let score = aboutRace && doc.kind === "candidate" ? RACE_QUESTION_CANDIDATE_BOOST : 0;
+      for (const alternatives of terms) {
+        let bestWeight = 0;
+        for (const field of doc.fields) {
+          const text = field.text.toLowerCase();
+          if (field.weight > bestWeight && alternatives.some((alt) => text.includes(alt))) bestWeight = field.weight;
         }
-        score += best;
-        // A word in the title (e.g. "governor") is a strong signal.
-        if (alts.some((a) => d.title.toLowerCase().includes(a))) score += 8;
+        score += bestWeight;
+        if (alternatives.some((alt) => doc.title.toLowerCase().includes(alt))) score += TITLE_MATCH_BOOST;
       }
-      return { d, score };
+      return { doc, score };
     })
-    .filter((x) => x.score > 0)
+    .filter((scoredDoc) => scoredDoc.score > 0)
     .sort((a, b) => b.score - a.score)
     .slice(0, limit)
-    .map((x) => x.d);
+    .map((scoredDoc) => scoredDoc.doc);
 }
 
 async function readJsonDir<T>(dir: string): Promise<T[]> {

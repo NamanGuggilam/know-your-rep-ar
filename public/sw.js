@@ -1,6 +1,3 @@
-// Know Your Rep AR service worker.
-// Pages: network first, fall back to the cached copy, then to /offline.
-// The lookup API is never cached (it carries addresses).
 const VERSION = "kyr-v1";
 const PRECACHE = ["/", "/who-does-what", "/vote", "/neutral", "/about", "/privacy", "/accessibility", "/offline"];
 
@@ -26,8 +23,6 @@ self.addEventListener("fetch", (event) => {
   const req = event.request;
   const url = new URL(req.url);
   if (req.method !== "GET" || url.origin !== self.location.origin || url.pathname.startsWith("/api/")) return;
-
-  // Static build assets never change at the same URL: cache first.
   if (url.pathname.startsWith("/_next/static/")) {
     event.respondWith(
       caches.match(req).then(

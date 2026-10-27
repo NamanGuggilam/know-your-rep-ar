@@ -1,9 +1,12 @@
 import { cacheLife } from "next/cache";
 
-// Official Arkansas election-night results, from the Secretary of State's results vendor (Tally).
-// Public and keyless. We read it on the server at most once a minute.
 const API = "https://enr-results-api.totalresults.com";
 const CID = "arkansas";
+const REQUEST_TIMEOUT_MS = 20_000;
+const GROUP_ORDER = ["Federal", "Statewide", "Ballot issues"] as const;
+const RESULTS_STALE_AND_REVALIDATE_SECONDS = 60;
+const RESULTS_EXPIRE_SECONDS = 600;
+const UNKNOWN_CHOICE_NAME = "Unknown";
 export const RESULTS_SITE = "https://arkansas.tally-enr.com/";
 export const SOS_RESULTS = "https://www.sos.arkansas.gov/elections/research/election-results";
 
@@ -37,13 +40,11 @@ export interface Results {
 
 const PARTY_PREFIX: Record<string, string> = { REP: "Republican", DEM: "Democratic", LIB: "Libertarian", IND: "Independent", GRN: "Green" };
 
-/** "REP Tom Cotton" -> { name: "Tom Cotton", party: "Republican" } */
 export function splitName(raw: string) {
   const m = raw.match(/^(REP|DEM|LIB|IND|GRN)\s+(.+)$/);
   return m ? { name: m[2], party: PARTY_PREFIX[m[1]] } : { name: raw, party: undefined };
 }
 
-/** "U.S. Congress District 03" -> "U.S. House, District 3"; "ISSUE NO. 1" -> "Issue 1" */
 export function contestLabel(raw: string) {
   const cd = raw.match(/^U\.S\. Congress District 0?(\d+)$/);
   if (cd) return `U.S. House, District ${cd[1]}`;
@@ -52,8 +53,40 @@ export function contestLabel(raw: string) {
   return raw === "State Treasurer" ? "Treasurer of State" : raw;
 }
 
+type OrderedContest = ResultContest & { order: number };
+
+function contestGroup(meta: RawContestInfo): ResultContest["group"] {
+  if (meta.contestTypeCode === "Federal") return "Federal";
+  return /^ISSUE/i.test(meta.contestName) ? "Ballot issues" : "Statewide";
+}
+
+function toOrderedContest(contest: RawResultContest, meta: RawContestInfo): OrderedContest {
+  const choices = contest.choices
+    .map((choice) => {
+      const rawChoice = meta.choices[choice.choiceID];
+      return {
+        ...splitName(rawChoice?.name ?? UNKNOWN_CHOICE_NAME),
+        votes: choice.totalVotes,
+        percent: choice.votePercent,
+        order: rawChoice?.order ?? 0,
+      };
+    })
+    .sort((a, b) => b.votes - a.votes || a.order - b.order)
+    .map(({ name, party, votes, percent }) => ({ name, party, votes, percent }));
+  return {
+    id: contest.contestID,
+    name: contestLabel(meta.contestName),
+    group: contestGroup(meta),
+    order: meta.contestOrder,
+    precinctsReporting: contest.precinctsReporting,
+    totalPrecincts: contest.totalPrecincts,
+    totalVotes: contest.totalVotes,
+    choices,
+  };
+}
+
 async function get<T>(path: string): Promise<T> {
-  const res = await fetch(`${API}${path}`, { signal: AbortSignal.timeout(20000), cache: "no-store" });
+  const res = await fetch(`${API}${path}`, { signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS), cache: "no-store" });
   if (!res.ok) throw new Error(`results ${res.status}`);
   return res.json();
 }
@@ -82,10 +115,13 @@ interface RawResults {
   response: { contests: Record<string, RawResultContest> };
 }
 
-/** The upcoming (or most recent) general election, with federal and statewide races and ballot issues. */
 export async function getGeneralResults(): Promise<Results | null> {
   "use cache";
-  cacheLife({ stale: 60, revalidate: 60, expire: 600 });
+  cacheLife({
+    stale: RESULTS_STALE_AND_REVALIDATE_SECONDS,
+    revalidate: RESULTS_STALE_AND_REVALIDATE_SECONDS,
+    expire: RESULTS_EXPIRE_SECONDS,
+  });
   try {
     const elections = await get<{ electionID: string; electionName: string; electionDate: string; isDefault: boolean }[]>(
       `/Election/GetElectionList?cid=${CID}`,
@@ -102,41 +138,18 @@ export async function getGeneralResults(): Promise<Results | null> {
       get<RawResults>(`/Contest/GetContestResults?cId=${CID}&electionID=${id}&contestType=Federal`),
       get<RawResults>(`/Contest/GetContestResults?cId=${CID}&electionID=${id}&contestType=Statewide`),
     ]);
-    const GROUPS = ["Federal", "Statewide", "Ballot issues"] as const;
-    const rows: (ResultContest & { order: number })[] = [];
-    for (const r of [federal, statewide]) {
-      for (const c of Object.values(r.response.contests)) {
-        const meta = info.response.contests[c.contestID];
-        if (!meta) continue;
-        rows.push({
-          id: c.contestID,
-          name: contestLabel(meta.contestName),
-          group: meta.contestTypeCode === "Federal" ? "Federal" : /^ISSUE/i.test(meta.contestName) ? "Ballot issues" : "Statewide",
-          order: meta.contestOrder,
-          precinctsReporting: c.precinctsReporting,
-          totalPrecincts: c.totalPrecincts,
-          totalVotes: c.totalVotes,
-          choices: c.choices
-            .map((ch) => {
-              const raw = meta.choices[ch.choiceID];
-              return { ...splitName(raw?.name ?? "Unknown"), votes: ch.totalVotes, percent: ch.votePercent, order: raw?.order ?? 0 };
-            })
-            // Before votes come in, keep the official order; after, most votes first.
-            .sort((a, b) => b.votes - a.votes || a.order - b.order)
-            .map(({ name, party, votes, percent }) => ({ name, party, votes, percent })),
-        });
+    const rows: OrderedContest[] = [];
+    for (const rawResults of [federal, statewide]) {
+      for (const rawContest of Object.values(rawResults.response.contests)) {
+        const meta = info.response.contests[rawContest.contestID];
+        if (meta) rows.push(toOrderedContest(rawContest, meta));
       }
     }
-    rows.sort((a, b) => GROUPS.indexOf(a.group) - GROUPS.indexOf(b.group) || a.order - b.order);
-    const contests: ResultContest[] = rows.map((c) => ({
-      id: c.id,
-      name: c.name,
-      group: c.group,
-      precinctsReporting: c.precinctsReporting,
-      totalPrecincts: c.totalPrecincts,
-      totalVotes: c.totalVotes,
-      choices: c.choices,
-    }));
+    rows.sort((a, b) => GROUP_ORDER.indexOf(a.group) - GROUP_ORDER.indexOf(b.group) || a.order - b.order);
+    const contests: ResultContest[] = rows.map(({ order, ...contest }) => {
+      void order;
+      return contest;
+    });
     const t = statewide.turnout ?? federal.turnout;
     return {
       electionName: election.electionName.replace("Judical", "Judicial"),
