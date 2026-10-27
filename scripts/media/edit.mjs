@@ -69,7 +69,7 @@ const SEGMENTS = [
     caption: "Most importantly, we're nonpartisan by design. We publish nine fairness rules. Every official gets the same layout. We never score, rank, or endorse anyone. Simply facts, not opinions. Everything is sourced and date-checked, and we never store any of your personal information. We are an independent student project.",
   },
   {
-    id: "10", title: "What's next", layout: "split", take: "IMG_3337", in: 0.4, out: 6.16, tail: 0.5, cx: 0.5, site: "clip-01-intro.mp4",
+    id: "10", title: "What's next", layout: "split", take: "IMG_3337", in: 0.4, out: 6.16, fadeOut: 0.03, cx: 0.5, site: "clip-01-intro.mp4",
     caption: "Next, we're adding read-aloud, additional languages, bill alerts, and a classroom mode for students to learn about local politics.",
   },
   {
@@ -255,7 +255,7 @@ function renderSegment(item) {
     const fixedX = Math.round(Math.min(WIDTH - panelWidth, Math.max(0, segment.cx * WIDTH - panelWidth / 2)));
     const tracked = trackFace(segment, panelWidth, seconds);
     const spokenSeconds = segment.out - segment.in;
-    const fadeOut = segment.tail ? AUDIO_FADE_OUT_BEFORE_TAIL : AUDIO_FADE_OUT;
+    const fadeOut = segment.fadeOut ?? (segment.tail ? AUDIO_FADE_OUT_BEFORE_TAIL : AUDIO_FADE_OUT);
     const crop = tracked
       ? `sendcmd=f=${tracked.commandsFile},crop@track=${panelWidth}:${HEIGHT}:${tracked.firstX}:0`
       : `crop=${panelWidth}:${HEIGHT}:${fixedX}:0`;
